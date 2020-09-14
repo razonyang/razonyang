@@ -7,4 +7,4 @@
 - 📫 You can reach me via email.
 - 🏠 Homepage at [razonyang.com](https://razonyang.com).
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=razonyang" style="margin: auto; margin-bottom: 20px;" height="160"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=razonyang&column=3&row=2" style="margin: auto; margin-bottom: 20px;" height="320"/>
