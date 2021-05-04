@@ -6,6 +6,6 @@
 - 📫 You can reach me via email.
 - 🏠 [主页](https://razonyang.com/zh-cn/) | [Homepage](https://razonyang.com/en/).
 
-<div style="text-align:center">
+<div align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=razonyang&row=2&column=3&margin-h=15&margin-w=30&theme=flat&no-bg=true&no-frame=true" style="display: block; margin: auto;"/>
 </div>
