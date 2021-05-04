@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=razonyang&show_icons=true&count_private=true" style="margin: 5px;" height="160"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=razonyang&show_icons=true&count_private=true"/>
 
 - :bust_in_silhouette: I'm a full stack software engineer.
 - 🔭 Interested in programing and web developing.
