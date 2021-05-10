@@ -7,5 +7,5 @@
 - 🏠 [主页](https://razonyang.com/zh-cn/) | [Homepage](https://razonyang.com/en/).
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=razonyang&row=1&column=6&theme=flat&no-bg=true&no-frame=true"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=razonyang&row=1&column=7&margin-w=32&theme=flat&no-bg=true&no-frame=true"/>
 </p>
