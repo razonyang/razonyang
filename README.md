@@ -45,4 +45,9 @@
 - [Arch Linux 安装 KDE 桌面环境](https://razonyang.com/zh-cn/archlinux-guide/kde/)
 - [Arch Linux 安装 Xorg](https://razonyang.com/zh-cn/archlinux-guide/xorg/)
 - [Arch Linux 安装指南 - 创建用户](https://razonyang.com/zh-cn/archlinux-guide/users/)
+- [Arch Linux 安装 GRUB](https://razonyang.com/zh-cn/archlinux-guide/grub/)
+- [Arch Linux 分区和挂载](https://razonyang.com/zh-cn/archlinux-guide/partition/)
+- [制作 Arch Linux LiveUSB 安装介质](https://razonyang.com/zh-cn/archlinux-guide/installation-medium/)
+- [安装 Arch Linux 系统](https://razonyang.com/zh-cn/archlinux-guide/installation/)
+- [安装高可用的 K3s 集群](https://razonyang.com/zh-cn/k3s/installation/ha/)
 <!-- BLOGPOSTS:END -->
