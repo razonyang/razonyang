@@ -1,0 +1,14 @@
+name: RSS
+on:
+  schedule:
+    - cron: '* * * * *'
+jobs:
+  RSS:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://note.sarisia.cc/index.xml'
+          file: 'README.md'
+      - uses: sarisia/actions-commit@master
