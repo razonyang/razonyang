@@ -17,9 +17,11 @@
 
 - 📫 How to reach me **razonyang@gmail.com**
 
+
+
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- feed start -->
+<!-- feed end -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
