@@ -9,6 +9,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: sarisia/actions-readme-feed@v1
         with:
-          url: 'https://note.sarisia.cc/index.xml'
+          url: 'https://razonyang.com/zh-cn/index.xml'
           file: 'README.md'
       - uses: sarisia/actions-commit@master
