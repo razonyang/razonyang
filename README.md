@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOGPOSTS:START -->
+- [Arch Linux 安装 AUR 助手 YAY](https://razonyang.com/zh-cn/archlinux-guide/yay/)
+- [Arch Linux 安装 Fcitx 中文输入法](https://razonyang.com/zh-cn/archlinux-guide/fcitx/)
+- [Arch Linux 安装 KDE 桌面环境](https://razonyang.com/zh-cn/archlinux-guide/kde/)
+- [Arch Linux 安装 Xorg](https://razonyang.com/zh-cn/archlinux-guide/xorg/)
+- [Arch Linux 安装指南 - 创建用户](https://razonyang.com/zh-cn/archlinux-guide/users/)
 <!-- BLOGPOSTS:END -->
 
 <h3 align="left">Connect with me:</h3>
