@@ -38,6 +38,7 @@
 | Project | Stats |
 |---|---|
 | [Hugo Theme Bootstrap](https://github.com/razonyang/hugo-theme-bootstrap) | ![GitHub Repo stars](https://img.shields.io/github/stars/razonyang/hugo-theme-bootstrap?style=flat-square) [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fhbs.razonyang.com%2F)](https://hbs.razonyang.com/) ![GitHub contributors](https://img.shields.io/github/contributors/razonyang/hugo-theme-bootstrap?style=flat-square) ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/razonyang/hugo-theme-bootstrap?style=flat-square) ![GitHub](https://img.shields.io/github/license/razonyang/hugo-theme-bootstrap?style=flat-square)
+| [Tencent Cloud CDN Cert Manager](https://github.com/razonyang/tencent-cdn-cert-manager) | ![GitHub Repo stars](https://img.shields.io/github/stars/razonyang/tencent-cdn-cert-manager?style=flat-square) ![GitHub contributors](https://img.shields.io/github/contributors/razonyang/tencent-cdn-cert-manager?style=flat-square) ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/razonyang/tencent-cdn-cert-manager?style=flat-square) ![GitHub](https://img.shields.io/github/license/razonyang/tencent-cdn-cert-manager?style=flat-square)
 
 ### Stats
 
