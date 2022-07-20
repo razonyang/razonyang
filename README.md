@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Razon Yang</h1>
 <h3 align="center">Gopher, PHPer, a full stack engineer</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=razonyang&label=profile%20views&color=0e75b6&style=flat-square)
+![Visitors](https://komarev.com/ghpvc/?username=razonyang&label=visitors&color=0e75b6&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/razonyang?style=flat-square)
 [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Frazonyang.com%2F)](https://razonyang.com/)
 ![GitHub followers](https://img.shields.io/github/followers/razonyang?style=flat-square)
