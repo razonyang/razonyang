@@ -7,21 +7,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/razonyang?style=flat-square)
 [![Twitter Follow](https://img.shields.io/twitter/follow/razonyang?style=flat-square)](https://twitter.com/razonyang)
 
-- 🔭 I’m currently working on [Hugo Theme Bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)
-
 - 👨‍💻 All of my projects are available at [https://github.com/razonyang](https://github.com/razonyang)
-
 - 📝 I regularly write articles on [https://razonyang.com](https://razonyang.com)
-
-- 💬 Ask me about **PHP**, **JavaScript**, **HTML**, **Go**, **Hugo**, **Yii Framework**
-
-- 📫 How to reach me **razonyang@gmail.com**
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://twitter.com/razonyang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razonyang" height="30" width="40" /></a>
-<a href="/https://razonyang.com/zh-cn/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://razonyang.com/zh-cn/index.xml" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Things I code with</h3>
 
@@ -33,10 +20,11 @@
 | **CI & CD** | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://k3s.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k3s/k3s-original.svg" alt="k3s" width="40" height="40"/></a>
 | **Others** | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/></a>
 
-| Stats |  |
-|:---:|:---:
-| <img height="200" src="https://github-profile-trophy.vercel.app/?username=razonyang&row=2&column=3" alt="razonyang" /> | <img height="200" src="https://github-readme-stats.vercel.app/api?username=razonyang&show_icons=true&locale=en" alt="razonyang" />
-| <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=razonyang&show_icons=true&locale=en&layout=compact&langs_count=8" alt="razonyang" /> | <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=razonyang&" alt="razonyang" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razonyang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=razonyang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=razonyang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=razonyang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razonyang&theme=github)
 
 ### Blogs posts
 <!-- BLOGPOSTS:START -->
