@@ -28,14 +28,14 @@
 
 ### Blogs posts
 <!-- BLOGPOSTS:START -->
-- [利用 Github Actions 打包 Go 二进制文件](https://razonyang.com/zh-cn/blog/go/github-actions-releases-binaries/)
-- [Arch Linux 安装 AUR 助手 YAY](https://razonyang.com/zh-cn/archlinux-guide/yay/)
-- [Arch Linux 安装 Fcitx 中文输入法](https://razonyang.com/zh-cn/archlinux-guide/fcitx/)
-- [Arch Linux 安装 GRUB](https://razonyang.com/zh-cn/archlinux-guide/grub/)
-- [Arch Linux 安装 KDE 桌面环境](https://razonyang.com/zh-cn/archlinux-guide/kde/)
-- [Arch Linux 安装 Xorg](https://razonyang.com/zh-cn/archlinux-guide/xorg/)
-- [安装 Arch Linux 系统](https://razonyang.com/zh-cn/archlinux-guide/installation/)
-- [Arch Linux 安装指南 - 创建用户](https://razonyang.com/zh-cn/archlinux-guide/users/)
-- [Arch Linux 分区和挂载](https://razonyang.com/zh-cn/archlinux-guide/partition/)
-- [制作 Arch Linux LiveUSB 安装介质](https://razonyang.com/zh-cn/archlinux-guide/installation-medium/)
+- [Nginx 重定向路径](https://razonyang.com/zh-hans/blog/nginx/rewrite-path/)
+- [Windows 下 Docker 无法初始化](https://razonyang.com/zh-hans/blog/docker/desktop-failed-to-initalize/)
+- [利用 rename 批量替换文件后缀名](https://razonyang.com/zh-hans/blog/linux/replace-extensions-via-rename/)
+- [Hugo Module 代理](https://razonyang.com/zh-hans/blog/hugo/module-proxy/)
+- [利用 Github Actions 打包 Go 二进制文件](https://razonyang.com/zh-hans/blog/go/github-actions-releases-binaries/)
+- [Arch Linux 安装 AUR 助手 YAY](https://razonyang.com/zh-hans/archlinux-guide/yay/)
+- [Arch Linux 安装 Fcitx 中文输入法](https://razonyang.com/zh-hans/archlinux-guide/fcitx/)
+- [Arch Linux 安装 GRUB](https://razonyang.com/zh-hans/archlinux-guide/grub/)
+- [Arch Linux 安装 KDE 桌面环境](https://razonyang.com/zh-hans/archlinux-guide/kde/)
+- [Arch Linux 安装 Xorg](https://razonyang.com/zh-hans/archlinux-guide/xorg/)
 <!-- BLOGPOSTS:END -->
