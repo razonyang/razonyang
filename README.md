@@ -33,9 +33,9 @@
 - [利用 rename 批量替换文件后缀名](https://razonyang.com/zh-hans/blog/linux/replace-extensions-via-rename/)
 - [Hugo Module 代理](https://razonyang.com/zh-hans/blog/hugo/module-proxy/)
 - [利用 Github Actions 打包 Go 二进制文件](https://razonyang.com/zh-hans/blog/go/github-actions-releases-binaries/)
+- [Chrome 浏览器模拟 prefers-color-scheme，调试亮色和深色模式](https://razonyang.com/zh-hans/blog/chrome/emulate-prefers-color-scheme/)
 - [Arch Linux 安装 AUR 助手 YAY](https://razonyang.com/zh-hans/archlinux-guide/yay/)
 - [Arch Linux 安装 Fcitx 中文输入法](https://razonyang.com/zh-hans/archlinux-guide/fcitx/)
 - [Arch Linux 安装 GRUB](https://razonyang.com/zh-hans/archlinux-guide/grub/)
 - [Arch Linux 安装 KDE 桌面环境](https://razonyang.com/zh-hans/archlinux-guide/kde/)
-- [Arch Linux 安装 Xorg](https://razonyang.com/zh-hans/archlinux-guide/xorg/)
 <!-- BLOGPOSTS:END -->
