@@ -28,6 +28,7 @@
 
 ### Blogs posts
 <!-- BLOGPOSTS:START -->
+- [Hugo 多语言站点中 404 页面的重定向规则](https://razonyang.com/zh-hans/blog/hugo/404-rewrite-rules-on-multilingual-sites/)
 - [Nginx 重定向路径](https://razonyang.com/zh-hans/blog/nginx/rewrite-path/)
 - [Windows 下 Docker 无法初始化](https://razonyang.com/zh-hans/blog/docker/desktop-failed-to-initalize/)
 - [利用 rename 批量替换文件后缀名](https://razonyang.com/zh-hans/blog/linux/replace-extensions-via-rename/)
@@ -37,5 +38,4 @@
 - [Arch Linux 安装 AUR 助手 YAY](https://razonyang.com/zh-hans/archlinux-guide/yay/)
 - [Arch Linux 安装 Fcitx 中文输入法](https://razonyang.com/zh-hans/archlinux-guide/fcitx/)
 - [Arch Linux 安装 GRUB](https://razonyang.com/zh-hans/archlinux-guide/grub/)
-- [Arch Linux 安装 KDE 桌面环境](https://razonyang.com/zh-hans/archlinux-guide/kde/)
 <!-- BLOGPOSTS:END -->
