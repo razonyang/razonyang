@@ -28,7 +28,6 @@
 
 ### Blogs posts
 <!-- BLOGPOSTS:START -->
-- [Arch Linux 重置 keyring](https://razonyang.com/zh-hans/blog/archlinux/reset-keyring/)
 - [Hugo 多语言站点中 404 页面的重定向规则](https://razonyang.com/zh-hans/blog/hugo/404-rewrite-rules-on-multilingual-sites/)
 - [Nginx 重定向路径](https://razonyang.com/zh-hans/blog/nginx/rewrite-path/)
 - [Windows 下 Docker 无法初始化](https://razonyang.com/zh-hans/blog/docker/desktop-failed-to-initalize/)
@@ -38,4 +37,5 @@
 - [Chrome 浏览器模拟 prefers-color-scheme，调试亮色和深色模式](https://razonyang.com/zh-hans/blog/chrome/emulate-prefers-color-scheme/)
 - [Arch Linux 安装 AUR 助手 YAY](https://razonyang.com/zh-hans/archlinux-guide/yay/)
 - [Arch Linux 安装 Fcitx 中文输入法](https://razonyang.com/zh-hans/archlinux-guide/fcitx/)
+- [Arch Linux 安装 GRUB](https://razonyang.com/zh-hans/archlinux-guide/grub/)
 <!-- BLOGPOSTS:END -->
