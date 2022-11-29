@@ -28,6 +28,7 @@
 
 ### Blogs posts
 <!-- BLOGPOSTS:START -->
+- [cURL 计算请求耗时](https://razonyang.com/zh-hans/blog/commands/curl/measure-the-cost-of-time/)
 - [Arch Linux 重置 keyring](https://razonyang.com/zh-hans/blog/archlinux/reset-keyring/)
 - [Hugo 多语言站点中 404 页面的重定向规则](https://razonyang.com/zh-hans/blog/hugo/404-rewrite-rules-on-multilingual-sites/)
 - [Nginx 重定向路径](https://razonyang.com/zh-hans/blog/nginx/rewrite-path/)
@@ -37,5 +38,4 @@
 - [利用 Github Actions 打包 Go 二进制文件](https://razonyang.com/zh-hans/blog/go/github-actions-releases-binaries/)
 - [Chrome 浏览器模拟 prefers-color-scheme，调试亮色和深色模式](https://razonyang.com/zh-hans/blog/chrome/emulate-prefers-color-scheme/)
 - [Arch Linux 安装 AUR 助手 YAY](https://razonyang.com/zh-hans/archlinux-guide/yay/)
-- [Arch Linux 安装 Fcitx 中文输入法](https://razonyang.com/zh-hans/archlinux-guide/fcitx/)
 <!-- BLOGPOSTS:END -->
