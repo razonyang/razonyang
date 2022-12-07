@@ -28,6 +28,7 @@
 
 ### Blogs posts
 <!-- BLOGPOSTS:START -->
+- [Arch Linux 声音](https://razonyang.com/zh-hans/archlinux-guide/sound/)
 - [GRUB 如何设置 Linux 内核参数](https://razonyang.com/zh-hans/blog/linux/grub/kernel-parameters/)
 - [cURL 计算请求耗时](https://razonyang.com/zh-hans/blog/commands/curl/measure-the-cost-of-time/)
 - [Arch Linux 重置 keyring](https://razonyang.com/zh-hans/blog/archlinux/reset-keyring/)
@@ -37,5 +38,4 @@
 - [利用 rename 批量替换文件后缀名](https://razonyang.com/zh-hans/blog/linux/replace-extensions-via-rename/)
 - [Hugo Module 代理](https://razonyang.com/zh-hans/blog/hugo/module-proxy/)
 - [利用 Github Actions 打包 Go 二进制文件](https://razonyang.com/zh-hans/blog/go/github-actions-releases-binaries/)
-- [Chrome 浏览器模拟 prefers-color-scheme，调试亮色和深色模式](https://razonyang.com/zh-hans/blog/chrome/emulate-prefers-color-scheme/)
 <!-- BLOGPOSTS:END -->
