@@ -5,7 +5,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/razonyang?style=flat-square)
 [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Frazonyang.com%2F)](https://razonyang.com/)
 ![GitHub followers](https://img.shields.io/github/followers/razonyang?style=flat-square)
-[![Twitter Follow](https://img.shields.io/twitter/follow/razonyang?style=flat-square)](https://twitter.com/razonyang)
 
 - 👨‍💻 All of my projects are available at [https://github.com/razonyang](https://github.com/razonyang)
 - 📝 I regularly write articles on [https://razonyang.com](https://razonyang.com)
