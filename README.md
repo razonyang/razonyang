@@ -8,6 +8,14 @@
 - 👨‍💻 A full stack engineer.
 - 📝 I regularly write articles on [https://razonyang.com](https://razonyang.com).
 
+## Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razonyang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=razonyang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=razonyang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=razonyang&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razonyang&theme=github)
+
 ## Projects I Created
 
 [![Hugo Bootstrap Theme](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-theme-bootstrap)](https://github.com/razonyang/hugo-theme-bootstrap)
@@ -18,15 +26,11 @@
 [![Hugo Base Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-base)](https://github.com/razonyang/hugo-mod-base)
 [![Hugo Icons Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-icons)](https://github.com/razonyang/hugo-mod-icons)
 [![Hugo SEO Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-seo)](https://github.com/razonyang/hugo-mod-seo)
+[![Hugo Code Block Panel Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-code-block-panel)](https://github.com/razonyang/hugo-mod-code-block-panel)
+[![Hugo Gravatar Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-gravatar)](https://github.com/razonyang/hugo-mod-gravatar)
+[![Hugo Giscus Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-giscus)](https://github.com/razonyang/hugo-mod-giscus)
+[![Hugo Utterances Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-utterances)](https://github.com/razonyang/hugo-mod-utterances)
 [![Yii2 Application Template](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=yii2-app-template)](https://github.com/razonyang/yii2-app-template)
 [![Yii2 Vue Admin](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=yii2-vue-admin)](https://github.com/razonyang/yii2-vue-admin)
 [![Go FastRouter](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=fastrouter)](https://github.com/razonyang/fastrouter)
 [![CleverGo JSend](https://github-readme-stats.vercel.app/api/pin/?username=clevergo&repo=jsend)](https://github.com/clevergo/jsend)
-
-## Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razonyang&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=razonyang&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=razonyang&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=razonyang&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razonyang&theme=github)
