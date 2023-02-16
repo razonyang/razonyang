@@ -16,6 +16,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=razonyang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razonyang&theme=github)
 
+<!--more
 ## Projects I Created
 
 [![Hugo Bootstrap Theme](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-theme-bootstrap)](https://github.com/razonyang/hugo-theme-bootstrap)
@@ -34,3 +35,4 @@
 [![Yii2 Vue Admin](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=yii2-vue-admin)](https://github.com/razonyang/yii2-vue-admin)
 [![Go FastRouter](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=fastrouter)](https://github.com/razonyang/fastrouter)
 [![CleverGo JSend](https://github-readme-stats.vercel.app/api/pin/?username=clevergo&repo=jsend)](https://github.com/clevergo/jsend)
+-->
