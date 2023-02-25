@@ -16,14 +16,17 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=razonyang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razonyang&theme=github)
 
-<!--more
 ## Projects I Created
 
 [![Hugo Bootstrap Theme](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-theme-bootstrap)](https://github.com/razonyang/hugo-theme-bootstrap)
+[![Hugo Bootstrap Theme Skeleton](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-theme-bootstrap)](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)
 [![CleverGo](https://github-readme-stats.vercel.app/api/pin/?username=clevergo&repo=clevergo)](https://github.com/clevergo/clevergo)
 [![HugoPress](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugopress)](https://github.com/razonyang/hugopress)
 [![Hugo Bootstrap Framework](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hb)](https://github.com/razonyang/hb)
 [![Hugo Search Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-search)](https://github.com/razonyang/hugo-mod-search)
+
+<!--more
+
 [![Hugo Base Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-base)](https://github.com/razonyang/hugo-mod-base)
 [![Hugo Icons Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-icons)](https://github.com/razonyang/hugo-mod-icons)
 [![Hugo SEO Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-seo)](https://github.com/razonyang/hugo-mod-seo)
