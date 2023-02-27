@@ -1,9 +1,11 @@
 # Hi 👋, I'm Razon Yang
 
+<!--
 ![Visitors](https://komarev.com/ghpvc/?username=razonyang&label=visitors&color=0e75b6&style=flat-square)
 ![GitHub User's stars](https://img.shields.io/github/stars/razonyang?style=flat-square)
 [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Frazonyang.com%2F)](https://razonyang.com/)
 ![GitHub followers](https://img.shields.io/github/followers/razonyang?style=flat-square)
+-->
 
 - 👨‍💻 A full stack engineer.
 - 📝 I regularly write articles on [https://razonyang.com](https://razonyang.com).
