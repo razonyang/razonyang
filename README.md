@@ -18,7 +18,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=razonyang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razonyang&theme=github)
 
-## Projects I Created
+## Projects
 
 [![Hugo Bootstrap Theme](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-theme-bootstrap)](https://github.com/razonyang/hugo-theme-bootstrap)
 [![CleverGo](https://github-readme-stats.vercel.app/api/pin/?username=clevergo&repo=clevergo)](https://github.com/clevergo/clevergo)
