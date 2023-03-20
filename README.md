@@ -23,9 +23,11 @@
 [![Hugo Bootstrap Theme](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-theme-bootstrap)](https://github.com/razonyang/hugo-theme-bootstrap)
 [![CleverGo](https://github-readme-stats.vercel.app/api/pin/?username=clevergo&repo=clevergo)](https://github.com/clevergo/clevergo)
 [![Hugo Bootstrap Theme Skeleton](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-theme-bootstrap-skeleton)](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)
-[![HugoPress](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugopress)](https://github.com/razonyang/hugopress)
-[![Hugo Bootstrap Framework](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hb)](https://github.com/razonyang/hb)
-[![Hugo Search Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-search)](https://github.com/razonyang/hugo-mod-search)
+[![HugoPress](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=hugopress)](https://github.com/hugomods/hugopress)
+[![Hugo Search Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=search)](https://github.com/hugomods/search)
+[![Hugo Images Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=images)](https://github.com/hugomods/images)
+[![Hugo Bootstrap Framework](https://github-readme-stats.vercel.app/api/pin/?username=hbstack&repo=hb)](https://github.com/hbstack/hb)
+[![Hugo Docker Images](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=docker)](https://github.com/hugomods/docker)
 
 <!--more
 
