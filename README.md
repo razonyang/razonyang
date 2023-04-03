@@ -20,6 +20,7 @@
 
 ## Projects
 
+<!--more
 [![Hugo Bootstrap Theme](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-theme-bootstrap)](https://github.com/razonyang/hugo-theme-bootstrap)
 [![CleverGo](https://github-readme-stats.vercel.app/api/pin/?username=clevergo&repo=clevergo)](https://github.com/clevergo/clevergo)
 [![Hugo Bootstrap Theme Skeleton](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-theme-bootstrap-skeleton)](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)
@@ -28,9 +29,6 @@
 [![Hugo Images Module](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=images)](https://github.com/hugomods/images)
 [![Hugo Bootstrap Framework](https://github-readme-stats.vercel.app/api/pin/?username=hbstack&repo=hb)](https://github.com/hbstack/hb)
 [![Hugo Docker Images](https://github-readme-stats.vercel.app/api/pin/?username=hugomods&repo=docker)](https://github.com/hugomods/docker)
-
-<!--more
-
 [![Hugo Base Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-base)](https://github.com/razonyang/hugo-mod-base)
 [![Hugo Icons Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-icons)](https://github.com/razonyang/hugo-mod-icons)
 [![Hugo SEO Module](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-mod-seo)](https://github.com/razonyang/hugo-mod-seo)
