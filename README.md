@@ -10,6 +10,11 @@
 - 👨‍💻 A full stack engineer.
 - 📝 I regularly write articles and docs on [Razon Yang](https://razonyang.com), [Hugo Modules](https://hugomods.com) and [HB Framework](https://hb.hugomods.com).
 
+## Recent Activities
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
 ## Stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=razonyang&theme=github)
@@ -18,9 +23,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=razonyang&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=razonyang&theme=github)
 
+<!--more
 ## Projects
 
-<!--more
 [![Hugo Bootstrap Theme](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-theme-bootstrap)](https://github.com/razonyang/hugo-theme-bootstrap)
 [![CleverGo](https://github-readme-stats.vercel.app/api/pin/?username=clevergo&repo=clevergo)](https://github.com/clevergo/clevergo)
 [![Hugo Bootstrap Theme Skeleton](https://github-readme-stats.vercel.app/api/pin/?username=razonyang&repo=hugo-theme-bootstrap-skeleton)](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)
