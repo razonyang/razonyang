@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#84](https://github.com/hbstack/theme/pull/84) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-2. ⬆️ Pushed 1 commit(s) to [hbstack/theme](https://github.com/hbstack/theme)<br>
-3. 👍 Approved [#84](https://github.com/hbstack/theme/pull/84#pullrequestreview-1415874580) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-4. 💬 Commented on [#128](https://github.com/hugomods/search/issues/128#issuecomment-1537357802) in [hugomods/search](https://github.com/hugomods/search)<br>
-5. ⬆️ Pushed 1000 commit(s) to [razonyang/docsy](https://github.com/razonyang/docsy)<br>
-6. ⬆️ Pushed 2 commit(s) to [hugomods/site](https://github.com/hugomods/site)<br>
-7. ⬆️ Pushed 1 commit(s) to [hbstack/header](https://github.com/hbstack/header)<br>
-8. 🎉 Merged PR [#64](https://github.com/hbstack/header/pull/64) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 💪 Opened PR [#64](https://github.com/hbstack/header/pull/64) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. ⬆️ Pushed 1 commit(s) to [hbstack/site](https://github.com/hbstack/site)<br>
+1. ⬆️ Pushed 1 commit(s) to [hugomods/site](https://github.com/hugomods/site)<br>
+2. 🎉 Merged PR [#84](https://github.com/hbstack/theme/pull/84) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+3. ⬆️ Pushed 1 commit(s) to [hbstack/theme](https://github.com/hbstack/theme)<br>
+4. 👍 Approved [#84](https://github.com/hbstack/theme/pull/84#pullrequestreview-1415874580) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+5. 💬 Commented on [#128](https://github.com/hugomods/search/issues/128#issuecomment-1537357802) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. ⬆️ Pushed 1000 commit(s) to [razonyang/docsy](https://github.com/razonyang/docsy)<br>
+7. ⬆️ Pushed 2 commit(s) to [hugomods/site](https://github.com/hugomods/site)<br>
+8. ⬆️ Pushed 1 commit(s) to [hbstack/header](https://github.com/hbstack/header)<br>
+9. 🎉 Merged PR [#64](https://github.com/hbstack/header/pull/64) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 💪 Opened PR [#64](https://github.com/hbstack/header/pull/64) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
