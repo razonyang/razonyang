@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#22](https://github.com/hugomods/base/pull/22#issuecomment-1537643537) in [hugomods/base](https://github.com/hugomods/base)<br>
-2. ⬆️ Pushed 1 commit(s) to [hugomods/base](https://github.com/hugomods/base)<br>
-3. 🎉 Merged PR [#22](https://github.com/hugomods/base/pull/22) in [hugomods/base](https://github.com/hugomods/base)<br>
-4. 👍 Approved [#22](https://github.com/hugomods/base/pull/22#pullrequestreview-1416036386) in [hugomods/base](https://github.com/hugomods/base)<br>
-5. 💬 Commented on [#8](https://github.com/hugomods/katex/pull/8#issuecomment-1537642512) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-6. 🎉 Merged PR [#8](https://github.com/hugomods/katex/pull/8) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-7. ⬆️ Pushed 1 commit(s) to [hugomods/katex](https://github.com/hugomods/katex)<br>
-8. 👍 Approved [#8](https://github.com/hugomods/katex/pull/8#pullrequestreview-1416035708) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-9. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-skeleton](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)<br>
-10. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 💬 Commented on [#940](https://github.com/razonyang/hugo-theme-bootstrap/issues/940#issuecomment-1537648387) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 💬 Commented on [#22](https://github.com/hugomods/base/pull/22#issuecomment-1537643537) in [hugomods/base](https://github.com/hugomods/base)<br>
+3. ⬆️ Pushed 1 commit(s) to [hugomods/base](https://github.com/hugomods/base)<br>
+4. 🎉 Merged PR [#22](https://github.com/hugomods/base/pull/22) in [hugomods/base](https://github.com/hugomods/base)<br>
+5. 👍 Approved [#22](https://github.com/hugomods/base/pull/22#pullrequestreview-1416036386) in [hugomods/base](https://github.com/hugomods/base)<br>
+6. 💬 Commented on [#8](https://github.com/hugomods/katex/pull/8#issuecomment-1537642512) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+7. 🎉 Merged PR [#8](https://github.com/hugomods/katex/pull/8) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+8. ⬆️ Pushed 1 commit(s) to [hugomods/katex](https://github.com/hugomods/katex)<br>
+9. 👍 Approved [#8](https://github.com/hugomods/katex/pull/8#pullrequestreview-1416035708) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+10. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-skeleton](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
