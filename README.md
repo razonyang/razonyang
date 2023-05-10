@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [hbstack/site](https://github.com/hbstack/site)<br>
-2. ⬆️ Pushed 1 commit(s) to [razonyang/razonyang](https://github.com/razonyang/razonyang)<br>
-3. 💬 Commented on [#940](https://github.com/razonyang/hugo-theme-bootstrap/issues/940#issuecomment-1538475057) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. ✔️ Closed issue [#940](https://github.com/razonyang/hugo-theme-bootstrap/issues/940) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 🎉 Merged PR [#941](https://github.com/razonyang/hugo-theme-bootstrap/pull/941) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💪 Opened PR [#941](https://github.com/razonyang/hugo-theme-bootstrap/pull/941) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 💬 Commented on [#11](https://github.com/gohugoio/hugo-mod-bootstrap-scss/issues/11#issuecomment-1538465375) in [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss)<br>
-9. ⬆️ Pushed 1 commit(s) to [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. ⬆️ Pushed 1 commit(s) to [hbstack/site](https://github.com/hbstack/site)<br>
+1. 💬 Commented on [#943](https://github.com/razonyang/hugo-theme-bootstrap/pull/943#issuecomment-1541994489) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 🎉 Merged PR [#943](https://github.com/razonyang/hugo-theme-bootstrap/pull/943) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 👍 Approved [#943](https://github.com/razonyang/hugo-theme-bootstrap/pull/943#pullrequestreview-1420406088) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. ⬆️ Pushed 1 commit(s) to [vrifox/hugo-theme-bootstrap](https://github.com/vrifox/hugo-theme-bootstrap)<br>
+6. ✌️ Released [v0.2.1](https://github.com/hugomods/search/releases/tag/v0.2.1) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. 💬 Commented on [#129](https://github.com/hugomods/search/pull/129#issuecomment-1541912425) in [hugomods/search](https://github.com/hugomods/search)<br>
+8. ⬆️ Pushed 1 commit(s) to [hugomods/search](https://github.com/hugomods/search)<br>
+9. 🎉 Merged PR [#129](https://github.com/hugomods/search/pull/129) in [hugomods/search](https://github.com/hugomods/search)<br>
+10. 👍 Approved [#129](https://github.com/hugomods/search/pull/129#pullrequestreview-1420345923) in [hugomods/search](https://github.com/hugomods/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
