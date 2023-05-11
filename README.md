@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [hbstack/site](https://github.com/hbstack/site)<br>
-2. ⬆️ Pushed 1 commit(s) to [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 🎉 Merged PR [#83](https://github.com/hugomods/icons/pull/83) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ❗️ Opened issue [#11](https://github.com/hugomods/shortcodes/issues/11) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-5. ❗️ Opened issue [#20](https://github.com/hbstack/hb/issues/20) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-6. ⬆️ Pushed 1 commit(s) to [hbstack/theme](https://github.com/hbstack/theme)<br>
-7. 🎉 Merged PR [#88](https://github.com/hbstack/theme/pull/88) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-8. 👍 Approved [#88](https://github.com/hbstack/theme/pull/88#pullrequestreview-1421511173) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-9. 💬 Commented on [#943](https://github.com/razonyang/hugo-theme-bootstrap/pull/943#issuecomment-1541994489) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
+2. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
+3. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
+4. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
+5. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
+6. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
+7. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
+8. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
+9. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
+10. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
