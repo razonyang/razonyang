@@ -13,15 +13,15 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
-2. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
-3. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
-4. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
-5. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
-6. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
-7. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
-8. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
-9. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
+1. ⬆️ Pushed 1 commit(s) to [hugomods/search](https://github.com/hugomods/search)<br>
+2. ⬆️ Pushed 1 commit(s) to [hugomods/search](https://github.com/hugomods/search)<br>
+3. 💪 Opened PR [#132](https://github.com/hugomods/search/pull/132) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. ⬆️ Pushed 1 commit(s) to [hugomods/search](https://github.com/hugomods/search)<br>
+5. 🎉 Merged PR [#131](https://github.com/hugomods/search/pull/131) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 💪 Opened PR [#131](https://github.com/hugomods/search/pull/131) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. ⬆️ Pushed 1 commit(s) to [hugomods/search](https://github.com/hugomods/search)<br>
+8. 🎉 Merged PR [#130](https://github.com/hugomods/search/pull/130) in [hugomods/search](https://github.com/hugomods/search)<br>
+9. 💪 Opened PR [#130](https://github.com/hugomods/search/pull/130) in [hugomods/search](https://github.com/hugomods/search)<br>
 10. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
 <!--RECENT_ACTIVITY:end-->
 
