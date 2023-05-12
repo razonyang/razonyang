@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [hugomods/search](https://github.com/hugomods/search)<br>
-2. ⬆️ Pushed 1 commit(s) to [hugomods/search](https://github.com/hugomods/search)<br>
-3. 💪 Opened PR [#132](https://github.com/hugomods/search/pull/132) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. ⬆️ Pushed 1 commit(s) to [hugomods/search](https://github.com/hugomods/search)<br>
-5. 🎉 Merged PR [#131](https://github.com/hugomods/search/pull/131) in [hugomods/search](https://github.com/hugomods/search)<br>
-6. 💪 Opened PR [#131](https://github.com/hugomods/search/pull/131) in [hugomods/search](https://github.com/hugomods/search)<br>
-7. ⬆️ Pushed 1 commit(s) to [hugomods/search](https://github.com/hugomods/search)<br>
-8. 🎉 Merged PR [#130](https://github.com/hugomods/search/pull/130) in [hugomods/search](https://github.com/hugomods/search)<br>
-9. 💪 Opened PR [#130](https://github.com/hugomods/search/pull/130) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. ⬆️ Pushed 1 commit(s) to [razonyang/hugo-theme-bootstrap-staticman](https://github.com/razonyang/hugo-theme-bootstrap-staticman)<br>
+1. 💪 Opened PR [#132](https://github.com/hugomods/search/pull/132) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. 🎉 Merged PR [#131](https://github.com/hugomods/search/pull/131) in [hugomods/search](https://github.com/hugomods/search)<br>
+3. 💪 Opened PR [#131](https://github.com/hugomods/search/pull/131) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 🎉 Merged PR [#130](https://github.com/hugomods/search/pull/130) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. 💪 Opened PR [#130](https://github.com/hugomods/search/pull/130) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. ❗️ Opened issue [#460](https://github.com/eduardoboucas/staticman/issues/460) in [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman)<br>
+7. 🎉 Merged PR [#83](https://github.com/hugomods/icons/pull/83) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. ❗️ Opened issue [#11](https://github.com/hugomods/shortcodes/issues/11) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+9. ❗️ Opened issue [#20](https://github.com/hbstack/hb/issues/20) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. 🎉 Merged PR [#88](https://github.com/hbstack/theme/pull/88) in [hbstack/theme](https://github.com/hbstack/theme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
