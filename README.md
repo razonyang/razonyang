@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#133](https://github.com/hugomods/search/issues/133) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. 💪 Opened PR [#132](https://github.com/hugomods/search/pull/132) in [hugomods/search](https://github.com/hugomods/search)<br>
-3. 🎉 Merged PR [#131](https://github.com/hugomods/search/pull/131) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. 💪 Opened PR [#131](https://github.com/hugomods/search/pull/131) in [hugomods/search](https://github.com/hugomods/search)<br>
-5. 🎉 Merged PR [#130](https://github.com/hugomods/search/pull/130) in [hugomods/search](https://github.com/hugomods/search)<br>
-6. 💪 Opened PR [#130](https://github.com/hugomods/search/pull/130) in [hugomods/search](https://github.com/hugomods/search)<br>
-7. ❗️ Opened issue [#460](https://github.com/eduardoboucas/staticman/issues/460) in [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman)<br>
-8. 🎉 Merged PR [#83](https://github.com/hugomods/icons/pull/83) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. ❗️ Opened issue [#11](https://github.com/hugomods/shortcodes/issues/11) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-10. ❗️ Opened issue [#20](https://github.com/hbstack/hb/issues/20) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. 🎉 Merged PR [#9](https://github.com/hugomods/i18n-js/pull/9) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
+2. 💪 Opened PR [#9](https://github.com/hugomods/i18n-js/pull/9) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
+3. ❗️ Opened issue [#133](https://github.com/hugomods/search/issues/133) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 💪 Opened PR [#132](https://github.com/hugomods/search/pull/132) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. 🎉 Merged PR [#131](https://github.com/hugomods/search/pull/131) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 💪 Opened PR [#131](https://github.com/hugomods/search/pull/131) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. 🎉 Merged PR [#130](https://github.com/hugomods/search/pull/130) in [hugomods/search](https://github.com/hugomods/search)<br>
+8. 💪 Opened PR [#130](https://github.com/hugomods/search/pull/130) in [hugomods/search](https://github.com/hugomods/search)<br>
+9. ❗️ Opened issue [#460](https://github.com/eduardoboucas/staticman/issues/460) in [eduardoboucas/staticman](https://github.com/eduardoboucas/staticman)<br>
+10. 🎉 Merged PR [#83](https://github.com/hugomods/icons/pull/83) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
