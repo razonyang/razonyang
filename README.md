@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#136](https://github.com/hugomods/search/pull/136) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. 💪 Opened PR [#136](https://github.com/hugomods/search/pull/136) in [hugomods/search](https://github.com/hugomods/search)<br>
-3. 🎉 Merged PR [#134](https://github.com/hugomods/search/pull/134) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. 💪 Opened PR [#134](https://github.com/hugomods/search/pull/134) in [hugomods/search](https://github.com/hugomods/search)<br>
-5. ✌️ Released [v0.2.0](https://github.com/hugomods/i18n-js/releases/tag/v0.2.0) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
-6. 🎉 Merged PR [#10](https://github.com/hugomods/i18n-js/pull/10) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
-7. 👍 Approved [#10](https://github.com/hugomods/i18n-js/pull/10#pullrequestreview-1425317966) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
-8. 🎉 Merged PR [#9](https://github.com/hugomods/i18n-js/pull/9) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
-9. 💪 Opened PR [#9](https://github.com/hugomods/i18n-js/pull/9) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
-10. ❗️ Opened issue [#133](https://github.com/hugomods/search/issues/133) in [hugomods/search](https://github.com/hugomods/search)<br>
+1. 💬 Commented on [#115](https://github.com/hbstack/blog/issues/115#issuecomment-1546599345) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. 🎉 Merged PR [#138](https://github.com/hugomods/search/pull/138) in [hugomods/search](https://github.com/hugomods/search)<br>
+3. 🎉 Merged PR [#139](https://github.com/hugomods/search/pull/139) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 💪 Opened PR [#139](https://github.com/hugomods/search/pull/139) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. 🎉 Merged PR [#137](https://github.com/hugomods/search/pull/137) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 💪 Opened PR [#137](https://github.com/hugomods/search/pull/137) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. 🎉 Merged PR [#135](https://github.com/hugomods/search/pull/135) in [hugomods/search](https://github.com/hugomods/search)<br>
+8. 🎉 Merged PR [#136](https://github.com/hugomods/search/pull/136) in [hugomods/search](https://github.com/hugomods/search)<br>
+9. 💪 Opened PR [#136](https://github.com/hugomods/search/pull/136) in [hugomods/search](https://github.com/hugomods/search)<br>
+10. 🎉 Merged PR [#134](https://github.com/hugomods/search/pull/134) in [hugomods/search](https://github.com/hugomods/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
