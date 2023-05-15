@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#9](https://github.com/hbstack/pagination/pull/9) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-2. 💬 Commented on [#8](https://github.com/hbstack/pagination/pull/8#issuecomment-1548015634) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-3. 🎉 Merged PR [#8](https://github.com/hbstack/pagination/pull/8) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-4. 👍 Approved [#8](https://github.com/hbstack/pagination/pull/8#pullrequestreview-1426744154) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-5. 🎉 Merged PR [#15](https://github.com/hugomods/code-block-panel/pull/15) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-6. 💬 Commented on [#14](https://github.com/hugomods/code-block-panel/pull/14#issuecomment-1547976807) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-7. 🎉 Merged PR [#14](https://github.com/hugomods/code-block-panel/pull/14) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-8. 👍 Approved [#14](https://github.com/hugomods/code-block-panel/pull/14#pullrequestreview-1426691371) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-9. 🎉 Merged PR [#13](https://github.com/hugomods/code-block-panel/pull/13) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-10. 🎉 Merged PR [#12](https://github.com/hugomods/code-block-panel/pull/12) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+1. ❗️ Opened issue [#21](https://github.com/hugomods/hugopress/issues/21) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+2. 🎉 Merged PR [#9](https://github.com/hbstack/pagination/pull/9) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
+3. 💬 Commented on [#8](https://github.com/hbstack/pagination/pull/8#issuecomment-1548015634) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
+4. 🎉 Merged PR [#8](https://github.com/hbstack/pagination/pull/8) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
+5. 👍 Approved [#8](https://github.com/hbstack/pagination/pull/8#pullrequestreview-1426744154) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
+6. 🎉 Merged PR [#15](https://github.com/hugomods/code-block-panel/pull/15) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+7. 💬 Commented on [#14](https://github.com/hugomods/code-block-panel/pull/14#issuecomment-1547976807) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+8. 🎉 Merged PR [#14](https://github.com/hugomods/code-block-panel/pull/14) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+9. 👍 Approved [#14](https://github.com/hugomods/code-block-panel/pull/14#pullrequestreview-1426691371) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+10. 🎉 Merged PR [#13](https://github.com/hugomods/code-block-panel/pull/13) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
