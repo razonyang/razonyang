@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#11](https://github.com/hugomods/i18n-js/pull/11) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
-2. 💪 Opened PR [#11](https://github.com/hugomods/i18n-js/pull/11) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
-3. ⭐ Starred [googleapis/release-please](https://github.com/googleapis/release-please)<br>
-4. 🎉 Merged PR [#16](https://github.com/hbstack/noscript/pull/16) in [hbstack/noscript](https://github.com/hbstack/noscript)<br>
-5. 🎉 Merged PR [#10](https://github.com/hbstack/content-panel/pull/10) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-6. 🎉 Merged PR [#132](https://github.com/hbstack/blog/pull/132) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 🎉 Merged PR [#33](https://github.com/hbstack/base/pull/33) in [hbstack/base](https://github.com/hbstack/base)<br>
-8. 🎉 Merged PR [#13](https://github.com/hbstack/breadcrumb/pull/13) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-9. 💬 Commented on [#17](https://github.com/hbstack/socials/pull/17#issuecomment-1546869774) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-10. 🎉 Merged PR [#17](https://github.com/hbstack/socials/pull/17) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+1. 🎉 Merged PR [#12](https://github.com/hugomods/i18n-js/pull/12) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
+2. 🎉 Merged PR [#11](https://github.com/hugomods/i18n-js/pull/11) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
+3. 💪 Opened PR [#11](https://github.com/hugomods/i18n-js/pull/11) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
+4. ⭐ Starred [googleapis/release-please](https://github.com/googleapis/release-please)<br>
+5. 🎉 Merged PR [#16](https://github.com/hbstack/noscript/pull/16) in [hbstack/noscript](https://github.com/hbstack/noscript)<br>
+6. 🎉 Merged PR [#10](https://github.com/hbstack/content-panel/pull/10) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+7. 🎉 Merged PR [#132](https://github.com/hbstack/blog/pull/132) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 🎉 Merged PR [#33](https://github.com/hbstack/base/pull/33) in [hbstack/base](https://github.com/hbstack/base)<br>
+9. 🎉 Merged PR [#13](https://github.com/hbstack/breadcrumb/pull/13) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+10. 💬 Commented on [#17](https://github.com/hbstack/socials/pull/17#issuecomment-1546869774) in [hbstack/socials](https://github.com/hbstack/socials)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
