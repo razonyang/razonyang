@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#147](https://github.com/hugomods/search/pull/147) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. ❗️ Opened issue [#21](https://github.com/hugomods/hugopress/issues/21) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-3. 🎉 Merged PR [#9](https://github.com/hbstack/pagination/pull/9) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-4. 💬 Commented on [#8](https://github.com/hbstack/pagination/pull/8#issuecomment-1548015634) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-5. 🎉 Merged PR [#8](https://github.com/hbstack/pagination/pull/8) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-6. 👍 Approved [#8](https://github.com/hbstack/pagination/pull/8#pullrequestreview-1426744154) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-7. 🎉 Merged PR [#15](https://github.com/hugomods/code-block-panel/pull/15) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-8. 💬 Commented on [#14](https://github.com/hugomods/code-block-panel/pull/14#issuecomment-1547976807) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-9. 🎉 Merged PR [#14](https://github.com/hugomods/code-block-panel/pull/14) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-10. 👍 Approved [#14](https://github.com/hugomods/code-block-panel/pull/14#pullrequestreview-1426691371) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+1. 💬 Commented on [#8](https://github.com/hbstack/pagination/pull/8#issuecomment-1549747009) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
+2. 🎉 Merged PR [#11](https://github.com/hugomods/katex/pull/11) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+3. ✔️ Closed issue [#9](https://github.com/hugomods/katex/issues/9) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+4. 🎉 Merged PR [#10](https://github.com/hugomods/katex/pull/10) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+5. 💪 Opened PR [#10](https://github.com/hugomods/katex/pull/10) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+6. 🎉 Merged PR [#147](https://github.com/hugomods/search/pull/147) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. ❗️ Opened issue [#21](https://github.com/hugomods/hugopress/issues/21) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+8. 🎉 Merged PR [#9](https://github.com/hbstack/pagination/pull/9) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
+9. 💬 Commented on [#8](https://github.com/hbstack/pagination/pull/8#issuecomment-1548015634) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
+10. 🎉 Merged PR [#8](https://github.com/hbstack/pagination/pull/8) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
