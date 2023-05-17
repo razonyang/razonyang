@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#944](https://github.com/razonyang/hugo-theme-bootstrap/issues/944#issuecomment-1550665923) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. 💬 Commented on [#944](https://github.com/razonyang/hugo-theme-bootstrap/issues/944#issuecomment-1550598607) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 💬 Commented on [#39](https://github.com/hbstack/gallery/issues/39#issuecomment-1550570727) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-4. 💬 Commented on [#8](https://github.com/hbstack/pagination/pull/8#issuecomment-1549747009) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-5. 🎉 Merged PR [#11](https://github.com/hugomods/katex/pull/11) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-6. ✔️ Closed issue [#9](https://github.com/hugomods/katex/issues/9) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-7. 🎉 Merged PR [#10](https://github.com/hugomods/katex/pull/10) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-8. 💪 Opened PR [#10](https://github.com/hugomods/katex/pull/10) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-9. 🎉 Merged PR [#147](https://github.com/hugomods/search/pull/147) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. ❗️ Opened issue [#21](https://github.com/hugomods/hugopress/issues/21) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+1. 🎉 Merged PR [#84](https://github.com/hugomods/icons/pull/84) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#84](https://github.com/hugomods/icons/pull/84#pullrequestreview-1429764781) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 💬 Commented on [#944](https://github.com/razonyang/hugo-theme-bootstrap/issues/944#issuecomment-1550665923) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💬 Commented on [#944](https://github.com/razonyang/hugo-theme-bootstrap/issues/944#issuecomment-1550598607) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 💬 Commented on [#39](https://github.com/hbstack/gallery/issues/39#issuecomment-1550570727) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+6. 💬 Commented on [#8](https://github.com/hbstack/pagination/pull/8#issuecomment-1549747009) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
+7. 🎉 Merged PR [#11](https://github.com/hugomods/katex/pull/11) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+8. ✔️ Closed issue [#9](https://github.com/hugomods/katex/issues/9) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+9. 🎉 Merged PR [#10](https://github.com/hugomods/katex/pull/10) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+10. 💪 Opened PR [#10](https://github.com/hugomods/katex/pull/10) in [hugomods/katex](https://github.com/hugomods/katex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
