@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#150](https://github.com/hugomods/search/pull/150) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. 💪 Opened PR [#150](https://github.com/hugomods/search/pull/150) in [hugomods/search](https://github.com/hugomods/search)<br>
-3. 🎉 Merged PR [#148](https://github.com/hugomods/search/pull/148) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. 💪 Opened PR [#148](https://github.com/hugomods/search/pull/148) in [hugomods/search](https://github.com/hugomods/search)<br>
-5. 🎉 Merged PR [#12](https://github.com/hbstack/content-panel/pull/12) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-6. 🎉 Merged PR [#11](https://github.com/hbstack/content-panel/pull/11) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-7. 💪 Opened PR [#11](https://github.com/hbstack/content-panel/pull/11) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-8. ✌️ Released [v1.0.2](https://github.com/razonyang/hugo-theme-bootstrap/releases/tag/v1.0.2) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. ✔️ Closed issue [#947](https://github.com/razonyang/hugo-theme-bootstrap/issues/947) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 🎉 Merged PR [#949](https://github.com/razonyang/hugo-theme-bootstrap/pull/949) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#151](https://github.com/hugomods/search/pull/151) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. 🎉 Merged PR [#149](https://github.com/hugomods/search/pull/149) in [hugomods/search](https://github.com/hugomods/search)<br>
+3. 🎉 Merged PR [#150](https://github.com/hugomods/search/pull/150) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 💪 Opened PR [#150](https://github.com/hugomods/search/pull/150) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. 🎉 Merged PR [#148](https://github.com/hugomods/search/pull/148) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 💪 Opened PR [#148](https://github.com/hugomods/search/pull/148) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. 🎉 Merged PR [#12](https://github.com/hbstack/content-panel/pull/12) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+8. 🎉 Merged PR [#11](https://github.com/hbstack/content-panel/pull/11) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+9. 💪 Opened PR [#11](https://github.com/hbstack/content-panel/pull/11) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+10. ✌️ Released [v1.0.2](https://github.com/razonyang/hugo-theme-bootstrap/releases/tag/v1.0.2) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
