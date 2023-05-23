@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ljharb/qs](https://github.com/ljharb/qs)<br>
-2. ⭐ Starred [tj/node-querystring](https://github.com/tj/node-querystring)<br>
-3. 🎉 Merged PR [#14](https://github.com/hbstack/snackbar/pull/14) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
-4. 🎉 Merged PR [#15](https://github.com/hbstack/snackbar/pull/15) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
-5. 💪 Opened PR [#15](https://github.com/hbstack/snackbar/pull/15) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
-6. ⭐ Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>
-7. ❗️ Opened issue [#1299](https://github.com/lucide-icons/lucide/issues/1299) in [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>
-8. 🎉 Merged PR [#86](https://github.com/hugomods/icons/pull/86) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#86](https://github.com/hugomods/icons/pull/86#pullrequestreview-1435456431) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. ❗️ Opened issue [#23](https://github.com/hugomods/base/issues/23) in [hugomods/base](https://github.com/hugomods/base)<br>
+1. 💬 Commented on [#948](https://github.com/razonyang/hugo-theme-bootstrap/issues/948#issuecomment-1558068086) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. ⭐ Starred [ljharb/qs](https://github.com/ljharb/qs)<br>
+3. ⭐ Starred [tj/node-querystring](https://github.com/tj/node-querystring)<br>
+4. 🎉 Merged PR [#14](https://github.com/hbstack/snackbar/pull/14) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
+5. 🎉 Merged PR [#15](https://github.com/hbstack/snackbar/pull/15) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
+6. 💪 Opened PR [#15](https://github.com/hbstack/snackbar/pull/15) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
+7. ⭐ Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>
+8. ❗️ Opened issue [#1299](https://github.com/lucide-icons/lucide/issues/1299) in [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>
+9. 🎉 Merged PR [#86](https://github.com/hugomods/icons/pull/86) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 👍 Approved [#86](https://github.com/hugomods/icons/pull/86#pullrequestreview-1435456431) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
