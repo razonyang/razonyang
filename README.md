@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#949](https://github.com/razonyang/hugo-theme-bootstrap/pull/949) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. 💬 Commented on [#948](https://github.com/razonyang/hugo-theme-bootstrap/issues/948#issuecomment-1558264831) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 💬 Commented on [#948](https://github.com/razonyang/hugo-theme-bootstrap/issues/948#issuecomment-1558068086) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. ⭐ Starred [ljharb/qs](https://github.com/ljharb/qs)<br>
-5. ⭐ Starred [tj/node-querystring](https://github.com/tj/node-querystring)<br>
-6. 🎉 Merged PR [#14](https://github.com/hbstack/snackbar/pull/14) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
-7. 🎉 Merged PR [#15](https://github.com/hbstack/snackbar/pull/15) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
-8. 💪 Opened PR [#15](https://github.com/hbstack/snackbar/pull/15) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
-9. ⭐ Starred [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>
-10. ❗️ Opened issue [#1299](https://github.com/lucide-icons/lucide/issues/1299) in [lucide-icons/lucide](https://github.com/lucide-icons/lucide)<br>
+1. ✔️ Closed issue [#947](https://github.com/razonyang/hugo-theme-bootstrap/issues/947) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 🎉 Merged PR [#949](https://github.com/razonyang/hugo-theme-bootstrap/pull/949) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 💪 Opened PR [#949](https://github.com/razonyang/hugo-theme-bootstrap/pull/949) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💬 Commented on [#948](https://github.com/razonyang/hugo-theme-bootstrap/issues/948#issuecomment-1558264831) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 💬 Commented on [#948](https://github.com/razonyang/hugo-theme-bootstrap/issues/948#issuecomment-1558068086) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. ⭐ Starred [ljharb/qs](https://github.com/ljharb/qs)<br>
+7. ⭐ Starred [tj/node-querystring](https://github.com/tj/node-querystring)<br>
+8. 🎉 Merged PR [#14](https://github.com/hbstack/snackbar/pull/14) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
+9. 🎉 Merged PR [#15](https://github.com/hbstack/snackbar/pull/15) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
+10. 💪 Opened PR [#15](https://github.com/hbstack/snackbar/pull/15) in [hbstack/snackbar](https://github.com/hbstack/snackbar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
