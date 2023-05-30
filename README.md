@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#23](https://github.com/hbstack/carousel/pull/23) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
-2. 💪 Opened PR [#23](https://github.com/hbstack/carousel/pull/23) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
-3. 💬 Commented on [#35](https://github.com/hugomods/docker/pull/35#issuecomment-1567702784) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. ✔️ Closed issue [#11](https://github.com/hugomods/shortcodes/issues/11) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-5. 💬 Commented on [#11](https://github.com/hugomods/shortcodes/issues/11#issuecomment-1567306352) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-6. ⭐ Starred [hbstack/iframe](https://github.com/hbstack/iframe)<br>
-7. ⭐ Starred [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
-8. ✔️ Closed issue [#20](https://github.com/hbstack/hb/issues/20) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-9. 💬 Commented on [#20](https://github.com/hbstack/hb/issues/20#issuecomment-1567117970) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-10. 🎉 Merged PR [#123](https://github.com/hbstack/docs/pull/123) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. 💬 Commented on [#39](https://github.com/hbstack/gallery/issues/39#issuecomment-1567771180) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+2. ✔️ Closed issue [#39](https://github.com/hbstack/gallery/issues/39) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+3. 🎉 Merged PR [#24](https://github.com/hbstack/carousel/pull/24) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+4. 👍 Approved [#24](https://github.com/hbstack/carousel/pull/24#pullrequestreview-1450061258) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+5. 🎉 Merged PR [#23](https://github.com/hbstack/carousel/pull/23) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+6. 💪 Opened PR [#23](https://github.com/hbstack/carousel/pull/23) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+7. 💬 Commented on [#35](https://github.com/hugomods/docker/pull/35#issuecomment-1567702784) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. ✔️ Closed issue [#11](https://github.com/hugomods/shortcodes/issues/11) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+9. 💬 Commented on [#11](https://github.com/hugomods/shortcodes/issues/11#issuecomment-1567306352) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+10. ⭐ Starred [hbstack/iframe](https://github.com/hbstack/iframe)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
