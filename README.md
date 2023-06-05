@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#39](https://github.com/hugomods/docker/issues/39) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 💪 Opened PR [#38](https://github.com/hugomods/docker/pull/38) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 💬 Commented on [#17](https://github.com/hbstack/hb/issues/17#issuecomment-1575317041) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-4. ❗️ Opened issue [#17](https://github.com/Izumiko/hugo-encrypt/issues/17) in [Izumiko/hugo-encrypt](https://github.com/Izumiko/hugo-encrypt)<br>
-5. 🔱 Forked [razonyang/hugo-encrypt](https://github.com/razonyang/hugo-encrypt) from [Izumiko/hugo-encrypt](https://github.com/Izumiko/hugo-encrypt)<br>
-6. ⭐ Starred [Izumiko/hugo-encrypt](https://github.com/Izumiko/hugo-encrypt)<br>
-7. ❗️ Opened issue [#153](https://github.com/hbstack/blog/issues/153) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. ❗️ Opened issue [#37](https://github.com/hugomods/docker/issues/37) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. 💬 Commented on [#35](https://github.com/hugomods/docker/pull/35#issuecomment-1572344350) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 🎉 Merged PR [#145](https://github.com/hbstack/blog/pull/145) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 💪 Opened PR [#40](https://github.com/hugomods/docker/pull/40) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. ✔️ Closed issue [#36](https://github.com/hugomods/docker/issues/36) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. ✔️ Closed issue [#34](https://github.com/hugomods/docker/issues/34) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. ✔️ Closed issue [#33](https://github.com/hugomods/docker/issues/33) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+5. ❌ Closed PR [#35](https://github.com/hugomods/docker/pull/35) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 🎉 Merged PR [#38](https://github.com/hugomods/docker/pull/38) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. ❗️ Opened issue [#39](https://github.com/hugomods/docker/issues/39) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. 💪 Opened PR [#38](https://github.com/hugomods/docker/pull/38) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 💬 Commented on [#17](https://github.com/hbstack/hb/issues/17#issuecomment-1575317041) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. ❗️ Opened issue [#17](https://github.com/Izumiko/hugo-encrypt/issues/17) in [Izumiko/hugo-encrypt](https://github.com/Izumiko/hugo-encrypt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
