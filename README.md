@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#42](https://github.com/hugomods/docker/issues/42) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. ✔️ Closed issue [#153](https://github.com/hbstack/blog/issues/153) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. ✔️ Closed issue [#37](https://github.com/hugomods/docker/issues/37) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 🎉 Merged PR [#41](https://github.com/hugomods/docker/pull/41) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. 💪 Opened PR [#41](https://github.com/hugomods/docker/pull/41) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. ✔️ Closed issue [#39](https://github.com/hugomods/docker/issues/39) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. 🎉 Merged PR [#40](https://github.com/hugomods/docker/pull/40) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. 💪 Opened PR [#40](https://github.com/hugomods/docker/pull/40) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. ✔️ Closed issue [#36](https://github.com/hugomods/docker/issues/36) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. ✔️ Closed issue [#34](https://github.com/hugomods/docker/issues/34) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. 🎉 Merged PR [#88](https://github.com/hugomods/icons/pull/88) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#88](https://github.com/hugomods/icons/pull/88#pullrequestreview-1468777537) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ❗️ Opened issue [#42](https://github.com/hugomods/docker/issues/42) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. ✔️ Closed issue [#153](https://github.com/hbstack/blog/issues/153) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ✔️ Closed issue [#37](https://github.com/hugomods/docker/issues/37) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 🎉 Merged PR [#41](https://github.com/hugomods/docker/pull/41) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 💪 Opened PR [#41](https://github.com/hugomods/docker/pull/41) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. ✔️ Closed issue [#39](https://github.com/hugomods/docker/issues/39) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 🎉 Merged PR [#40](https://github.com/hugomods/docker/pull/40) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 💪 Opened PR [#40](https://github.com/hugomods/docker/pull/40) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
