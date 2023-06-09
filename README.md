@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#89](https://github.com/hugomods/icons/pull/89) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. ❌ Closed PR [#90](https://github.com/hugomods/icons/pull/90) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 💪 Opened PR [#154](https://github.com/hbstack/blog/pull/154) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. ⭐ Starred [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)<br>
-5. ✔️ Closed issue [#17](https://github.com/Izumiko/hugo-encrypt/issues/17) in [Izumiko/hugo-encrypt](https://github.com/Izumiko/hugo-encrypt)<br>
-6. 💬 Commented on [#17](https://github.com/Izumiko/hugo-encrypt/issues/17#issuecomment-1581985899) in [Izumiko/hugo-encrypt](https://github.com/Izumiko/hugo-encrypt)<br>
-7. 🎉 Merged PR [#88](https://github.com/hugomods/icons/pull/88) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 👍 Approved [#88](https://github.com/hugomods/icons/pull/88#pullrequestreview-1468777537) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. ❗️ Opened issue [#42](https://github.com/hugomods/docker/issues/42) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. ✔️ Closed issue [#153](https://github.com/hbstack/blog/issues/153) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. ❌ Closed PR [#154](https://github.com/hbstack/blog/pull/154) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. ❌ Closed PR [#89](https://github.com/hugomods/icons/pull/89) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ❌ Closed PR [#90](https://github.com/hugomods/icons/pull/90) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 💪 Opened PR [#154](https://github.com/hbstack/blog/pull/154) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ⭐ Starred [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)<br>
+6. ✔️ Closed issue [#17](https://github.com/Izumiko/hugo-encrypt/issues/17) in [Izumiko/hugo-encrypt](https://github.com/Izumiko/hugo-encrypt)<br>
+7. 💬 Commented on [#17](https://github.com/Izumiko/hugo-encrypt/issues/17#issuecomment-1581985899) in [Izumiko/hugo-encrypt](https://github.com/Izumiko/hugo-encrypt)<br>
+8. 🎉 Merged PR [#88](https://github.com/hugomods/icons/pull/88) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 👍 Approved [#88](https://github.com/hugomods/icons/pull/88#pullrequestreview-1468777537) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. ❗️ Opened issue [#42](https://github.com/hugomods/docker/issues/42) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
