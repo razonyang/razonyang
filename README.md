@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#2](https://github.com/hbstack/slide/pull/2) in [hbstack/slide](https://github.com/hbstack/slide)<br>
-2. ❌ Closed PR [#169](https://github.com/hbstack/blog/pull/169) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. ❌ Closed PR [#167](https://github.com/hbstack/blog/pull/167) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. ❌ Closed PR [#168](https://github.com/hbstack/blog/pull/168) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ❌ Closed PR [#166](https://github.com/hbstack/blog/pull/166) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. ❌ Closed PR [#165](https://github.com/hbstack/blog/pull/165) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. ❌ Closed PR [#163](https://github.com/hbstack/blog/pull/163) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. ❌ Closed PR [#164](https://github.com/hbstack/blog/pull/164) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. ❌ Closed PR [#162](https://github.com/hbstack/blog/pull/162) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ❌ Closed PR [#161](https://github.com/hbstack/blog/pull/161) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. ❗️ Opened issue [#1979](https://github.com/googleapis/release-please/issues/1979) in [googleapis/release-please](https://github.com/googleapis/release-please)<br>
+2. ❌ Closed PR [#2](https://github.com/hbstack/slide/pull/2) in [hbstack/slide](https://github.com/hbstack/slide)<br>
+3. ❌ Closed PR [#169](https://github.com/hbstack/blog/pull/169) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. ❌ Closed PR [#167](https://github.com/hbstack/blog/pull/167) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ❌ Closed PR [#168](https://github.com/hbstack/blog/pull/168) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. ❌ Closed PR [#166](https://github.com/hbstack/blog/pull/166) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. ❌ Closed PR [#165](https://github.com/hbstack/blog/pull/165) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. ❌ Closed PR [#163](https://github.com/hbstack/blog/pull/163) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. ❌ Closed PR [#164](https://github.com/hbstack/blog/pull/164) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. ❌ Closed PR [#162](https://github.com/hbstack/blog/pull/162) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
