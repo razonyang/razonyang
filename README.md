@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#51](https://github.com/hbstack/meta/pull/51) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-2. ❌ Closed PR [#48](https://github.com/hbstack/meta/pull/48) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-3. ❌ Closed PR [#47](https://github.com/hbstack/meta/pull/47) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-4. ❌ Closed PR [#46](https://github.com/hbstack/meta/pull/46) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-5. ❌ Closed PR [#45](https://github.com/hbstack/meta/pull/45) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-6. ❌ Closed PR [#44](https://github.com/hbstack/meta/pull/44) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-7. ❌ Closed PR [#43](https://github.com/hbstack/meta/pull/43) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-8. ❌ Closed PR [#42](https://github.com/hbstack/meta/pull/42) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-9. ❌ Closed PR [#41](https://github.com/hbstack/meta/pull/41) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-10. ❌ Closed PR [#37](https://github.com/hbstack/meta/pull/37) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+1. 🎉 Merged PR [#56](https://github.com/hbstack/meta/pull/56) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+2. 👍 Approved [#56](https://github.com/hbstack/meta/pull/56#pullrequestreview-1473585471) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+3. 🎉 Merged PR [#51](https://github.com/hbstack/meta/pull/51) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+4. ❌ Closed PR [#48](https://github.com/hbstack/meta/pull/48) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+5. ❌ Closed PR [#47](https://github.com/hbstack/meta/pull/47) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+6. ❌ Closed PR [#46](https://github.com/hbstack/meta/pull/46) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+7. ❌ Closed PR [#45](https://github.com/hbstack/meta/pull/45) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+8. ❌ Closed PR [#44](https://github.com/hbstack/meta/pull/44) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+9. ❌ Closed PR [#43](https://github.com/hbstack/meta/pull/43) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+10. ❌ Closed PR [#42](https://github.com/hbstack/meta/pull/42) in [hbstack/meta](https://github.com/hbstack/meta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
