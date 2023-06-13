@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.1.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-2. 🎉 Merged PR [#57](https://github.com/hbstack/meta/pull/57) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-3. ❌ Closed PR [#50](https://github.com/hbstack/meta/pull/50) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-4. 🎉 Merged PR [#49](https://github.com/hbstack/meta/pull/49) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-5. 🎉 Merged PR [#92](https://github.com/hugomods/icons/pull/92) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 🎉 Merged PR [#56](https://github.com/hbstack/meta/pull/56) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-7. 👍 Approved [#56](https://github.com/hbstack/meta/pull/56#pullrequestreview-1473585471) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-8. 🎉 Merged PR [#51](https://github.com/hbstack/meta/pull/51) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-9. ❌ Closed PR [#48](https://github.com/hbstack/meta/pull/48) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-10. ❌ Closed PR [#47](https://github.com/hbstack/meta/pull/47) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+1. 🎉 Merged PR [#94](https://github.com/hugomods/icons/pull/94) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#94](https://github.com/hugomods/icons/pull/94#pullrequestreview-1476112498) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#96](https://github.com/hugomods/icons/pull/96) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.1.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+5. 🎉 Merged PR [#57](https://github.com/hbstack/meta/pull/57) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+6. ❌ Closed PR [#50](https://github.com/hbstack/meta/pull/50) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+7. 🎉 Merged PR [#49](https://github.com/hbstack/meta/pull/49) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+8. 🎉 Merged PR [#92](https://github.com/hugomods/icons/pull/92) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 🎉 Merged PR [#56](https://github.com/hbstack/meta/pull/56) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+10. 👍 Approved [#56](https://github.com/hbstack/meta/pull/56#pullrequestreview-1473585471) in [hbstack/meta](https://github.com/hbstack/meta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
