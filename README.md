@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#9](https://github.com/hugomods/encrypt/pull/9) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-2. 🎉 Merged PR [#8](https://github.com/hugomods/encrypt/pull/8) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-3. 💪 Opened PR [#8](https://github.com/hugomods/encrypt/pull/8) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-4. ❌ Closed PR [#3](https://github.com/hugomods/encrypt/pull/3) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-5. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)<br>
-6. ✔️ Closed issue [#21](https://github.com/razonyang/blog/issues/21) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-7. 💬 Commented on [#21](https://github.com/razonyang/blog/issues/21#issuecomment-1592414984) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-8. 💬 Commented on [#29](https://github.com/hbstack/socials/issues/29#issuecomment-1591362833) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-9. 🎉 Merged PR [#180](https://github.com/hbstack/blog/pull/180) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. 🎉 Merged PR [#188](https://github.com/hbstack/blog/pull/188) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. ⭐ Starred [http-party/http-server](https://github.com/http-party/http-server)<br>
+2. 🎉 Merged PR [#9](https://github.com/hugomods/encrypt/pull/9) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+3. 🎉 Merged PR [#8](https://github.com/hugomods/encrypt/pull/8) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+4. 💪 Opened PR [#8](https://github.com/hugomods/encrypt/pull/8) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+5. ❌ Closed PR [#3](https://github.com/hugomods/encrypt/pull/3) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+6. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)<br>
+7. ✔️ Closed issue [#21](https://github.com/razonyang/blog/issues/21) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+8. 💬 Commented on [#21](https://github.com/razonyang/blog/issues/21#issuecomment-1592414984) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+9. 💬 Commented on [#29](https://github.com/hbstack/socials/issues/29#issuecomment-1591362833) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+10. 🎉 Merged PR [#180](https://github.com/hbstack/blog/pull/180) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
