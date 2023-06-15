@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)<br>
-2. ✔️ Closed issue [#21](https://github.com/razonyang/blog/issues/21) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-3. 💬 Commented on [#21](https://github.com/razonyang/blog/issues/21#issuecomment-1592414984) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-4. 💬 Commented on [#29](https://github.com/hbstack/socials/issues/29#issuecomment-1591362833) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-5. 🎉 Merged PR [#180](https://github.com/hbstack/blog/pull/180) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 🎉 Merged PR [#188](https://github.com/hbstack/blog/pull/188) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 💪 Opened PR [#188](https://github.com/hbstack/blog/pull/188) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 💬 Commented on [#29](https://github.com/hbstack/socials/issues/29#issuecomment-1591350123) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-9. ✔️ Closed issue [#29](https://github.com/hbstack/socials/issues/29) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-10. 💬 Commented on [#29](https://github.com/hbstack/socials/issues/29#issuecomment-1591275627) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+1. ❌ Closed PR [#3](https://github.com/hugomods/encrypt/pull/3) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+2. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)<br>
+3. ✔️ Closed issue [#21](https://github.com/razonyang/blog/issues/21) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+4. 💬 Commented on [#21](https://github.com/razonyang/blog/issues/21#issuecomment-1592414984) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+5. 💬 Commented on [#29](https://github.com/hbstack/socials/issues/29#issuecomment-1591362833) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+6. 🎉 Merged PR [#180](https://github.com/hbstack/blog/pull/180) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. 🎉 Merged PR [#188](https://github.com/hbstack/blog/pull/188) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 💪 Opened PR [#188](https://github.com/hbstack/blog/pull/188) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 💬 Commented on [#29](https://github.com/hbstack/socials/issues/29#issuecomment-1591350123) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+10. ✔️ Closed issue [#29](https://github.com/hbstack/socials/issues/29) in [hbstack/socials](https://github.com/hbstack/socials)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
