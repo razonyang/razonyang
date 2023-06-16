@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-2. ✔️ Closed issue [#17](https://github.com/hbstack/hb/issues/17) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-3. 💬 Commented on [#17](https://github.com/hbstack/hb/issues/17#issuecomment-1593386758) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-4. ✌️ Released [](https://github.com/hugomods/encrypt/releases/tag/v0.2.0) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-5. ⭐ Starred [http-party/http-server](https://github.com/http-party/http-server)<br>
-6. 🎉 Merged PR [#9](https://github.com/hugomods/encrypt/pull/9) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-7. 🎉 Merged PR [#8](https://github.com/hugomods/encrypt/pull/8) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-8. 💪 Opened PR [#8](https://github.com/hugomods/encrypt/pull/8) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-9. ❌ Closed PR [#3](https://github.com/hugomods/encrypt/pull/3) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-10. ⭐ Starred [schollz/croc](https://github.com/schollz/croc)<br>
+1. 💪 Opened PR [#956](https://github.com/razonyang/hugo-theme-bootstrap/pull/956) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. ⭐ Starred [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+3. ✔️ Closed issue [#17](https://github.com/hbstack/hb/issues/17) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+4. 💬 Commented on [#17](https://github.com/hbstack/hb/issues/17#issuecomment-1593386758) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+5. ✌️ Released [](https://github.com/hugomods/encrypt/releases/tag/v0.2.0) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+6. ⭐ Starred [http-party/http-server](https://github.com/http-party/http-server)<br>
+7. 🎉 Merged PR [#9](https://github.com/hugomods/encrypt/pull/9) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+8. 🎉 Merged PR [#8](https://github.com/hugomods/encrypt/pull/8) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+9. 💪 Opened PR [#8](https://github.com/hugomods/encrypt/pull/8) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+10. ❌ Closed PR [#3](https://github.com/hugomods/encrypt/pull/3) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
