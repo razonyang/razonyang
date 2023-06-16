@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#957](https://github.com/razonyang/hugo-theme-bootstrap/pull/957) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. 🎉 Merged PR [#956](https://github.com/razonyang/hugo-theme-bootstrap/pull/956) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 💪 Opened PR [#956](https://github.com/razonyang/hugo-theme-bootstrap/pull/956) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. ⭐ Starred [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-5. ✔️ Closed issue [#17](https://github.com/hbstack/hb/issues/17) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-6. 💬 Commented on [#17](https://github.com/hbstack/hb/issues/17#issuecomment-1593386758) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-7. ✌️ Released [](https://github.com/hugomods/encrypt/releases/tag/v0.2.0) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-8. ⭐ Starred [http-party/http-server](https://github.com/http-party/http-server)<br>
-9. 🎉 Merged PR [#9](https://github.com/hugomods/encrypt/pull/9) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-10. 🎉 Merged PR [#8](https://github.com/hugomods/encrypt/pull/8) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+1. ✔️ Closed issue [#22](https://github.com/hugomods/hugopress/issues/22) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+2. 🎉 Merged PR [#24](https://github.com/hugomods/hugopress/pull/24) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+3. 💪 Opened PR [#24](https://github.com/hugomods/hugopress/pull/24) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+4. 🎉 Merged PR [#957](https://github.com/razonyang/hugo-theme-bootstrap/pull/957) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 🎉 Merged PR [#956](https://github.com/razonyang/hugo-theme-bootstrap/pull/956) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💪 Opened PR [#956](https://github.com/razonyang/hugo-theme-bootstrap/pull/956) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. ⭐ Starred [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+8. ✔️ Closed issue [#17](https://github.com/hbstack/hb/issues/17) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. 💬 Commented on [#17](https://github.com/hbstack/hb/issues/17#issuecomment-1593386758) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. ✌️ Released [](https://github.com/hugomods/encrypt/releases/tag/v0.2.0) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
