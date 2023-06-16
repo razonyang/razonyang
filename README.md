@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#22](https://github.com/hugomods/hugopress/issues/22) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-2. 🎉 Merged PR [#24](https://github.com/hugomods/hugopress/pull/24) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-3. 💪 Opened PR [#24](https://github.com/hugomods/hugopress/pull/24) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-4. 🎉 Merged PR [#957](https://github.com/razonyang/hugo-theme-bootstrap/pull/957) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 🎉 Merged PR [#956](https://github.com/razonyang/hugo-theme-bootstrap/pull/956) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💪 Opened PR [#956](https://github.com/razonyang/hugo-theme-bootstrap/pull/956) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. ⭐ Starred [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-8. ✔️ Closed issue [#17](https://github.com/hbstack/hb/issues/17) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-9. 💬 Commented on [#17](https://github.com/hbstack/hb/issues/17#issuecomment-1593386758) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-10. ✌️ Released [](https://github.com/hugomods/encrypt/releases/tag/v0.2.0) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+1. ✔️ Closed issue [#21](https://github.com/hugomods/hugopress/issues/21) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+2. 💬 Commented on [#21](https://github.com/hugomods/hugopress/issues/21#issuecomment-1594034169) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+3. 🎉 Merged PR [#25](https://github.com/hugomods/hugopress/pull/25) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+4. 💪 Opened PR [#25](https://github.com/hugomods/hugopress/pull/25) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+5. ✔️ Closed issue [#22](https://github.com/hugomods/hugopress/issues/22) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+6. 🎉 Merged PR [#24](https://github.com/hugomods/hugopress/pull/24) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+7. 💪 Opened PR [#24](https://github.com/hugomods/hugopress/pull/24) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+8. 🎉 Merged PR [#957](https://github.com/razonyang/hugo-theme-bootstrap/pull/957) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 🎉 Merged PR [#956](https://github.com/razonyang/hugo-theme-bootstrap/pull/956) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 💪 Opened PR [#956](https://github.com/razonyang/hugo-theme-bootstrap/pull/956) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
