@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#137](https://github.com/hbstack/theme/issues/137#issuecomment-1597841653) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-2. 💬 Commented on [#136](https://github.com/hbstack/theme/issues/136#issuecomment-1597840468) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-3. 🎉 Merged PR [#60](https://github.com/hbstack/meta/pull/60) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-4. 🎉 Merged PR [#78](https://github.com/hbstack/meta/pull/78) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-5. 🎉 Merged PR [#70](https://github.com/hbstack/meta/pull/70) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-6. 🎉 Merged PR [#209](https://github.com/hbstack/blog/pull/209) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 🎉 Merged PR [#207](https://github.com/hbstack/blog/pull/207) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 💬 Commented on [#125](https://github.com/hbstack/blog/issues/125#issuecomment-1596943300) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 🎉 Merged PR [#102](https://github.com/hugomods/icons/pull/102) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 🎉 Merged PR [#206](https://github.com/hbstack/blog/pull/206) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. ❗️ Opened issue [#3](https://github.com/hugomods/plausible-analytics/issues/3) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
+2. ✔️ Closed issue [#136](https://github.com/hbstack/theme/issues/136) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+3. 💬 Commented on [#136](https://github.com/hbstack/theme/issues/136#issuecomment-1598000569) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+4. 🎉 Merged PR [#2](https://github.com/hugomods/plausible-analytics/pull/2) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
+5. ⭐ Starred [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
+6. 💬 Commented on [#137](https://github.com/hbstack/theme/issues/137#issuecomment-1597841653) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+7. 💬 Commented on [#136](https://github.com/hbstack/theme/issues/136#issuecomment-1597840468) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+8. 🎉 Merged PR [#60](https://github.com/hbstack/meta/pull/60) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+9. 🎉 Merged PR [#78](https://github.com/hbstack/meta/pull/78) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+10. 🎉 Merged PR [#70](https://github.com/hbstack/meta/pull/70) in [hbstack/meta](https://github.com/hbstack/meta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
