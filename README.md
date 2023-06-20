@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hugomods/recaptcha-v2](https://github.com/hugomods/recaptcha-v2)<br>
-2. ❗️ Opened issue [#3](https://github.com/hugomods/plausible-analytics/issues/3) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
-3. ✔️ Closed issue [#136](https://github.com/hbstack/theme/issues/136) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-4. 💬 Commented on [#136](https://github.com/hbstack/theme/issues/136#issuecomment-1598000569) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-5. 🎉 Merged PR [#2](https://github.com/hugomods/plausible-analytics/pull/2) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
-6. ⭐ Starred [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
-7. 💬 Commented on [#137](https://github.com/hbstack/theme/issues/137#issuecomment-1597841653) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-8. 💬 Commented on [#136](https://github.com/hbstack/theme/issues/136#issuecomment-1597840468) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-9. 🎉 Merged PR [#60](https://github.com/hbstack/meta/pull/60) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-10. 🎉 Merged PR [#78](https://github.com/hbstack/meta/pull/78) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+1. 🎉 Merged PR [#6](https://github.com/hugomods/recaptcha-v2/pull/6) in [hugomods/recaptcha-v2](https://github.com/hugomods/recaptcha-v2)<br>
+2. 🎉 Merged PR [#5](https://github.com/hugomods/recaptcha-v2/pull/5) in [hugomods/recaptcha-v2](https://github.com/hugomods/recaptcha-v2)<br>
+3. 💪 Opened PR [#5](https://github.com/hugomods/recaptcha-v2/pull/5) in [hugomods/recaptcha-v2](https://github.com/hugomods/recaptcha-v2)<br>
+4. ⭐ Starred [hugomods/recaptcha-v2](https://github.com/hugomods/recaptcha-v2)<br>
+5. ❗️ Opened issue [#3](https://github.com/hugomods/plausible-analytics/issues/3) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
+6. ✔️ Closed issue [#136](https://github.com/hbstack/theme/issues/136) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+7. 💬 Commented on [#136](https://github.com/hbstack/theme/issues/136#issuecomment-1598000569) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+8. 🎉 Merged PR [#2](https://github.com/hugomods/plausible-analytics/pull/2) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
+9. ⭐ Starred [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
+10. 💬 Commented on [#137](https://github.com/hbstack/theme/issues/137#issuecomment-1597841653) in [hbstack/theme](https://github.com/hbstack/theme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
