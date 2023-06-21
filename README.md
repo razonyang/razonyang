@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [umami-software/umami](https://github.com/umami-software/umami)<br>
-2. ⭐ Starred [plausible/analytics](https://github.com/plausible/analytics)<br>
-3. ⭐ Starred [plausible/hosting](https://github.com/plausible/hosting)<br>
-4. 🎉 Merged PR [#61](https://github.com/hbstack/meta/pull/61) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-5. 💪 Opened PR [#44](https://github.com/hugomods/docker/pull/44) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. 💬 Commented on [#43](https://github.com/hugomods/docker/issues/43#issuecomment-1598972726) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. ❗️ Opened issue [#12](https://github.com/hugomods/shortcodes/issues/12) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-8. 🎉 Merged PR [#63](https://github.com/hbstack/meta/pull/63) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-9. ❗️ Opened issue [#43](https://github.com/hugomods/docker/issues/43) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 💬 Commented on [#137](https://github.com/hbstack/theme/issues/137#issuecomment-1598429886) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+1. 🎉 Merged PR [#104](https://github.com/hugomods/icons/pull/104) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#104](https://github.com/hugomods/icons/pull/104#pullrequestreview-1490181474) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ⭐ Starred [umami-software/umami](https://github.com/umami-software/umami)<br>
+4. ⭐ Starred [plausible/analytics](https://github.com/plausible/analytics)<br>
+5. ⭐ Starred [plausible/hosting](https://github.com/plausible/hosting)<br>
+6. 🎉 Merged PR [#61](https://github.com/hbstack/meta/pull/61) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+7. 💪 Opened PR [#44](https://github.com/hugomods/docker/pull/44) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. 💬 Commented on [#43](https://github.com/hugomods/docker/issues/43#issuecomment-1598972726) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. ❗️ Opened issue [#12](https://github.com/hugomods/shortcodes/issues/12) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+10. 🎉 Merged PR [#63](https://github.com/hbstack/meta/pull/63) in [hbstack/meta](https://github.com/hbstack/meta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
