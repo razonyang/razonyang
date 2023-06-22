@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#104](https://github.com/hugomods/icons/pull/104) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#104](https://github.com/hugomods/icons/pull/104#pullrequestreview-1490181474) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ⭐ Starred [umami-software/umami](https://github.com/umami-software/umami)<br>
-4. ⭐ Starred [plausible/analytics](https://github.com/plausible/analytics)<br>
-5. ⭐ Starred [plausible/hosting](https://github.com/plausible/hosting)<br>
-6. 🎉 Merged PR [#61](https://github.com/hbstack/meta/pull/61) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-7. 💪 Opened PR [#44](https://github.com/hugomods/docker/pull/44) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. 💬 Commented on [#43](https://github.com/hugomods/docker/issues/43#issuecomment-1598972726) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. ❗️ Opened issue [#12](https://github.com/hugomods/shortcodes/issues/12) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-10. 🎉 Merged PR [#63](https://github.com/hbstack/meta/pull/63) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+1. ✔️ Closed issue [#43](https://github.com/hugomods/docker/issues/43) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. 🎉 Merged PR [#44](https://github.com/hugomods/docker/pull/44) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 🎉 Merged PR [#104](https://github.com/hugomods/icons/pull/104) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#104](https://github.com/hugomods/icons/pull/104#pullrequestreview-1490181474) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. ⭐ Starred [umami-software/umami](https://github.com/umami-software/umami)<br>
+6. ⭐ Starred [plausible/analytics](https://github.com/plausible/analytics)<br>
+7. ⭐ Starred [plausible/hosting](https://github.com/plausible/hosting)<br>
+8. 🎉 Merged PR [#61](https://github.com/hbstack/meta/pull/61) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+9. 💪 Opened PR [#44](https://github.com/hugomods/docker/pull/44) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 💬 Commented on [#43](https://github.com/hugomods/docker/issues/43#issuecomment-1598972726) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
