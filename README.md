@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#40](https://github.com/hugomods/bootstrap/pull/40) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 💪 Opened PR [#40](https://github.com/hugomods/bootstrap/pull/40) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. ⭐ Starred [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)<br>
-4. ❗️ Opened issue [#45](https://github.com/hugomods/docker/issues/45) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. ✔️ Closed issue [#43](https://github.com/hugomods/docker/issues/43) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. 🎉 Merged PR [#44](https://github.com/hugomods/docker/pull/44) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. 🎉 Merged PR [#104](https://github.com/hugomods/icons/pull/104) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 👍 Approved [#104](https://github.com/hugomods/icons/pull/104#pullrequestreview-1490181474) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. ⭐ Starred [umami-software/umami](https://github.com/umami-software/umami)<br>
-10. ⭐ Starred [plausible/analytics](https://github.com/plausible/analytics)<br>
+1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.3.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+2. 🎉 Merged PR [#40](https://github.com/hugomods/bootstrap/pull/40) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+3. 💪 Opened PR [#40](https://github.com/hugomods/bootstrap/pull/40) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. ⭐ Starred [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver)<br>
+5. ❗️ Opened issue [#45](https://github.com/hugomods/docker/issues/45) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. ✔️ Closed issue [#43](https://github.com/hugomods/docker/issues/43) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 🎉 Merged PR [#44](https://github.com/hugomods/docker/pull/44) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. 🎉 Merged PR [#104](https://github.com/hugomods/icons/pull/104) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 👍 Approved [#104](https://github.com/hugomods/icons/pull/104#pullrequestreview-1490181474) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. ⭐ Starred [umami-software/umami](https://github.com/umami-software/umami)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
