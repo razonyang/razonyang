@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)<br>
-2. 🎉 Merged PR [#43](https://github.com/hugomods/bootstrap/pull/43) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 💪 Opened PR [#43](https://github.com/hugomods/bootstrap/pull/43) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 🎉 Merged PR [#113](https://github.com/hugomods/icons/pull/113) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 🎉 Merged PR [#960](https://github.com/razonyang/hugo-theme-bootstrap/pull/960) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💬 Commented on [#959](https://github.com/razonyang/hugo-theme-bootstrap/pull/959#issuecomment-1610059845) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 🎉 Merged PR [#959](https://github.com/razonyang/hugo-theme-bootstrap/pull/959) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 👍 Approved [#959](https://github.com/razonyang/hugo-theme-bootstrap/pull/959#pullrequestreview-1501651349) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 🎉 Merged PR [#958](https://github.com/razonyang/hugo-theme-bootstrap/pull/958) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 👍 Approved [#958](https://github.com/razonyang/hugo-theme-bootstrap/pull/958#pullrequestreview-1501621977) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#154](https://github.com/hugomods/search/pull/154) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. ✔️ Closed issue [#152](https://github.com/hugomods/search/issues/152) in [hugomods/search](https://github.com/hugomods/search)<br>
+3. 🎉 Merged PR [#153](https://github.com/hugomods/search/pull/153) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 💪 Opened PR [#153](https://github.com/hugomods/search/pull/153) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. ❗️ Opened issue [#152](https://github.com/hugomods/search/issues/152) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. ⭐ Starred [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)<br>
+7. 🎉 Merged PR [#43](https://github.com/hugomods/bootstrap/pull/43) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+8. 💪 Opened PR [#43](https://github.com/hugomods/bootstrap/pull/43) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. 🎉 Merged PR [#113](https://github.com/hugomods/icons/pull/113) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 🎉 Merged PR [#960](https://github.com/razonyang/hugo-theme-bootstrap/pull/960) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
