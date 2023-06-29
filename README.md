@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#44](https://github.com/hugomods/bootstrap/pull/44) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 💪 Opened PR [#44](https://github.com/hugomods/bootstrap/pull/44) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 🎉 Merged PR [#154](https://github.com/hugomods/search/pull/154) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. ✔️ Closed issue [#152](https://github.com/hugomods/search/issues/152) in [hugomods/search](https://github.com/hugomods/search)<br>
-5. 🎉 Merged PR [#153](https://github.com/hugomods/search/pull/153) in [hugomods/search](https://github.com/hugomods/search)<br>
-6. 💪 Opened PR [#153](https://github.com/hugomods/search/pull/153) in [hugomods/search](https://github.com/hugomods/search)<br>
-7. ❗️ Opened issue [#152](https://github.com/hugomods/search/issues/152) in [hugomods/search](https://github.com/hugomods/search)<br>
-8. ⭐ Starred [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)<br>
-9. 🎉 Merged PR [#43](https://github.com/hugomods/bootstrap/pull/43) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-10. 💪 Opened PR [#43](https://github.com/hugomods/bootstrap/pull/43) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+1. 🎉 Merged PR [#14](https://github.com/hugomods/shortcodes/pull/14) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+2. 🎉 Merged PR [#13](https://github.com/hugomods/shortcodes/pull/13) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+3. 💪 Opened PR [#13](https://github.com/hugomods/shortcodes/pull/13) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+4. 🎉 Merged PR [#44](https://github.com/hugomods/bootstrap/pull/44) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 💪 Opened PR [#44](https://github.com/hugomods/bootstrap/pull/44) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+6. 🎉 Merged PR [#154](https://github.com/hugomods/search/pull/154) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. ✔️ Closed issue [#152](https://github.com/hugomods/search/issues/152) in [hugomods/search](https://github.com/hugomods/search)<br>
+8. 🎉 Merged PR [#153](https://github.com/hugomods/search/pull/153) in [hugomods/search](https://github.com/hugomods/search)<br>
+9. 💪 Opened PR [#153](https://github.com/hugomods/search/pull/153) in [hugomods/search](https://github.com/hugomods/search)<br>
+10. ❗️ Opened issue [#152](https://github.com/hugomods/search/issues/152) in [hugomods/search](https://github.com/hugomods/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
