@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#3](https://github.com/hugomods/images/issues/3) in [hugomods/images](https://github.com/hugomods/images)<br>
-2. ✔️ Closed issue [#7](https://github.com/hugomods/images/issues/7) in [hugomods/images](https://github.com/hugomods/images)<br>
-3. 🎉 Merged PR [#4](https://github.com/hugomods/google-analytics/pull/4) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
-4. 🎉 Merged PR [#7](https://github.com/hugomods/plausible-analytics/pull/7) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
-5. 🎉 Merged PR [#3](https://github.com/hugomods/google-analytics/pull/3) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
-6. 💪 Opened PR [#3](https://github.com/hugomods/google-analytics/pull/3) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
-7. ✔️ Closed issue [#3](https://github.com/hugomods/plausible-analytics/issues/3) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
-8. 🎉 Merged PR [#6](https://github.com/hugomods/plausible-analytics/pull/6) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
-9. 💪 Opened PR [#6](https://github.com/hugomods/plausible-analytics/pull/6) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
-10. ❗️ Opened issue [#46](https://github.com/hugomods/docker/issues/46) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. 🎉 Merged PR [#11](https://github.com/hugomods/images/pull/11) in [hugomods/images](https://github.com/hugomods/images)<br>
+2. 🎉 Merged PR [#10](https://github.com/hugomods/images/pull/10) in [hugomods/images](https://github.com/hugomods/images)<br>
+3. 💪 Opened PR [#10](https://github.com/hugomods/images/pull/10) in [hugomods/images](https://github.com/hugomods/images)<br>
+4. ✔️ Closed issue [#3](https://github.com/hugomods/images/issues/3) in [hugomods/images](https://github.com/hugomods/images)<br>
+5. ✔️ Closed issue [#7](https://github.com/hugomods/images/issues/7) in [hugomods/images](https://github.com/hugomods/images)<br>
+6. 🎉 Merged PR [#4](https://github.com/hugomods/google-analytics/pull/4) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
+7. 🎉 Merged PR [#7](https://github.com/hugomods/plausible-analytics/pull/7) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
+8. 🎉 Merged PR [#3](https://github.com/hugomods/google-analytics/pull/3) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
+9. 💪 Opened PR [#3](https://github.com/hugomods/google-analytics/pull/3) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
+10. ✔️ Closed issue [#3](https://github.com/hugomods/plausible-analytics/issues/3) in [hugomods/plausible-analytics](https://github.com/hugomods/plausible-analytics)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
