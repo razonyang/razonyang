@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#116](https://github.com/hugomods/icons/pull/116) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#116](https://github.com/hugomods/icons/pull/116#pullrequestreview-1509551516) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-4. ⭐ Starred [k3d-io/k3d](https://github.com/k3d-io/k3d)<br>
-5. ❗️ Opened issue [#2900](https://github.com/anuraghazra/github-readme-stats/issues/2900) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
-6. 🎉 Merged PR [#11](https://github.com/hugomods/images/pull/11) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. 🎉 Merged PR [#10](https://github.com/hugomods/images/pull/10) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. 💪 Opened PR [#10](https://github.com/hugomods/images/pull/10) in [hugomods/images](https://github.com/hugomods/images)<br>
-9. ✔️ Closed issue [#3](https://github.com/hugomods/images/issues/3) in [hugomods/images](https://github.com/hugomods/images)<br>
-10. ✔️ Closed issue [#7](https://github.com/hugomods/images/issues/7) in [hugomods/images](https://github.com/hugomods/images)<br>
+1. 🎉 Merged PR [#118](https://github.com/hugomods/icons/pull/118) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 🎉 Merged PR [#116](https://github.com/hugomods/icons/pull/116) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#116](https://github.com/hugomods/icons/pull/116#pullrequestreview-1509551516) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+5. ⭐ Starred [k3d-io/k3d](https://github.com/k3d-io/k3d)<br>
+6. ❗️ Opened issue [#2900](https://github.com/anuraghazra/github-readme-stats/issues/2900) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
+7. 🎉 Merged PR [#11](https://github.com/hugomods/images/pull/11) in [hugomods/images](https://github.com/hugomods/images)<br>
+8. 🎉 Merged PR [#10](https://github.com/hugomods/images/pull/10) in [hugomods/images](https://github.com/hugomods/images)<br>
+9. 💪 Opened PR [#10](https://github.com/hugomods/images/pull/10) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. ✔️ Closed issue [#3](https://github.com/hugomods/images/issues/3) in [hugomods/images](https://github.com/hugomods/images)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
