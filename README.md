@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#118](https://github.com/hugomods/icons/pull/118) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 🎉 Merged PR [#116](https://github.com/hugomods/icons/pull/116) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#116](https://github.com/hugomods/icons/pull/116#pullrequestreview-1509551516) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-5. ⭐ Starred [k3d-io/k3d](https://github.com/k3d-io/k3d)<br>
-6. ❗️ Opened issue [#2900](https://github.com/anuraghazra/github-readme-stats/issues/2900) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
-7. 🎉 Merged PR [#11](https://github.com/hugomods/images/pull/11) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. 🎉 Merged PR [#10](https://github.com/hugomods/images/pull/10) in [hugomods/images](https://github.com/hugomods/images)<br>
-9. 💪 Opened PR [#10](https://github.com/hugomods/images/pull/10) in [hugomods/images](https://github.com/hugomods/images)<br>
-10. ✔️ Closed issue [#3](https://github.com/hugomods/images/issues/3) in [hugomods/images](https://github.com/hugomods/images)<br>
+1. 🎉 Merged PR [#47](https://github.com/hugomods/bootstrap/pull/47) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. 💪 Opened PR [#47](https://github.com/hugomods/bootstrap/pull/47) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+3. 🎉 Merged PR [#118](https://github.com/hugomods/icons/pull/118) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 🎉 Merged PR [#116](https://github.com/hugomods/icons/pull/116) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 👍 Approved [#116](https://github.com/hugomods/icons/pull/116#pullrequestreview-1509551516) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+7. ⭐ Starred [k3d-io/k3d](https://github.com/k3d-io/k3d)<br>
+8. ❗️ Opened issue [#2900](https://github.com/anuraghazra/github-readme-stats/issues/2900) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
+9. 🎉 Merged PR [#11](https://github.com/hugomods/images/pull/11) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. 🎉 Merged PR [#10](https://github.com/hugomods/images/pull/10) in [hugomods/images](https://github.com/hugomods/images)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
