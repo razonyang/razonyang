@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/razonyang/github-org-contributors-action/issues/1) in [razonyang/github-org-contributors-action](https://github.com/razonyang/github-org-contributors-action)<br>
-2. ⭐ Starred [razonyang/github-org-contributors-action](https://github.com/razonyang/github-org-contributors-action)<br>
-3. 💬 Commented on [#2900](https://github.com/anuraghazra/github-readme-stats/issues/2900#issuecomment-1617571596) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
-4. 🎉 Merged PR [#48](https://github.com/hugomods/bootstrap/pull/48) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. 💪 Opened PR [#48](https://github.com/hugomods/bootstrap/pull/48) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-6. 🎉 Merged PR [#13](https://github.com/hugomods/images/pull/13) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. 🎉 Merged PR [#12](https://github.com/hugomods/images/pull/12) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. 💪 Opened PR [#12](https://github.com/hugomods/images/pull/12) in [hugomods/images](https://github.com/hugomods/images)<br>
-9. 🎉 Merged PR [#120](https://github.com/hugomods/icons/pull/120) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 🎉 Merged PR [#47](https://github.com/hugomods/bootstrap/pull/47) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+1. ✔️ Closed issue [#36](https://github.com/hugomods/bootstrap/issues/36) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. ✔️ Closed issue [#46](https://github.com/hugomods/bootstrap/issues/46) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+3. ❗️ Opened issue [#1](https://github.com/razonyang/github-org-contributors-action/issues/1) in [razonyang/github-org-contributors-action](https://github.com/razonyang/github-org-contributors-action)<br>
+4. ⭐ Starred [razonyang/github-org-contributors-action](https://github.com/razonyang/github-org-contributors-action)<br>
+5. 💬 Commented on [#2900](https://github.com/anuraghazra/github-readme-stats/issues/2900#issuecomment-1617571596) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
+6. 🎉 Merged PR [#48](https://github.com/hugomods/bootstrap/pull/48) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+7. 💪 Opened PR [#48](https://github.com/hugomods/bootstrap/pull/48) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+8. 🎉 Merged PR [#13](https://github.com/hugomods/images/pull/13) in [hugomods/images](https://github.com/hugomods/images)<br>
+9. 🎉 Merged PR [#12](https://github.com/hugomods/images/pull/12) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. 💪 Opened PR [#12](https://github.com/hugomods/images/pull/12) in [hugomods/images](https://github.com/hugomods/images)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
