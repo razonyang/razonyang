@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#166](https://github.com/hbstack/docs/pull/166) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. 💪 Opened PR [#166](https://github.com/hbstack/docs/pull/166) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-3. 🎉 Merged PR [#18](https://github.com/hugomods/shortcodes/pull/18) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-4. 🎉 Merged PR [#17](https://github.com/hugomods/shortcodes/pull/17) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-5. 💪 Opened PR [#17](https://github.com/hugomods/shortcodes/pull/17) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-6. 💪 Opened PR [#49](https://github.com/hugomods/bootstrap/pull/49) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-7. 🎉 Merged PR [#41](https://github.com/hugomods/bootstrap/pull/41) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-8. ✔️ Closed issue [#36](https://github.com/hugomods/bootstrap/issues/36) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-9. ✔️ Closed issue [#46](https://github.com/hugomods/bootstrap/issues/46) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-10. ❗️ Opened issue [#1](https://github.com/razonyang/github-org-contributors-action/issues/1) in [razonyang/github-org-contributors-action](https://github.com/razonyang/github-org-contributors-action)<br>
+1. 🎉 Merged PR [#134](https://github.com/hbstack/docs/pull/134) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. 🎉 Merged PR [#168](https://github.com/hbstack/docs/pull/168) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. 💪 Opened PR [#168](https://github.com/hbstack/docs/pull/168) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. 🎉 Merged PR [#167](https://github.com/hbstack/docs/pull/167) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+5. 💪 Opened PR [#167](https://github.com/hbstack/docs/pull/167) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+6. 🎉 Merged PR [#166](https://github.com/hbstack/docs/pull/166) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+7. 💪 Opened PR [#166](https://github.com/hbstack/docs/pull/166) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. 🎉 Merged PR [#18](https://github.com/hugomods/shortcodes/pull/18) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+9. 🎉 Merged PR [#17](https://github.com/hugomods/shortcodes/pull/17) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+10. 💪 Opened PR [#17](https://github.com/hugomods/shortcodes/pull/17) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
