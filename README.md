@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#88](https://github.com/hbstack/meta/pull/88) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-2. 🎉 Merged PR [#107](https://github.com/hbstack/meta/pull/107) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-3. 🎉 Merged PR [#86](https://github.com/hbstack/meta/pull/86) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-4. 🎉 Merged PR [#104](https://github.com/hbstack/meta/pull/104) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-5. 🎉 Merged PR [#89](https://github.com/hbstack/meta/pull/89) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-6. ❗️ Opened issue [#11205](https://github.com/gohugoio/hugo/issues/11205) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-7. 💪 Opened PR [#2124](https://github.com/gohugoio/hugoDocs/pull/2124) in [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)<br>
-8. 🎉 Merged PR [#169](https://github.com/hbstack/docs/pull/169) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-9. 🎉 Merged PR [#134](https://github.com/hbstack/docs/pull/134) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-10. 🎉 Merged PR [#168](https://github.com/hbstack/docs/pull/168) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. 💬 Commented on [#6275](https://github.com/badges/shields/issues/6275#issuecomment-1620397168) in [badges/shields](https://github.com/badges/shields)<br>
+2. 🎉 Merged PR [#172](https://github.com/hbstack/docs/pull/172) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. 🎉 Merged PR [#171](https://github.com/hbstack/docs/pull/171) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. 💪 Opened PR [#171](https://github.com/hbstack/docs/pull/171) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+5. 🎉 Merged PR [#88](https://github.com/hbstack/meta/pull/88) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+6. 🎉 Merged PR [#107](https://github.com/hbstack/meta/pull/107) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+7. 🎉 Merged PR [#86](https://github.com/hbstack/meta/pull/86) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+8. 🎉 Merged PR [#104](https://github.com/hbstack/meta/pull/104) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+9. 🎉 Merged PR [#89](https://github.com/hbstack/meta/pull/89) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+10. ❗️ Opened issue [#11205](https://github.com/gohugoio/hugo/issues/11205) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
