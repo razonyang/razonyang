@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#45](https://github.com/hugomods/docker/issues/45) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 🎉 Merged PR [#47](https://github.com/hugomods/docker/pull/47) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 💪 Opened PR [#47](https://github.com/hugomods/docker/pull/47) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 💬 Commented on [#6275](https://github.com/badges/shields/issues/6275#issuecomment-1620397168) in [badges/shields](https://github.com/badges/shields)<br>
-5. 🎉 Merged PR [#172](https://github.com/hbstack/docs/pull/172) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-6. 🎉 Merged PR [#171](https://github.com/hbstack/docs/pull/171) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-7. 💪 Opened PR [#171](https://github.com/hbstack/docs/pull/171) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-8. 🎉 Merged PR [#88](https://github.com/hbstack/meta/pull/88) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-9. 🎉 Merged PR [#107](https://github.com/hbstack/meta/pull/107) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-10. 🎉 Merged PR [#86](https://github.com/hbstack/meta/pull/86) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+1. ⭐ Starred [knadh/listmonk](https://github.com/knadh/listmonk)<br>
+2. ⭐ Starred [mautic/mautic](https://github.com/mautic/mautic)<br>
+3. ✔️ Closed issue [#45](https://github.com/hugomods/docker/issues/45) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. 🎉 Merged PR [#47](https://github.com/hugomods/docker/pull/47) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+5. 💪 Opened PR [#47](https://github.com/hugomods/docker/pull/47) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 💬 Commented on [#6275](https://github.com/badges/shields/issues/6275#issuecomment-1620397168) in [badges/shields](https://github.com/badges/shields)<br>
+7. 🎉 Merged PR [#172](https://github.com/hbstack/docs/pull/172) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. 🎉 Merged PR [#171](https://github.com/hbstack/docs/pull/171) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+9. 💪 Opened PR [#171](https://github.com/hbstack/docs/pull/171) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+10. 🎉 Merged PR [#88](https://github.com/hbstack/meta/pull/88) in [hbstack/meta](https://github.com/hbstack/meta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
