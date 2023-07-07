@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)<br>
-2. ❗️ Opened issue [#111](https://github.com/hbstack/header/issues/111) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 🎉 Merged PR [#109](https://github.com/hbstack/header/pull/109) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. ❌ Closed PR [#80](https://github.com/hbstack/header/pull/80) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. ✔️ Closed issue [#107](https://github.com/hbstack/header/issues/107) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. 🎉 Merged PR [#108](https://github.com/hbstack/header/pull/108) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. 💪 Opened PR [#108](https://github.com/hbstack/header/pull/108) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. ❗️ Opened issue [#107](https://github.com/hbstack/header/issues/107) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. ⭐ Starred [knadh/listmonk](https://github.com/knadh/listmonk)<br>
-10. ⭐ Starred [mautic/mautic](https://github.com/mautic/mautic)<br>
+1. 🎉 Merged PR [#125](https://github.com/hugomods/icons/pull/125) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 🎉 Merged PR [#123](https://github.com/hugomods/icons/pull/123) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)<br>
+4. ❗️ Opened issue [#111](https://github.com/hbstack/header/issues/111) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 🎉 Merged PR [#109](https://github.com/hbstack/header/pull/109) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. ❌ Closed PR [#80](https://github.com/hbstack/header/pull/80) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. ✔️ Closed issue [#107](https://github.com/hbstack/header/issues/107) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. 🎉 Merged PR [#108](https://github.com/hbstack/header/pull/108) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 💪 Opened PR [#108](https://github.com/hbstack/header/pull/108) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. ❗️ Opened issue [#107](https://github.com/hbstack/header/issues/107) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
