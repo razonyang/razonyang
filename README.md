@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.5.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-2. ⭐ Starred [alajmo/mani](https://github.com/alajmo/mani)<br>
-3. ⭐ Starred [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)<br>
-4. 🎉 Merged PR [#125](https://github.com/hugomods/icons/pull/125) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 🎉 Merged PR [#123](https://github.com/hugomods/icons/pull/123) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)<br>
-7. ❗️ Opened issue [#111](https://github.com/hbstack/header/issues/111) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 🎉 Merged PR [#109](https://github.com/hbstack/header/pull/109) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. ❌ Closed PR [#80](https://github.com/hbstack/header/pull/80) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. ✔️ Closed issue [#107](https://github.com/hbstack/header/issues/107) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#127](https://github.com/hugomods/icons/pull/127) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.5.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+3. ⭐ Starred [alajmo/mani](https://github.com/alajmo/mani)<br>
+4. ⭐ Starred [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)<br>
+5. 🎉 Merged PR [#125](https://github.com/hugomods/icons/pull/125) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 🎉 Merged PR [#123](https://github.com/hugomods/icons/pull/123) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)<br>
+8. ❗️ Opened issue [#111](https://github.com/hbstack/header/issues/111) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 🎉 Merged PR [#109](https://github.com/hbstack/header/pull/109) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. ❌ Closed PR [#80](https://github.com/hbstack/header/pull/80) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
