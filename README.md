@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#111](https://github.com/hbstack/header/issues/111) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 💬 Commented on [#111](https://github.com/hbstack/header/issues/111#issuecomment-1628579345) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 🎉 Merged PR [#115](https://github.com/hbstack/header/pull/115) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. 💪 Opened PR [#115](https://github.com/hbstack/header/pull/115) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. 🎉 Merged PR [#114](https://github.com/hbstack/header/pull/114) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. 💪 Opened PR [#114](https://github.com/hbstack/header/pull/114) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. ⭐ Starred [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)<br>
-8. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
-9. ⭐ Starred [netlify/gocommerce](https://github.com/netlify/gocommerce)<br>
-10. 🎉 Merged PR [#127](https://github.com/hugomods/icons/pull/127) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#116](https://github.com/hbstack/header/pull/116) in [hbstack/header](https://github.com/hbstack/header)<br>
+2. 💪 Opened PR [#116](https://github.com/hbstack/header/pull/116) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. ✔️ Closed issue [#111](https://github.com/hbstack/header/issues/111) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 💬 Commented on [#111](https://github.com/hbstack/header/issues/111#issuecomment-1628579345) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 🎉 Merged PR [#115](https://github.com/hbstack/header/pull/115) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. 💪 Opened PR [#115](https://github.com/hbstack/header/pull/115) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 🎉 Merged PR [#114](https://github.com/hbstack/header/pull/114) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. 💪 Opened PR [#114](https://github.com/hbstack/header/pull/114) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. ⭐ Starred [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)<br>
+10. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
