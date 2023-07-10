@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#114](https://github.com/hbstack/header/pull/114) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 💪 Opened PR [#114](https://github.com/hbstack/header/pull/114) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. ⭐ Starred [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)<br>
-4. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
-5. ⭐ Starred [netlify/gocommerce](https://github.com/netlify/gocommerce)<br>
-6. 🎉 Merged PR [#127](https://github.com/hugomods/icons/pull/127) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.5.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-8. ⭐ Starred [alajmo/mani](https://github.com/alajmo/mani)<br>
-9. ⭐ Starred [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)<br>
-10. 🎉 Merged PR [#125](https://github.com/hugomods/icons/pull/125) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#115](https://github.com/hbstack/header/pull/115) in [hbstack/header](https://github.com/hbstack/header)<br>
+2. 💪 Opened PR [#115](https://github.com/hbstack/header/pull/115) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. 🎉 Merged PR [#114](https://github.com/hbstack/header/pull/114) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 💪 Opened PR [#114](https://github.com/hbstack/header/pull/114) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. ⭐ Starred [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)<br>
+6. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
+7. ⭐ Starred [netlify/gocommerce](https://github.com/netlify/gocommerce)<br>
+8. 🎉 Merged PR [#127](https://github.com/hugomods/icons/pull/127) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.5.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+10. ⭐ Starred [alajmo/mani](https://github.com/alajmo/mani)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
