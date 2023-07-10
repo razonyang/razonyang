@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
-2. ⭐ Starred [netlify/gocommerce](https://github.com/netlify/gocommerce)<br>
-3. 🎉 Merged PR [#127](https://github.com/hugomods/icons/pull/127) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.5.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-5. ⭐ Starred [alajmo/mani](https://github.com/alajmo/mani)<br>
-6. ⭐ Starred [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)<br>
-7. 🎉 Merged PR [#125](https://github.com/hugomods/icons/pull/125) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 🎉 Merged PR [#123](https://github.com/hugomods/icons/pull/123) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)<br>
-10. ❗️ Opened issue [#111](https://github.com/hbstack/header/issues/111) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. ⭐ Starred [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)<br>
+2. ⭐ Starred [medusajs/medusa](https://github.com/medusajs/medusa)<br>
+3. ⭐ Starred [netlify/gocommerce](https://github.com/netlify/gocommerce)<br>
+4. 🎉 Merged PR [#127](https://github.com/hugomods/icons/pull/127) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.5.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+6. ⭐ Starred [alajmo/mani](https://github.com/alajmo/mani)<br>
+7. ⭐ Starred [Foundry376/Mailspring](https://github.com/Foundry376/Mailspring)<br>
+8. 🎉 Merged PR [#125](https://github.com/hugomods/icons/pull/125) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 🎉 Merged PR [#123](https://github.com/hugomods/icons/pull/123) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. ⭐ Starred [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
