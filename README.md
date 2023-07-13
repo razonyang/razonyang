@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [keeweb/keeweb](https://github.com/keeweb/keeweb)<br>
-2. ❗️ Opened issue [#50](https://github.com/hbstack/socials/issues/50) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-3. 🎉 Merged PR [#240](https://github.com/hbstack/blog/pull/240) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 💪 Opened PR [#240](https://github.com/hbstack/blog/pull/240) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 🎉 Merged PR [#238](https://github.com/hbstack/blog/pull/238) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. ❗️ Opened issue [#239](https://github.com/hbstack/blog/issues/239) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 💪 Opened PR [#238](https://github.com/hbstack/blog/pull/238) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 🎉 Merged PR [#129](https://github.com/hugomods/icons/pull/129) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#129](https://github.com/hugomods/icons/pull/129#pullrequestreview-1527438906) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 💪 Opened PR [#3064](https://github.com/SchemaStore/schemastore/pull/3064) in [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore)<br>
+1. ⭐ Starred [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)<br>
+2. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)<br>
+3. ⭐ Starred [haiwen/seafile](https://github.com/haiwen/seafile)<br>
+4. ⭐ Starred [keeweb/keeweb](https://github.com/keeweb/keeweb)<br>
+5. ❗️ Opened issue [#50](https://github.com/hbstack/socials/issues/50) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+6. 🎉 Merged PR [#240](https://github.com/hbstack/blog/pull/240) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. 💪 Opened PR [#240](https://github.com/hbstack/blog/pull/240) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 🎉 Merged PR [#238](https://github.com/hbstack/blog/pull/238) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. ❗️ Opened issue [#239](https://github.com/hbstack/blog/issues/239) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. 💪 Opened PR [#238](https://github.com/hbstack/blog/pull/238) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
