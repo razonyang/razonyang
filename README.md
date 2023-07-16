@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.6.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-2. 🎉 Merged PR [#249](https://github.com/hbstack/blog/pull/249) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 🎉 Merged PR [#131](https://github.com/hugomods/icons/pull/131) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#131](https://github.com/hugomods/icons/pull/131#pullrequestreview-1529301453) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. ⭐ Starred [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)<br>
-6. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)<br>
-7. ⭐ Starred [haiwen/seafile](https://github.com/haiwen/seafile)<br>
-8. ⭐ Starred [keeweb/keeweb](https://github.com/keeweb/keeweb)<br>
-9. ❗️ Opened issue [#50](https://github.com/hbstack/socials/issues/50) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-10. 🎉 Merged PR [#240](https://github.com/hbstack/blog/pull/240) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 🎉 Merged PR [#108](https://github.com/hbstack/meta/pull/108) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+2. 👍 Approved [#108](https://github.com/hbstack/meta/pull/108#pullrequestreview-1531687880) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+3. 🎉 Merged PR [#133](https://github.com/hugomods/icons/pull/133) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.6.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+5. 🎉 Merged PR [#249](https://github.com/hbstack/blog/pull/249) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 🎉 Merged PR [#131](https://github.com/hugomods/icons/pull/131) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 👍 Approved [#131](https://github.com/hugomods/icons/pull/131#pullrequestreview-1529301453) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. ⭐ Starred [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)<br>
+9. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)<br>
+10. ⭐ Starred [haiwen/seafile](https://github.com/haiwen/seafile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
