@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#108](https://github.com/hbstack/meta/pull/108) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-2. 👍 Approved [#108](https://github.com/hbstack/meta/pull/108#pullrequestreview-1531687880) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-3. 🎉 Merged PR [#133](https://github.com/hugomods/icons/pull/133) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.6.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-5. 🎉 Merged PR [#249](https://github.com/hbstack/blog/pull/249) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 🎉 Merged PR [#131](https://github.com/hugomods/icons/pull/131) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 👍 Approved [#131](https://github.com/hugomods/icons/pull/131#pullrequestreview-1529301453) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. ⭐ Starred [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)<br>
-9. ⭐ Starred [rclone/rclone](https://github.com/rclone/rclone)<br>
-10. ⭐ Starred [haiwen/seafile](https://github.com/haiwen/seafile)<br>
+1. 🎉 Merged PR [#111](https://github.com/hbstack/meta/pull/111) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+2. 👍 Approved [#111](https://github.com/hbstack/meta/pull/111#pullrequestreview-1531827865) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+3. 🎉 Merged PR [#108](https://github.com/hbstack/meta/pull/108) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+4. 👍 Approved [#108](https://github.com/hbstack/meta/pull/108#pullrequestreview-1531687880) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+5. 🎉 Merged PR [#133](https://github.com/hugomods/icons/pull/133) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.6.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+7. 🎉 Merged PR [#249](https://github.com/hbstack/blog/pull/249) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 🎉 Merged PR [#131](https://github.com/hugomods/icons/pull/131) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 👍 Approved [#131](https://github.com/hugomods/icons/pull/131#pullrequestreview-1529301453) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. ⭐ Starred [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
