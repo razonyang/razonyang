@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#139](https://github.com/hbstack/header/pull/139) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. ❌ Closed PR [#140](https://github.com/hbstack/header/pull/140) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. ❌ Closed PR [#138](https://github.com/hbstack/header/pull/138) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. ❌ Closed PR [#132](https://github.com/hbstack/header/pull/132) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. ❌ Closed PR [#120](https://github.com/hbstack/header/pull/120) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. ❌ Closed PR [#119](https://github.com/hbstack/header/pull/119) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. ❌ Closed PR [#118](https://github.com/hbstack/header/pull/118) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 🎉 Merged PR [#141](https://github.com/hbstack/header/pull/141) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 👍 Approved [#141](https://github.com/hbstack/header/pull/141#pullrequestreview-1535438905) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 🎉 Merged PR [#124](https://github.com/hbstack/header/pull/124) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 💬 Commented on [#72](https://github.com/eggplants/ghcr-badge/issues/72#issuecomment-1641744807) in [eggplants/ghcr-badge](https://github.com/eggplants/ghcr-badge)<br>
+2. ❌ Closed PR [#139](https://github.com/hbstack/header/pull/139) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. ❌ Closed PR [#140](https://github.com/hbstack/header/pull/140) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. ❌ Closed PR [#138](https://github.com/hbstack/header/pull/138) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. ❌ Closed PR [#132](https://github.com/hbstack/header/pull/132) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. ❌ Closed PR [#120](https://github.com/hbstack/header/pull/120) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. ❌ Closed PR [#119](https://github.com/hbstack/header/pull/119) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. ❌ Closed PR [#118](https://github.com/hbstack/header/pull/118) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 🎉 Merged PR [#141](https://github.com/hbstack/header/pull/141) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 👍 Approved [#141](https://github.com/hbstack/header/pull/141#pullrequestreview-1535438905) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
