@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)<br>
-2. 💬 Commented on [#72](https://github.com/eggplants/ghcr-badge/issues/72#issuecomment-1641744807) in [eggplants/ghcr-badge](https://github.com/eggplants/ghcr-badge)<br>
-3. ❌ Closed PR [#139](https://github.com/hbstack/header/pull/139) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. ❌ Closed PR [#140](https://github.com/hbstack/header/pull/140) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. ❌ Closed PR [#138](https://github.com/hbstack/header/pull/138) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. ❌ Closed PR [#132](https://github.com/hbstack/header/pull/132) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. ❌ Closed PR [#120](https://github.com/hbstack/header/pull/120) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. ❌ Closed PR [#119](https://github.com/hbstack/header/pull/119) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. ❌ Closed PR [#118](https://github.com/hbstack/header/pull/118) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 🎉 Merged PR [#141](https://github.com/hbstack/header/pull/141) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🔱 Forked [razonyang/Getting-Started-With-ACPI](https://github.com/razonyang/Getting-Started-With-ACPI) from [dortania/Getting-Started-With-ACPI](https://github.com/dortania/Getting-Started-With-ACPI)<br>
+2. ⭐ Starred [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)<br>
+3. 💬 Commented on [#72](https://github.com/eggplants/ghcr-badge/issues/72#issuecomment-1641744807) in [eggplants/ghcr-badge](https://github.com/eggplants/ghcr-badge)<br>
+4. ❌ Closed PR [#139](https://github.com/hbstack/header/pull/139) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. ❌ Closed PR [#140](https://github.com/hbstack/header/pull/140) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. ❌ Closed PR [#138](https://github.com/hbstack/header/pull/138) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. ❌ Closed PR [#132](https://github.com/hbstack/header/pull/132) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. ❌ Closed PR [#120](https://github.com/hbstack/header/pull/120) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. ❌ Closed PR [#119](https://github.com/hbstack/header/pull/119) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. ❌ Closed PR [#118](https://github.com/hbstack/header/pull/118) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
