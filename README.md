@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [razonyang/Getting-Started-With-ACPI](https://github.com/razonyang/Getting-Started-With-ACPI) from [dortania/Getting-Started-With-ACPI](https://github.com/dortania/Getting-Started-With-ACPI)<br>
-2. ⭐ Starred [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)<br>
-3. 💬 Commented on [#72](https://github.com/eggplants/ghcr-badge/issues/72#issuecomment-1641744807) in [eggplants/ghcr-badge](https://github.com/eggplants/ghcr-badge)<br>
-4. ❌ Closed PR [#139](https://github.com/hbstack/header/pull/139) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. ❌ Closed PR [#140](https://github.com/hbstack/header/pull/140) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. ❌ Closed PR [#138](https://github.com/hbstack/header/pull/138) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. ❌ Closed PR [#132](https://github.com/hbstack/header/pull/132) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. ❌ Closed PR [#120](https://github.com/hbstack/header/pull/120) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. ❌ Closed PR [#119](https://github.com/hbstack/header/pull/119) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. ❌ Closed PR [#118](https://github.com/hbstack/header/pull/118) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#139](https://github.com/hugomods/icons/pull/139) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#139](https://github.com/hugomods/icons/pull/139#pullrequestreview-1539371416) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#137](https://github.com/hugomods/icons/pull/137) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#137](https://github.com/hugomods/icons/pull/137#pullrequestreview-1539370686) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 🔱 Forked [razonyang/Getting-Started-With-ACPI](https://github.com/razonyang/Getting-Started-With-ACPI) from [dortania/Getting-Started-With-ACPI](https://github.com/dortania/Getting-Started-With-ACPI)<br>
+6. ⭐ Starred [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)<br>
+7. 💬 Commented on [#72](https://github.com/eggplants/ghcr-badge/issues/72#issuecomment-1641744807) in [eggplants/ghcr-badge](https://github.com/eggplants/ghcr-badge)<br>
+8. ❌ Closed PR [#139](https://github.com/hbstack/header/pull/139) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. ❌ Closed PR [#140](https://github.com/hbstack/header/pull/140) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. ❌ Closed PR [#138](https://github.com/hbstack/header/pull/138) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
