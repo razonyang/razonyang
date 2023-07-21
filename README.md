@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)<br>
-2. ⭐ Starred [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui)<br>
-3. 🎉 Merged PR [#139](https://github.com/hugomods/icons/pull/139) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#139](https://github.com/hugomods/icons/pull/139#pullrequestreview-1539371416) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 🎉 Merged PR [#137](https://github.com/hugomods/icons/pull/137) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 👍 Approved [#137](https://github.com/hugomods/icons/pull/137#pullrequestreview-1539370686) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 🔱 Forked [razonyang/Getting-Started-With-ACPI](https://github.com/razonyang/Getting-Started-With-ACPI) from [dortania/Getting-Started-With-ACPI](https://github.com/dortania/Getting-Started-With-ACPI)<br>
-8. ⭐ Starred [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide)<br>
-9. 💬 Commented on [#72](https://github.com/eggplants/ghcr-badge/issues/72#issuecomment-1641744807) in [eggplants/ghcr-badge](https://github.com/eggplants/ghcr-badge)<br>
-10. ❌ Closed PR [#139](https://github.com/hbstack/header/pull/139) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#31](https://github.com/hugomods/hugopress/pull/31) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+2. 🎉 Merged PR [#30](https://github.com/hugomods/hugopress/pull/30) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+3. 💪 Opened PR [#30](https://github.com/hugomods/hugopress/pull/30) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+4. ⭐ Starred [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl)<br>
+5. ⭐ Starred [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui)<br>
+6. 🎉 Merged PR [#139](https://github.com/hugomods/icons/pull/139) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 👍 Approved [#139](https://github.com/hugomods/icons/pull/139#pullrequestreview-1539371416) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 🎉 Merged PR [#137](https://github.com/hugomods/icons/pull/137) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 👍 Approved [#137](https://github.com/hugomods/icons/pull/137#pullrequestreview-1539370686) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 🔱 Forked [razonyang/Getting-Started-With-ACPI](https://github.com/razonyang/Getting-Started-With-ACPI) from [dortania/Getting-Started-With-ACPI](https://github.com/dortania/Getting-Started-With-ACPI)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
