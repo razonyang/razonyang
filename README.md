@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#145](https://github.com/hbstack/header/pull/145) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 🎉 Merged PR [#146](https://github.com/hbstack/header/pull/146) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 💪 Opened PR [#146](https://github.com/hbstack/header/pull/146) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. 🎉 Merged PR [#275](https://github.com/hbstack/blog/pull/275) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ❌ Closed PR [#271](https://github.com/hbstack/blog/pull/271) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. ❌ Closed PR [#273](https://github.com/hbstack/blog/pull/273) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. ❌ Closed PR [#270](https://github.com/hbstack/blog/pull/270) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. ❌ Closed PR [#269](https://github.com/hbstack/blog/pull/269) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. ❌ Closed PR [#268](https://github.com/hbstack/blog/pull/268) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ❌ Closed PR [#267](https://github.com/hbstack/blog/pull/267) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 🎉 Merged PR [#142](https://github.com/hugomods/icons/pull/142) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 🎉 Merged PR [#145](https://github.com/hbstack/header/pull/145) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. 🎉 Merged PR [#146](https://github.com/hbstack/header/pull/146) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 💪 Opened PR [#146](https://github.com/hbstack/header/pull/146) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 🎉 Merged PR [#275](https://github.com/hbstack/blog/pull/275) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. ❌ Closed PR [#271](https://github.com/hbstack/blog/pull/271) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. ❌ Closed PR [#273](https://github.com/hbstack/blog/pull/273) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. ❌ Closed PR [#270](https://github.com/hbstack/blog/pull/270) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. ❌ Closed PR [#269](https://github.com/hbstack/blog/pull/269) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. ❌ Closed PR [#268](https://github.com/hbstack/blog/pull/268) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
