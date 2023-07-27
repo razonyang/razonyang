@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#48](https://github.com/hugomods/docker/issues/48) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 💬 Commented on [#48](https://github.com/hugomods/docker/issues/48#issuecomment-1652850266) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 💬 Commented on [#48](https://github.com/hugomods/docker/issues/48#issuecomment-1652245922) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 💬 Commented on [#48](https://github.com/hugomods/docker/issues/48#issuecomment-1652220245) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. 💪 Opened PR [#14](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/14) in [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss)<br>
-6. 🎉 Merged PR [#53](https://github.com/hugomods/bootstrap/pull/53) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-7. 🎉 Merged PR [#54](https://github.com/hugomods/bootstrap/pull/54) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-8. 💪 Opened PR [#54](https://github.com/hugomods/bootstrap/pull/54) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-9. 🎉 Merged PR [#52](https://github.com/hugomods/bootstrap/pull/52) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-10. 💪 Opened PR [#52](https://github.com/hugomods/bootstrap/pull/52) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+1. ⭐ Starred [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core)<br>
+2. ✔️ Closed issue [#48](https://github.com/hugomods/docker/issues/48) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 💬 Commented on [#48](https://github.com/hugomods/docker/issues/48#issuecomment-1652850266) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. 💬 Commented on [#48](https://github.com/hugomods/docker/issues/48#issuecomment-1652245922) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+5. 💬 Commented on [#48](https://github.com/hugomods/docker/issues/48#issuecomment-1652220245) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 💪 Opened PR [#14](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/14) in [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss)<br>
+7. 🎉 Merged PR [#53](https://github.com/hugomods/bootstrap/pull/53) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+8. 🎉 Merged PR [#54](https://github.com/hugomods/bootstrap/pull/54) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. 💪 Opened PR [#54](https://github.com/hugomods/bootstrap/pull/54) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+10. 🎉 Merged PR [#52](https://github.com/hugomods/bootstrap/pull/52) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
