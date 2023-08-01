@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#49](https://github.com/hugomods/docker/issues/49) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. ❗️ Opened issue [#84](https://github.com/hbstack/footer/issues/84) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-3. ✔️ Closed issue [#239](https://github.com/hbstack/blog/issues/239) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.8.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-5. ⭐ Starred [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)<br>
-6. 🎉 Merged PR [#209](https://github.com/hbstack/theme/pull/209) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-7. 🎉 Merged PR [#135](https://github.com/hbstack/theme/pull/135) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-8. 🎉 Merged PR [#211](https://github.com/hbstack/theme/pull/211) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-9. 👍 Approved [#211](https://github.com/hbstack/theme/pull/211#pullrequestreview-1553218432) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-10. ✔️ Closed issue [#970](https://github.com/razonyang/hugo-theme-bootstrap/issues/970) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#153](https://github.com/hugomods/icons/pull/153) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#153](https://github.com/hugomods/icons/pull/153#pullrequestreview-1556804603) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#153](https://github.com/hugomods/icons/pull/153#pullrequestreview-1556803913) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 🎉 Merged PR [#152](https://github.com/hugomods/icons/pull/152) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 👍 Approved [#152](https://github.com/hugomods/icons/pull/152#pullrequestreview-1556803511) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. ❗️ Opened issue [#49](https://github.com/hugomods/docker/issues/49) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. ❗️ Opened issue [#84](https://github.com/hbstack/footer/issues/84) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+8. ✔️ Closed issue [#239](https://github.com/hbstack/blog/issues/239) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.8.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+10. ⭐ Starred [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
