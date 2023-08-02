@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#218](https://github.com/hbstack/theme/issues/218) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-2. 🎉 Merged PR [#153](https://github.com/hugomods/icons/pull/153) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#153](https://github.com/hugomods/icons/pull/153#pullrequestreview-1556804603) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#153](https://github.com/hugomods/icons/pull/153#pullrequestreview-1556803913) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 🎉 Merged PR [#152](https://github.com/hugomods/icons/pull/152) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 👍 Approved [#152](https://github.com/hugomods/icons/pull/152#pullrequestreview-1556803511) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ❗️ Opened issue [#49](https://github.com/hugomods/docker/issues/49) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. ❗️ Opened issue [#84](https://github.com/hbstack/footer/issues/84) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-9. ✔️ Closed issue [#239](https://github.com/hbstack/blog/issues/239) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.8.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+1. ❌ Closed PR [#156](https://github.com/hbstack/header/pull/156) in [hbstack/header](https://github.com/hbstack/header)<br>
+2. 🎉 Merged PR [#155](https://github.com/hbstack/header/pull/155) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. ⭐ Starred [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind)<br>
+4. ❌ Closed PR [#147](https://github.com/hbstack/header/pull/147) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 🎉 Merged PR [#154](https://github.com/hbstack/header/pull/154) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. 💪 Opened PR [#154](https://github.com/hbstack/header/pull/154) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. ❗️ Opened issue [#218](https://github.com/hbstack/theme/issues/218) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+8. 🎉 Merged PR [#153](https://github.com/hugomods/icons/pull/153) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 👍 Approved [#153](https://github.com/hugomods/icons/pull/153#pullrequestreview-1556804603) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 👍 Approved [#153](https://github.com/hugomods/icons/pull/153#pullrequestreview-1556803913) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
