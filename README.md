@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.4.2) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-2. 🎉 Merged PR [#158](https://github.com/hbstack/header/pull/158) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 💪 Opened PR [#158](https://github.com/hbstack/header/pull/158) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. ❌ Closed PR [#157](https://github.com/hbstack/header/pull/157) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. ❌ Closed PR [#156](https://github.com/hbstack/header/pull/156) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. 🎉 Merged PR [#155](https://github.com/hbstack/header/pull/155) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. ⭐ Starred [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind)<br>
-8. ❌ Closed PR [#147](https://github.com/hbstack/header/pull/147) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 🎉 Merged PR [#154](https://github.com/hbstack/header/pull/154) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 💪 Opened PR [#154](https://github.com/hbstack/header/pull/154) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#155](https://github.com/hugomods/icons/pull/155) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#155](https://github.com/hugomods/icons/pull/155#pullrequestreview-1560140651) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.4.2) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+4. 🎉 Merged PR [#158](https://github.com/hbstack/header/pull/158) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 💪 Opened PR [#158](https://github.com/hbstack/header/pull/158) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. ❌ Closed PR [#157](https://github.com/hbstack/header/pull/157) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. ❌ Closed PR [#156](https://github.com/hbstack/header/pull/156) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. 🎉 Merged PR [#155](https://github.com/hbstack/header/pull/155) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. ⭐ Starred [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind)<br>
+10. ❌ Closed PR [#147](https://github.com/hbstack/header/pull/147) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
