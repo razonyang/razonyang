@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#161](https://github.com/hbstack/header/issues/161) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 💬 Commented on [#61](https://github.com/razonyang/hugo-theme-bootstrap-comments/issues/61#issuecomment-1664923996) in [razonyang/hugo-theme-bootstrap-comments](https://github.com/razonyang/hugo-theme-bootstrap-comments)<br>
-3. 💬 Commented on [#61](https://github.com/razonyang/hugo-theme-bootstrap-comments/issues/61#issuecomment-1664855127) in [razonyang/hugo-theme-bootstrap-comments](https://github.com/razonyang/hugo-theme-bootstrap-comments)<br>
-4. 💬 Commented on [#61](https://github.com/razonyang/hugo-theme-bootstrap-comments/issues/61#issuecomment-1664841070) in [razonyang/hugo-theme-bootstrap-comments](https://github.com/razonyang/hugo-theme-bootstrap-comments)<br>
-5. ⭐ Starred [soulwire/sketch.js](https://github.com/soulwire/sketch.js)<br>
-6. 🎉 Merged PR [#155](https://github.com/hugomods/icons/pull/155) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 👍 Approved [#155](https://github.com/hugomods/icons/pull/155#pullrequestreview-1560140651) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.4.2) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-9. 🎉 Merged PR [#158](https://github.com/hbstack/header/pull/158) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 💪 Opened PR [#158](https://github.com/hbstack/header/pull/158) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. ✔️ Closed issue [#15](https://github.com/hugomods/utterances/issues/15) in [hugomods/utterances](https://github.com/hugomods/utterances)<br>
+2. ✔️ Closed issue [#16](https://github.com/hugomods/utterances/issues/16) in [hugomods/utterances](https://github.com/hugomods/utterances)<br>
+3. ✔️ Closed issue [#17](https://github.com/hugomods/utterances/issues/17) in [hugomods/utterances](https://github.com/hugomods/utterances)<br>
+4. ✔️ Closed issue [#18](https://github.com/hugomods/utterances/issues/18) in [hugomods/utterances](https://github.com/hugomods/utterances)<br>
+5. 💬 Commented on [#18](https://github.com/hugomods/utterances/issues/18#issuecomment-1664931969) in [hugomods/utterances](https://github.com/hugomods/utterances)<br>
+6. ❗️ Opened issue [#161](https://github.com/hbstack/header/issues/161) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 💬 Commented on [#61](https://github.com/razonyang/hugo-theme-bootstrap-comments/issues/61#issuecomment-1664923996) in [razonyang/hugo-theme-bootstrap-comments](https://github.com/razonyang/hugo-theme-bootstrap-comments)<br>
+8. 💬 Commented on [#61](https://github.com/razonyang/hugo-theme-bootstrap-comments/issues/61#issuecomment-1664855127) in [razonyang/hugo-theme-bootstrap-comments](https://github.com/razonyang/hugo-theme-bootstrap-comments)<br>
+9. 💬 Commented on [#61](https://github.com/razonyang/hugo-theme-bootstrap-comments/issues/61#issuecomment-1664841070) in [razonyang/hugo-theme-bootstrap-comments](https://github.com/razonyang/hugo-theme-bootstrap-comments)<br>
+10. ⭐ Starred [soulwire/sketch.js](https://github.com/soulwire/sketch.js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
