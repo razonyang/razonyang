@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#157](https://github.com/hugomods/icons/pull/157) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#157](https://github.com/hugomods/icons/pull/157#pullrequestreview-1564991989) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 🎉 Merged PR [#159](https://github.com/hugomods/icons/pull/159) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ⭐ Starred [michalsnik/aos](https://github.com/michalsnik/aos)<br>
-5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.9.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-6. 🎉 Merged PR [#138](https://github.com/hbstack/meta/pull/138) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-7. 👍 Approved [#138](https://github.com/hbstack/meta/pull/138#pullrequestreview-1563964308) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-8. ⭐ Starred [CHNZYX/Auto_Simulated_Universe](https://github.com/CHNZYX/Auto_Simulated_Universe)<br>
-9. 🎉 Merged PR [#168](https://github.com/hbstack/header/pull/168) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 🎉 Merged PR [#169](https://github.com/hbstack/header/pull/169) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. ❗️ Opened issue [#48](https://github.com/hbstack/base/issues/48) in [hbstack/base](https://github.com/hbstack/base)<br>
+2. 🎉 Merged PR [#157](https://github.com/hugomods/icons/pull/157) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#157](https://github.com/hugomods/icons/pull/157#pullrequestreview-1564991989) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 🎉 Merged PR [#159](https://github.com/hugomods/icons/pull/159) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. ⭐ Starred [michalsnik/aos](https://github.com/michalsnik/aos)<br>
+6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.9.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+7. 🎉 Merged PR [#138](https://github.com/hbstack/meta/pull/138) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+8. 👍 Approved [#138](https://github.com/hbstack/meta/pull/138#pullrequestreview-1563964308) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+9. ⭐ Starred [CHNZYX/Auto_Simulated_Universe](https://github.com/CHNZYX/Auto_Simulated_Universe)<br>
+10. 🎉 Merged PR [#168](https://github.com/hbstack/header/pull/168) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
