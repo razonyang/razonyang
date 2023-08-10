@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#217](https://github.com/hbstack/docs/pull/217) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. ❌ Closed PR [#972](https://github.com/razonyang/hugo-theme-bootstrap/pull/972) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 💬 Commented on [#972](https://github.com/razonyang/hugo-theme-bootstrap/pull/972#issuecomment-1673036220) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. ⭐ Starred [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)<br>
-5. ❌ Closed PR [#174](https://github.com/hbstack/docs/pull/174) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-6. 🎉 Merged PR [#28](https://github.com/hbstack/carousel/pull/28) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
-7. 🎉 Merged PR [#60](https://github.com/hbstack/carousel/pull/60) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
-8. 💪 Opened PR [#60](https://github.com/hbstack/carousel/pull/60) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
-9. 🎉 Merged PR [#211](https://github.com/hbstack/docs/pull/211) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-10. 💪 Opened PR [#211](https://github.com/hbstack/docs/pull/211) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. ❗️ Opened issue [#2043](https://github.com/googleapis/release-please/issues/2043) in [googleapis/release-please](https://github.com/googleapis/release-please)<br>
+2. ❌ Closed PR [#217](https://github.com/hbstack/docs/pull/217) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. ❌ Closed PR [#972](https://github.com/razonyang/hugo-theme-bootstrap/pull/972) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💬 Commented on [#972](https://github.com/razonyang/hugo-theme-bootstrap/pull/972#issuecomment-1673036220) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. ⭐ Starred [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)<br>
+6. ❌ Closed PR [#174](https://github.com/hbstack/docs/pull/174) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+7. 🎉 Merged PR [#28](https://github.com/hbstack/carousel/pull/28) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+8. 🎉 Merged PR [#60](https://github.com/hbstack/carousel/pull/60) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+9. 💪 Opened PR [#60](https://github.com/hbstack/carousel/pull/60) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+10. 🎉 Merged PR [#211](https://github.com/hbstack/docs/pull/211) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
