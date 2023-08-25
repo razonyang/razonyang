@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#225](https://github.com/hbstack/header/issues/225) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 🎉 Merged PR [#236](https://github.com/hbstack/header/pull/236) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 💪 Opened PR [#236](https://github.com/hbstack/header/pull/236) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. 🎉 Merged PR [#234](https://github.com/hbstack/header/pull/234) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. 💪 Opened PR [#234](https://github.com/hbstack/header/pull/234) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. 🎉 Merged PR [#233](https://github.com/hbstack/header/pull/233) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. 💪 Opened PR [#233](https://github.com/hbstack/header/pull/233) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. ✔️ Closed issue [#223](https://github.com/hbstack/header/issues/223) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 🎉 Merged PR [#231](https://github.com/hbstack/header/pull/231) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 💪 Opened PR [#231](https://github.com/hbstack/header/pull/231) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#319](https://github.com/hbstack/blog/pull/319) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. 🎉 Merged PR [#304](https://github.com/hbstack/blog/pull/304) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 🎉 Merged PR [#318](https://github.com/hbstack/blog/pull/318) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 💪 Opened PR [#318](https://github.com/hbstack/blog/pull/318) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 🎉 Merged PR [#317](https://github.com/hbstack/blog/pull/317) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 🎉 Merged PR [#17](https://github.com/hbstack/announcement-bar/pull/17) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+7. 💪 Opened PR [#19](https://github.com/hbstack/announcement-bar/pull/19) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+8. ✔️ Closed issue [#15](https://github.com/hbstack/announcement-bar/issues/15) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+9. 💬 Commented on [#15](https://github.com/hbstack/announcement-bar/issues/15#issuecomment-1693702318) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+10. 🎉 Merged PR [#18](https://github.com/hbstack/announcement-bar/pull/18) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
