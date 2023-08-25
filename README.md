@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#15](https://github.com/hbstack/announcement-bar/issues/15) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-2. ❗️ Opened issue [#974](https://github.com/razonyang/hugo-theme-bootstrap/issues/974) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. ❗️ Opened issue [#14](https://github.com/hbstack/announcement-bar/issues/14) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-4. ❗️ Opened issue [#225](https://github.com/hbstack/header/issues/225) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. ❗️ Opened issue [#224](https://github.com/hbstack/header/issues/224) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. ❗️ Opened issue [#223](https://github.com/hbstack/header/issues/223) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. ❗️ Opened issue [#18](https://github.com/hugomods/seo/issues/18) in [hugomods/seo](https://github.com/hugomods/seo)<br>
-8. ❗️ Opened issue [#11376](https://github.com/gohugoio/hugo/issues/11376) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-9. 🎉 Merged PR [#220](https://github.com/hbstack/header/pull/220) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 🎉 Merged PR [#222](https://github.com/hbstack/header/pull/222) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#59](https://github.com/hbstack/hb/pull/59) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+2. 🎉 Merged PR [#67](https://github.com/hbstack/hb/pull/67) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+3. 💪 Opened PR [#67](https://github.com/hbstack/hb/pull/67) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+4. 🎉 Merged PR [#66](https://github.com/hbstack/hb/pull/66) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+5. 💪 Opened PR [#66](https://github.com/hbstack/hb/pull/66) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+6. ❗️ Opened issue [#15](https://github.com/hbstack/announcement-bar/issues/15) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+7. ❗️ Opened issue [#974](https://github.com/razonyang/hugo-theme-bootstrap/issues/974) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. ❗️ Opened issue [#14](https://github.com/hbstack/announcement-bar/issues/14) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+9. ❗️ Opened issue [#225](https://github.com/hbstack/header/issues/225) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. ❗️ Opened issue [#224](https://github.com/hbstack/header/issues/224) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
