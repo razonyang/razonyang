@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#319](https://github.com/hbstack/blog/pull/319) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 🎉 Merged PR [#304](https://github.com/hbstack/blog/pull/304) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 🎉 Merged PR [#318](https://github.com/hbstack/blog/pull/318) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 💪 Opened PR [#318](https://github.com/hbstack/blog/pull/318) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 🎉 Merged PR [#317](https://github.com/hbstack/blog/pull/317) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 🎉 Merged PR [#17](https://github.com/hbstack/announcement-bar/pull/17) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-7. 💪 Opened PR [#19](https://github.com/hbstack/announcement-bar/pull/19) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-8. ✔️ Closed issue [#15](https://github.com/hbstack/announcement-bar/issues/15) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-9. 💬 Commented on [#15](https://github.com/hbstack/announcement-bar/issues/15#issuecomment-1693702318) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-10. 🎉 Merged PR [#18](https://github.com/hbstack/announcement-bar/pull/18) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+1. 🎉 Merged PR [#240](https://github.com/hbstack/header/pull/240) in [hbstack/header](https://github.com/hbstack/header)<br>
+2. ❌ Closed PR [#259](https://github.com/hbstack/docs/pull/259) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. ❌ Closed PR [#258](https://github.com/hbstack/docs/pull/258) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. ❌ Closed PR [#257](https://github.com/hbstack/docs/pull/257) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+5. ❌ Closed PR [#253](https://github.com/hbstack/docs/pull/253) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+6. ❌ Closed PR [#254](https://github.com/hbstack/docs/pull/254) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+7. ❌ Closed PR [#250](https://github.com/hbstack/docs/pull/250) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. ❌ Closed PR [#252](https://github.com/hbstack/docs/pull/252) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+9. ❌ Closed PR [#251](https://github.com/hbstack/docs/pull/251) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+10. ❌ Closed PR [#249](https://github.com/hbstack/docs/pull/249) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
