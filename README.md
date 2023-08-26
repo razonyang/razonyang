@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#245](https://github.com/hbstack/header/pull/245) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 🎉 Merged PR [#60](https://github.com/hugomods/bootstrap/pull/60) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 🎉 Merged PR [#239](https://github.com/hbstack/docs/pull/239) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-4. 🎉 Merged PR [#244](https://github.com/hbstack/header/pull/244) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. 🎉 Merged PR [#320](https://github.com/hbstack/blog/pull/320) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. ⭐ Starred [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js)<br>
-7. 🎉 Merged PR [#21](https://github.com/hbstack/announcement-bar/pull/21) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-8. 🎉 Merged PR [#243](https://github.com/hbstack/header/pull/243) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 🎉 Merged PR [#240](https://github.com/hbstack/header/pull/240) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. ❌ Closed PR [#259](https://github.com/hbstack/docs/pull/259) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. ⭐ Starred [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic)<br>
+2. ⭐ Starred [mciastek/sal](https://github.com/mciastek/sal)<br>
+3. 🎉 Merged PR [#245](https://github.com/hbstack/header/pull/245) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 🎉 Merged PR [#60](https://github.com/hugomods/bootstrap/pull/60) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 🎉 Merged PR [#239](https://github.com/hbstack/docs/pull/239) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+6. 🎉 Merged PR [#244](https://github.com/hbstack/header/pull/244) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 🎉 Merged PR [#320](https://github.com/hbstack/blog/pull/320) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. ⭐ Starred [Dash-Industry-Forum/dash.js](https://github.com/Dash-Industry-Forum/dash.js)<br>
+9. 🎉 Merged PR [#21](https://github.com/hbstack/announcement-bar/pull/21) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+10. 🎉 Merged PR [#243](https://github.com/hbstack/header/pull/243) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
