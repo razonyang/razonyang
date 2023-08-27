@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#25](https://github.com/hbstack/announcement-bar/pull/25) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-2. ⭐ Starred [hugomods/aos](https://github.com/hugomods/aos)<br>
-3. 🎉 Merged PR [#173](https://github.com/hugomods/icons/pull/173) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 🎉 Merged PR [#24](https://github.com/hbstack/announcement-bar/pull/24) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-5. 🎉 Merged PR [#248](https://github.com/hbstack/header/pull/248) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. 🎉 Merged PR [#247](https://github.com/hbstack/header/pull/247) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. 💪 Opened PR [#247](https://github.com/hbstack/header/pull/247) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.12.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-9. 🎉 Merged PR [#228](https://github.com/hbstack/meta/pull/228) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-10. 🎉 Merged PR [#211](https://github.com/hbstack/meta/pull/211) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+1. 👍 Approved [#51](https://github.com/hugomods/docker/pull/51#pullrequestreview-1597175741) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. 🎉 Merged PR [#25](https://github.com/hbstack/announcement-bar/pull/25) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+3. ⭐ Starred [hugomods/aos](https://github.com/hugomods/aos)<br>
+4. 🎉 Merged PR [#173](https://github.com/hugomods/icons/pull/173) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 🎉 Merged PR [#24](https://github.com/hbstack/announcement-bar/pull/24) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+6. 🎉 Merged PR [#248](https://github.com/hbstack/header/pull/248) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 🎉 Merged PR [#247](https://github.com/hbstack/header/pull/247) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. 💪 Opened PR [#247](https://github.com/hbstack/header/pull/247) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.12.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+10. 🎉 Merged PR [#228](https://github.com/hbstack/meta/pull/228) in [hbstack/meta](https://github.com/hbstack/meta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
