@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#27](https://github.com/hbstack/announcement-bar/pull/27) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-2. 🎉 Merged PR [#26](https://github.com/hbstack/announcement-bar/pull/26) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-3. 💪 Opened PR [#26](https://github.com/hbstack/announcement-bar/pull/26) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-4. 💬 Commented on [#51](https://github.com/hugomods/docker/pull/51#issuecomment-1694736421) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. ✔️ Closed issue [#50](https://github.com/hugomods/docker/issues/50) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. 🎉 Merged PR [#51](https://github.com/hugomods/docker/pull/51) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. 👍 Approved [#51](https://github.com/hugomods/docker/pull/51#pullrequestreview-1597175741) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. 🎉 Merged PR [#25](https://github.com/hbstack/announcement-bar/pull/25) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-9. ⭐ Starred [hugomods/aos](https://github.com/hugomods/aos)<br>
-10. 🎉 Merged PR [#173](https://github.com/hugomods/icons/pull/173) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. ❗️ Opened issue [#63](https://github.com/hugomods/bootstrap/issues/63) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. ❗️ Opened issue [#62](https://github.com/hugomods/bootstrap/issues/62) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+3. ❗️ Opened issue [#61](https://github.com/hugomods/bootstrap/issues/61) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. 🎉 Merged PR [#27](https://github.com/hbstack/announcement-bar/pull/27) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+5. 🎉 Merged PR [#26](https://github.com/hbstack/announcement-bar/pull/26) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+6. 💪 Opened PR [#26](https://github.com/hbstack/announcement-bar/pull/26) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+7. 💬 Commented on [#51](https://github.com/hugomods/docker/pull/51#issuecomment-1694736421) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. ✔️ Closed issue [#50](https://github.com/hugomods/docker/issues/50) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 🎉 Merged PR [#51](https://github.com/hugomods/docker/pull/51) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 👍 Approved [#51](https://github.com/hugomods/docker/pull/51#pullrequestreview-1597175741) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
