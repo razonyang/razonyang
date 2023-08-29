@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#161](https://github.com/hugomods/search/issues/161) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. 🎉 Merged PR [#64](https://github.com/hugomods/bootstrap/pull/64) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 💬 Commented on [#62](https://github.com/hugomods/bootstrap/issues/62#issuecomment-1695399720) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. ✔️ Closed issue [#62](https://github.com/hugomods/bootstrap/issues/62) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. ✔️ Closed issue [#63](https://github.com/hugomods/bootstrap/issues/63) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-6. 💬 Commented on [#63](https://github.com/hugomods/bootstrap/issues/63#issuecomment-1695399656) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-7. ✔️ Closed issue [#61](https://github.com/hugomods/bootstrap/issues/61) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-8. 💬 Commented on [#50](https://github.com/hugomods/docker/issues/50#issuecomment-1695338662) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. 🎉 Merged PR [#159](https://github.com/hugomods/search/pull/159) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. ❌ Closed PR [#158](https://github.com/hugomods/search/pull/158) in [hugomods/search](https://github.com/hugomods/search)<br>
+1. 💬 Commented on [#75](https://github.com/hbstack/pwa/issues/75#issuecomment-1696808171) in [hbstack/pwa](https://github.com/hbstack/pwa)<br>
+2. 💬 Commented on [#75](https://github.com/hbstack/pwa/issues/75#issuecomment-1696782271) in [hbstack/pwa](https://github.com/hbstack/pwa)<br>
+3. ❗️ Opened issue [#161](https://github.com/hugomods/search/issues/161) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 🎉 Merged PR [#64](https://github.com/hugomods/bootstrap/pull/64) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 💬 Commented on [#62](https://github.com/hugomods/bootstrap/issues/62#issuecomment-1695399720) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+6. ✔️ Closed issue [#62](https://github.com/hugomods/bootstrap/issues/62) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+7. ✔️ Closed issue [#63](https://github.com/hugomods/bootstrap/issues/63) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+8. 💬 Commented on [#63](https://github.com/hugomods/bootstrap/issues/63#issuecomment-1695399656) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. ✔️ Closed issue [#61](https://github.com/hugomods/bootstrap/issues/61) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+10. 💬 Commented on [#50](https://github.com/hugomods/docker/issues/50#issuecomment-1695338662) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
