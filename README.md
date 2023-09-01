@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#67](https://github.com/hugomods/bootstrap/pull/67) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 🎉 Merged PR [#66](https://github.com/hugomods/bootstrap/pull/66) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 🎉 Merged PR [#65](https://github.com/hugomods/bootstrap/pull/65) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 💪 Opened PR [#65](https://github.com/hugomods/bootstrap/pull/65) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. ⭐ Starred [nwtgck/actions-netlify](https://github.com/nwtgck/actions-netlify)<br>
-6. 🎉 Merged PR [#230](https://github.com/hbstack/meta/pull/230) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-7. ❗️ Opened issue [#255](https://github.com/hbstack/header/issues/255) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 🎉 Merged PR [#254](https://github.com/hbstack/header/pull/254) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 🎉 Merged PR [#250](https://github.com/hbstack/header/pull/250) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 🎉 Merged PR [#73](https://github.com/hbstack/hb/pull/73) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. 🎉 Merged PR [#31](https://github.com/hbstack/announcement-bar/pull/31) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+2. 🎉 Merged PR [#34](https://github.com/hbstack/announcement-bar/pull/34) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+3. 💪 Opened PR [#34](https://github.com/hbstack/announcement-bar/pull/34) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+4. 🎉 Merged PR [#33](https://github.com/hbstack/announcement-bar/pull/33) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+5. 💪 Opened PR [#33](https://github.com/hbstack/announcement-bar/pull/33) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+6. 🎉 Merged PR [#32](https://github.com/hbstack/announcement-bar/pull/32) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+7. 💪 Opened PR [#32](https://github.com/hbstack/announcement-bar/pull/32) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+8. 🎉 Merged PR [#67](https://github.com/hugomods/bootstrap/pull/67) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. 🎉 Merged PR [#66](https://github.com/hugomods/bootstrap/pull/66) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+10. 🎉 Merged PR [#65](https://github.com/hugomods/bootstrap/pull/65) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
