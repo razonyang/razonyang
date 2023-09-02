@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/hugomods/video-js/pull/2) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-2. ⭐ Starred [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-3. 💬 Commented on [#431](https://github.com/hbstack/site/pull/431#issuecomment-1703059744) in [hbstack/site](https://github.com/hbstack/site)<br>
-4. 🎉 Merged PR [#431](https://github.com/hbstack/site/pull/431) in [hbstack/site](https://github.com/hbstack/site)<br>
-5. 👍 Approved [#431](https://github.com/hbstack/site/pull/431#pullrequestreview-1607347874) in [hbstack/site](https://github.com/hbstack/site)<br>
-6. 🎉 Merged PR [#31](https://github.com/hbstack/announcement-bar/pull/31) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-7. 🎉 Merged PR [#34](https://github.com/hbstack/announcement-bar/pull/34) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-8. 💪 Opened PR [#34](https://github.com/hbstack/announcement-bar/pull/34) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-9. 🎉 Merged PR [#33](https://github.com/hbstack/announcement-bar/pull/33) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-10. 💪 Opened PR [#33](https://github.com/hbstack/announcement-bar/pull/33) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+1. 🎉 Merged PR [#3](https://github.com/hugomods/video-js/pull/3) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+2. 🎉 Merged PR [#2](https://github.com/hugomods/video-js/pull/2) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+3. ⭐ Starred [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+4. 💬 Commented on [#431](https://github.com/hbstack/site/pull/431#issuecomment-1703059744) in [hbstack/site](https://github.com/hbstack/site)<br>
+5. 🎉 Merged PR [#431](https://github.com/hbstack/site/pull/431) in [hbstack/site](https://github.com/hbstack/site)<br>
+6. 👍 Approved [#431](https://github.com/hbstack/site/pull/431#pullrequestreview-1607347874) in [hbstack/site](https://github.com/hbstack/site)<br>
+7. 🎉 Merged PR [#31](https://github.com/hbstack/announcement-bar/pull/31) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+8. 🎉 Merged PR [#34](https://github.com/hbstack/announcement-bar/pull/34) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+9. 💪 Opened PR [#34](https://github.com/hbstack/announcement-bar/pull/34) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+10. 🎉 Merged PR [#33](https://github.com/hbstack/announcement-bar/pull/33) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
