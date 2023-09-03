@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#69](https://github.com/hugomods/bootstrap/pull/69) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 🎉 Merged PR [#68](https://github.com/hugomods/bootstrap/pull/68) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 💪 Opened PR [#68](https://github.com/hugomods/bootstrap/pull/68) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 🎉 Merged PR [#267](https://github.com/hbstack/header/pull/267) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. 🎉 Merged PR [#265](https://github.com/hbstack/header/pull/265) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. 💬 Commented on [#972](https://github.com/razonyang/hugo-theme-bootstrap/pull/972#issuecomment-1703884322) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. ✔️ Closed issue [#133](https://github.com/hbstack/site/issues/133) in [hbstack/site](https://github.com/hbstack/site)<br>
-8. ❗️ Opened issue [#266](https://github.com/hbstack/header/issues/266) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 🎉 Merged PR [#264](https://github.com/hbstack/header/pull/264) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 💪 Opened PR [#264](https://github.com/hbstack/header/pull/264) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.13.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+2. 🎉 Merged PR [#69](https://github.com/hugomods/bootstrap/pull/69) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+3. 🎉 Merged PR [#68](https://github.com/hugomods/bootstrap/pull/68) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. 💪 Opened PR [#68](https://github.com/hugomods/bootstrap/pull/68) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 🎉 Merged PR [#267](https://github.com/hbstack/header/pull/267) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. 🎉 Merged PR [#265](https://github.com/hbstack/header/pull/265) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 💬 Commented on [#972](https://github.com/razonyang/hugo-theme-bootstrap/pull/972#issuecomment-1703884322) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. ✔️ Closed issue [#133](https://github.com/hbstack/site/issues/133) in [hbstack/site](https://github.com/hbstack/site)<br>
+9. ❗️ Opened issue [#266](https://github.com/hbstack/header/issues/266) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 🎉 Merged PR [#264](https://github.com/hbstack/header/pull/264) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
