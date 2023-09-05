@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#246](https://github.com/hbstack/meta/pull/246) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-2. 🎉 Merged PR [#451](https://github.com/hbstack/site/pull/451) in [hbstack/site](https://github.com/hbstack/site)<br>
-3. 👍 Approved [#451](https://github.com/hbstack/site/pull/451#pullrequestreview-1609017626) in [hbstack/site](https://github.com/hbstack/site)<br>
-4. ❗️ Opened issue [#27](https://github.com/hugomods/shortcodes/issues/27) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-5. 💬 Commented on [#84](https://github.com/hbstack/socials/pull/84#issuecomment-1704371426) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-6. 💬 Commented on [#450](https://github.com/hbstack/site/pull/450#issuecomment-1704370486) in [hbstack/site](https://github.com/hbstack/site)<br>
-7. 🎉 Merged PR [#85](https://github.com/hbstack/socials/pull/85) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-8. 🎉 Merged PR [#450](https://github.com/hbstack/site/pull/450) in [hbstack/site](https://github.com/hbstack/site)<br>
-9. 👍 Approved [#450](https://github.com/hbstack/site/pull/450#pullrequestreview-1608562683) in [hbstack/site](https://github.com/hbstack/site)<br>
-10. 👍 Approved [#84](https://github.com/hbstack/socials/pull/84#pullrequestreview-1608561484) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+1. 🎉 Merged PR [#177](https://github.com/hugomods/icons/pull/177) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#177](https://github.com/hugomods/icons/pull/177#pullrequestreview-1611427875) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#246](https://github.com/hbstack/meta/pull/246) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+4. 🎉 Merged PR [#451](https://github.com/hbstack/site/pull/451) in [hbstack/site](https://github.com/hbstack/site)<br>
+5. 👍 Approved [#451](https://github.com/hbstack/site/pull/451#pullrequestreview-1609017626) in [hbstack/site](https://github.com/hbstack/site)<br>
+6. ❗️ Opened issue [#27](https://github.com/hugomods/shortcodes/issues/27) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+7. 💬 Commented on [#84](https://github.com/hbstack/socials/pull/84#issuecomment-1704371426) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+8. 💬 Commented on [#450](https://github.com/hbstack/site/pull/450#issuecomment-1704370486) in [hbstack/site](https://github.com/hbstack/site)<br>
+9. 🎉 Merged PR [#85](https://github.com/hbstack/socials/pull/85) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+10. 🎉 Merged PR [#450](https://github.com/hbstack/site/pull/450) in [hbstack/site](https://github.com/hbstack/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
