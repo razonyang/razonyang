@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#501](https://github.com/hugomods/site/issues/501) in [hugomods/site](https://github.com/hugomods/site)<br>
-2. 🎉 Merged PR [#177](https://github.com/hugomods/icons/pull/177) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#177](https://github.com/hugomods/icons/pull/177#pullrequestreview-1611427875) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 🎉 Merged PR [#246](https://github.com/hbstack/meta/pull/246) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-5. 🎉 Merged PR [#451](https://github.com/hbstack/site/pull/451) in [hbstack/site](https://github.com/hbstack/site)<br>
-6. 👍 Approved [#451](https://github.com/hbstack/site/pull/451#pullrequestreview-1609017626) in [hbstack/site](https://github.com/hbstack/site)<br>
-7. ❗️ Opened issue [#27](https://github.com/hugomods/shortcodes/issues/27) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-8. 💬 Commented on [#84](https://github.com/hbstack/socials/pull/84#issuecomment-1704371426) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-9. 💬 Commented on [#450](https://github.com/hbstack/site/pull/450#issuecomment-1704370486) in [hbstack/site](https://github.com/hbstack/site)<br>
-10. 🎉 Merged PR [#85](https://github.com/hbstack/socials/pull/85) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+1. 💬 Commented on [#164](https://github.com/hugomods/search/issues/164#issuecomment-1709468260) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. ❗️ Opened issue [#501](https://github.com/hugomods/site/issues/501) in [hugomods/site](https://github.com/hugomods/site)<br>
+3. 🎉 Merged PR [#177](https://github.com/hugomods/icons/pull/177) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#177](https://github.com/hugomods/icons/pull/177#pullrequestreview-1611427875) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 🎉 Merged PR [#246](https://github.com/hbstack/meta/pull/246) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+6. 🎉 Merged PR [#451](https://github.com/hbstack/site/pull/451) in [hbstack/site](https://github.com/hbstack/site)<br>
+7. 👍 Approved [#451](https://github.com/hbstack/site/pull/451#pullrequestreview-1609017626) in [hbstack/site](https://github.com/hbstack/site)<br>
+8. ❗️ Opened issue [#27](https://github.com/hugomods/shortcodes/issues/27) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+9. 💬 Commented on [#84](https://github.com/hbstack/socials/pull/84#issuecomment-1704371426) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+10. 💬 Commented on [#450](https://github.com/hbstack/site/pull/450#issuecomment-1704370486) in [hbstack/site](https://github.com/hbstack/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
