@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#164](https://github.com/hugomods/search/issues/164#issuecomment-1709990749) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. ❌ Closed PR [#15](https://github.com/hugomods/images/pull/15) in [hugomods/images](https://github.com/hugomods/images)<br>
-3. ❌ Closed PR [#14](https://github.com/hugomods/images/pull/14) in [hugomods/images](https://github.com/hugomods/images)<br>
-4. 🎉 Merged PR [#271](https://github.com/hbstack/docs/pull/271) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-5. 💬 Commented on [#164](https://github.com/hugomods/search/issues/164#issuecomment-1709694122) in [hugomods/search](https://github.com/hugomods/search)<br>
-6. 🎉 Merged PR [#333](https://github.com/hbstack/blog/pull/333) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 🎉 Merged PR [#21](https://github.com/hbstack/content-panel/pull/21) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-8. 🎉 Merged PR [#22](https://github.com/hbstack/content-panel/pull/22) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-9. 💪 Opened PR [#22](https://github.com/hbstack/content-panel/pull/22) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-10. 🎉 Merged PR [#20](https://github.com/hbstack/content-panel/pull/20) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+1. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710287152) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+2. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710273445) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+3. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710253074) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+4. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710204697) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+5. 💬 Commented on [#164](https://github.com/hugomods/search/issues/164#issuecomment-1709990749) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. ❌ Closed PR [#15](https://github.com/hugomods/images/pull/15) in [hugomods/images](https://github.com/hugomods/images)<br>
+7. ❌ Closed PR [#14](https://github.com/hugomods/images/pull/14) in [hugomods/images](https://github.com/hugomods/images)<br>
+8. 🎉 Merged PR [#271](https://github.com/hbstack/docs/pull/271) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+9. 💬 Commented on [#164](https://github.com/hugomods/search/issues/164#issuecomment-1709694122) in [hugomods/search](https://github.com/hugomods/search)<br>
+10. 🎉 Merged PR [#333](https://github.com/hbstack/blog/pull/333) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
