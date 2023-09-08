@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#269](https://github.com/hbstack/header/pull/269) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 🎉 Merged PR [#274](https://github.com/hbstack/header/pull/274) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 💪 Opened PR [#274](https://github.com/hbstack/header/pull/274) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710311266) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-5. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710287152) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-6. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710273445) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-7. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710253074) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-8. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710204697) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-9. 💬 Commented on [#164](https://github.com/hugomods/search/issues/164#issuecomment-1709990749) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. ❌ Closed PR [#15](https://github.com/hugomods/images/pull/15) in [hugomods/images](https://github.com/hugomods/images)<br>
+1. 🎉 Merged PR [#127](https://github.com/hbstack/meta/pull/127) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+2. 🎉 Merged PR [#269](https://github.com/hbstack/header/pull/269) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. 🎉 Merged PR [#274](https://github.com/hbstack/header/pull/274) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 💪 Opened PR [#274](https://github.com/hbstack/header/pull/274) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710311266) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+6. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710287152) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+7. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710273445) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+8. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710253074) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+9. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710204697) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+10. 💬 Commented on [#164](https://github.com/hugomods/search/issues/164#issuecomment-1709990749) in [hugomods/search](https://github.com/hugomods/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
