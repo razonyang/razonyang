@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yusanshi/emgithub](https://github.com/yusanshi/emgithub)<br>
-2. 🎉 Merged PR [#127](https://github.com/hbstack/meta/pull/127) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-3. 🎉 Merged PR [#269](https://github.com/hbstack/header/pull/269) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. 🎉 Merged PR [#274](https://github.com/hbstack/header/pull/274) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. 💪 Opened PR [#274](https://github.com/hbstack/header/pull/274) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710311266) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-7. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710287152) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-8. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710273445) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-9. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710253074) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-10. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710204697) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+1. ❗️ Opened issue [#70](https://github.com/hugomods/bootstrap/issues/70) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. ⭐ Starred [yusanshi/emgithub](https://github.com/yusanshi/emgithub)<br>
+3. 🎉 Merged PR [#127](https://github.com/hbstack/meta/pull/127) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+4. 🎉 Merged PR [#269](https://github.com/hbstack/header/pull/269) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 🎉 Merged PR [#274](https://github.com/hbstack/header/pull/274) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. 💪 Opened PR [#274](https://github.com/hbstack/header/pull/274) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710311266) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+8. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710287152) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+9. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710273445) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+10. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1710253074) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
