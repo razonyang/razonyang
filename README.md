@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/hbstack/github-releases/pull/2) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
-2. 👍 Approved [#2](https://github.com/hbstack/github-releases/pull/2#pullrequestreview-1618815358) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
-3. 👍 Approved [#179](https://github.com/hugomods/icons/pull/179#pullrequestreview-1618759063) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 🎉 Merged PR [#181](https://github.com/hugomods/icons/pull/181) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 👍 Approved [#181](https://github.com/hugomods/icons/pull/181#pullrequestreview-1618759024) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.14.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-7. 💬 Commented on [#16](https://github.com/hugomods/images/issues/16#issuecomment-1712662250) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. 💬 Commented on [#16](https://github.com/hugomods/images/issues/16#issuecomment-1712551220) in [hugomods/images](https://github.com/hugomods/images)<br>
-9. ✔️ Closed issue [#27](https://github.com/hugomods/shortcodes/issues/27) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-10. 💬 Commented on [#27](https://github.com/hugomods/shortcodes/issues/27#issuecomment-1711524338) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+1. 💬 Commented on [#23](https://github.com/hbstack/content-panel/pull/23#issuecomment-1712806056) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+2. 🎉 Merged PR [#3](https://github.com/hbstack/github-releases/pull/3) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
+3. 🎉 Merged PR [#2](https://github.com/hbstack/github-releases/pull/2) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
+4. 👍 Approved [#2](https://github.com/hbstack/github-releases/pull/2#pullrequestreview-1618815358) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
+5. 👍 Approved [#179](https://github.com/hugomods/icons/pull/179#pullrequestreview-1618759063) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 🎉 Merged PR [#181](https://github.com/hugomods/icons/pull/181) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 👍 Approved [#181](https://github.com/hugomods/icons/pull/181#pullrequestreview-1618759024) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.14.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+9. 💬 Commented on [#16](https://github.com/hugomods/images/issues/16#issuecomment-1712662250) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. 💬 Commented on [#16](https://github.com/hugomods/images/issues/16#issuecomment-1712551220) in [hugomods/images](https://github.com/hugomods/images)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
