@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#351](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/351) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
-2. ⭐ Starred [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-3. 🎉 Merged PR [#2](https://github.com/hbstack/theme-start/pull/2) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-4. ❗️ Opened issue [#11458](https://github.com/gohugoio/hugo/issues/11458) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-5. 💬 Commented on [#377](https://github.com/hbstack/theme/pull/377#issuecomment-1717404580) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-6. 🎉 Merged PR [#377](https://github.com/hbstack/theme/pull/377) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-7. 👍 Approved [#377](https://github.com/hbstack/theme/pull/377#pullrequestreview-1624263557) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-8. 🎉 Merged PR [#277](https://github.com/hbstack/header/pull/277) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 🎉 Merged PR [#112](https://github.com/hbstack/footer/pull/112) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-10. 🎉 Merged PR [#95](https://github.com/hbstack/socials/pull/95) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+1. ❗️ Opened issue [#10](https://github.com/hbstack/theme-start/issues/10) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+2. 💪 Opened PR [#15](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/15) in [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss)<br>
+3. 💬 Commented on [#351](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/351#issuecomment-1721546465) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
+4. 💪 Opened PR [#351](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/351) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
+5. ⭐ Starred [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+6. 🎉 Merged PR [#2](https://github.com/hbstack/theme-start/pull/2) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+7. ❗️ Opened issue [#11458](https://github.com/gohugoio/hugo/issues/11458) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+8. 💬 Commented on [#377](https://github.com/hbstack/theme/pull/377#issuecomment-1717404580) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+9. 🎉 Merged PR [#377](https://github.com/hbstack/theme/pull/377) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+10. 👍 Approved [#377](https://github.com/hbstack/theme/pull/377#pullrequestreview-1624263557) in [hbstack/theme](https://github.com/hbstack/theme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
