@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#352](https://github.com/gohugoio/hugoThemesSiteBuilder/issues/352) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
-2. 🎉 Merged PR [#13](https://github.com/hbstack/theme-start/pull/13) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-3. ✔️ Closed issue [#10](https://github.com/hbstack/theme-start/issues/10) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-4. 🎉 Merged PR [#14](https://github.com/hbstack/theme-start/pull/14) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-5. 💪 Opened PR [#14](https://github.com/hbstack/theme-start/pull/14) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-6. 🎉 Merged PR [#9](https://github.com/hbstack/theme-start/pull/9) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-7. 🎉 Merged PR [#12](https://github.com/hbstack/theme-start/pull/12) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-8. 💪 Opened PR [#12](https://github.com/hbstack/theme-start/pull/12) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-9. ❗️ Opened issue [#10](https://github.com/hbstack/theme-start/issues/10) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-10. 💪 Opened PR [#15](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/15) in [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss)<br>
+1. 🎉 Merged PR [#16](https://github.com/hbstack/theme-start/pull/16) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+2. 💪 Opened PR [#16](https://github.com/hbstack/theme-start/pull/16) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+3. ❗️ Opened issue [#352](https://github.com/gohugoio/hugoThemesSiteBuilder/issues/352) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
+4. 🎉 Merged PR [#13](https://github.com/hbstack/theme-start/pull/13) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+5. ✔️ Closed issue [#10](https://github.com/hbstack/theme-start/issues/10) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+6. 🎉 Merged PR [#14](https://github.com/hbstack/theme-start/pull/14) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+7. 💪 Opened PR [#14](https://github.com/hbstack/theme-start/pull/14) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+8. 🎉 Merged PR [#9](https://github.com/hbstack/theme-start/pull/9) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+9. 🎉 Merged PR [#12](https://github.com/hbstack/theme-start/pull/12) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+10. 💪 Opened PR [#12](https://github.com/hbstack/theme-start/pull/12) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
