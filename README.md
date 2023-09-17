@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#976](https://github.com/razonyang/hugo-theme-bootstrap/pull/976) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. 💬 Commented on [#975](https://github.com/razonyang/hugo-theme-bootstrap/pull/975#issuecomment-1722465023) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 🎉 Merged PR [#975](https://github.com/razonyang/hugo-theme-bootstrap/pull/975) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. 📔 Created new repository [razonyang/start-page](https://github.com/razonyang/start-page)<br>
-5. 🎉 Merged PR [#17](https://github.com/hbstack/theme-start/pull/17) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-6. 🎉 Merged PR [#15](https://github.com/hbstack/theme-start/pull/15) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-7. 🎉 Merged PR [#64](https://github.com/hbstack/background-image/pull/64) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
-8. 🎉 Merged PR [#16](https://github.com/hbstack/theme-start/pull/16) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-9. 💪 Opened PR [#16](https://github.com/hbstack/theme-start/pull/16) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-10. ❗️ Opened issue [#352](https://github.com/gohugoio/hugoThemesSiteBuilder/issues/352) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
+1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.15.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+2. 🎉 Merged PR [#976](https://github.com/razonyang/hugo-theme-bootstrap/pull/976) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 💬 Commented on [#975](https://github.com/razonyang/hugo-theme-bootstrap/pull/975#issuecomment-1722465023) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 🎉 Merged PR [#975](https://github.com/razonyang/hugo-theme-bootstrap/pull/975) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 📔 Created new repository [razonyang/start-page](https://github.com/razonyang/start-page)<br>
+6. 🎉 Merged PR [#17](https://github.com/hbstack/theme-start/pull/17) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+7. 🎉 Merged PR [#15](https://github.com/hbstack/theme-start/pull/15) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+8. 🎉 Merged PR [#64](https://github.com/hbstack/background-image/pull/64) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
+9. 🎉 Merged PR [#16](https://github.com/hbstack/theme-start/pull/16) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+10. 💪 Opened PR [#16](https://github.com/hbstack/theme-start/pull/16) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
