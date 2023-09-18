@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#187](https://github.com/hugomods/icons/pull/187) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. ❌ Closed PR [#164](https://github.com/hugomods/icons/pull/164) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ❌ Closed PR [#169](https://github.com/hugomods/icons/pull/169) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 🎉 Merged PR [#183](https://github.com/hugomods/icons/pull/183) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 👍 Approved [#183](https://github.com/hugomods/icons/pull/183#pullrequestreview-1630097872) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 🎉 Merged PR [#186](https://github.com/hugomods/icons/pull/186) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 👍 Approved [#186](https://github.com/hugomods/icons/pull/186#pullrequestreview-1630097849) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.15.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-9. 🎉 Merged PR [#976](https://github.com/razonyang/hugo-theme-bootstrap/pull/976) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 💬 Commented on [#975](https://github.com/razonyang/hugo-theme-bootstrap/pull/975#issuecomment-1722465023) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 💪 Opened PR [#2234](https://github.com/gohugoio/hugoDocs/pull/2234) in [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs)<br>
+2. ❌ Closed PR [#187](https://github.com/hugomods/icons/pull/187) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ❌ Closed PR [#164](https://github.com/hugomods/icons/pull/164) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ❌ Closed PR [#169](https://github.com/hugomods/icons/pull/169) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 🎉 Merged PR [#183](https://github.com/hugomods/icons/pull/183) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 👍 Approved [#183](https://github.com/hugomods/icons/pull/183#pullrequestreview-1630097872) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 🎉 Merged PR [#186](https://github.com/hugomods/icons/pull/186) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 👍 Approved [#186](https://github.com/hugomods/icons/pull/186#pullrequestreview-1630097849) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.15.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+10. 🎉 Merged PR [#976](https://github.com/razonyang/hugo-theme-bootstrap/pull/976) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
