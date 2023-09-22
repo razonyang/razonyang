@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#75](https://github.com/hugomods/bootstrap/pull/75) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 🎉 Merged PR [#77](https://github.com/hugomods/bootstrap/pull/77) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 💪 Opened PR [#77](https://github.com/hugomods/bootstrap/pull/77) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 🎉 Merged PR [#977](https://github.com/razonyang/hugo-theme-bootstrap/pull/977) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 👍 Approved [#977](https://github.com/razonyang/hugo-theme-bootstrap/pull/977#pullrequestreview-1634411733) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. ⭐ Starred [animate-css/animate.css](https://github.com/animate-css/animate.css)<br>
-7. 🎉 Merged PR [#76](https://github.com/hugomods/bootstrap/pull/76) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-8. 💪 Opened PR [#76](https://github.com/hugomods/bootstrap/pull/76) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-9. 🎉 Merged PR [#74](https://github.com/hugomods/bootstrap/pull/74) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-10. 💪 Opened PR [#74](https://github.com/hugomods/bootstrap/pull/74) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+1. ❗️ Opened issue [#78](https://github.com/hugomods/bootstrap/issues/78) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. 🎉 Merged PR [#75](https://github.com/hugomods/bootstrap/pull/75) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+3. 🎉 Merged PR [#77](https://github.com/hugomods/bootstrap/pull/77) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. 💪 Opened PR [#77](https://github.com/hugomods/bootstrap/pull/77) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 🎉 Merged PR [#977](https://github.com/razonyang/hugo-theme-bootstrap/pull/977) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 👍 Approved [#977](https://github.com/razonyang/hugo-theme-bootstrap/pull/977#pullrequestreview-1634411733) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. ⭐ Starred [animate-css/animate.css](https://github.com/animate-css/animate.css)<br>
+8. 🎉 Merged PR [#76](https://github.com/hugomods/bootstrap/pull/76) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. 💪 Opened PR [#76](https://github.com/hugomods/bootstrap/pull/76) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+10. 🎉 Merged PR [#74](https://github.com/hugomods/bootstrap/pull/74) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
