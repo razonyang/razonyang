@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#83](https://github.com/hugomods/bootstrap/pull/83) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 💪 Opened PR [#83](https://github.com/hugomods/bootstrap/pull/83) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 🎉 Merged PR [#82](https://github.com/hugomods/bootstrap/pull/82) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 💪 Opened PR [#82](https://github.com/hugomods/bootstrap/pull/82) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. 🎉 Merged PR [#81](https://github.com/hugomods/bootstrap/pull/81) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-6. 💪 Opened PR [#81](https://github.com/hugomods/bootstrap/pull/81) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-7. 🎉 Merged PR [#79](https://github.com/hugomods/bootstrap/pull/79) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-8. 💪 Opened PR [#79](https://github.com/hugomods/bootstrap/pull/79) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-9. 🎉 Merged PR [#124](https://github.com/hbstack/footer/pull/124) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-10. 🎉 Merged PR [#282](https://github.com/hbstack/header/pull/282) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#80](https://github.com/hugomods/bootstrap/pull/80) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. 🎉 Merged PR [#31](https://github.com/hugomods/shortcodes/pull/31) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+3. 🎉 Merged PR [#83](https://github.com/hugomods/bootstrap/pull/83) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. 💪 Opened PR [#83](https://github.com/hugomods/bootstrap/pull/83) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 🎉 Merged PR [#82](https://github.com/hugomods/bootstrap/pull/82) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+6. 💪 Opened PR [#82](https://github.com/hugomods/bootstrap/pull/82) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+7. 🎉 Merged PR [#81](https://github.com/hugomods/bootstrap/pull/81) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+8. 💪 Opened PR [#81](https://github.com/hugomods/bootstrap/pull/81) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. 🎉 Merged PR [#79](https://github.com/hugomods/bootstrap/pull/79) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+10. 💪 Opened PR [#79](https://github.com/hugomods/bootstrap/pull/79) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
