@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#275](https://github.com/hbstack/meta/pull/275) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-2. 👍 Approved [#275](https://github.com/hbstack/meta/pull/275#pullrequestreview-1646180027) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-3. 🎉 Merged PR [#270](https://github.com/hbstack/meta/pull/270) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-4. 👍 Approved [#270](https://github.com/hbstack/meta/pull/270#pullrequestreview-1646147502) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-5. 👍 Approved [#275](https://github.com/hbstack/meta/pull/275#pullrequestreview-1646147144) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-6. 🎉 Merged PR [#277](https://github.com/hbstack/meta/pull/277) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-7. 🎉 Merged PR [#283](https://github.com/hbstack/meta/pull/283) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-8. 👍 Approved [#277](https://github.com/hbstack/meta/pull/277#pullrequestreview-1646146421) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-9. 👍 Approved [#283](https://github.com/hbstack/meta/pull/283#pullrequestreview-1646146131) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-10. ❗️ Opened issue [#17](https://github.com/hugomods/images/issues/17) in [hugomods/images](https://github.com/hugomods/images)<br>
+1. 🎉 Merged PR [#193](https://github.com/hugomods/icons/pull/193) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#193](https://github.com/hugomods/icons/pull/193#pullrequestreview-1647790103) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#275](https://github.com/hbstack/meta/pull/275) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+4. 👍 Approved [#275](https://github.com/hbstack/meta/pull/275#pullrequestreview-1646180027) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+5. 🎉 Merged PR [#270](https://github.com/hbstack/meta/pull/270) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+6. 👍 Approved [#270](https://github.com/hbstack/meta/pull/270#pullrequestreview-1646147502) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+7. 👍 Approved [#275](https://github.com/hbstack/meta/pull/275#pullrequestreview-1646147144) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+8. 🎉 Merged PR [#277](https://github.com/hbstack/meta/pull/277) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+9. 🎉 Merged PR [#283](https://github.com/hbstack/meta/pull/283) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+10. 👍 Approved [#277](https://github.com/hbstack/meta/pull/277#pullrequestreview-1646146421) in [hbstack/meta](https://github.com/hbstack/meta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
