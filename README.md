@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [h3poteto/whalebird-desktop](https://github.com/h3poteto/whalebird-desktop)<br>
-2. 🎉 Merged PR [#193](https://github.com/hugomods/icons/pull/193) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#193](https://github.com/hugomods/icons/pull/193#pullrequestreview-1647790103) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 🎉 Merged PR [#275](https://github.com/hbstack/meta/pull/275) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-5. 👍 Approved [#275](https://github.com/hbstack/meta/pull/275#pullrequestreview-1646180027) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-6. 🎉 Merged PR [#270](https://github.com/hbstack/meta/pull/270) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-7. 👍 Approved [#270](https://github.com/hbstack/meta/pull/270#pullrequestreview-1646147502) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-8. 👍 Approved [#275](https://github.com/hbstack/meta/pull/275#pullrequestreview-1646147144) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-9. 🎉 Merged PR [#277](https://github.com/hbstack/meta/pull/277) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-10. 🎉 Merged PR [#283](https://github.com/hbstack/meta/pull/283) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+1. 🎉 Merged PR [#195](https://github.com/hugomods/icons/pull/195) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#195](https://github.com/hugomods/icons/pull/195#pullrequestreview-1649813278) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ⭐ Starred [h3poteto/whalebird-desktop](https://github.com/h3poteto/whalebird-desktop)<br>
+4. 🎉 Merged PR [#193](https://github.com/hugomods/icons/pull/193) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 👍 Approved [#193](https://github.com/hugomods/icons/pull/193#pullrequestreview-1647790103) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 🎉 Merged PR [#275](https://github.com/hbstack/meta/pull/275) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+7. 👍 Approved [#275](https://github.com/hbstack/meta/pull/275#pullrequestreview-1646180027) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+8. 🎉 Merged PR [#270](https://github.com/hbstack/meta/pull/270) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+9. 👍 Approved [#270](https://github.com/hbstack/meta/pull/270#pullrequestreview-1646147502) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+10. 👍 Approved [#275](https://github.com/hbstack/meta/pull/275#pullrequestreview-1646147144) in [hbstack/meta](https://github.com/hbstack/meta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
