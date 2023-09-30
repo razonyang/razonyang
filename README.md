@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#299](https://github.com/hbstack/header/issues/299) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. ⭐ Starred [DmitryScaletta/free-heroku-alternatives](https://github.com/DmitryScaletta/free-heroku-alternatives)<br>
-3. 🎉 Merged PR [#195](https://github.com/hugomods/icons/pull/195) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#195](https://github.com/hugomods/icons/pull/195#pullrequestreview-1649813278) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. ⭐ Starred [h3poteto/whalebird-desktop](https://github.com/h3poteto/whalebird-desktop)<br>
-6. 🎉 Merged PR [#193](https://github.com/hugomods/icons/pull/193) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 👍 Approved [#193](https://github.com/hugomods/icons/pull/193#pullrequestreview-1647790103) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 🎉 Merged PR [#275](https://github.com/hbstack/meta/pull/275) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-9. 👍 Approved [#275](https://github.com/hbstack/meta/pull/275#pullrequestreview-1646180027) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-10. 🎉 Merged PR [#270](https://github.com/hbstack/meta/pull/270) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+1. 🎉 Merged PR [#36](https://github.com/hbstack/announcement-bar/pull/36) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+2. 🎉 Merged PR [#297](https://github.com/hbstack/header/pull/297) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. 🎉 Merged PR [#304](https://github.com/hbstack/header/pull/304) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 💪 Opened PR [#304](https://github.com/hbstack/header/pull/304) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. ✔️ Closed issue [#278](https://github.com/hbstack/header/issues/278) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. 🎉 Merged PR [#303](https://github.com/hbstack/header/pull/303) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 💪 Opened PR [#303](https://github.com/hbstack/header/pull/303) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. ✔️ Closed issue [#300](https://github.com/hbstack/header/issues/300) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 🎉 Merged PR [#302](https://github.com/hbstack/header/pull/302) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 💪 Opened PR [#302](https://github.com/hbstack/header/pull/302) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
