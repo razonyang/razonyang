@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/razonyang/hb-mod-thanks/pull/6) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
-2. 🎉 Merged PR [#7](https://github.com/razonyang/hb-mod-thanks/pull/7) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
-3. 🎉 Merged PR [#8](https://github.com/razonyang/hb-mod-thanks/pull/8) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
-4. 🎉 Merged PR [#8](https://github.com/hbstack/github-releases/pull/8) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
-5. 🎉 Merged PR [#9](https://github.com/hbstack/github-releases/pull/9) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
-6. 💪 Opened PR [#9](https://github.com/hbstack/github-releases/pull/9) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
-7. 🎉 Merged PR [#7](https://github.com/hbstack/github-releases/pull/7) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
-8. 💪 Opened PR [#7](https://github.com/hbstack/github-releases/pull/7) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
-9. ⭐ Starred [javve/list.js](https://github.com/javve/list.js)<br>
-10. ❗️ Opened issue [#88](https://github.com/hbstack/hb/issues/88) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. 🎉 Merged PR [#197](https://github.com/hugomods/icons/pull/197) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#197](https://github.com/hugomods/icons/pull/197#pullrequestreview-1651722580) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#6](https://github.com/razonyang/hb-mod-thanks/pull/6) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
+4. 🎉 Merged PR [#7](https://github.com/razonyang/hb-mod-thanks/pull/7) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
+5. 🎉 Merged PR [#8](https://github.com/razonyang/hb-mod-thanks/pull/8) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
+6. 🎉 Merged PR [#8](https://github.com/hbstack/github-releases/pull/8) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
+7. 🎉 Merged PR [#9](https://github.com/hbstack/github-releases/pull/9) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
+8. 💪 Opened PR [#9](https://github.com/hbstack/github-releases/pull/9) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
+9. 🎉 Merged PR [#7](https://github.com/hbstack/github-releases/pull/7) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
+10. 💪 Opened PR [#7](https://github.com/hbstack/github-releases/pull/7) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
