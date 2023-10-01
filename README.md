@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.16.1) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-2. 🎉 Merged PR [#197](https://github.com/hugomods/icons/pull/197) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#197](https://github.com/hugomods/icons/pull/197#pullrequestreview-1651722580) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 🎉 Merged PR [#6](https://github.com/razonyang/hb-mod-thanks/pull/6) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
-5. 🎉 Merged PR [#7](https://github.com/razonyang/hb-mod-thanks/pull/7) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
-6. 🎉 Merged PR [#8](https://github.com/razonyang/hb-mod-thanks/pull/8) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
-7. 🎉 Merged PR [#8](https://github.com/hbstack/github-releases/pull/8) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
-8. 🎉 Merged PR [#9](https://github.com/hbstack/github-releases/pull/9) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
-9. 💪 Opened PR [#9](https://github.com/hbstack/github-releases/pull/9) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
-10. 🎉 Merged PR [#7](https://github.com/hbstack/github-releases/pull/7) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
+1. 🎉 Merged PR [#199](https://github.com/hugomods/icons/pull/199) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#199](https://github.com/hugomods/icons/pull/199#pullrequestreview-1651830045) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.16.1) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+4. 🎉 Merged PR [#197](https://github.com/hugomods/icons/pull/197) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 👍 Approved [#197](https://github.com/hugomods/icons/pull/197#pullrequestreview-1651722580) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 🎉 Merged PR [#6](https://github.com/razonyang/hb-mod-thanks/pull/6) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
+7. 🎉 Merged PR [#7](https://github.com/razonyang/hb-mod-thanks/pull/7) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
+8. 🎉 Merged PR [#8](https://github.com/razonyang/hb-mod-thanks/pull/8) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
+9. 🎉 Merged PR [#8](https://github.com/hbstack/github-releases/pull/8) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
+10. 🎉 Merged PR [#9](https://github.com/hbstack/github-releases/pull/9) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
