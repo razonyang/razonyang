@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#19](https://github.com/hugomods/giscus/pull/19) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
-2. ❌ Closed PR [#17](https://github.com/hugomods/giscus/pull/17) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
-3. ❌ Closed PR [#16](https://github.com/hugomods/giscus/pull/16) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
-4. ❌ Closed PR [#15](https://github.com/hugomods/giscus/pull/15) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
-5. ❌ Closed PR [#14](https://github.com/hugomods/giscus/pull/14) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
-6. 🎉 Merged PR [#18](https://github.com/hugomods/giscus/pull/18) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
-7. 💪 Opened PR [#18](https://github.com/hugomods/giscus/pull/18) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
-8. ✔️ Closed issue [#192](https://github.com/hbstack/header/issues/192) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 💬 Commented on [#192](https://github.com/hbstack/header/issues/192#issuecomment-1742078059) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 💬 Commented on [#308](https://github.com/hbstack/header/issues/308#issuecomment-1742054593) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 👍 Approved [#543](https://github.com/hugomods/site/pull/543#pullrequestreview-1651925116) in [hugomods/site](https://github.com/hugomods/site)<br>
+2. 🎉 Merged PR [#19](https://github.com/hugomods/giscus/pull/19) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
+3. ❌ Closed PR [#17](https://github.com/hugomods/giscus/pull/17) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
+4. ❌ Closed PR [#16](https://github.com/hugomods/giscus/pull/16) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
+5. ❌ Closed PR [#15](https://github.com/hugomods/giscus/pull/15) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
+6. ❌ Closed PR [#14](https://github.com/hugomods/giscus/pull/14) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
+7. 🎉 Merged PR [#18](https://github.com/hugomods/giscus/pull/18) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
+8. 💪 Opened PR [#18](https://github.com/hugomods/giscus/pull/18) in [hugomods/giscus](https://github.com/hugomods/giscus)<br>
+9. ✔️ Closed issue [#192](https://github.com/hbstack/header/issues/192) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 💬 Commented on [#192](https://github.com/hbstack/header/issues/192#issuecomment-1742078059) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
