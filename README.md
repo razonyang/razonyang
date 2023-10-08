@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#201](https://github.com/hugomods/icons/pull/201) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#201](https://github.com/hugomods/icons/pull/201#pullrequestreview-1663120731) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✔️ Closed issue [#501](https://github.com/hugomods/site/issues/501) in [hugomods/site](https://github.com/hugomods/site)<br>
-4. 🎉 Merged PR [#19](https://github.com/hugomods/images/pull/19) in [hugomods/images](https://github.com/hugomods/images)<br>
-5. ✔️ Closed issue [#17](https://github.com/hugomods/images/issues/17) in [hugomods/images](https://github.com/hugomods/images)<br>
-6. 🎉 Merged PR [#18](https://github.com/hugomods/images/pull/18) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. 💪 Opened PR [#18](https://github.com/hugomods/images/pull/18) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. 🎉 Merged PR [#286](https://github.com/hbstack/theme/pull/286) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-9. 👍 Approved [#286](https://github.com/hbstack/theme/pull/286#pullrequestreview-1661646145) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-10. 💬 Commented on [#374](https://github.com/hbstack/blog/pull/374#issuecomment-1748733038) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. ⭐ Starred [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
+2. 🎉 Merged PR [#201](https://github.com/hugomods/icons/pull/201) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#201](https://github.com/hugomods/icons/pull/201#pullrequestreview-1663120731) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✔️ Closed issue [#501](https://github.com/hugomods/site/issues/501) in [hugomods/site](https://github.com/hugomods/site)<br>
+5. 🎉 Merged PR [#19](https://github.com/hugomods/images/pull/19) in [hugomods/images](https://github.com/hugomods/images)<br>
+6. ✔️ Closed issue [#17](https://github.com/hugomods/images/issues/17) in [hugomods/images](https://github.com/hugomods/images)<br>
+7. 🎉 Merged PR [#18](https://github.com/hugomods/images/pull/18) in [hugomods/images](https://github.com/hugomods/images)<br>
+8. 💪 Opened PR [#18](https://github.com/hugomods/images/pull/18) in [hugomods/images](https://github.com/hugomods/images)<br>
+9. 🎉 Merged PR [#286](https://github.com/hbstack/theme/pull/286) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+10. 👍 Approved [#286](https://github.com/hbstack/theme/pull/286#pullrequestreview-1661646145) in [hbstack/theme](https://github.com/hbstack/theme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
