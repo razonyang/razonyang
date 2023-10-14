@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#28](https://github.com/hugomods/base/pull/28) in [hugomods/base](https://github.com/hugomods/base)<br>
-2. 💪 Opened PR [#28](https://github.com/hugomods/base/pull/28) in [hugomods/base](https://github.com/hugomods/base)<br>
-3. 🎉 Merged PR [#27](https://github.com/hugomods/base/pull/27) in [hugomods/base](https://github.com/hugomods/base)<br>
-4. 💪 Opened PR [#27](https://github.com/hugomods/base/pull/27) in [hugomods/base](https://github.com/hugomods/base)<br>
-5. ⭐ Starred [addnab/docker-run-action](https://github.com/addnab/docker-run-action)<br>
-6. 💬 Commented on [#84](https://github.com/hbstack/search/issues/84#issuecomment-1759574989) in [hbstack/search](https://github.com/hbstack/search)<br>
-7. 🎉 Merged PR [#330](https://github.com/hbstack/header/pull/330) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. ✔️ Closed issue [#328](https://github.com/hbstack/header/issues/328) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 🎉 Merged PR [#329](https://github.com/hbstack/header/pull/329) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 💪 Opened PR [#329](https://github.com/hbstack/header/pull/329) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. ✔️ Closed issue [#26](https://github.com/hugomods/base/issues/26) in [hugomods/base](https://github.com/hugomods/base)<br>
+2. 🎉 Merged PR [#29](https://github.com/hugomods/base/pull/29) in [hugomods/base](https://github.com/hugomods/base)<br>
+3. 🎉 Merged PR [#24](https://github.com/hugomods/base/pull/24) in [hugomods/base](https://github.com/hugomods/base)<br>
+4. 👍 Approved [#24](https://github.com/hugomods/base/pull/24#pullrequestreview-1677930151) in [hugomods/base](https://github.com/hugomods/base)<br>
+5. 🎉 Merged PR [#25](https://github.com/hugomods/base/pull/25) in [hugomods/base](https://github.com/hugomods/base)<br>
+6. 👍 Approved [#25](https://github.com/hugomods/base/pull/25#pullrequestreview-1677930124) in [hugomods/base](https://github.com/hugomods/base)<br>
+7. 🎉 Merged PR [#28](https://github.com/hugomods/base/pull/28) in [hugomods/base](https://github.com/hugomods/base)<br>
+8. 💪 Opened PR [#28](https://github.com/hugomods/base/pull/28) in [hugomods/base](https://github.com/hugomods/base)<br>
+9. 🎉 Merged PR [#27](https://github.com/hugomods/base/pull/27) in [hugomods/base](https://github.com/hugomods/base)<br>
+10. 💪 Opened PR [#27](https://github.com/hugomods/base/pull/27) in [hugomods/base](https://github.com/hugomods/base)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
