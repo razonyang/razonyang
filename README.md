@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.18.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-2. 💬 Commented on [#2900](https://github.com/anuraghazra/github-readme-stats/issues/2900#issuecomment-1762867838) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
-3. 🎉 Merged PR [#392](https://github.com/hbstack/blog/pull/392) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 🎉 Merged PR [#397](https://github.com/hbstack/blog/pull/397) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 💪 Opened PR [#397](https://github.com/hbstack/blog/pull/397) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 🎉 Merged PR [#396](https://github.com/hbstack/blog/pull/396) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 💪 Opened PR [#396](https://github.com/hbstack/blog/pull/396) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 💬 Commented on [#26](https://github.com/hugomods/base/issues/26#issuecomment-1762749877) in [hugomods/base](https://github.com/hugomods/base)<br>
-9. 💬 Commented on [#26](https://github.com/hugomods/base/issues/26#issuecomment-1762749004) in [hugomods/base](https://github.com/hugomods/base)<br>
-10. ✔️ Closed issue [#26](https://github.com/hugomods/base/issues/26) in [hugomods/base](https://github.com/hugomods/base)<br>
+1. 🎉 Merged PR [#207](https://github.com/hugomods/icons/pull/207) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#207](https://github.com/hugomods/icons/pull/207#pullrequestreview-1678821332) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.18.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+4. 💬 Commented on [#2900](https://github.com/anuraghazra/github-readme-stats/issues/2900#issuecomment-1762867838) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)<br>
+5. 🎉 Merged PR [#392](https://github.com/hbstack/blog/pull/392) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 🎉 Merged PR [#397](https://github.com/hbstack/blog/pull/397) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. 💪 Opened PR [#397](https://github.com/hbstack/blog/pull/397) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 🎉 Merged PR [#396](https://github.com/hbstack/blog/pull/396) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 💪 Opened PR [#396](https://github.com/hbstack/blog/pull/396) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. 💬 Commented on [#26](https://github.com/hugomods/base/issues/26#issuecomment-1762749877) in [hugomods/base](https://github.com/hugomods/base)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
