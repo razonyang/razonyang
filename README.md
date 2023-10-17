@@ -13,13 +13,15 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#30](https://github.com/hugomods/base/pull/30) in [hugomods/base](https://github.com/hugomods/base)<br>
-2. 🎉 Merged PR [#301](https://github.com/hbstack/meta/pull/301) in [hbstack/meta](https://github.com/hbstack/meta)<br>
-3. ⭐ Starred [nosarthur/gita](https://github.com/nosarthur/gita)<br>
-4. 🎉 Merged PR [#403](https://github.com/hbstack/blog/pull/403) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 🎉 Merged PR [#67](https://github.com/hbstack/pagination/pull/67) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-6. 👍 Approved [#67](https://github.com/hbstack/pagination/pull/67#pullrequestreview-1680416453) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-7. 🎉 Merged PR [#398](https://github.com/hbstack/blog/pull/398) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 📔 Created new repository [razonyang/hugo-mod-bar](https://github.com/razonyang/hugo-mod-bar)<br>
+2. 📔 Created new repository [razonyang/hugo-mod-foo](https://github.com/razonyang/hugo-mod-foo)<br>
+3. ❗️ Opened issue [#95](https://github.com/hbstack/hb/issues/95) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+4. 🎉 Merged PR [#30](https://github.com/hugomods/base/pull/30) in [hugomods/base](https://github.com/hugomods/base)<br>
+5. 🎉 Merged PR [#301](https://github.com/hbstack/meta/pull/301) in [hbstack/meta](https://github.com/hbstack/meta)<br>
+6. ⭐ Starred [nosarthur/gita](https://github.com/nosarthur/gita)<br>
+7. 🎉 Merged PR [#403](https://github.com/hbstack/blog/pull/403) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 🎉 Merged PR [#67](https://github.com/hbstack/pagination/pull/67) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
+9. 👍 Approved [#67](https://github.com/hbstack/pagination/pull/67#pullrequestreview-1680416453) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
