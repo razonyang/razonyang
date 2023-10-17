@@ -20,8 +20,6 @@
 5. 🎉 Merged PR [#301](https://github.com/hbstack/meta/pull/301) in [hbstack/meta](https://github.com/hbstack/meta)<br>
 6. ⭐ Starred [nosarthur/gita](https://github.com/nosarthur/gita)<br>
 7. 🎉 Merged PR [#403](https://github.com/hbstack/blog/pull/403) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 🎉 Merged PR [#67](https://github.com/hbstack/pagination/pull/67) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-9. 👍 Approved [#67](https://github.com/hbstack/pagination/pull/67#pullrequestreview-1680416453) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
