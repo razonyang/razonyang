@@ -18,7 +18,6 @@
 3. 📔 Created new repository [razonyang/hugo-mod-foo](https://github.com/razonyang/hugo-mod-foo)<br>
 4. ❗️ Opened issue [#95](https://github.com/hbstack/hb/issues/95) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 5. 🎉 Merged PR [#30](https://github.com/hugomods/base/pull/30) in [hugomods/base](https://github.com/hugomods/base)<br>
-6. 🎉 Merged PR [#301](https://github.com/hbstack/meta/pull/301) in [hbstack/meta](https://github.com/hbstack/meta)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
