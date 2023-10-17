@@ -20,9 +20,6 @@
 5. 🎉 Merged PR [#67](https://github.com/hbstack/pagination/pull/67) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
 6. 👍 Approved [#67](https://github.com/hbstack/pagination/pull/67#pullrequestreview-1680416453) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
 7. 🎉 Merged PR [#398](https://github.com/hbstack/blog/pull/398) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 🎉 Merged PR [#25](https://github.com/hbstack/content-panel/pull/25) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-9. 🎉 Merged PR [#79](https://github.com/hbstack/carousel/pull/79) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
-10. 🎉 Merged PR [#17](https://github.com/hbstack/breadcrumb/pull/17) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
