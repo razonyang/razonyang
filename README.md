@@ -13,11 +13,12 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [razonyang/hugo-mod-tests](https://github.com/razonyang/hugo-mod-tests)<br>
-2. 📔 Created new repository [razonyang/hugo-mod-bar](https://github.com/razonyang/hugo-mod-bar)<br>
-3. 📔 Created new repository [razonyang/hugo-mod-foo](https://github.com/razonyang/hugo-mod-foo)<br>
-4. ❗️ Opened issue [#95](https://github.com/hbstack/hb/issues/95) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-5. 🎉 Merged PR [#30](https://github.com/hugomods/base/pull/30) in [hugomods/base](https://github.com/hugomods/base)<br>
+1. 🎉 Merged PR [#209](https://github.com/hugomods/icons/pull/209) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#209](https://github.com/hugomods/icons/pull/209#pullrequestreview-1683756982) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 📔 Created new repository [razonyang/hugo-mod-tests](https://github.com/razonyang/hugo-mod-tests)<br>
+4. 📔 Created new repository [razonyang/hugo-mod-bar](https://github.com/razonyang/hugo-mod-bar)<br>
+5. 📔 Created new repository [razonyang/hugo-mod-foo](https://github.com/razonyang/hugo-mod-foo)<br>
+6. ❗️ Opened issue [#95](https://github.com/hbstack/hb/issues/95) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
