@@ -13,13 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#11573](https://github.com/gohugoio/hugo/pull/11573) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-2. 🎉 Merged PR [#209](https://github.com/hugomods/icons/pull/209) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#209](https://github.com/hugomods/icons/pull/209#pullrequestreview-1683756982) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 📔 Created new repository [razonyang/hugo-mod-tests](https://github.com/razonyang/hugo-mod-tests)<br>
-5. 📔 Created new repository [razonyang/hugo-mod-bar](https://github.com/razonyang/hugo-mod-bar)<br>
-6. 📔 Created new repository [razonyang/hugo-mod-foo](https://github.com/razonyang/hugo-mod-foo)<br>
-7. ❗️ Opened issue [#95](https://github.com/hbstack/hb/issues/95) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. 💬 Commented on [#982](https://github.com/razonyang/hugo-theme-bootstrap/pull/982#issuecomment-1769586704) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 🎉 Merged PR [#982](https://github.com/razonyang/hugo-theme-bootstrap/pull/982) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 👍 Approved [#982](https://github.com/razonyang/hugo-theme-bootstrap/pull/982#pullrequestreview-1686383795) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💪 Opened PR [#11573](https://github.com/gohugoio/hugo/pull/11573) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+5. 🎉 Merged PR [#209](https://github.com/hugomods/icons/pull/209) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 👍 Approved [#209](https://github.com/hugomods/icons/pull/209#pullrequestreview-1683756982) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 📔 Created new repository [razonyang/hugo-mod-tests](https://github.com/razonyang/hugo-mod-tests)<br>
+8. 📔 Created new repository [razonyang/hugo-mod-bar](https://github.com/razonyang/hugo-mod-bar)<br>
+9. 📔 Created new repository [razonyang/hugo-mod-foo](https://github.com/razonyang/hugo-mod-foo)<br>
+10. ❗️ Opened issue [#95](https://github.com/hbstack/hb/issues/95) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
