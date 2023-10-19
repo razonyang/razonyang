@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#408](https://github.com/hbstack/blog/pull/408) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 💬 Commented on [#982](https://github.com/razonyang/hugo-theme-bootstrap/pull/982#issuecomment-1769586704) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 🎉 Merged PR [#982](https://github.com/razonyang/hugo-theme-bootstrap/pull/982) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. 👍 Approved [#982](https://github.com/razonyang/hugo-theme-bootstrap/pull/982#pullrequestreview-1686383795) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 💪 Opened PR [#11573](https://github.com/gohugoio/hugo/pull/11573) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-6. 🎉 Merged PR [#209](https://github.com/hugomods/icons/pull/209) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 👍 Approved [#209](https://github.com/hugomods/icons/pull/209#pullrequestreview-1683756982) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 📔 Created new repository [razonyang/hugo-mod-tests](https://github.com/razonyang/hugo-mod-tests)<br>
-9. 📔 Created new repository [razonyang/hugo-mod-bar](https://github.com/razonyang/hugo-mod-bar)<br>
-10. 📔 Created new repository [razonyang/hugo-mod-foo](https://github.com/razonyang/hugo-mod-foo)<br>
+1. 💬 Commented on [#11573](https://github.com/gohugoio/hugo/pull/11573#issuecomment-1771490884) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. 🎉 Merged PR [#408](https://github.com/hbstack/blog/pull/408) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 💬 Commented on [#982](https://github.com/razonyang/hugo-theme-bootstrap/pull/982#issuecomment-1769586704) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 🎉 Merged PR [#982](https://github.com/razonyang/hugo-theme-bootstrap/pull/982) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 👍 Approved [#982](https://github.com/razonyang/hugo-theme-bootstrap/pull/982#pullrequestreview-1686383795) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💪 Opened PR [#11573](https://github.com/gohugoio/hugo/pull/11573) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+7. 🎉 Merged PR [#209](https://github.com/hugomods/icons/pull/209) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 👍 Approved [#209](https://github.com/hugomods/icons/pull/209#pullrequestreview-1683756982) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 📔 Created new repository [razonyang/hugo-mod-tests](https://github.com/razonyang/hugo-mod-tests)<br>
+10. 📔 Created new repository [razonyang/hugo-mod-bar](https://github.com/razonyang/hugo-mod-bar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
