@@ -13,16 +13,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#11573](https://github.com/gohugoio/hugo/pull/11573#issuecomment-1772974344) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-2. 🎉 Merged PR [#412](https://github.com/hbstack/blog/pull/412) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 🎉 Merged PR [#212](https://github.com/hugomods/icons/pull/212) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.288.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-5. 💬 Commented on [#11573](https://github.com/gohugoio/hugo/pull/11573#issuecomment-1772748042) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-6. 🎉 Merged PR [#211](https://github.com/hugomods/icons/pull/211) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 👍 Approved [#211](https://github.com/hugomods/icons/pull/211#pullrequestreview-1689789900) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. ❗️ Opened issue [#339](https://github.com/hbstack/header/issues/339) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 💬 Commented on [#11573](https://github.com/gohugoio/hugo/pull/11573#issuecomment-1771490884) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-10. 🎉 Merged PR [#408](https://github.com/hbstack/blog/pull/408) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 🎉 Merged PR [#290](https://github.com/hbstack/docs/pull/290) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. 💬 Commented on [#11573](https://github.com/gohugoio/hugo/pull/11573#issuecomment-1772974344) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+3. 🎉 Merged PR [#412](https://github.com/hbstack/blog/pull/412) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 🎉 Merged PR [#212](https://github.com/hugomods/icons/pull/212) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.288.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+6. 💬 Commented on [#11573](https://github.com/gohugoio/hugo/pull/11573#issuecomment-1772748042) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+7. 🎉 Merged PR [#211](https://github.com/hugomods/icons/pull/211) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 👍 Approved [#211](https://github.com/hugomods/icons/pull/211#pullrequestreview-1689789900) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ❗️ Opened issue [#339](https://github.com/hbstack/header/issues/339) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 💬 Commented on [#11573](https://github.com/gohugoio/hugo/pull/11573#issuecomment-1771490884) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
