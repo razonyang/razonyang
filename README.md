@@ -8,7 +8,11 @@
 -->
 
 - 👨‍💻 A full stack engineer.
-- 📝 I regularly write articles and docs on [Razon Yang](https://razonyang.com), [Hugo Modules](https://hugomods.com) and [HB Framework](https://hb.hugomods.com).
+- 📝 I regularly write articles and docs on:
+    1. [Razon Yang](https://razonyang.com)
+    1. [Hugo Modules](https://hugomods.com)
+    1. [HB Framework](https://hb.hugomods.com)
+- 🎧 Reach me via [email](mailto:razonyang@gmail.com) and [Mastodon](https://techhub.social/@razonyang).
 
 ## Recent Activities
 
