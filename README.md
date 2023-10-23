@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#419](https://github.com/hbstack/blog/pull/419) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. ✔️ Closed issue [#427](https://github.com/hbstack/blog/issues/427) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 🎉 Merged PR [#428](https://github.com/hbstack/blog/pull/428) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 💪 Opened PR [#428](https://github.com/hbstack/blog/pull/428) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ❗️ Opened issue [#219](https://github.com/zeabur/zeabur/issues/219) in [zeabur/zeabur](https://github.com/zeabur/zeabur)<br>
-6. 💬 Commented on [#31](https://github.com/hugomods/base/pull/31#issuecomment-1773960876) in [hugomods/base](https://github.com/hugomods/base)<br>
-7. 🎉 Merged PR [#32](https://github.com/hugomods/base/pull/32) in [hugomods/base](https://github.com/hugomods/base)<br>
-8. 🎉 Merged PR [#31](https://github.com/hugomods/base/pull/31) in [hugomods/base](https://github.com/hugomods/base)<br>
-9. 👍 Approved [#31](https://github.com/hugomods/base/pull/31#pullrequestreview-1691353402) in [hugomods/base](https://github.com/hugomods/base)<br>
-10. 🎉 Merged PR [#15](https://github.com/hbstack/slide/pull/15) in [hbstack/slide](https://github.com/hbstack/slide)<br>
+1. 💬 Commented on [#427](https://github.com/hbstack/blog/issues/427#issuecomment-1774799309) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. 🎉 Merged PR [#419](https://github.com/hbstack/blog/pull/419) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. ✔️ Closed issue [#427](https://github.com/hbstack/blog/issues/427) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 🎉 Merged PR [#428](https://github.com/hbstack/blog/pull/428) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 💪 Opened PR [#428](https://github.com/hbstack/blog/pull/428) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. ❗️ Opened issue [#219](https://github.com/zeabur/zeabur/issues/219) in [zeabur/zeabur](https://github.com/zeabur/zeabur)<br>
+7. 💬 Commented on [#31](https://github.com/hugomods/base/pull/31#issuecomment-1773960876) in [hugomods/base](https://github.com/hugomods/base)<br>
+8. 🎉 Merged PR [#32](https://github.com/hugomods/base/pull/32) in [hugomods/base](https://github.com/hugomods/base)<br>
+9. 🎉 Merged PR [#31](https://github.com/hugomods/base/pull/31) in [hugomods/base](https://github.com/hugomods/base)<br>
+10. 👍 Approved [#31](https://github.com/hugomods/base/pull/31#pullrequestreview-1691353402) in [hugomods/base](https://github.com/hugomods/base)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
