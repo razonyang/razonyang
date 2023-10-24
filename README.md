@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#57](https://github.com/hugomods/docker/pull/57) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 💪 Opened PR [#57](https://github.com/hugomods/docker/pull/57) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 💬 Commented on [#427](https://github.com/hbstack/blog/issues/427#issuecomment-1774799309) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 🎉 Merged PR [#419](https://github.com/hbstack/blog/pull/419) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ✔️ Closed issue [#427](https://github.com/hbstack/blog/issues/427) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 🎉 Merged PR [#428](https://github.com/hbstack/blog/pull/428) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 💪 Opened PR [#428](https://github.com/hbstack/blog/pull/428) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. ❗️ Opened issue [#219](https://github.com/zeabur/zeabur/issues/219) in [zeabur/zeabur](https://github.com/zeabur/zeabur)<br>
-9. 💬 Commented on [#31](https://github.com/hugomods/base/pull/31#issuecomment-1773960876) in [hugomods/base](https://github.com/hugomods/base)<br>
-10. 🎉 Merged PR [#32](https://github.com/hugomods/base/pull/32) in [hugomods/base](https://github.com/hugomods/base)<br>
+1. 💬 Commented on [#153](https://github.com/hbstack/footer/pull/153#issuecomment-1777029254) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+2. 🎉 Merged PR [#135](https://github.com/hbstack/footer/pull/135) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+3. 🎉 Merged PR [#153](https://github.com/hbstack/footer/pull/153) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+4. 👍 Approved [#153](https://github.com/hbstack/footer/pull/153#pullrequestreview-1694605963) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+5. 🎉 Merged PR [#57](https://github.com/hugomods/docker/pull/57) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 💪 Opened PR [#57](https://github.com/hugomods/docker/pull/57) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 💬 Commented on [#427](https://github.com/hbstack/blog/issues/427#issuecomment-1774799309) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 🎉 Merged PR [#419](https://github.com/hbstack/blog/pull/419) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. ✔️ Closed issue [#427](https://github.com/hbstack/blog/issues/427) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. 🎉 Merged PR [#428](https://github.com/hbstack/blog/pull/428) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
