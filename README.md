@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#216](https://github.com/hugomods/icons/pull/216) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#216](https://github.com/hugomods/icons/pull/216#pullrequestreview-1697815674) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#214](https://github.com/hugomods/icons/pull/214#pullrequestreview-1697814027) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.289.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-5. 💬 Commented on [#153](https://github.com/hbstack/footer/pull/153#issuecomment-1777029254) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-6. 🎉 Merged PR [#135](https://github.com/hbstack/footer/pull/135) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-7. 🎉 Merged PR [#153](https://github.com/hbstack/footer/pull/153) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-8. 👍 Approved [#153](https://github.com/hbstack/footer/pull/153#pullrequestreview-1694605963) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-9. 🎉 Merged PR [#57](https://github.com/hugomods/docker/pull/57) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 💪 Opened PR [#57](https://github.com/hugomods/docker/pull/57) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. ❗️ Opened issue [#169](https://github.com/hugomods/search/issues/169) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. ❗️ Opened issue [#58](https://github.com/hugomods/docker/issues/58) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. ❗️ Opened issue [#350](https://github.com/hbstack/header/issues/350) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. ❗️ Opened issue [#101](https://github.com/hbstack/hb/issues/101) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+5. ⭐ Starred [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin)<br>
+6. 🎉 Merged PR [#216](https://github.com/hugomods/icons/pull/216) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 👍 Approved [#216](https://github.com/hugomods/icons/pull/216#pullrequestreview-1697815674) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 👍 Approved [#214](https://github.com/hugomods/icons/pull/214#pullrequestreview-1697814027) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.289.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+10. 💬 Commented on [#153](https://github.com/hbstack/footer/pull/153#issuecomment-1777029254) in [hbstack/footer](https://github.com/hbstack/footer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
