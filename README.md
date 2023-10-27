@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#196840](https://github.com/microsoft/vscode/issues/196840) in [microsoft/vscode](https://github.com/microsoft/vscode)<br>
-2. 🎉 Merged PR [#220](https://github.com/hugomods/icons/pull/220) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#220](https://github.com/hugomods/icons/pull/220#pullrequestreview-1701209283) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.290.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-5. 💬 Commented on [#664](https://github.com/hbstack/site/pull/664#issuecomment-1782319728) in [hbstack/site](https://github.com/hbstack/site)<br>
-6. 💬 Commented on [#664](https://github.com/hbstack/site/pull/664#issuecomment-1782288690) in [hbstack/site](https://github.com/hbstack/site)<br>
-7. 💬 Commented on [#664](https://github.com/hbstack/site/pull/664#issuecomment-1782199264) in [hbstack/site](https://github.com/hbstack/site)<br>
-8. 🎉 Merged PR [#664](https://github.com/hbstack/site/pull/664) in [hbstack/site](https://github.com/hbstack/site)<br>
-9. 👍 Approved [#664](https://github.com/hbstack/site/pull/664#pullrequestreview-1700913575) in [hbstack/site](https://github.com/hbstack/site)<br>
-10. 🎉 Merged PR [#218](https://github.com/hugomods/icons/pull/218) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. ⭐ Starred [nodesource/distributions](https://github.com/nodesource/distributions)<br>
+2. ❗️ Opened issue [#196840](https://github.com/microsoft/vscode/issues/196840) in [microsoft/vscode](https://github.com/microsoft/vscode)<br>
+3. 🎉 Merged PR [#220](https://github.com/hugomods/icons/pull/220) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#220](https://github.com/hugomods/icons/pull/220#pullrequestreview-1701209283) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.290.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+6. 💬 Commented on [#664](https://github.com/hbstack/site/pull/664#issuecomment-1782319728) in [hbstack/site](https://github.com/hbstack/site)<br>
+7. 💬 Commented on [#664](https://github.com/hbstack/site/pull/664#issuecomment-1782288690) in [hbstack/site](https://github.com/hbstack/site)<br>
+8. 💬 Commented on [#664](https://github.com/hbstack/site/pull/664#issuecomment-1782199264) in [hbstack/site](https://github.com/hbstack/site)<br>
+9. 🎉 Merged PR [#664](https://github.com/hbstack/site/pull/664) in [hbstack/site](https://github.com/hbstack/site)<br>
+10. 👍 Approved [#664](https://github.com/hbstack/site/pull/664#pullrequestreview-1700913575) in [hbstack/site](https://github.com/hbstack/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
