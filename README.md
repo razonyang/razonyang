@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#35](https://github.com/hugomods/hugopress/issues/35) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-2. 💬 Commented on [#667](https://github.com/hbstack/site/pull/667#issuecomment-1783653836) in [hbstack/site](https://github.com/hbstack/site)<br>
-3. 🎉 Merged PR [#667](https://github.com/hbstack/site/pull/667) in [hbstack/site](https://github.com/hbstack/site)<br>
-4. 👍 Approved [#667](https://github.com/hbstack/site/pull/667#pullrequestreview-1702671826) in [hbstack/site](https://github.com/hbstack/site)<br>
-5. 🎉 Merged PR [#984](https://github.com/razonyang/hugo-theme-bootstrap/pull/984) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💪 Opened PR [#984](https://github.com/razonyang/hugo-theme-bootstrap/pull/984) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💬 Commented on [#664](https://github.com/hbstack/site/pull/664#issuecomment-1783226118) in [hbstack/site](https://github.com/hbstack/site)<br>
-8. ⭐ Starred [nodesource/distributions](https://github.com/nodesource/distributions)<br>
-9. ❗️ Opened issue [#196840](https://github.com/microsoft/vscode/issues/196840) in [microsoft/vscode](https://github.com/microsoft/vscode)<br>
-10. 🎉 Merged PR [#220](https://github.com/hugomods/icons/pull/220) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. ⭐ Starred [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)<br>
+2. ❗️ Opened issue [#35](https://github.com/hugomods/hugopress/issues/35) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+3. 💬 Commented on [#667](https://github.com/hbstack/site/pull/667#issuecomment-1783653836) in [hbstack/site](https://github.com/hbstack/site)<br>
+4. 🎉 Merged PR [#667](https://github.com/hbstack/site/pull/667) in [hbstack/site](https://github.com/hbstack/site)<br>
+5. 👍 Approved [#667](https://github.com/hbstack/site/pull/667#pullrequestreview-1702671826) in [hbstack/site](https://github.com/hbstack/site)<br>
+6. 🎉 Merged PR [#984](https://github.com/razonyang/hugo-theme-bootstrap/pull/984) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. 💪 Opened PR [#984](https://github.com/razonyang/hugo-theme-bootstrap/pull/984) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 💬 Commented on [#664](https://github.com/hbstack/site/pull/664#issuecomment-1783226118) in [hbstack/site](https://github.com/hbstack/site)<br>
+9. ⭐ Starred [nodesource/distributions](https://github.com/nodesource/distributions)<br>
+10. ❗️ Opened issue [#196840](https://github.com/microsoft/vscode/issues/196840) in [microsoft/vscode](https://github.com/microsoft/vscode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
