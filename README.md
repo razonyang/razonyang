@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)<br>
-2. ❗️ Opened issue [#35](https://github.com/hugomods/hugopress/issues/35) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-3. 💬 Commented on [#667](https://github.com/hbstack/site/pull/667#issuecomment-1783653836) in [hbstack/site](https://github.com/hbstack/site)<br>
-4. 🎉 Merged PR [#667](https://github.com/hbstack/site/pull/667) in [hbstack/site](https://github.com/hbstack/site)<br>
-5. 👍 Approved [#667](https://github.com/hbstack/site/pull/667#pullrequestreview-1702671826) in [hbstack/site](https://github.com/hbstack/site)<br>
-6. 🎉 Merged PR [#984](https://github.com/razonyang/hugo-theme-bootstrap/pull/984) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💪 Opened PR [#984](https://github.com/razonyang/hugo-theme-bootstrap/pull/984) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 💬 Commented on [#664](https://github.com/hbstack/site/pull/664#issuecomment-1783226118) in [hbstack/site](https://github.com/hbstack/site)<br>
-9. ⭐ Starred [nodesource/distributions](https://github.com/nodesource/distributions)<br>
-10. ❗️ Opened issue [#196840](https://github.com/microsoft/vscode/issues/196840) in [microsoft/vscode](https://github.com/microsoft/vscode)<br>
+1. 🎉 Merged PR [#988](https://github.com/razonyang/hugo-theme-bootstrap/pull/988) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. ❗️ Opened issue [#989](https://github.com/razonyang/hugo-theme-bootstrap/issues/989) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 💪 Opened PR [#988](https://github.com/razonyang/hugo-theme-bootstrap/pull/988) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 🎉 Merged PR [#987](https://github.com/razonyang/hugo-theme-bootstrap/pull/987) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 💪 Opened PR [#987](https://github.com/razonyang/hugo-theme-bootstrap/pull/987) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. ⭐ Starred [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)<br>
+7. ❗️ Opened issue [#35](https://github.com/hugomods/hugopress/issues/35) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+8. 💬 Commented on [#667](https://github.com/hbstack/site/pull/667#issuecomment-1783653836) in [hbstack/site](https://github.com/hbstack/site)<br>
+9. 🎉 Merged PR [#667](https://github.com/hbstack/site/pull/667) in [hbstack/site](https://github.com/hbstack/site)<br>
+10. 👍 Approved [#667](https://github.com/hbstack/site/pull/667#pullrequestreview-1702671826) in [hbstack/site](https://github.com/hbstack/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
