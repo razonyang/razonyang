@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens)<br>
-2. ⭐ Starred [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)<br>
-3. 💬 Commented on [#196840](https://github.com/microsoft/vscode/issues/196840#issuecomment-1784741412) in [microsoft/vscode](https://github.com/microsoft/vscode)<br>
-4. ⭐ Starred [rancher/rancher](https://github.com/rancher/rancher)<br>
-5. 🎉 Merged PR [#995](https://github.com/razonyang/hugo-theme-bootstrap/pull/995) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 🎉 Merged PR [#994](https://github.com/razonyang/hugo-theme-bootstrap/pull/994) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💪 Opened PR [#994](https://github.com/razonyang/hugo-theme-bootstrap/pull/994) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 💬 Commented on [#990](https://github.com/razonyang/hugo-theme-bootstrap/issues/990#issuecomment-1784093136) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 🎉 Merged PR [#992](https://github.com/razonyang/hugo-theme-bootstrap/pull/992) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. ✔️ Closed issue [#990](https://github.com/razonyang/hugo-theme-bootstrap/issues/990) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. ❗️ Opened issue [#996](https://github.com/razonyang/hugo-theme-bootstrap/issues/996) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. ⭐ Starred [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens)<br>
+3. ⭐ Starred [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)<br>
+4. 💬 Commented on [#196840](https://github.com/microsoft/vscode/issues/196840#issuecomment-1784741412) in [microsoft/vscode](https://github.com/microsoft/vscode)<br>
+5. ⭐ Starred [rancher/rancher](https://github.com/rancher/rancher)<br>
+6. 🎉 Merged PR [#995](https://github.com/razonyang/hugo-theme-bootstrap/pull/995) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. 🎉 Merged PR [#994](https://github.com/razonyang/hugo-theme-bootstrap/pull/994) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 💪 Opened PR [#994](https://github.com/razonyang/hugo-theme-bootstrap/pull/994) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 💬 Commented on [#990](https://github.com/razonyang/hugo-theme-bootstrap/issues/990#issuecomment-1784093136) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 🎉 Merged PR [#992](https://github.com/razonyang/hugo-theme-bootstrap/pull/992) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
