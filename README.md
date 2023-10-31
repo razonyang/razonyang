@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.291.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-2. 💬 Commented on [#58](https://github.com/hugomods/docker/issues/58#issuecomment-1786440261) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. ✔️ Closed issue [#58](https://github.com/hugomods/docker/issues/58) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. ❗️ Opened issue [#996](https://github.com/razonyang/hugo-theme-bootstrap/issues/996) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. ⭐ Starred [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens)<br>
-6. ⭐ Starred [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)<br>
-7. 💬 Commented on [#196840](https://github.com/microsoft/vscode/issues/196840#issuecomment-1784741412) in [microsoft/vscode](https://github.com/microsoft/vscode)<br>
-8. ⭐ Starred [rancher/rancher](https://github.com/rancher/rancher)<br>
-9. 🎉 Merged PR [#995](https://github.com/razonyang/hugo-theme-bootstrap/pull/995) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 🎉 Merged PR [#994](https://github.com/razonyang/hugo-theme-bootstrap/pull/994) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#232](https://github.com/hbstack/theme/pull/232) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+2. 🎉 Merged PR [#37](https://github.com/hugomods/hugopress/pull/37) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+3. 🎉 Merged PR [#222](https://github.com/hugomods/icons/pull/222) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#222](https://github.com/hugomods/icons/pull/222#pullrequestreview-1705697280) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 🎉 Merged PR [#36](https://github.com/hugomods/hugopress/pull/36) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+6. 💪 Opened PR [#36](https://github.com/hugomods/hugopress/pull/36) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+7. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.291.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+8. 💬 Commented on [#58](https://github.com/hugomods/docker/issues/58#issuecomment-1786440261) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. ✔️ Closed issue [#58](https://github.com/hugomods/docker/issues/58) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. ❗️ Opened issue [#996](https://github.com/razonyang/hugo-theme-bootstrap/issues/996) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
