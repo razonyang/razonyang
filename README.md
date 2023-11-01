@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#345](https://github.com/hbstack/header/pull/345) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 🎉 Merged PR [#156](https://github.com/hbstack/footer/pull/156) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-3. 🎉 Merged PR [#159](https://github.com/hbstack/footer/pull/159) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-4. 💪 Opened PR [#159](https://github.com/hbstack/footer/pull/159) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-5. 🎉 Merged PR [#154](https://github.com/hbstack/footer/pull/154) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-6. 💬 Commented on [#1002](https://github.com/razonyang/hugo-theme-bootstrap/pull/1002#issuecomment-1787565187) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. ⭐ Starred [maharmstone/btrfs](https://github.com/maharmstone/btrfs)<br>
-8. 🎉 Merged PR [#1000](https://github.com/razonyang/hugo-theme-bootstrap/pull/1000) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 🎉 Merged PR [#1002](https://github.com/razonyang/hugo-theme-bootstrap/pull/1002) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 💪 Opened PR [#1002](https://github.com/razonyang/hugo-theme-bootstrap/pull/1002) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#356](https://github.com/hbstack/header/pull/356) in [hbstack/header](https://github.com/hbstack/header)<br>
+2. ✔️ Closed issue [#339](https://github.com/hbstack/header/issues/339) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. 💬 Commented on [#339](https://github.com/hbstack/header/issues/339#issuecomment-1788320252) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 🎉 Merged PR [#355](https://github.com/hbstack/header/pull/355) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 💪 Opened PR [#355](https://github.com/hbstack/header/pull/355) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. 🎉 Merged PR [#345](https://github.com/hbstack/header/pull/345) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 🎉 Merged PR [#156](https://github.com/hbstack/footer/pull/156) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+8. 🎉 Merged PR [#159](https://github.com/hbstack/footer/pull/159) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+9. 💪 Opened PR [#159](https://github.com/hbstack/footer/pull/159) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+10. 🎉 Merged PR [#154](https://github.com/hbstack/footer/pull/154) in [hbstack/footer](https://github.com/hbstack/footer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
