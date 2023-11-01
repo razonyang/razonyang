@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#89](https://github.com/hbstack/base/pull/89) in [hbstack/base](https://github.com/hbstack/base)<br>
-2. 🎉 Merged PR [#88](https://github.com/hbstack/base/pull/88) in [hbstack/base](https://github.com/hbstack/base)<br>
-3. 👍 Approved [#88](https://github.com/hbstack/base/pull/88#pullrequestreview-1707858624) in [hbstack/base](https://github.com/hbstack/base)<br>
-4. 🎉 Merged PR [#23](https://github.com/hugomods/code-block-panel/pull/23) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-5. 💬 Commented on [#22](https://github.com/hugomods/code-block-panel/pull/22#issuecomment-1788600559) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-6. 🎉 Merged PR [#22](https://github.com/hugomods/code-block-panel/pull/22) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-7. 👍 Approved [#22](https://github.com/hugomods/code-block-panel/pull/22#pullrequestreview-1707779741) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-8. 💬 Commented on [#440](https://github.com/hbstack/blog/issues/440#issuecomment-1788597848) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 🎉 Merged PR [#435](https://github.com/hbstack/blog/pull/435) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ✔️ Closed issue [#440](https://github.com/hbstack/blog/issues/440) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 🎉 Merged PR [#19](https://github.com/hugomods/seo/pull/19) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+2. 💪 Opened PR [#19](https://github.com/hugomods/seo/pull/19) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+3. 🎉 Merged PR [#89](https://github.com/hbstack/base/pull/89) in [hbstack/base](https://github.com/hbstack/base)<br>
+4. 🎉 Merged PR [#88](https://github.com/hbstack/base/pull/88) in [hbstack/base](https://github.com/hbstack/base)<br>
+5. 👍 Approved [#88](https://github.com/hbstack/base/pull/88#pullrequestreview-1707858624) in [hbstack/base](https://github.com/hbstack/base)<br>
+6. 🎉 Merged PR [#23](https://github.com/hugomods/code-block-panel/pull/23) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+7. 💬 Commented on [#22](https://github.com/hugomods/code-block-panel/pull/22#issuecomment-1788600559) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+8. 🎉 Merged PR [#22](https://github.com/hugomods/code-block-panel/pull/22) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+9. 👍 Approved [#22](https://github.com/hugomods/code-block-panel/pull/22#pullrequestreview-1707779741) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+10. 💬 Commented on [#440](https://github.com/hbstack/blog/issues/440#issuecomment-1788597848) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
