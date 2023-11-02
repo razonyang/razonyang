@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#25](https://github.com/hugomods/images/pull/25) in [hugomods/images](https://github.com/hugomods/images)<br>
-2. 🎉 Merged PR [#24](https://github.com/hugomods/images/pull/24) in [hugomods/images](https://github.com/hugomods/images)<br>
-3. 💪 Opened PR [#24](https://github.com/hugomods/images/pull/24) in [hugomods/images](https://github.com/hugomods/images)<br>
-4. 💬 Commented on [#23](https://github.com/hugomods/images/issues/23#issuecomment-1790139295) in [hugomods/images](https://github.com/hugomods/images)<br>
-5. ❗️ Opened issue [#11661](https://github.com/gohugoio/hugo/issues/11661) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-6. ❗️ Opened issue [#23](https://github.com/hugomods/images/issues/23) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. ❗️ Opened issue [#49](https://github.com/hugomods/pwa/issues/49) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-8. 💬 Commented on [#42](https://github.com/hugomods/pwa/issues/42#issuecomment-1789740106) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-9. ✔️ Closed issue [#42](https://github.com/hugomods/pwa/issues/42) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-10. 🎉 Merged PR [#21](https://github.com/hugomods/seo/pull/21) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+1. 💬 Commented on [#11661](https://github.com/gohugoio/hugo/issues/11661#issuecomment-1790268616) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. 🎉 Merged PR [#25](https://github.com/hugomods/images/pull/25) in [hugomods/images](https://github.com/hugomods/images)<br>
+3. 🎉 Merged PR [#24](https://github.com/hugomods/images/pull/24) in [hugomods/images](https://github.com/hugomods/images)<br>
+4. 💪 Opened PR [#24](https://github.com/hugomods/images/pull/24) in [hugomods/images](https://github.com/hugomods/images)<br>
+5. 💬 Commented on [#23](https://github.com/hugomods/images/issues/23#issuecomment-1790139295) in [hugomods/images](https://github.com/hugomods/images)<br>
+6. ❗️ Opened issue [#11661](https://github.com/gohugoio/hugo/issues/11661) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+7. ❗️ Opened issue [#23](https://github.com/hugomods/images/issues/23) in [hugomods/images](https://github.com/hugomods/images)<br>
+8. ❗️ Opened issue [#49](https://github.com/hugomods/pwa/issues/49) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+9. 💬 Commented on [#42](https://github.com/hugomods/pwa/issues/42#issuecomment-1789740106) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+10. ✔️ Closed issue [#42](https://github.com/hugomods/pwa/issues/42) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
