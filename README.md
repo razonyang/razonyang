@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#51](https://github.com/hugomods/pwa/pull/51) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-2. ❌ Closed PR [#44](https://github.com/hugomods/pwa/pull/44) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-3. ❌ Closed PR [#43](https://github.com/hugomods/pwa/pull/43) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-4. ❌ Closed PR [#36](https://github.com/hugomods/pwa/pull/36) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-5. ❌ Closed PR [#35](https://github.com/hugomods/pwa/pull/35) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-6. ✔️ Closed issue [#49](https://github.com/hugomods/pwa/issues/49) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-7. 🎉 Merged PR [#50](https://github.com/hugomods/pwa/pull/50) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-8. 💪 Opened PR [#50](https://github.com/hugomods/pwa/pull/50) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-9. 💬 Commented on [#11661](https://github.com/gohugoio/hugo/issues/11661#issuecomment-1790926384) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-10. 🎉 Merged PR [#381](https://github.com/hbstack/docs/pull/381) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. 💬 Commented on [#683](https://github.com/hbstack/site/pull/683#issuecomment-1790966511) in [hbstack/site](https://github.com/hbstack/site)<br>
+2. 🎉 Merged PR [#683](https://github.com/hbstack/site/pull/683) in [hbstack/site](https://github.com/hbstack/site)<br>
+3. 👍 Approved [#683](https://github.com/hbstack/site/pull/683#pullrequestreview-1710610687) in [hbstack/site](https://github.com/hbstack/site)<br>
+4. 🎉 Merged PR [#51](https://github.com/hugomods/pwa/pull/51) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+5. ❌ Closed PR [#44](https://github.com/hugomods/pwa/pull/44) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+6. ❌ Closed PR [#43](https://github.com/hugomods/pwa/pull/43) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+7. ❌ Closed PR [#36](https://github.com/hugomods/pwa/pull/36) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+8. ❌ Closed PR [#35](https://github.com/hugomods/pwa/pull/35) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+9. ✔️ Closed issue [#49](https://github.com/hugomods/pwa/issues/49) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+10. 🎉 Merged PR [#50](https://github.com/hugomods/pwa/pull/50) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
