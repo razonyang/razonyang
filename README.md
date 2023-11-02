@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#49](https://github.com/hugomods/pwa/issues/49) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-2. 💬 Commented on [#42](https://github.com/hugomods/pwa/issues/42#issuecomment-1789740106) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-3. ✔️ Closed issue [#42](https://github.com/hugomods/pwa/issues/42) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-4. 🎉 Merged PR [#21](https://github.com/hugomods/seo/pull/21) in [hugomods/seo](https://github.com/hugomods/seo)<br>
-5. 🎉 Merged PR [#20](https://github.com/hugomods/seo/pull/20) in [hugomods/seo](https://github.com/hugomods/seo)<br>
-6. ❌ Closed PR [#17](https://github.com/hugomods/seo/pull/17) in [hugomods/seo](https://github.com/hugomods/seo)<br>
-7. ❌ Closed PR [#16](https://github.com/hugomods/seo/pull/16) in [hugomods/seo](https://github.com/hugomods/seo)<br>
-8. 🎉 Merged PR [#22](https://github.com/hugomods/images/pull/22) in [hugomods/images](https://github.com/hugomods/images)<br>
-9. 🎉 Merged PR [#67](https://github.com/hbstack/gallery/pull/67) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-10. 💬 Commented on [#123](https://github.com/hbstack/socials/pull/123#issuecomment-1789482313) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+1. ❗️ Opened issue [#23](https://github.com/hugomods/images/issues/23) in [hugomods/images](https://github.com/hugomods/images)<br>
+2. ❗️ Opened issue [#49](https://github.com/hugomods/pwa/issues/49) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+3. 💬 Commented on [#42](https://github.com/hugomods/pwa/issues/42#issuecomment-1789740106) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+4. ✔️ Closed issue [#42](https://github.com/hugomods/pwa/issues/42) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+5. 🎉 Merged PR [#21](https://github.com/hugomods/seo/pull/21) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+6. 🎉 Merged PR [#20](https://github.com/hugomods/seo/pull/20) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+7. ❌ Closed PR [#17](https://github.com/hugomods/seo/pull/17) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+8. ❌ Closed PR [#16](https://github.com/hugomods/seo/pull/16) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+9. 🎉 Merged PR [#22](https://github.com/hugomods/images/pull/22) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. 🎉 Merged PR [#67](https://github.com/hbstack/gallery/pull/67) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
