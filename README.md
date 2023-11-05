@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [v2fly/v2ray-examples](https://github.com/v2fly/v2ray-examples)<br>
-2. ⭐ Starred [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms)<br>
-3. 🎉 Merged PR [#370](https://github.com/hbstack/header/pull/370) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. 🎉 Merged PR [#369](https://github.com/hbstack/header/pull/369) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. 👍 Approved [#369](https://github.com/hbstack/header/pull/369#pullrequestreview-1713743131) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. 🎉 Merged PR [#368](https://github.com/hbstack/header/pull/368) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. 💬 Commented on [#367](https://github.com/hbstack/header/pull/367#issuecomment-1793400381) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 👍 Approved [#367](https://github.com/hbstack/header/pull/367#pullrequestreview-1713738337) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 🎉 Merged PR [#367](https://github.com/hbstack/header/pull/367) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 🎉 Merged PR [#364](https://github.com/hbstack/header/pull/364) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. ❗️ Opened issue [#692](https://github.com/hbstack/site/issues/692) in [hbstack/site](https://github.com/hbstack/site)<br>
+2. ❗️ Opened issue [#691](https://github.com/hbstack/site/issues/691) in [hbstack/site](https://github.com/hbstack/site)<br>
+3. ❗️ Opened issue [#667](https://github.com/hugomods/site/issues/667) in [hugomods/site](https://github.com/hugomods/site)<br>
+4. ❗️ Opened issue [#690](https://github.com/hbstack/site/issues/690) in [hbstack/site](https://github.com/hbstack/site)<br>
+5. ❗️ Opened issue [#462](https://github.com/hbstack/blog/issues/462) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. ⭐ Starred [v2fly/v2ray-examples](https://github.com/v2fly/v2ray-examples)<br>
+7. ⭐ Starred [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms)<br>
+8. 🎉 Merged PR [#370](https://github.com/hbstack/header/pull/370) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 🎉 Merged PR [#369](https://github.com/hbstack/header/pull/369) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 👍 Approved [#369](https://github.com/hbstack/header/pull/369#pullrequestreview-1713743131) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
