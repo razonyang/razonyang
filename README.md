@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#575](https://github.com/hbstack/theme/issues/575#issuecomment-1794035501) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-2. 👍 Approved [#224](https://github.com/hugomods/icons/pull/224#pullrequestreview-1714148414) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.19.1) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-4. 🎉 Merged PR [#1006](https://github.com/razonyang/hugo-theme-bootstrap/pull/1006) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793772951) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793748246) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 🎉 Merged PR [#1005](https://github.com/razonyang/hugo-theme-bootstrap/pull/1005) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793745015) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793743831) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793741717) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. ❗️ Opened issue [#57](https://github.com/hbstack/theme-start/issues/57) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+2. 💬 Commented on [#575](https://github.com/hbstack/theme/issues/575#issuecomment-1794035501) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+3. 👍 Approved [#224](https://github.com/hugomods/icons/pull/224#pullrequestreview-1714148414) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.19.1) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+5. 🎉 Merged PR [#1006](https://github.com/razonyang/hugo-theme-bootstrap/pull/1006) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793772951) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793748246) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 🎉 Merged PR [#1005](https://github.com/razonyang/hugo-theme-bootstrap/pull/1005) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793745015) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793743831) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
