@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#57](https://github.com/hbstack/theme-start/issues/57) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-2. 💬 Commented on [#575](https://github.com/hbstack/theme/issues/575#issuecomment-1794035501) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-3. 👍 Approved [#224](https://github.com/hugomods/icons/pull/224#pullrequestreview-1714148414) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.19.1) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-5. 🎉 Merged PR [#1006](https://github.com/razonyang/hugo-theme-bootstrap/pull/1006) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793772951) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793748246) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 🎉 Merged PR [#1005](https://github.com/razonyang/hugo-theme-bootstrap/pull/1005) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793745015) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 💬 Commented on [#1003](https://github.com/razonyang/hugo-theme-bootstrap/issues/1003#issuecomment-1793743831) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)<br>
+2. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+3. 💬 Commented on [#8](https://github.com/hugomods/google-adsense/issues/8#issuecomment-1794288270) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
+4. 💬 Commented on [#575](https://github.com/hbstack/theme/issues/575#issuecomment-1794288095) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+5. ❗️ Opened issue [#341](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/341) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
+6. 🔱 Forked [razonyang/awesome-selfhosted](https://github.com/razonyang/awesome-selfhosted) from [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+7. 💬 Commented on [#8](https://github.com/hugomods/google-adsense/issues/8#issuecomment-1794217309) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
+8. ❗️ Opened issue [#57](https://github.com/hbstack/theme-start/issues/57) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+9. 💬 Commented on [#575](https://github.com/hbstack/theme/issues/575#issuecomment-1794035501) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+10. 👍 Approved [#224](https://github.com/hugomods/icons/pull/224#pullrequestreview-1714148414) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
