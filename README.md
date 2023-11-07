@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [openfaas/faas](https://github.com/openfaas/faas)<br>
-2. ❗️ Opened issue [#390](https://github.com/hbstack/docs/issues/390) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-3. ❗️ Opened issue [#372](https://github.com/hbstack/header/issues/372) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. 📔 Created new repository [razonyang/strapi-cloud-template-blog-0d491c129a](https://github.com/razonyang/strapi-cloud-template-blog-0d491c129a)<br>
-5. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)<br>
-6. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
-7. 💬 Commented on [#8](https://github.com/hugomods/google-adsense/issues/8#issuecomment-1794288270) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
-8. 💬 Commented on [#575](https://github.com/hbstack/theme/issues/575#issuecomment-1794288095) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-9. ❗️ Opened issue [#341](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/341) in [awesome-selfhosted/awesome-selfhosted-data](https://github.com/awesome-selfhosted/awesome-selfhosted-data)<br>
-10. 🔱 Forked [razonyang/awesome-selfhosted](https://github.com/razonyang/awesome-selfhosted) from [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+1. 💬 Commented on [#696](https://github.com/hbstack/site/pull/696#issuecomment-1798348798) in [hbstack/site](https://github.com/hbstack/site)<br>
+2. 🎉 Merged PR [#696](https://github.com/hbstack/site/pull/696) in [hbstack/site](https://github.com/hbstack/site)<br>
+3. 👍 Approved [#696](https://github.com/hbstack/site/pull/696#pullrequestreview-1717491452) in [hbstack/site](https://github.com/hbstack/site)<br>
+4. ⭐ Starred [openfaas/faas](https://github.com/openfaas/faas)<br>
+5. ❗️ Opened issue [#390](https://github.com/hbstack/docs/issues/390) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+6. ❗️ Opened issue [#372](https://github.com/hbstack/header/issues/372) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 📔 Created new repository [razonyang/strapi-cloud-template-blog-0d491c129a](https://github.com/razonyang/strapi-cloud-template-blog-0d491c129a)<br>
+8. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)<br>
+9. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+10. 💬 Commented on [#8](https://github.com/hugomods/google-adsense/issues/8#issuecomment-1794288270) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
