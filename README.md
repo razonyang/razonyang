@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)<br>
-2. 💬 Commented on [#696](https://github.com/hbstack/site/pull/696#issuecomment-1798348798) in [hbstack/site](https://github.com/hbstack/site)<br>
-3. 🎉 Merged PR [#696](https://github.com/hbstack/site/pull/696) in [hbstack/site](https://github.com/hbstack/site)<br>
-4. 👍 Approved [#696](https://github.com/hbstack/site/pull/696#pullrequestreview-1717491452) in [hbstack/site](https://github.com/hbstack/site)<br>
-5. ⭐ Starred [openfaas/faas](https://github.com/openfaas/faas)<br>
-6. ❗️ Opened issue [#390](https://github.com/hbstack/docs/issues/390) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-7. ❗️ Opened issue [#372](https://github.com/hbstack/header/issues/372) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 📔 Created new repository [razonyang/strapi-cloud-template-blog-0d491c129a](https://github.com/razonyang/strapi-cloud-template-blog-0d491c129a)<br>
-9. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)<br>
-10. ⭐ Starred [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)<br>
+1. 💬 Commented on [#668](https://github.com/hbstack/site/issues/668#issuecomment-1800865043) in [hbstack/site](https://github.com/hbstack/site)<br>
+2. ✔️ Closed issue [#668](https://github.com/hbstack/site/issues/668) in [hbstack/site](https://github.com/hbstack/site)<br>
+3. ✔️ Closed issue [#691](https://github.com/hbstack/site/issues/691) in [hbstack/site](https://github.com/hbstack/site)<br>
+4. ⭐ Starred [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)<br>
+5. 💬 Commented on [#696](https://github.com/hbstack/site/pull/696#issuecomment-1798348798) in [hbstack/site](https://github.com/hbstack/site)<br>
+6. 🎉 Merged PR [#696](https://github.com/hbstack/site/pull/696) in [hbstack/site](https://github.com/hbstack/site)<br>
+7. 👍 Approved [#696](https://github.com/hbstack/site/pull/696#pullrequestreview-1717491452) in [hbstack/site](https://github.com/hbstack/site)<br>
+8. ⭐ Starred [openfaas/faas](https://github.com/openfaas/faas)<br>
+9. ❗️ Opened issue [#390](https://github.com/hbstack/docs/issues/390) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+10. ❗️ Opened issue [#372](https://github.com/hbstack/header/issues/372) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
