@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#28](https://github.com/hugomods/images/pull/28) in [hugomods/images](https://github.com/hugomods/images)<br>
-2. ✔️ Closed issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
-3. 🎉 Merged PR [#27](https://github.com/hugomods/images/pull/27) in [hugomods/images](https://github.com/hugomods/images)<br>
-4. 💪 Opened PR [#27](https://github.com/hugomods/images/pull/27) in [hugomods/images](https://github.com/hugomods/images)<br>
-5. ❗️ Opened issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
-6. 💬 Commented on [#668](https://github.com/hbstack/site/issues/668#issuecomment-1800865043) in [hbstack/site](https://github.com/hbstack/site)<br>
-7. ✔️ Closed issue [#668](https://github.com/hbstack/site/issues/668) in [hbstack/site](https://github.com/hbstack/site)<br>
-8. ✔️ Closed issue [#691](https://github.com/hbstack/site/issues/691) in [hbstack/site](https://github.com/hbstack/site)<br>
-9. ⭐ Starred [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)<br>
-10. 💬 Commented on [#696](https://github.com/hbstack/site/pull/696#issuecomment-1798348798) in [hbstack/site](https://github.com/hbstack/site)<br>
+1. 💪 Opened PR [#11688](https://github.com/gohugoio/hugo/pull/11688) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. 🎉 Merged PR [#28](https://github.com/hugomods/images/pull/28) in [hugomods/images](https://github.com/hugomods/images)<br>
+3. ✔️ Closed issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
+4. 🎉 Merged PR [#27](https://github.com/hugomods/images/pull/27) in [hugomods/images](https://github.com/hugomods/images)<br>
+5. 💪 Opened PR [#27](https://github.com/hugomods/images/pull/27) in [hugomods/images](https://github.com/hugomods/images)<br>
+6. ❗️ Opened issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
+7. 💬 Commented on [#668](https://github.com/hbstack/site/issues/668#issuecomment-1800865043) in [hbstack/site](https://github.com/hbstack/site)<br>
+8. ✔️ Closed issue [#668](https://github.com/hbstack/site/issues/668) in [hbstack/site](https://github.com/hbstack/site)<br>
+9. ✔️ Closed issue [#691](https://github.com/hbstack/site/issues/691) in [hbstack/site](https://github.com/hbstack/site)<br>
+10. ⭐ Starred [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
