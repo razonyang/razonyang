@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1540](https://github.com/headlamp-k8s/headlamp/issues/1540) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)<br>
-2. 💪 Opened PR [#11688](https://github.com/gohugoio/hugo/pull/11688) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-3. 🎉 Merged PR [#28](https://github.com/hugomods/images/pull/28) in [hugomods/images](https://github.com/hugomods/images)<br>
-4. ✔️ Closed issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
-5. 🎉 Merged PR [#27](https://github.com/hugomods/images/pull/27) in [hugomods/images](https://github.com/hugomods/images)<br>
-6. 💪 Opened PR [#27](https://github.com/hugomods/images/pull/27) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. ❗️ Opened issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. 💬 Commented on [#668](https://github.com/hbstack/site/issues/668#issuecomment-1800865043) in [hbstack/site](https://github.com/hbstack/site)<br>
-9. ✔️ Closed issue [#668](https://github.com/hbstack/site/issues/668) in [hbstack/site](https://github.com/hbstack/site)<br>
-10. ✔️ Closed issue [#691](https://github.com/hbstack/site/issues/691) in [hbstack/site](https://github.com/hbstack/site)<br>
+1. ❗️ Opened issue [#698](https://github.com/hbstack/site/issues/698) in [hbstack/site](https://github.com/hbstack/site)<br>
+2. ❗️ Opened issue [#1540](https://github.com/headlamp-k8s/headlamp/issues/1540) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)<br>
+3. 💪 Opened PR [#11688](https://github.com/gohugoio/hugo/pull/11688) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+4. 🎉 Merged PR [#28](https://github.com/hugomods/images/pull/28) in [hugomods/images](https://github.com/hugomods/images)<br>
+5. ✔️ Closed issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
+6. 🎉 Merged PR [#27](https://github.com/hugomods/images/pull/27) in [hugomods/images](https://github.com/hugomods/images)<br>
+7. 💪 Opened PR [#27](https://github.com/hugomods/images/pull/27) in [hugomods/images](https://github.com/hugomods/images)<br>
+8. ❗️ Opened issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
+9. 💬 Commented on [#668](https://github.com/hbstack/site/issues/668#issuecomment-1800865043) in [hbstack/site](https://github.com/hbstack/site)<br>
+10. ✔️ Closed issue [#668](https://github.com/hbstack/site/issues/668) in [hbstack/site](https://github.com/hbstack/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
