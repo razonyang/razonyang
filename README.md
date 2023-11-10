@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#467](https://github.com/hbstack/blog/pull/467) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 💬 Commented on [#469](https://github.com/hbstack/blog/pull/469#issuecomment-1805841884) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 🎉 Merged PR [#469](https://github.com/hbstack/blog/pull/469) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 👍 Approved [#469](https://github.com/hbstack/blog/pull/469#pullrequestreview-1724912318) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 🔱 Forked [razonyang/uptime-kuma](https://github.com/razonyang/uptime-kuma) from [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)<br>
-6. ❗️ Opened issue [#698](https://github.com/hbstack/site/issues/698) in [hbstack/site](https://github.com/hbstack/site)<br>
-7. ❗️ Opened issue [#1540](https://github.com/headlamp-k8s/headlamp/issues/1540) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)<br>
-8. 💪 Opened PR [#11688](https://github.com/gohugoio/hugo/pull/11688) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-9. 🎉 Merged PR [#28](https://github.com/hugomods/images/pull/28) in [hugomods/images](https://github.com/hugomods/images)<br>
-10. ✔️ Closed issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
+1. 💬 Commented on [#36](https://github.com/hbstack/content-panel/issues/36#issuecomment-1806133912) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+2. 🎉 Merged PR [#178](https://github.com/hugomods/search/pull/178) in [hugomods/search](https://github.com/hugomods/search)<br>
+3. 🎉 Merged PR [#177](https://github.com/hugomods/search/pull/177) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 👍 Approved [#177](https://github.com/hugomods/search/pull/177#pullrequestreview-1725238912) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. 🎉 Merged PR [#474](https://github.com/hbstack/blog/pull/474) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 💬 Commented on [#471](https://github.com/hbstack/blog/pull/471#issuecomment-1806130736) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. 🎉 Merged PR [#471](https://github.com/hbstack/blog/pull/471) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 👍 Approved [#471](https://github.com/hbstack/blog/pull/471#pullrequestreview-1725236506) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 🎉 Merged PR [#176](https://github.com/hugomods/search/pull/176) in [hugomods/search](https://github.com/hugomods/search)<br>
+10. 💬 Commented on [#175](https://github.com/hugomods/search/pull/175#issuecomment-1806083020) in [hugomods/search](https://github.com/hugomods/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
