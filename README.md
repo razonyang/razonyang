@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [razonyang/uptime-kuma](https://github.com/razonyang/uptime-kuma) from [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)<br>
-2. ❗️ Opened issue [#698](https://github.com/hbstack/site/issues/698) in [hbstack/site](https://github.com/hbstack/site)<br>
-3. ❗️ Opened issue [#1540](https://github.com/headlamp-k8s/headlamp/issues/1540) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)<br>
-4. 💪 Opened PR [#11688](https://github.com/gohugoio/hugo/pull/11688) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-5. 🎉 Merged PR [#28](https://github.com/hugomods/images/pull/28) in [hugomods/images](https://github.com/hugomods/images)<br>
-6. ✔️ Closed issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. 🎉 Merged PR [#27](https://github.com/hugomods/images/pull/27) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. 💪 Opened PR [#27](https://github.com/hugomods/images/pull/27) in [hugomods/images](https://github.com/hugomods/images)<br>
-9. ❗️ Opened issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
-10. 💬 Commented on [#668](https://github.com/hbstack/site/issues/668#issuecomment-1800865043) in [hbstack/site](https://github.com/hbstack/site)<br>
+1. 🎉 Merged PR [#467](https://github.com/hbstack/blog/pull/467) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. 💬 Commented on [#469](https://github.com/hbstack/blog/pull/469#issuecomment-1805841884) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 🎉 Merged PR [#469](https://github.com/hbstack/blog/pull/469) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 👍 Approved [#469](https://github.com/hbstack/blog/pull/469#pullrequestreview-1724912318) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 🔱 Forked [razonyang/uptime-kuma](https://github.com/razonyang/uptime-kuma) from [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)<br>
+6. ❗️ Opened issue [#698](https://github.com/hbstack/site/issues/698) in [hbstack/site](https://github.com/hbstack/site)<br>
+7. ❗️ Opened issue [#1540](https://github.com/headlamp-k8s/headlamp/issues/1540) in [headlamp-k8s/headlamp](https://github.com/headlamp-k8s/headlamp)<br>
+8. 💪 Opened PR [#11688](https://github.com/gohugoio/hugo/pull/11688) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+9. 🎉 Merged PR [#28](https://github.com/hugomods/images/pull/28) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. ✔️ Closed issue [#26](https://github.com/hugomods/images/issues/26) in [hugomods/images](https://github.com/hugomods/images)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
