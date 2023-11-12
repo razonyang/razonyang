@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero)<br>
-2. 💬 Commented on [#36](https://github.com/hbstack/content-panel/issues/36#issuecomment-1806734189) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-3. 🎉 Merged PR [#40](https://github.com/hbstack/content-panel/pull/40) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-4. 🎉 Merged PR [#41](https://github.com/hbstack/content-panel/pull/41) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-5. ✔️ Closed issue [#36](https://github.com/hbstack/content-panel/issues/36) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-6. 💪 Opened PR [#41](https://github.com/hbstack/content-panel/pull/41) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-7. ✔️ Closed issue [#38](https://github.com/hbstack/content-panel/issues/38) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-8. 🎉 Merged PR [#39](https://github.com/hbstack/content-panel/pull/39) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-9. 💬 Commented on [#38](https://github.com/hbstack/content-panel/issues/38#issuecomment-1806630378) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-10. 💪 Opened PR [#39](https://github.com/hbstack/content-panel/pull/39) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.20.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+2. ⭐ Starred [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero)<br>
+3. 💬 Commented on [#36](https://github.com/hbstack/content-panel/issues/36#issuecomment-1806734189) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+4. 🎉 Merged PR [#40](https://github.com/hbstack/content-panel/pull/40) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+5. 🎉 Merged PR [#41](https://github.com/hbstack/content-panel/pull/41) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+6. ✔️ Closed issue [#36](https://github.com/hbstack/content-panel/issues/36) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+7. 💪 Opened PR [#41](https://github.com/hbstack/content-panel/pull/41) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+8. ✔️ Closed issue [#38](https://github.com/hbstack/content-panel/issues/38) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+9. 🎉 Merged PR [#39](https://github.com/hbstack/content-panel/pull/39) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+10. 💬 Commented on [#38](https://github.com/hbstack/content-panel/issues/38#issuecomment-1806630378) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
