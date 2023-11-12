@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#226](https://github.com/hugomods/icons/pull/226) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#226](https://github.com/hugomods/icons/pull/226#pullrequestreview-1726178904) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 🎉 Merged PR [#225](https://github.com/hugomods/icons/pull/225) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#225](https://github.com/hugomods/icons/pull/225#pullrequestreview-1726178419) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.20.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-6. ⭐ Starred [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero)<br>
-7. 💬 Commented on [#36](https://github.com/hbstack/content-panel/issues/36#issuecomment-1806734189) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-8. 🎉 Merged PR [#40](https://github.com/hbstack/content-panel/pull/40) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-9. 🎉 Merged PR [#41](https://github.com/hbstack/content-panel/pull/41) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-10. ✔️ Closed issue [#36](https://github.com/hbstack/content-panel/issues/36) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+1. ⭐ Starred [docker-library/docs](https://github.com/docker-library/docs)<br>
+2. 🎉 Merged PR [#226](https://github.com/hugomods/icons/pull/226) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#226](https://github.com/hugomods/icons/pull/226#pullrequestreview-1726178904) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 🎉 Merged PR [#225](https://github.com/hugomods/icons/pull/225) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 👍 Approved [#225](https://github.com/hugomods/icons/pull/225#pullrequestreview-1726178419) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.20.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+7. ⭐ Starred [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero)<br>
+8. 💬 Commented on [#36](https://github.com/hbstack/content-panel/issues/36#issuecomment-1806734189) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+9. 🎉 Merged PR [#40](https://github.com/hbstack/content-panel/pull/40) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+10. 🎉 Merged PR [#41](https://github.com/hbstack/content-panel/pull/41) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
