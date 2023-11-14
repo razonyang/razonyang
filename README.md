@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-2. 🎉 Merged PR [#477](https://github.com/hbstack/blog/pull/477) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. ✔️ Closed issue [#712](https://github.com/hbstack/site/issues/712) in [hbstack/site](https://github.com/hbstack/site)<br>
-4. 🎉 Merged PR [#484](https://github.com/hbstack/blog/pull/484) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 💪 Opened PR [#484](https://github.com/hbstack/blog/pull/484) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1810191348) in [hbstack/site](https://github.com/hbstack/site)<br>
-7. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1809506616) in [hbstack/site](https://github.com/hbstack/site)<br>
-8. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1809478597) in [hbstack/site](https://github.com/hbstack/site)<br>
-9. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1809459927) in [hbstack/site](https://github.com/hbstack/site)<br>
-10. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1809365656) in [hbstack/site](https://github.com/hbstack/site)<br>
+1. 🎉 Merged PR [#3](https://github.com/hbstack/google-fonts/pull/3) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
+2. 👍 Approved [#3](https://github.com/hbstack/google-fonts/pull/3#pullrequestreview-1730169071) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
+3. ❌ Closed PR [#2](https://github.com/hbstack/google-fonts/pull/2) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
+4. 📔 Created new repository [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
+5. 🎉 Merged PR [#477](https://github.com/hbstack/blog/pull/477) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. ✔️ Closed issue [#712](https://github.com/hbstack/site/issues/712) in [hbstack/site](https://github.com/hbstack/site)<br>
+7. 🎉 Merged PR [#484](https://github.com/hbstack/blog/pull/484) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 💪 Opened PR [#484](https://github.com/hbstack/blog/pull/484) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1810191348) in [hbstack/site](https://github.com/hbstack/site)<br>
+10. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1809506616) in [hbstack/site](https://github.com/hbstack/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
