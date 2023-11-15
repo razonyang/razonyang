@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1810885765) in [hbstack/site](https://github.com/hbstack/site)<br>
-2. ✔️ Closed issue [#115](https://github.com/hbstack/hb/issues/115) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-3. ⭐ Starred [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-4. 💬 Commented on [#115](https://github.com/hbstack/hb/issues/115#issuecomment-1810750087) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-5. 🎉 Merged PR [#3](https://github.com/hbstack/google-fonts/pull/3) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-6. 👍 Approved [#3](https://github.com/hbstack/google-fonts/pull/3#pullrequestreview-1730169071) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-7. ❌ Closed PR [#2](https://github.com/hbstack/google-fonts/pull/2) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-8. 📔 Created new repository [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-9. 🎉 Merged PR [#477](https://github.com/hbstack/blog/pull/477) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ✔️ Closed issue [#712](https://github.com/hbstack/site/issues/712) in [hbstack/site](https://github.com/hbstack/site)<br>
+1. ⭐ Starred [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+2. 🎉 Merged PR [#2](https://github.com/hugomods/microsoft-clarity/pull/2) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+3. 👍 Approved [#2](https://github.com/hugomods/microsoft-clarity/pull/2#pullrequestreview-1732585621) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+4. 📔 Created new repository [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+5. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1810885765) in [hbstack/site](https://github.com/hbstack/site)<br>
+6. ✔️ Closed issue [#115](https://github.com/hbstack/hb/issues/115) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+7. ⭐ Starred [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
+8. 💬 Commented on [#115](https://github.com/hbstack/hb/issues/115#issuecomment-1810750087) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. 🎉 Merged PR [#3](https://github.com/hbstack/google-fonts/pull/3) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
+10. 👍 Approved [#3](https://github.com/hbstack/google-fonts/pull/3#pullrequestreview-1730169071) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
