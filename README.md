@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#380](https://github.com/hbstack/header/issues/380) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. ⭐ Starred [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-3. 🎉 Merged PR [#2](https://github.com/hugomods/microsoft-clarity/pull/2) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-4. 👍 Approved [#2](https://github.com/hugomods/microsoft-clarity/pull/2#pullrequestreview-1732585621) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-5. 📔 Created new repository [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-6. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1810885765) in [hbstack/site](https://github.com/hbstack/site)<br>
-7. ✔️ Closed issue [#115](https://github.com/hbstack/hb/issues/115) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-8. ⭐ Starred [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-9. 💬 Commented on [#115](https://github.com/hbstack/hb/issues/115#issuecomment-1810750087) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-10. 🎉 Merged PR [#3](https://github.com/hbstack/google-fonts/pull/3) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
+1. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)<br>
+2. 🎉 Merged PR [#29](https://github.com/hugomods/decap-cms/pull/29) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. ❗️ Opened issue [#380](https://github.com/hbstack/header/issues/380) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. ⭐ Starred [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+5. 🎉 Merged PR [#2](https://github.com/hugomods/microsoft-clarity/pull/2) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+6. 👍 Approved [#2](https://github.com/hugomods/microsoft-clarity/pull/2#pullrequestreview-1732585621) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+7. 📔 Created new repository [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+8. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1810885765) in [hbstack/site](https://github.com/hbstack/site)<br>
+9. ✔️ Closed issue [#115](https://github.com/hbstack/hb/issues/115) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. ⭐ Starred [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
