@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [netlify/gotrue](https://github.com/netlify/gotrue)<br>
-2. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)<br>
-3. 🎉 Merged PR [#29](https://github.com/hugomods/decap-cms/pull/29) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-4. ❗️ Opened issue [#380](https://github.com/hbstack/header/issues/380) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. ⭐ Starred [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-6. 🎉 Merged PR [#2](https://github.com/hugomods/microsoft-clarity/pull/2) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-7. 👍 Approved [#2](https://github.com/hugomods/microsoft-clarity/pull/2#pullrequestreview-1732585621) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-8. 📔 Created new repository [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-9. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1810885765) in [hbstack/site](https://github.com/hbstack/site)<br>
-10. ✔️ Closed issue [#115](https://github.com/hbstack/hb/issues/115) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. ⭐ Starred [netlify/gotrue-js](https://github.com/netlify/gotrue-js)<br>
+2. ⭐ Starred [netlify/gotrue](https://github.com/netlify/gotrue)<br>
+3. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)<br>
+4. 🎉 Merged PR [#29](https://github.com/hugomods/decap-cms/pull/29) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+5. ❗️ Opened issue [#380](https://github.com/hbstack/header/issues/380) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. ⭐ Starred [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+7. 🎉 Merged PR [#2](https://github.com/hugomods/microsoft-clarity/pull/2) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+8. 👍 Approved [#2](https://github.com/hugomods/microsoft-clarity/pull/2#pullrequestreview-1732585621) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+9. 📔 Created new repository [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+10. 💬 Commented on [#712](https://github.com/hbstack/site/issues/712#issuecomment-1810885765) in [hbstack/site](https://github.com/hbstack/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
