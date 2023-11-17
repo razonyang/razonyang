@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#205](https://github.com/google/docsy-example/pull/205) in [google/docsy-example](https://github.com/google/docsy-example)<br>
-2. ⭐ Starred [netlify/gotrue-js](https://github.com/netlify/gotrue-js)<br>
-3. ⭐ Starred [netlify/gotrue](https://github.com/netlify/gotrue)<br>
-4. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)<br>
-5. 🎉 Merged PR [#29](https://github.com/hugomods/decap-cms/pull/29) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-6. ❗️ Opened issue [#380](https://github.com/hbstack/header/issues/380) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. ⭐ Starred [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-8. 🎉 Merged PR [#2](https://github.com/hugomods/microsoft-clarity/pull/2) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-9. 👍 Approved [#2](https://github.com/hugomods/microsoft-clarity/pull/2#pullrequestreview-1732585621) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-10. 📔 Created new repository [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+1. 🎉 Merged PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. 💪 Opened PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+3. 💬 Commented on [#205](https://github.com/google/docsy-example/pull/205#issuecomment-1817149738) in [google/docsy-example](https://github.com/google/docsy-example)<br>
+4. ❌ Closed PR [#205](https://github.com/google/docsy-example/pull/205) in [google/docsy-example](https://github.com/google/docsy-example)<br>
+5. ⭐ Starred [netlify/gotrue-js](https://github.com/netlify/gotrue-js)<br>
+6. ⭐ Starred [netlify/gotrue](https://github.com/netlify/gotrue)<br>
+7. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)<br>
+8. 🎉 Merged PR [#29](https://github.com/hugomods/decap-cms/pull/29) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+9. ❗️ Opened issue [#380](https://github.com/hbstack/header/issues/380) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. ⭐ Starred [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
