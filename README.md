@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#89](https://github.com/hugomods/bootstrap/pull/89#pullrequestreview-1738013551) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 🎉 Merged PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 💪 Opened PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 💬 Commented on [#205](https://github.com/google/docsy-example/pull/205#issuecomment-1817149738) in [google/docsy-example](https://github.com/google/docsy-example)<br>
-5. ❌ Closed PR [#205](https://github.com/google/docsy-example/pull/205) in [google/docsy-example](https://github.com/google/docsy-example)<br>
-6. ⭐ Starred [netlify/gotrue-js](https://github.com/netlify/gotrue-js)<br>
-7. ⭐ Starred [netlify/gotrue](https://github.com/netlify/gotrue)<br>
-8. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)<br>
-9. 🎉 Merged PR [#29](https://github.com/hugomods/decap-cms/pull/29) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-10. ❗️ Opened issue [#380](https://github.com/hbstack/header/issues/380) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#228](https://github.com/hugomods/icons/pull/228) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#228](https://github.com/hugomods/icons/pull/228#pullrequestreview-1738501361) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#89](https://github.com/hugomods/bootstrap/pull/89#pullrequestreview-1738013551) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. 🎉 Merged PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 💪 Opened PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+6. 💬 Commented on [#205](https://github.com/google/docsy-example/pull/205#issuecomment-1817149738) in [google/docsy-example](https://github.com/google/docsy-example)<br>
+7. ❌ Closed PR [#205](https://github.com/google/docsy-example/pull/205) in [google/docsy-example](https://github.com/google/docsy-example)<br>
+8. ⭐ Starred [netlify/gotrue-js](https://github.com/netlify/gotrue-js)<br>
+9. ⭐ Starred [netlify/gotrue](https://github.com/netlify/gotrue)<br>
+10. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
