@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#228](https://github.com/hugomods/icons/pull/228) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#228](https://github.com/hugomods/icons/pull/228#pullrequestreview-1738501361) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#89](https://github.com/hugomods/bootstrap/pull/89#pullrequestreview-1738013551) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 🎉 Merged PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. 💪 Opened PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-6. 💬 Commented on [#205](https://github.com/google/docsy-example/pull/205#issuecomment-1817149738) in [google/docsy-example](https://github.com/google/docsy-example)<br>
-7. ❌ Closed PR [#205](https://github.com/google/docsy-example/pull/205) in [google/docsy-example](https://github.com/google/docsy-example)<br>
-8. ⭐ Starred [netlify/gotrue-js](https://github.com/netlify/gotrue-js)<br>
-9. ⭐ Starred [netlify/gotrue](https://github.com/netlify/gotrue)<br>
-10. ⭐ Starred [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)<br>
+1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.21.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+2. 🎉 Merged PR [#228](https://github.com/hugomods/icons/pull/228) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#228](https://github.com/hugomods/icons/pull/228#pullrequestreview-1738501361) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#89](https://github.com/hugomods/bootstrap/pull/89#pullrequestreview-1738013551) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 🎉 Merged PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+6. 💪 Opened PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+7. 💬 Commented on [#205](https://github.com/google/docsy-example/pull/205#issuecomment-1817149738) in [google/docsy-example](https://github.com/google/docsy-example)<br>
+8. ❌ Closed PR [#205](https://github.com/google/docsy-example/pull/205) in [google/docsy-example](https://github.com/google/docsy-example)<br>
+9. ⭐ Starred [netlify/gotrue-js](https://github.com/netlify/gotrue-js)<br>
+10. ⭐ Starred [netlify/gotrue](https://github.com/netlify/gotrue)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
