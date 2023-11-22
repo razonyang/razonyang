@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [go-task/task](https://github.com/go-task/task)<br>
-2. ⭐ Starred [unknwon/go-import-server](https://github.com/unknwon/go-import-server)<br>
-3. 🎉 Merged PR [#230](https://github.com/hugomods/icons/pull/230) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#230](https://github.com/hugomods/icons/pull/230#pullrequestreview-1738556031) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.21.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-6. 🎉 Merged PR [#228](https://github.com/hugomods/icons/pull/228) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 👍 Approved [#228](https://github.com/hugomods/icons/pull/228#pullrequestreview-1738501361) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 👍 Approved [#89](https://github.com/hugomods/bootstrap/pull/89#pullrequestreview-1738013551) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-9. 🎉 Merged PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-10. 💪 Opened PR [#88](https://github.com/hugomods/bootstrap/pull/88) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+1. 🎉 Merged PR [#233](https://github.com/hugomods/icons/pull/233) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#233](https://github.com/hugomods/icons/pull/233#pullrequestreview-1743361660) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#234](https://github.com/hugomods/icons/pull/234) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#234](https://github.com/hugomods/icons/pull/234#pullrequestreview-1743361360) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. ⭐ Starred [go-task/task](https://github.com/go-task/task)<br>
+6. ⭐ Starred [unknwon/go-import-server](https://github.com/unknwon/go-import-server)<br>
+7. 🎉 Merged PR [#230](https://github.com/hugomods/icons/pull/230) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 👍 Approved [#230](https://github.com/hugomods/icons/pull/230#pullrequestreview-1738556031) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v9.21.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+10. 🎉 Merged PR [#228](https://github.com/hugomods/icons/pull/228) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
