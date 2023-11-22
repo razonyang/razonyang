@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [extractions/netrc](https://github.com/extractions/netrc)<br>
-2. ❌ Closed PR [#235](https://github.com/hugomods/icons/pull/235) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 🎉 Merged PR [#233](https://github.com/hugomods/icons/pull/233) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#233](https://github.com/hugomods/icons/pull/233#pullrequestreview-1743361660) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 🎉 Merged PR [#234](https://github.com/hugomods/icons/pull/234) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 👍 Approved [#234](https://github.com/hugomods/icons/pull/234#pullrequestreview-1743361360) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ⭐ Starred [go-task/task](https://github.com/go-task/task)<br>
-8. ⭐ Starred [unknwon/go-import-server](https://github.com/unknwon/go-import-server)<br>
-9. 🎉 Merged PR [#230](https://github.com/hugomods/icons/pull/230) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 👍 Approved [#230](https://github.com/hugomods/icons/pull/230#pullrequestreview-1738556031) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 💬 Commented on [#30](https://github.com/hugomods/decap-cms/pull/30#issuecomment-1822981130) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. ⭐ Starred [extractions/netrc](https://github.com/extractions/netrc)<br>
+3. ❌ Closed PR [#235](https://github.com/hugomods/icons/pull/235) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 🎉 Merged PR [#233](https://github.com/hugomods/icons/pull/233) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 👍 Approved [#233](https://github.com/hugomods/icons/pull/233#pullrequestreview-1743361660) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 🎉 Merged PR [#234](https://github.com/hugomods/icons/pull/234) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 👍 Approved [#234](https://github.com/hugomods/icons/pull/234#pullrequestreview-1743361360) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. ⭐ Starred [go-task/task](https://github.com/go-task/task)<br>
+9. ⭐ Starred [unknwon/go-import-server](https://github.com/unknwon/go-import-server)<br>
+10. 🎉 Merged PR [#230](https://github.com/hugomods/icons/pull/230) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
