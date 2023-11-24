@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#54](https://github.com/hugomods/pwa/pull/54) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-2. 🎉 Merged PR [#55](https://github.com/hugomods/pwa/pull/55) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-3. 💪 Opened PR [#55](https://github.com/hugomods/pwa/pull/55) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-4. 🎉 Merged PR [#35](https://github.com/hugomods/shortcodes/pull/35) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-5. 🎉 Merged PR [#34](https://github.com/hugomods/shortcodes/pull/34) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-6. 🎉 Merged PR [#33](https://github.com/hugomods/shortcodes/pull/33) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-7. 💪 Opened PR [#33](https://github.com/hugomods/shortcodes/pull/33) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-8. ❗️ Opened issue [#2612](https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2612) in [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension)<br>
-9. ❗️ Opened issue [#91](https://github.com/hbstack/heading-sign/issues/91) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
-10. ❗️ Opened issue [#90](https://github.com/hbstack/heading-sign/issues/90) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
+1. 🎉 Merged PR [#56](https://github.com/hugomods/pwa/pull/56) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+2. 🎉 Merged PR [#54](https://github.com/hugomods/pwa/pull/54) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+3. 🎉 Merged PR [#55](https://github.com/hugomods/pwa/pull/55) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+4. 💪 Opened PR [#55](https://github.com/hugomods/pwa/pull/55) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+5. 🎉 Merged PR [#35](https://github.com/hugomods/shortcodes/pull/35) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+6. 🎉 Merged PR [#34](https://github.com/hugomods/shortcodes/pull/34) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+7. 🎉 Merged PR [#33](https://github.com/hugomods/shortcodes/pull/33) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+8. 💪 Opened PR [#33](https://github.com/hugomods/shortcodes/pull/33) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+9. ❗️ Opened issue [#2612](https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2612) in [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension)<br>
+10. ❗️ Opened issue [#91](https://github.com/hbstack/heading-sign/issues/91) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
