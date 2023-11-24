@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#2612](https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2612) in [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension)<br>
-2. ❗️ Opened issue [#91](https://github.com/hbstack/heading-sign/issues/91) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
-3. ❗️ Opened issue [#90](https://github.com/hbstack/heading-sign/issues/90) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
-4. 💬 Commented on [#30](https://github.com/hugomods/decap-cms/pull/30#issuecomment-1823023423) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-5. 🎉 Merged PR [#32](https://github.com/hugomods/decap-cms/pull/32) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-6. ❌ Closed PR [#30](https://github.com/hugomods/decap-cms/pull/30) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-7. 🎉 Merged PR [#31](https://github.com/hugomods/decap-cms/pull/31) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-8. 💪 Opened PR [#31](https://github.com/hugomods/decap-cms/pull/31) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 💬 Commented on [#30](https://github.com/hugomods/decap-cms/pull/30#issuecomment-1822981130) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-10. ⭐ Starred [extractions/netrc](https://github.com/extractions/netrc)<br>
+1. 🎉 Merged PR [#34](https://github.com/hugomods/shortcodes/pull/34) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+2. 🎉 Merged PR [#33](https://github.com/hugomods/shortcodes/pull/33) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+3. 💪 Opened PR [#33](https://github.com/hugomods/shortcodes/pull/33) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+4. ❗️ Opened issue [#2612](https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2612) in [AdguardTeam/AdguardBrowserExtension](https://github.com/AdguardTeam/AdguardBrowserExtension)<br>
+5. ❗️ Opened issue [#91](https://github.com/hbstack/heading-sign/issues/91) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
+6. ❗️ Opened issue [#90](https://github.com/hbstack/heading-sign/issues/90) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
+7. 💬 Commented on [#30](https://github.com/hugomods/decap-cms/pull/30#issuecomment-1823023423) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+8. 🎉 Merged PR [#32](https://github.com/hugomods/decap-cms/pull/32) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+9. ❌ Closed PR [#30](https://github.com/hugomods/decap-cms/pull/30) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+10. 🎉 Merged PR [#31](https://github.com/hugomods/decap-cms/pull/31) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
