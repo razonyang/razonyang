@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#237](https://github.com/hugomods/icons/pull/237) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#237](https://github.com/hugomods/icons/pull/237#pullrequestreview-1748169835) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ⭐ Starred [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs)<br>
-4. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.293.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-5. 🎉 Merged PR [#56](https://github.com/hugomods/pwa/pull/56) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-6. 🎉 Merged PR [#54](https://github.com/hugomods/pwa/pull/54) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-7. 🎉 Merged PR [#55](https://github.com/hugomods/pwa/pull/55) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-8. 💪 Opened PR [#55](https://github.com/hugomods/pwa/pull/55) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-9. 🎉 Merged PR [#35](https://github.com/hugomods/shortcodes/pull/35) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-10. 🎉 Merged PR [#34](https://github.com/hugomods/shortcodes/pull/34) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+1. 🎉 Merged PR [#36](https://github.com/hugomods/shortcodes/pull/36) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+2. 🎉 Merged PR [#237](https://github.com/hugomods/icons/pull/237) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#237](https://github.com/hugomods/icons/pull/237#pullrequestreview-1748169835) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ⭐ Starred [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs)<br>
+5. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.293.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+6. 🎉 Merged PR [#56](https://github.com/hugomods/pwa/pull/56) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+7. 🎉 Merged PR [#54](https://github.com/hugomods/pwa/pull/54) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+8. 🎉 Merged PR [#55](https://github.com/hugomods/pwa/pull/55) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+9. 💪 Opened PR [#55](https://github.com/hugomods/pwa/pull/55) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+10. 🎉 Merged PR [#35](https://github.com/hugomods/shortcodes/pull/35) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
