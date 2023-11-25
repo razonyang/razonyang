@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#16](https://github.com/hbstack/github-releases/issues/16) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
-2. 💬 Commented on [#10719](https://github.com/gohugoio/hugo/issues/10719#issuecomment-1826196295) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-3. ✔️ Closed issue [#10719](https://github.com/gohugoio/hugo/issues/10719) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-4. 🎉 Merged PR [#36](https://github.com/hugomods/shortcodes/pull/36) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-5. 🎉 Merged PR [#237](https://github.com/hugomods/icons/pull/237) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 👍 Approved [#237](https://github.com/hugomods/icons/pull/237#pullrequestreview-1748169835) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ⭐ Starred [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs)<br>
-8. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.293.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-9. 🎉 Merged PR [#56](https://github.com/hugomods/pwa/pull/56) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-10. 🎉 Merged PR [#54](https://github.com/hugomods/pwa/pull/54) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+1. 🎉 Merged PR [#33](https://github.com/hugomods/decap-cms/pull/33) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 💪 Opened PR [#33](https://github.com/hugomods/decap-cms/pull/33) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. ❗️ Opened issue [#16](https://github.com/hbstack/github-releases/issues/16) in [hbstack/github-releases](https://github.com/hbstack/github-releases)<br>
+4. 💬 Commented on [#10719](https://github.com/gohugoio/hugo/issues/10719#issuecomment-1826196295) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+5. ✔️ Closed issue [#10719](https://github.com/gohugoio/hugo/issues/10719) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+6. 🎉 Merged PR [#36](https://github.com/hugomods/shortcodes/pull/36) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+7. 🎉 Merged PR [#237](https://github.com/hugomods/icons/pull/237) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 👍 Approved [#237](https://github.com/hugomods/icons/pull/237#pullrequestreview-1748169835) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ⭐ Starred [davidshimjs/qrcodejs](https://github.com/davidshimjs/qrcodejs)<br>
+10. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.293.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
