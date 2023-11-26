@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#48](https://github.com/hugomods/decap-cms/issues/48) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-2. 💬 Commented on [#30](https://github.com/hugomods/decap-cms/pull/30#issuecomment-1826796541) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-3. ❗️ Opened issue [#494](https://github.com/hbstack/blog/issues/494) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. ❗️ Opened issue [#101](https://github.com/hbstack/breadcrumb/issues/101) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-5. ❗️ Opened issue [#100](https://github.com/hbstack/breadcrumb/issues/100) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-6. 🔱 Forked [razonyang/clevergo-import-server](https://github.com/razonyang/clevergo-import-server) from [unknwon/go-import-server](https://github.com/unknwon/go-import-server)<br>
-7. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v10.0.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-8. 🎉 Merged PR [#43](https://github.com/hugomods/decap-cms/pull/43) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 🎉 Merged PR [#46](https://github.com/hugomods/decap-cms/pull/46) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-10. 💪 Opened PR [#46](https://github.com/hugomods/decap-cms/pull/46) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+1. ✔️ Closed issue [#48](https://github.com/hugomods/decap-cms/issues/48) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 🎉 Merged PR [#49](https://github.com/hugomods/decap-cms/pull/49) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 💪 Opened PR [#49](https://github.com/hugomods/decap-cms/pull/49) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. ❗️ Opened issue [#48](https://github.com/hugomods/decap-cms/issues/48) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+5. 💬 Commented on [#30](https://github.com/hugomods/decap-cms/pull/30#issuecomment-1826796541) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+6. ❗️ Opened issue [#494](https://github.com/hbstack/blog/issues/494) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. ❗️ Opened issue [#101](https://github.com/hbstack/breadcrumb/issues/101) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+8. ❗️ Opened issue [#100](https://github.com/hbstack/breadcrumb/issues/100) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+9. 🔱 Forked [razonyang/clevergo-import-server](https://github.com/razonyang/clevergo-import-server) from [unknwon/go-import-server](https://github.com/unknwon/go-import-server)<br>
+10. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v10.0.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
