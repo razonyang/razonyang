@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.1-alpha) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-2. ❗️ Opened issue [#20023](https://github.com/FortAwesome/Font-Awesome/issues/20023) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)<br>
-3. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.1) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-4. 🎉 Merged PR [#93](https://github.com/hbstack/mermaid/pull/93) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-5. 🎉 Merged PR [#92](https://github.com/hbstack/mermaid/pull/92) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-6. 💪 Opened PR [#92](https://github.com/hbstack/mermaid/pull/92) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-7. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.294.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-8. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.0) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-9. ❗️ Opened issue [#51](https://github.com/hugomods/decap-cms/issues/51) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-10. 💬 Commented on [#6994](https://github.com/decaporg/decap-cms/issues/6994#issuecomment-1827524325) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
+1. 🎉 Merged PR [#239](https://github.com/hugomods/icons/pull/239) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#239](https://github.com/hugomods/icons/pull/239#pullrequestreview-1755721097) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#241](https://github.com/hugomods/icons/pull/241) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#241](https://github.com/hugomods/icons/pull/241#pullrequestreview-1755720780) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.1-alpha) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+6. ❗️ Opened issue [#20023](https://github.com/FortAwesome/Font-Awesome/issues/20023) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)<br>
+7. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.1) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+8. 🎉 Merged PR [#93](https://github.com/hbstack/mermaid/pull/93) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+9. 🎉 Merged PR [#92](https://github.com/hbstack/mermaid/pull/92) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+10. 💪 Opened PR [#92](https://github.com/hbstack/mermaid/pull/92) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
