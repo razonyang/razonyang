@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#20023](https://github.com/FortAwesome/Font-Awesome/issues/20023) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)<br>
-2. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.1) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-3. 🎉 Merged PR [#93](https://github.com/hbstack/mermaid/pull/93) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-4. 🎉 Merged PR [#92](https://github.com/hbstack/mermaid/pull/92) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-5. 💪 Opened PR [#92](https://github.com/hbstack/mermaid/pull/92) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-6. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.294.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-7. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.0) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-8. ❗️ Opened issue [#51](https://github.com/hugomods/decap-cms/issues/51) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 💬 Commented on [#6994](https://github.com/decaporg/decap-cms/issues/6994#issuecomment-1827524325) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
-10. 💬 Commented on [#6994](https://github.com/decaporg/decap-cms/issues/6994#issuecomment-1827508608) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
+1. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.1-alpha) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+2. ❗️ Opened issue [#20023](https://github.com/FortAwesome/Font-Awesome/issues/20023) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)<br>
+3. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.1) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+4. 🎉 Merged PR [#93](https://github.com/hbstack/mermaid/pull/93) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+5. 🎉 Merged PR [#92](https://github.com/hbstack/mermaid/pull/92) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+6. 💪 Opened PR [#92](https://github.com/hbstack/mermaid/pull/92) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+7. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.294.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+8. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.0) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+9. ❗️ Opened issue [#51](https://github.com/hugomods/decap-cms/issues/51) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+10. 💬 Commented on [#6994](https://github.com/decaporg/decap-cms/issues/6994#issuecomment-1827524325) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
