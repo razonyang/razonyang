@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#499](https://github.com/hbstack/blog/pull/499) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 🎉 Merged PR [#498](https://github.com/hbstack/blog/pull/498) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 💪 Opened PR [#498](https://github.com/hbstack/blog/pull/498) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 🎉 Merged PR [#239](https://github.com/hugomods/icons/pull/239) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 👍 Approved [#239](https://github.com/hugomods/icons/pull/239#pullrequestreview-1755721097) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 🎉 Merged PR [#241](https://github.com/hugomods/icons/pull/241) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 👍 Approved [#241](https://github.com/hugomods/icons/pull/241#pullrequestreview-1755720780) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.1-alpha) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-9. ❗️ Opened issue [#20023](https://github.com/FortAwesome/Font-Awesome/issues/20023) in [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)<br>
-10. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.1) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+1. 🎉 Merged PR [#422](https://github.com/hbstack/docs/pull/422) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. 🎉 Merged PR [#421](https://github.com/hbstack/docs/pull/421) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. 💪 Opened PR [#421](https://github.com/hbstack/docs/pull/421) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. ❌ Closed PR [#503](https://github.com/hbstack/blog/pull/503) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 🎉 Merged PR [#501](https://github.com/hbstack/blog/pull/501) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 🎉 Merged PR [#500](https://github.com/hbstack/blog/pull/500) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. 💪 Opened PR [#500](https://github.com/hbstack/blog/pull/500) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 🎉 Merged PR [#3](https://github.com/hbstack/revision/pull/3) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+9. ❌ Closed PR [#2](https://github.com/hbstack/revision/pull/2) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+10. 📔 Created new repository [hbstack/revision](https://github.com/hbstack/revision)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
