@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#52](https://github.com/hugomods/decap-cms/pull/52) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-2. 💬 Commented on [#11688](https://github.com/gohugoio/hugo/pull/11688#issuecomment-1835488443) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-3. 💬 Commented on [#11688](https://github.com/gohugoio/hugo/pull/11688#issuecomment-1833795693) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-4. 🎉 Merged PR [#422](https://github.com/hbstack/docs/pull/422) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-5. 🎉 Merged PR [#421](https://github.com/hbstack/docs/pull/421) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-6. 💪 Opened PR [#421](https://github.com/hbstack/docs/pull/421) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-7. ❌ Closed PR [#503](https://github.com/hbstack/blog/pull/503) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 🎉 Merged PR [#501](https://github.com/hbstack/blog/pull/501) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 🎉 Merged PR [#500](https://github.com/hbstack/blog/pull/500) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. 💪 Opened PR [#500](https://github.com/hbstack/blog/pull/500) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. ✔️ Closed issue [#10](https://github.com/hugomods/decap-cms/issues/10) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 🎉 Merged PR [#52](https://github.com/hugomods/decap-cms/pull/52) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 💪 Opened PR [#52](https://github.com/hugomods/decap-cms/pull/52) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. 💬 Commented on [#11688](https://github.com/gohugoio/hugo/pull/11688#issuecomment-1835488443) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+5. 💬 Commented on [#11688](https://github.com/gohugoio/hugo/pull/11688#issuecomment-1833795693) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+6. 🎉 Merged PR [#422](https://github.com/hbstack/docs/pull/422) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+7. 🎉 Merged PR [#421](https://github.com/hbstack/docs/pull/421) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. 💪 Opened PR [#421](https://github.com/hbstack/docs/pull/421) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+9. ❌ Closed PR [#503](https://github.com/hbstack/blog/pull/503) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. 🎉 Merged PR [#501](https://github.com/hbstack/blog/pull/501) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
