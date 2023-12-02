@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1010](https://github.com/razonyang/hugo-theme-bootstrap/pull/1010) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. ✔️ Closed issue [#1008](https://github.com/razonyang/hugo-theme-bootstrap/issues/1008) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 🎉 Merged PR [#1011](https://github.com/razonyang/hugo-theme-bootstrap/pull/1011) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. 💪 Opened PR [#1011](https://github.com/razonyang/hugo-theme-bootstrap/pull/1011) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 💪 Opened PR [#1009](https://github.com/razonyang/hugo-theme-bootstrap/pull/1009) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 🎉 Merged PR [#106](https://github.com/hbstack/breadcrumb/pull/106) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-7. 💬 Commented on [#10](https://github.com/hugomods/decap-cms/issues/10#issuecomment-1836971720) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-8. 💬 Commented on [#46](https://github.com/hugomods/decap-cms/pull/46#issuecomment-1836966219) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 💬 Commented on [#218](https://github.com/hbstack/theme/issues/218#issuecomment-1836433278) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-10. 💬 Commented on [#218](https://github.com/hbstack/theme/issues/218#issuecomment-1836342346) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+1. 💬 Commented on [#1008](https://github.com/razonyang/hugo-theme-bootstrap/issues/1008#issuecomment-1837056182) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 🎉 Merged PR [#1010](https://github.com/razonyang/hugo-theme-bootstrap/pull/1010) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. ✔️ Closed issue [#1008](https://github.com/razonyang/hugo-theme-bootstrap/issues/1008) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 🎉 Merged PR [#1011](https://github.com/razonyang/hugo-theme-bootstrap/pull/1011) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 💪 Opened PR [#1011](https://github.com/razonyang/hugo-theme-bootstrap/pull/1011) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💪 Opened PR [#1009](https://github.com/razonyang/hugo-theme-bootstrap/pull/1009) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. 🎉 Merged PR [#106](https://github.com/hbstack/breadcrumb/pull/106) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+8. 💬 Commented on [#10](https://github.com/hugomods/decap-cms/issues/10#issuecomment-1836971720) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+9. 💬 Commented on [#46](https://github.com/hugomods/decap-cms/pull/46#issuecomment-1836966219) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+10. 💬 Commented on [#218](https://github.com/hbstack/theme/issues/218#issuecomment-1836433278) in [hbstack/theme](https://github.com/hbstack/theme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
