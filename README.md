@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-2. ❗️ Opened issue [#516](https://github.com/hbstack/blog/issues/516) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 🎉 Merged PR [#433](https://github.com/hbstack/docs/pull/433) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-4. 🎉 Merged PR [#432](https://github.com/hbstack/docs/pull/432) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-5. ❗️ Opened issue [#5](https://github.com/hbstack/google-fonts/issues/5) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-6. 🎉 Merged PR [#95](https://github.com/hbstack/base/pull/95) in [hbstack/base](https://github.com/hbstack/base)<br>
-7. 🎉 Merged PR [#94](https://github.com/hbstack/base/pull/94) in [hbstack/base](https://github.com/hbstack/base)<br>
-8. 💪 Opened PR [#94](https://github.com/hbstack/base/pull/94) in [hbstack/base](https://github.com/hbstack/base)<br>
-9. ❗️ Opened issue [#59](https://github.com/hugomods/pwa/issues/59) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-10. 💬 Commented on [#218](https://github.com/hbstack/theme/issues/218#issuecomment-1837365659) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+1. ❌ Closed PR [#1](https://github.com/hbstack/theme-cards/pull/1) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. 📔 Created new repository [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+3. ❗️ Opened issue [#516](https://github.com/hbstack/blog/issues/516) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 🎉 Merged PR [#433](https://github.com/hbstack/docs/pull/433) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+5. 🎉 Merged PR [#432](https://github.com/hbstack/docs/pull/432) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+6. ❗️ Opened issue [#5](https://github.com/hbstack/google-fonts/issues/5) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
+7. 🎉 Merged PR [#95](https://github.com/hbstack/base/pull/95) in [hbstack/base](https://github.com/hbstack/base)<br>
+8. 🎉 Merged PR [#94](https://github.com/hbstack/base/pull/94) in [hbstack/base](https://github.com/hbstack/base)<br>
+9. 💪 Opened PR [#94](https://github.com/hbstack/base/pull/94) in [hbstack/base](https://github.com/hbstack/base)<br>
+10. ❗️ Opened issue [#59](https://github.com/hugomods/pwa/issues/59) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
