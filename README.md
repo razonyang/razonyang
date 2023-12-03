@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/hbstack/theme-cards/pull/1) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-2. 📔 Created new repository [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-3. ❗️ Opened issue [#516](https://github.com/hbstack/blog/issues/516) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 🎉 Merged PR [#433](https://github.com/hbstack/docs/pull/433) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-5. 🎉 Merged PR [#432](https://github.com/hbstack/docs/pull/432) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-6. ❗️ Opened issue [#5](https://github.com/hbstack/google-fonts/issues/5) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-7. 🎉 Merged PR [#95](https://github.com/hbstack/base/pull/95) in [hbstack/base](https://github.com/hbstack/base)<br>
-8. 🎉 Merged PR [#94](https://github.com/hbstack/base/pull/94) in [hbstack/base](https://github.com/hbstack/base)<br>
-9. 💪 Opened PR [#94](https://github.com/hbstack/base/pull/94) in [hbstack/base](https://github.com/hbstack/base)<br>
-10. ❗️ Opened issue [#59](https://github.com/hugomods/pwa/issues/59) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+1. 🎉 Merged PR [#181](https://github.com/hugomods/search/pull/181) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. 🎉 Merged PR [#393](https://github.com/hbstack/header/pull/393) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. 🎉 Merged PR [#517](https://github.com/hbstack/blog/pull/517) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. ❌ Closed PR [#179](https://github.com/hugomods/search/pull/179) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. ❌ Closed PR [#180](https://github.com/hugomods/search/pull/180) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 🎉 Merged PR [#375](https://github.com/hbstack/header/pull/375) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 🎉 Merged PR [#168](https://github.com/hbstack/footer/pull/168) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+8. ❌ Closed PR [#5](https://github.com/hbstack/theme-cards/pull/5) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+9. ❌ Closed PR [#1](https://github.com/hbstack/theme-cards/pull/1) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+10. 📔 Created new repository [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
