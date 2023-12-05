@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#44](https://github.com/hbstack/content-panel/issues/44) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-2. ⭐ Starred [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)<br>
-3. ❌ Closed PR [#28](https://github.com/hbstack/theme-cards/pull/28) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-4. 🎉 Merged PR [#19](https://github.com/hbstack/slide/pull/19) in [hbstack/slide](https://github.com/hbstack/slide)<br>
-5. ❌ Closed PR [#25](https://github.com/hbstack/theme-cards/pull/25) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. ❌ Closed PR [#9](https://github.com/hbstack/theme-cards/pull/9) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-7. ❗️ Opened issue [#397](https://github.com/hbstack/header/issues/397) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 💬 Commented on [#11779](https://github.com/gohugoio/hugo/issues/11779#issuecomment-1838840803) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-9. 🎉 Merged PR [#521](https://github.com/hbstack/blog/pull/521) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ❌ Closed PR [#6](https://github.com/hbstack/theme-cards/pull/6) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+1. 💪 Opened PR [#6](https://github.com/hbstack/google-fonts/pull/6) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
+2. ❗️ Opened issue [#44](https://github.com/hbstack/content-panel/issues/44) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+3. ⭐ Starred [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)<br>
+4. ❌ Closed PR [#28](https://github.com/hbstack/theme-cards/pull/28) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+5. 🎉 Merged PR [#19](https://github.com/hbstack/slide/pull/19) in [hbstack/slide](https://github.com/hbstack/slide)<br>
+6. ❌ Closed PR [#25](https://github.com/hbstack/theme-cards/pull/25) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+7. ❌ Closed PR [#9](https://github.com/hbstack/theme-cards/pull/9) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+8. ❗️ Opened issue [#397](https://github.com/hbstack/header/issues/397) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 💬 Commented on [#11779](https://github.com/gohugoio/hugo/issues/11779#issuecomment-1838840803) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+10. 🎉 Merged PR [#521](https://github.com/hbstack/blog/pull/521) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
