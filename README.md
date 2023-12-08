@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#93](https://github.com/hugomods/bootstrap/issues/93) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 🎉 Merged PR [#47](https://github.com/hbstack/content-panel/pull/47) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-3. ✔️ Closed issue [#44](https://github.com/hbstack/content-panel/issues/44) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-4. ❗️ Opened issue [#128](https://github.com/hbstack/hb/issues/128) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-5. 🎉 Merged PR [#7](https://github.com/hbstack/google-fonts/pull/7) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-6. 👍 Approved [#7](https://github.com/hbstack/google-fonts/pull/7#pullrequestreview-1770041456) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-7. 🎉 Merged PR [#6](https://github.com/hbstack/google-fonts/pull/6) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
-8. 💬 Commented on [#530](https://github.com/hbstack/blog/pull/530#issuecomment-1843418970) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 🎉 Merged PR [#531](https://github.com/hbstack/blog/pull/531) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. 👍 Approved [#530](https://github.com/hbstack/blog/pull/530#pullrequestreview-1768302540) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 🎉 Merged PR [#96](https://github.com/hugomods/bootstrap/pull/96) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. 💪 Opened PR [#96](https://github.com/hugomods/bootstrap/pull/96) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+3. 🎉 Merged PR [#95](https://github.com/hugomods/bootstrap/pull/95) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. 💪 Opened PR [#95](https://github.com/hugomods/bootstrap/pull/95) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 🎉 Merged PR [#408](https://github.com/hbstack/header/pull/408) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. ❗️ Opened issue [#93](https://github.com/hugomods/bootstrap/issues/93) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+7. 🎉 Merged PR [#47](https://github.com/hbstack/content-panel/pull/47) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+8. ✔️ Closed issue [#44](https://github.com/hbstack/content-panel/issues/44) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+9. ❗️ Opened issue [#128](https://github.com/hbstack/hb/issues/128) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. 🎉 Merged PR [#7](https://github.com/hbstack/google-fonts/pull/7) in [hbstack/google-fonts](https://github.com/hbstack/google-fonts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
