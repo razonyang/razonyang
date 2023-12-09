@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#446](https://github.com/hbstack/docs/pull/446) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. 🎉 Merged PR [#113](https://github.com/hbstack/breadcrumb/pull/113) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-3. ✔️ Closed issue [#101](https://github.com/hbstack/breadcrumb/issues/101) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-4. 🎉 Merged PR [#112](https://github.com/hbstack/breadcrumb/pull/112) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-5. 💪 Opened PR [#112](https://github.com/hbstack/breadcrumb/pull/112) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-6. 🎉 Merged PR [#94](https://github.com/hugomods/bootstrap/pull/94) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-7. ✔️ Closed issue [#92](https://github.com/hugomods/bootstrap/issues/92) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-8. 🎉 Merged PR [#97](https://github.com/hugomods/bootstrap/pull/97) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-9. 💪 Opened PR [#97](https://github.com/hugomods/bootstrap/pull/97) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-10. ✔️ Closed issue [#93](https://github.com/hugomods/bootstrap/issues/93) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+1. ⭐ Starred [i40west/netlify-cms-cloudflare-pages](https://github.com/i40west/netlify-cms-cloudflare-pages)<br>
+2. 🎉 Merged PR [#446](https://github.com/hbstack/docs/pull/446) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. 🎉 Merged PR [#113](https://github.com/hbstack/breadcrumb/pull/113) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+4. ✔️ Closed issue [#101](https://github.com/hbstack/breadcrumb/issues/101) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+5. 🎉 Merged PR [#112](https://github.com/hbstack/breadcrumb/pull/112) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+6. 💪 Opened PR [#112](https://github.com/hbstack/breadcrumb/pull/112) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+7. 🎉 Merged PR [#94](https://github.com/hugomods/bootstrap/pull/94) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+8. ✔️ Closed issue [#92](https://github.com/hugomods/bootstrap/issues/92) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. 🎉 Merged PR [#97](https://github.com/hugomods/bootstrap/pull/97) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+10. 💪 Opened PR [#97](https://github.com/hugomods/bootstrap/pull/97) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
