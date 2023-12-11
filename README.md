@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#246](https://github.com/hugomods/icons/pull/246) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#246](https://github.com/hugomods/icons/pull/246#pullrequestreview-1773984174) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 🎉 Merged PR [#244](https://github.com/hugomods/icons/pull/244) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#244](https://github.com/hugomods/icons/pull/244#pullrequestreview-1773984152) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v10.2.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-6. ⭐ Starred [i40west/netlify-cms-cloudflare-pages](https://github.com/i40west/netlify-cms-cloudflare-pages)<br>
-7. 🎉 Merged PR [#446](https://github.com/hbstack/docs/pull/446) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-8. 🎉 Merged PR [#113](https://github.com/hbstack/breadcrumb/pull/113) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-9. ✔️ Closed issue [#101](https://github.com/hbstack/breadcrumb/issues/101) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-10. 🎉 Merged PR [#112](https://github.com/hbstack/breadcrumb/pull/112) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+1. 🎉 Merged PR [#248](https://github.com/hugomods/icons/pull/248) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#248](https://github.com/hugomods/icons/pull/248#pullrequestreview-1774192665) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#246](https://github.com/hugomods/icons/pull/246) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#246](https://github.com/hugomods/icons/pull/246#pullrequestreview-1773984174) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 🎉 Merged PR [#244](https://github.com/hugomods/icons/pull/244) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 👍 Approved [#244](https://github.com/hugomods/icons/pull/244#pullrequestreview-1773984152) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v10.2.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+8. ⭐ Starred [i40west/netlify-cms-cloudflare-pages](https://github.com/i40west/netlify-cms-cloudflare-pages)<br>
+9. 🎉 Merged PR [#446](https://github.com/hbstack/docs/pull/446) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+10. 🎉 Merged PR [#113](https://github.com/hbstack/breadcrumb/pull/113) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
