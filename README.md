@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#72](https://github.com/eggplants/ghcr-badge/issues/72#issuecomment-1855192903) in [eggplants/ghcr-badge](https://github.com/eggplants/ghcr-badge)<br>
-2. 🎉 Merged PR [#250](https://github.com/hugomods/icons/pull/250) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#250](https://github.com/hugomods/icons/pull/250#pullrequestreview-1780997745) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.295.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-5. 💬 Commented on [#59](https://github.com/hbstack/theme-cards/issues/59#issuecomment-1855061565) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. ❗️ Opened issue [#104](https://github.com/hbstack/mermaid/issues/104) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-7. 🎉 Merged PR [#539](https://github.com/hbstack/blog/pull/539) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 🎉 Merged PR [#13](https://github.com/hbstack/revision/pull/13) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-9. 👍 Approved [#13](https://github.com/hbstack/revision/pull/13#pullrequestreview-1778805912) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-10. 🎉 Merged PR [#543](https://github.com/hbstack/blog/pull/543) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 🎉 Merged PR [#15](https://github.com/hbstack/revision/pull/15) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+2. 💪 Opened PR [#15](https://github.com/hbstack/revision/pull/15) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+3. 🎉 Merged PR [#101](https://github.com/hbstack/mermaid/pull/101) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+4. ✔️ Closed issue [#104](https://github.com/hbstack/mermaid/issues/104) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+5. 🎉 Merged PR [#105](https://github.com/hbstack/mermaid/pull/105) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+6. 💪 Opened PR [#105](https://github.com/hbstack/mermaid/pull/105) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+7. 💬 Commented on [#72](https://github.com/eggplants/ghcr-badge/issues/72#issuecomment-1855192903) in [eggplants/ghcr-badge](https://github.com/eggplants/ghcr-badge)<br>
+8. 🎉 Merged PR [#250](https://github.com/hugomods/icons/pull/250) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 👍 Approved [#250](https://github.com/hugomods/icons/pull/250#pullrequestreview-1780997745) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.295.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
