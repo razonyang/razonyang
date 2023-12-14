@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#104](https://github.com/hbstack/mermaid/issues/104) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-2. 🎉 Merged PR [#539](https://github.com/hbstack/blog/pull/539) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 🎉 Merged PR [#13](https://github.com/hbstack/revision/pull/13) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-4. 👍 Approved [#13](https://github.com/hbstack/revision/pull/13#pullrequestreview-1778805912) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-5. 🎉 Merged PR [#543](https://github.com/hbstack/blog/pull/543) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 👍 Approved [#543](https://github.com/hbstack/blog/pull/543#pullrequestreview-1778805410) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. ❗️ Opened issue [#542](https://github.com/hbstack/blog/issues/542) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 🎉 Merged PR [#248](https://github.com/hugomods/icons/pull/248) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#248](https://github.com/hugomods/icons/pull/248#pullrequestreview-1774192665) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 🎉 Merged PR [#246](https://github.com/hugomods/icons/pull/246) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 💬 Commented on [#59](https://github.com/hbstack/theme-cards/issues/59#issuecomment-1855061565) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. ❗️ Opened issue [#104](https://github.com/hbstack/mermaid/issues/104) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+3. 🎉 Merged PR [#539](https://github.com/hbstack/blog/pull/539) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 🎉 Merged PR [#13](https://github.com/hbstack/revision/pull/13) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+5. 👍 Approved [#13](https://github.com/hbstack/revision/pull/13#pullrequestreview-1778805912) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+6. 🎉 Merged PR [#543](https://github.com/hbstack/blog/pull/543) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. 👍 Approved [#543](https://github.com/hbstack/blog/pull/543#pullrequestreview-1778805410) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. ❗️ Opened issue [#542](https://github.com/hbstack/blog/issues/542) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 🎉 Merged PR [#248](https://github.com/hugomods/icons/pull/248) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 👍 Approved [#248](https://github.com/hugomods/icons/pull/248#pullrequestreview-1774192665) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
