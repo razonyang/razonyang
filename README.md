@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#571](https://github.com/hbstack/blog/pull/571) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 🎉 Merged PR [#570](https://github.com/hbstack/blog/pull/570) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 💪 Opened PR [#570](https://github.com/hbstack/blog/pull/570) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. ⭐ Starred [badgen/badgen.net](https://github.com/badgen/badgen.net)<br>
-5. 🎉 Merged PR [#126](https://github.com/hbstack/search/pull/126) in [hbstack/search](https://github.com/hbstack/search)<br>
-6. 🎉 Merged PR [#125](https://github.com/hbstack/search/pull/125) in [hbstack/search](https://github.com/hbstack/search)<br>
-7. 💪 Opened PR [#125](https://github.com/hbstack/search/pull/125) in [hbstack/search](https://github.com/hbstack/search)<br>
-8. 🎉 Merged PR [#568](https://github.com/hbstack/blog/pull/568) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 🎉 Merged PR [#3](https://github.com/hbstack/social-share-buttons/pull/3) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-10. 👍 Approved [#3](https://github.com/hbstack/social-share-buttons/pull/3#pullrequestreview-1790829025) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+1. ❗️ Opened issue [#4](https://github.com/hbstack/social-share-buttons/issues/4) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+2. 🎉 Merged PR [#571](https://github.com/hbstack/blog/pull/571) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 🎉 Merged PR [#570](https://github.com/hbstack/blog/pull/570) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 💪 Opened PR [#570](https://github.com/hbstack/blog/pull/570) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ⭐ Starred [badgen/badgen.net](https://github.com/badgen/badgen.net)<br>
+6. 🎉 Merged PR [#126](https://github.com/hbstack/search/pull/126) in [hbstack/search](https://github.com/hbstack/search)<br>
+7. 🎉 Merged PR [#125](https://github.com/hbstack/search/pull/125) in [hbstack/search](https://github.com/hbstack/search)<br>
+8. 💪 Opened PR [#125](https://github.com/hbstack/search/pull/125) in [hbstack/search](https://github.com/hbstack/search)<br>
+9. 🎉 Merged PR [#568](https://github.com/hbstack/blog/pull/568) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. 🎉 Merged PR [#3](https://github.com/hbstack/social-share-buttons/pull/3) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
