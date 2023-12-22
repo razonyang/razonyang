@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#30](https://github.com/hugomods/images/issues/30) in [hugomods/images](https://github.com/hugomods/images)<br>
-2. ❗️ Opened issue [#187](https://github.com/hugomods/search/issues/187) in [hugomods/search](https://github.com/hugomods/search)<br>
-3. ⭐ Starred [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-4. 🎉 Merged PR [#8](https://github.com/hbstack/social-share-buttons/pull/8) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-5. 🎉 Merged PR [#7](https://github.com/hbstack/social-share-buttons/pull/7) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-6. 💪 Opened PR [#7](https://github.com/hbstack/social-share-buttons/pull/7) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-7. 🎉 Merged PR [#6](https://github.com/hbstack/social-share-buttons/pull/6) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-8. ✔️ Closed issue [#4](https://github.com/hbstack/social-share-buttons/issues/4) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-9. 🎉 Merged PR [#5](https://github.com/hbstack/social-share-buttons/pull/5) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-10. 💪 Opened PR [#5](https://github.com/hbstack/social-share-buttons/pull/5) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+1. 💪 Opened PR [#137](https://github.com/hbstack/hb/pull/137) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+2. ❗️ Opened issue [#30](https://github.com/hugomods/images/issues/30) in [hugomods/images](https://github.com/hugomods/images)<br>
+3. ❗️ Opened issue [#187](https://github.com/hugomods/search/issues/187) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. ⭐ Starred [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+5. 🎉 Merged PR [#8](https://github.com/hbstack/social-share-buttons/pull/8) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+6. 🎉 Merged PR [#7](https://github.com/hbstack/social-share-buttons/pull/7) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+7. 💪 Opened PR [#7](https://github.com/hbstack/social-share-buttons/pull/7) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+8. 🎉 Merged PR [#6](https://github.com/hbstack/social-share-buttons/pull/6) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+9. ✔️ Closed issue [#4](https://github.com/hbstack/social-share-buttons/issues/4) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+10. 🎉 Merged PR [#5](https://github.com/hbstack/social-share-buttons/pull/5) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
