@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#574](https://github.com/hbstack/blog/pull/574) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 💪 Opened PR [#574](https://github.com/hbstack/blog/pull/574) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 🎉 Merged PR [#42](https://github.com/hugomods/hugopress/pull/42) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-4. 🎉 Merged PR [#41](https://github.com/hugomods/hugopress/pull/41) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-5. 💪 Opened PR [#41](https://github.com/hugomods/hugopress/pull/41) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-6. 🎉 Merged PR [#137](https://github.com/hbstack/hb/pull/137) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-7. 💪 Opened PR [#137](https://github.com/hbstack/hb/pull/137) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-8. ❗️ Opened issue [#30](https://github.com/hugomods/images/issues/30) in [hugomods/images](https://github.com/hugomods/images)<br>
-9. ❗️ Opened issue [#187](https://github.com/hugomods/search/issues/187) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. ⭐ Starred [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+1. 🎉 Merged PR [#113](https://github.com/hbstack/hb/pull/113) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+2. 🎉 Merged PR [#574](https://github.com/hbstack/blog/pull/574) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 💪 Opened PR [#574](https://github.com/hbstack/blog/pull/574) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 🎉 Merged PR [#42](https://github.com/hugomods/hugopress/pull/42) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+5. 🎉 Merged PR [#41](https://github.com/hugomods/hugopress/pull/41) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+6. 💪 Opened PR [#41](https://github.com/hugomods/hugopress/pull/41) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+7. 🎉 Merged PR [#137](https://github.com/hbstack/hb/pull/137) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+8. 💪 Opened PR [#137](https://github.com/hbstack/hb/pull/137) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. ❗️ Opened issue [#30](https://github.com/hugomods/images/issues/30) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. ❗️ Opened issue [#187](https://github.com/hugomods/search/issues/187) in [hugomods/search](https://github.com/hugomods/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
