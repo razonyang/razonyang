@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#39](https://github.com/henrygd/bigger-picture/issues/39) in [henrygd/bigger-picture](https://github.com/henrygd/bigger-picture)<br>
-2. ❗️ Opened issue [#104](https://github.com/hbstack/back-to-top/issues/104) in [hbstack/back-to-top](https://github.com/hbstack/back-to-top)<br>
-3. ❗️ Opened issue [#129](https://github.com/hbstack/bigger-picture/issues/129) in [hbstack/bigger-picture](https://github.com/hbstack/bigger-picture)<br>
-4. 🎉 Merged PR [#575](https://github.com/hbstack/blog/pull/575) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.300.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-6. 🎉 Merged PR [#113](https://github.com/hbstack/hb/pull/113) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-7. 🎉 Merged PR [#574](https://github.com/hbstack/blog/pull/574) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 💪 Opened PR [#574](https://github.com/hbstack/blog/pull/574) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 🎉 Merged PR [#42](https://github.com/hugomods/hugopress/pull/42) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-10. 🎉 Merged PR [#41](https://github.com/hugomods/hugopress/pull/41) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+1. 🎉 Merged PR [#412](https://github.com/hbstack/header/pull/412) in [hbstack/header](https://github.com/hbstack/header)<br>
+2. ✔️ Closed issue [#397](https://github.com/hbstack/header/issues/397) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. 🎉 Merged PR [#423](https://github.com/hbstack/header/pull/423) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 💪 Opened PR [#423](https://github.com/hbstack/header/pull/423) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 🎉 Merged PR [#200](https://github.com/hbstack/footer/pull/200) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+6. 🎉 Merged PR [#199](https://github.com/hbstack/footer/pull/199) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+7. 💪 Opened PR [#199](https://github.com/hbstack/footer/pull/199) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+8. ❗️ Opened issue [#39](https://github.com/henrygd/bigger-picture/issues/39) in [henrygd/bigger-picture](https://github.com/henrygd/bigger-picture)<br>
+9. ❗️ Opened issue [#104](https://github.com/hbstack/back-to-top/issues/104) in [hbstack/back-to-top](https://github.com/hbstack/back-to-top)<br>
+10. ❗️ Opened issue [#129](https://github.com/hbstack/bigger-picture/issues/129) in [hbstack/bigger-picture](https://github.com/hbstack/bigger-picture)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
