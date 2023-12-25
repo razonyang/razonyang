@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
-2. 💬 Commented on [#5078](https://github.com/gohugoio/hugo/issues/5078#issuecomment-1868665671) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-3. 💬 Commented on [#63](https://github.com/hugomods/docker/issues/63#issuecomment-1868463981) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. ✔️ Closed issue [#63](https://github.com/hugomods/docker/issues/63) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. 🎉 Merged PR [#119](https://github.com/hbstack/bigger-picture/pull/119) in [hbstack/bigger-picture](https://github.com/hbstack/bigger-picture)<br>
-6. 💬 Commented on [#39](https://github.com/henrygd/bigger-picture/issues/39#issuecomment-1868458348) in [henrygd/bigger-picture](https://github.com/henrygd/bigger-picture)<br>
-7. ✔️ Closed issue [#39](https://github.com/henrygd/bigger-picture/issues/39) in [henrygd/bigger-picture](https://github.com/henrygd/bigger-picture)<br>
-8. 🎉 Merged PR [#131](https://github.com/hbstack/bigger-picture/pull/131) in [hbstack/bigger-picture](https://github.com/hbstack/bigger-picture)<br>
-9. 💪 Opened PR [#131](https://github.com/hbstack/bigger-picture/pull/131) in [hbstack/bigger-picture](https://github.com/hbstack/bigger-picture)<br>
-10. 🎉 Merged PR [#470](https://github.com/hbstack/docs/pull/470) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. 🎉 Merged PR [#3](https://github.com/hugomods/releases-builder/pull/3) in [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
+2. ❌ Closed PR [#2](https://github.com/hugomods/releases-builder/pull/2) in [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
+3. 📔 Created new repository [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
+4. 💬 Commented on [#5078](https://github.com/gohugoio/hugo/issues/5078#issuecomment-1868665671) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+5. 💬 Commented on [#63](https://github.com/hugomods/docker/issues/63#issuecomment-1868463981) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. ✔️ Closed issue [#63](https://github.com/hugomods/docker/issues/63) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 🎉 Merged PR [#119](https://github.com/hbstack/bigger-picture/pull/119) in [hbstack/bigger-picture](https://github.com/hbstack/bigger-picture)<br>
+8. 💬 Commented on [#39](https://github.com/henrygd/bigger-picture/issues/39#issuecomment-1868458348) in [henrygd/bigger-picture](https://github.com/henrygd/bigger-picture)<br>
+9. ✔️ Closed issue [#39](https://github.com/henrygd/bigger-picture/issues/39) in [henrygd/bigger-picture](https://github.com/henrygd/bigger-picture)<br>
+10. 🎉 Merged PR [#131](https://github.com/hbstack/bigger-picture/pull/131) in [hbstack/bigger-picture](https://github.com/hbstack/bigger-picture)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
