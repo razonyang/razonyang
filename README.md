@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#87](https://github.com/hbstack/syntax-highlighting/pull/87) in [hbstack/syntax-highlighting](https://github.com/hbstack/syntax-highlighting)<br>
-2. ❗️ Opened issue [#4](https://github.com/hugomods/releases-builder/issues/4) in [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
-3. ⭐ Starred [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
-4. 🎉 Merged PR [#3](https://github.com/hugomods/releases-builder/pull/3) in [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
-5. ❌ Closed PR [#2](https://github.com/hugomods/releases-builder/pull/2) in [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
-6. 📔 Created new repository [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
-7. 💬 Commented on [#5078](https://github.com/gohugoio/hugo/issues/5078#issuecomment-1868665671) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-8. 💬 Commented on [#63](https://github.com/hugomods/docker/issues/63#issuecomment-1868463981) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. ✔️ Closed issue [#63](https://github.com/hugomods/docker/issues/63) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 🎉 Merged PR [#119](https://github.com/hbstack/bigger-picture/pull/119) in [hbstack/bigger-picture](https://github.com/hbstack/bigger-picture)<br>
+1. 💬 Commented on [#82](https://github.com/hbstack/gallery/issues/82#issuecomment-1869277296) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+2. ⭐ Starred [ianare/exif-samples](https://github.com/ianare/exif-samples)<br>
+3. 💬 Commented on [#83](https://github.com/hbstack/gallery/issues/83#issuecomment-1869258530) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+4. 💬 Commented on [#83](https://github.com/hbstack/gallery/issues/83#issuecomment-1869238457) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+5. 🎉 Merged PR [#87](https://github.com/hbstack/syntax-highlighting/pull/87) in [hbstack/syntax-highlighting](https://github.com/hbstack/syntax-highlighting)<br>
+6. ❗️ Opened issue [#4](https://github.com/hugomods/releases-builder/issues/4) in [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
+7. ⭐ Starred [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
+8. 🎉 Merged PR [#3](https://github.com/hugomods/releases-builder/pull/3) in [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
+9. ❌ Closed PR [#2](https://github.com/hugomods/releases-builder/pull/2) in [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
+10. 📔 Created new repository [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
