@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#85](https://github.com/hbstack/gallery/pull/85) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-2. 🎉 Merged PR [#86](https://github.com/hbstack/gallery/pull/86) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-3. 💪 Opened PR [#86](https://github.com/hbstack/gallery/pull/86) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-4. 🎉 Merged PR [#84](https://github.com/hbstack/gallery/pull/84) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-5. 💪 Opened PR [#84](https://github.com/hbstack/gallery/pull/84) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-6. 💬 Commented on [#83](https://github.com/hbstack/gallery/issues/83#issuecomment-1869300732) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-7. 💬 Commented on [#82](https://github.com/hbstack/gallery/issues/82#issuecomment-1869277296) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-8. ⭐ Starred [ianare/exif-samples](https://github.com/ianare/exif-samples)<br>
-9. 💬 Commented on [#83](https://github.com/hbstack/gallery/issues/83#issuecomment-1869258530) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-10. 💬 Commented on [#83](https://github.com/hbstack/gallery/issues/83#issuecomment-1869238457) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+1. ✔️ Closed issue [#82](https://github.com/hbstack/gallery/issues/82) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+2. 💬 Commented on [#82](https://github.com/hbstack/gallery/issues/82#issuecomment-1869396259) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+3. 🎉 Merged PR [#85](https://github.com/hbstack/gallery/pull/85) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+4. 🎉 Merged PR [#86](https://github.com/hbstack/gallery/pull/86) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+5. 💪 Opened PR [#86](https://github.com/hbstack/gallery/pull/86) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+6. 🎉 Merged PR [#84](https://github.com/hbstack/gallery/pull/84) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+7. 💪 Opened PR [#84](https://github.com/hbstack/gallery/pull/84) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+8. 💬 Commented on [#83](https://github.com/hbstack/gallery/issues/83#issuecomment-1869300732) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+9. 💬 Commented on [#82](https://github.com/hbstack/gallery/issues/82#issuecomment-1869277296) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+10. ⭐ Starred [ianare/exif-samples](https://github.com/ianare/exif-samples)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
