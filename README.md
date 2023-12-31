@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apereo/cas](https://github.com/apereo/cas)<br>
-2. 💪 Opened PR [#11841](https://github.com/gohugoio/hugo/pull/11841) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-3. 👍 Approved [#92](https://github.com/hbstack/gallery/pull/92#pullrequestreview-1799269702) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-4. 🎉 Merged PR [#94](https://github.com/hbstack/gallery/pull/94) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-5. ❌ Closed PR [#90](https://github.com/hbstack/gallery/pull/90) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-6. 💬 Commented on [#90](https://github.com/hbstack/gallery/pull/90#issuecomment-1871632076) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-7. 🎉 Merged PR [#264](https://github.com/hugomods/icons/pull/264) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 👍 Approved [#264](https://github.com/hugomods/icons/pull/264#pullrequestreview-1798241383) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. ✔️ Closed issue [#14](https://github.com/hbstack/gallery/issues/14) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-10. 💬 Commented on [#90](https://github.com/hbstack/gallery/pull/90#issuecomment-1871286422) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+1. ❗️ Opened issue [#31](https://github.com/hugomods/images/issues/31) in [hugomods/images](https://github.com/hugomods/images)<br>
+2. ⭐ Starred [apereo/cas](https://github.com/apereo/cas)<br>
+3. 💪 Opened PR [#11841](https://github.com/gohugoio/hugo/pull/11841) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+4. 👍 Approved [#92](https://github.com/hbstack/gallery/pull/92#pullrequestreview-1799269702) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+5. 🎉 Merged PR [#94](https://github.com/hbstack/gallery/pull/94) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+6. ❌ Closed PR [#90](https://github.com/hbstack/gallery/pull/90) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+7. 💬 Commented on [#90](https://github.com/hbstack/gallery/pull/90#issuecomment-1871632076) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+8. 🎉 Merged PR [#264](https://github.com/hugomods/icons/pull/264) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 👍 Approved [#264](https://github.com/hugomods/icons/pull/264#pullrequestreview-1798241383) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. ✔️ Closed issue [#14](https://github.com/hbstack/gallery/issues/14) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
