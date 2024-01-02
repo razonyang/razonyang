@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#369](https://github.com/Authing/docs/issues/369) in [Authing/docs](https://github.com/Authing/docs)<br>
-2. ✔️ Closed issue [#83](https://github.com/hbstack/gallery/issues/83) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-3. 💬 Commented on [#83](https://github.com/hbstack/gallery/issues/83#issuecomment-1873547390) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-4. 🎉 Merged PR [#266](https://github.com/hugomods/icons/pull/266) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 👍 Approved [#266](https://github.com/hugomods/icons/pull/266#pullrequestreview-1799891971) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 🎉 Merged PR [#439](https://github.com/hbstack/header/pull/439) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. 🎉 Merged PR [#438](https://github.com/hbstack/header/pull/438) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 🎉 Merged PR [#436](https://github.com/hbstack/header/pull/436) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 🎉 Merged PR [#437](https://github.com/hbstack/header/pull/437) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 💪 Opened PR [#437](https://github.com/hbstack/header/pull/437) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. ⭐ Starred [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page)<br>
+2. ❗️ Opened issue [#369](https://github.com/Authing/docs/issues/369) in [Authing/docs](https://github.com/Authing/docs)<br>
+3. ✔️ Closed issue [#83](https://github.com/hbstack/gallery/issues/83) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+4. 💬 Commented on [#83](https://github.com/hbstack/gallery/issues/83#issuecomment-1873547390) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+5. 🎉 Merged PR [#266](https://github.com/hugomods/icons/pull/266) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 👍 Approved [#266](https://github.com/hugomods/icons/pull/266#pullrequestreview-1799891971) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 🎉 Merged PR [#439](https://github.com/hbstack/header/pull/439) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. 🎉 Merged PR [#438](https://github.com/hbstack/header/pull/438) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 🎉 Merged PR [#436](https://github.com/hbstack/header/pull/436) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 🎉 Merged PR [#437](https://github.com/hbstack/header/pull/437) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
