@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#97](https://github.com/hbstack/gallery/pull/97#issuecomment-1874924827) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-2. 💪 Opened PR [#100](https://github.com/hbstack/gallery/pull/100) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-3. 💬 Commented on [#99](https://github.com/hbstack/gallery/issues/99#issuecomment-1874915141) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-4. 💬 Commented on [#97](https://github.com/hbstack/gallery/pull/97#issuecomment-1874897790) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-5. 🎉 Merged PR [#1013](https://github.com/razonyang/hugo-theme-bootstrap/pull/1013) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 🎉 Merged PR [#1012](https://github.com/razonyang/hugo-theme-bootstrap/pull/1012) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💪 Opened PR [#1012](https://github.com/razonyang/hugo-theme-bootstrap/pull/1012) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 💬 Commented on [#96](https://github.com/hbstack/gallery/pull/96#issuecomment-1874845614) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-9. ❌ Closed PR [#96](https://github.com/hbstack/gallery/pull/96) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-10. 🎉 Merged PR [#97](https://github.com/hbstack/gallery/pull/97) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+1. 💬 Commented on [#97](https://github.com/hbstack/gallery/pull/97#issuecomment-1874931252) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+2. 💬 Commented on [#99](https://github.com/hbstack/gallery/issues/99#issuecomment-1874930750) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+3. 💬 Commented on [#97](https://github.com/hbstack/gallery/pull/97#issuecomment-1874924827) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+4. 💪 Opened PR [#100](https://github.com/hbstack/gallery/pull/100) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+5. 💬 Commented on [#99](https://github.com/hbstack/gallery/issues/99#issuecomment-1874915141) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+6. 💬 Commented on [#97](https://github.com/hbstack/gallery/pull/97#issuecomment-1874897790) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+7. 🎉 Merged PR [#1013](https://github.com/razonyang/hugo-theme-bootstrap/pull/1013) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 🎉 Merged PR [#1012](https://github.com/razonyang/hugo-theme-bootstrap/pull/1012) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 💪 Opened PR [#1012](https://github.com/razonyang/hugo-theme-bootstrap/pull/1012) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 💬 Commented on [#96](https://github.com/hbstack/gallery/pull/96#issuecomment-1874845614) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
