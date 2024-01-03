@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#96](https://github.com/hbstack/gallery/pull/96#issuecomment-1874794744) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-2. 💬 Commented on [#16](https://github.com/gethyas/seo/issues/16#issuecomment-1874793408) in [gethyas/seo](https://github.com/gethyas/seo)<br>
-3. ⭐ Starred [auth0/auth0-spa-js](https://github.com/auth0/auth0-spa-js)<br>
-4. 🔱 Forked [razonyang/cf-workers-status-page](https://github.com/razonyang/cf-workers-status-page) from [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page)<br>
-5. ⭐ Starred [eidam/cf-workers-status-page](https://github.com/eidam/cf-workers-status-page)<br>
-6. ❗️ Opened issue [#369](https://github.com/Authing/docs/issues/369) in [Authing/docs](https://github.com/Authing/docs)<br>
-7. ✔️ Closed issue [#83](https://github.com/hbstack/gallery/issues/83) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-8. 💬 Commented on [#83](https://github.com/hbstack/gallery/issues/83#issuecomment-1873547390) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-9. 🎉 Merged PR [#266](https://github.com/hugomods/icons/pull/266) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 👍 Approved [#266](https://github.com/hugomods/icons/pull/266#pullrequestreview-1799891971) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#1013](https://github.com/razonyang/hugo-theme-bootstrap/pull/1013) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 🎉 Merged PR [#1012](https://github.com/razonyang/hugo-theme-bootstrap/pull/1012) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 💪 Opened PR [#1012](https://github.com/razonyang/hugo-theme-bootstrap/pull/1012) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💬 Commented on [#96](https://github.com/hbstack/gallery/pull/96#issuecomment-1874845614) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+5. ❌ Closed PR [#96](https://github.com/hbstack/gallery/pull/96) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+6. 🎉 Merged PR [#97](https://github.com/hbstack/gallery/pull/97) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+7. 💪 Opened PR [#97](https://github.com/hbstack/gallery/pull/97) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+8. 💬 Commented on [#96](https://github.com/hbstack/gallery/pull/96#issuecomment-1874835542) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+9. 🎉 Merged PR [#20](https://github.com/hbstack/theme-start/pull/20) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+10. 🎉 Merged PR [#79](https://github.com/hbstack/theme-start/pull/79) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
