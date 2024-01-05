@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [syumai/workers](https://github.com/syumai/workers)<br>
-2. 💬 Commented on [#1012](https://github.com/razonyang/hugo-theme-bootstrap/pull/1012#issuecomment-1876310997) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. ❗️ Opened issue [#110](https://github.com/hbstack/heading-sign/issues/110) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
-4. 💬 Commented on [#99](https://github.com/hbstack/gallery/issues/99#issuecomment-1876262424) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-5. 🎉 Merged PR [#268](https://github.com/hugomods/icons/pull/268) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 👍 Approved [#268](https://github.com/hugomods/icons/pull/268#pullrequestreview-1803014293) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ❗️ Opened issue [#444](https://github.com/hbstack/header/issues/444) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. ⭐ Starred [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker)<br>
-9. 💬 Commented on [#16](https://github.com/gethyas/seo/issues/16#issuecomment-1875293564) in [gethyas/seo](https://github.com/gethyas/seo)<br>
-10. 💬 Commented on [#16](https://github.com/gethyas/seo/issues/16#issuecomment-1875207548) in [gethyas/seo](https://github.com/gethyas/seo)<br>
+1. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.304.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+2. ⭐ Starred [syumai/workers](https://github.com/syumai/workers)<br>
+3. 💬 Commented on [#1012](https://github.com/razonyang/hugo-theme-bootstrap/pull/1012#issuecomment-1876310997) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. ❗️ Opened issue [#110](https://github.com/hbstack/heading-sign/issues/110) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
+5. 💬 Commented on [#99](https://github.com/hbstack/gallery/issues/99#issuecomment-1876262424) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+6. 🎉 Merged PR [#268](https://github.com/hugomods/icons/pull/268) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 👍 Approved [#268](https://github.com/hugomods/icons/pull/268#pullrequestreview-1803014293) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. ❗️ Opened issue [#444](https://github.com/hbstack/header/issues/444) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. ⭐ Starred [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker)<br>
+10. 💬 Commented on [#16](https://github.com/gethyas/seo/issues/16#issuecomment-1875293564) in [gethyas/seo](https://github.com/gethyas/seo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
