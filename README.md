@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#270](https://github.com/hugomods/icons/pull/270#pullrequestreview-1805455753) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.304.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-3. ⭐ Starred [syumai/workers](https://github.com/syumai/workers)<br>
-4. 💬 Commented on [#1012](https://github.com/razonyang/hugo-theme-bootstrap/pull/1012#issuecomment-1876310997) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. ❗️ Opened issue [#110](https://github.com/hbstack/heading-sign/issues/110) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
-6. 💬 Commented on [#99](https://github.com/hbstack/gallery/issues/99#issuecomment-1876262424) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-7. 🎉 Merged PR [#268](https://github.com/hugomods/icons/pull/268) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 👍 Approved [#268](https://github.com/hugomods/icons/pull/268#pullrequestreview-1803014293) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. ❗️ Opened issue [#444](https://github.com/hbstack/header/issues/444) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. ⭐ Starred [vfarid/v2ray-worker](https://github.com/vfarid/v2ray-worker)<br>
+1. 💬 Commented on [#4](https://github.com/hugomods/releases-builder/issues/4#issuecomment-1878574070) in [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
+2. ✔️ Closed issue [#4](https://github.com/hugomods/releases-builder/issues/4) in [hugomods/releases-builder](https://github.com/hugomods/releases-builder)<br>
+3. 👍 Approved [#270](https://github.com/hugomods/icons/pull/270#pullrequestreview-1805455753) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.304.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+5. ⭐ Starred [syumai/workers](https://github.com/syumai/workers)<br>
+6. 💬 Commented on [#1012](https://github.com/razonyang/hugo-theme-bootstrap/pull/1012#issuecomment-1876310997) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. ❗️ Opened issue [#110](https://github.com/hbstack/heading-sign/issues/110) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
+8. 💬 Commented on [#99](https://github.com/hbstack/gallery/issues/99#issuecomment-1876262424) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+9. 🎉 Merged PR [#268](https://github.com/hugomods/icons/pull/268) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 👍 Approved [#268](https://github.com/hugomods/icons/pull/268#pullrequestreview-1803014293) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
