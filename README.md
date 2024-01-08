@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#272](https://github.com/hugomods/icons/pull/272#pullrequestreview-1807750247) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.0.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-3. ⭐ Starred [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
-4. 🔱 Forked [razonyang/hugo-testing2](https://github.com/razonyang/hugo-testing2) from [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
-5. 🎉 Merged PR [#35](https://github.com/hugomods/base/pull/35) in [hugomods/base](https://github.com/hugomods/base)<br>
-6. 💬 Commented on [#128](https://github.com/hbstack/hb/issues/128#issuecomment-1879588763) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-7. ✔️ Closed issue [#128](https://github.com/hbstack/hb/issues/128) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-8. 🎉 Merged PR [#34](https://github.com/hugomods/base/pull/34) in [hugomods/base](https://github.com/hugomods/base)<br>
-9. 💪 Opened PR [#34](https://github.com/hugomods/base/pull/34) in [hugomods/base](https://github.com/hugomods/base)<br>
-10. 🎉 Merged PR [#112](https://github.com/hbstack/heading-sign/pull/112) in [hbstack/heading-sign](https://github.com/hbstack/heading-sign)<br>
+1. ❗️ Opened issue [#85](https://github.com/hbstack/theme-start/issues/85) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+2. 👍 Approved [#272](https://github.com/hugomods/icons/pull/272#pullrequestreview-1807750247) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.0.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+4. ⭐ Starred [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
+5. 🔱 Forked [razonyang/hugo-testing2](https://github.com/razonyang/hugo-testing2) from [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
+6. 🎉 Merged PR [#35](https://github.com/hugomods/base/pull/35) in [hugomods/base](https://github.com/hugomods/base)<br>
+7. 💬 Commented on [#128](https://github.com/hbstack/hb/issues/128#issuecomment-1879588763) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+8. ✔️ Closed issue [#128](https://github.com/hbstack/hb/issues/128) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. 🎉 Merged PR [#34](https://github.com/hugomods/base/pull/34) in [hugomods/base](https://github.com/hugomods/base)<br>
+10. 💪 Opened PR [#34](https://github.com/hugomods/base/pull/34) in [hugomods/base](https://github.com/hugomods/base)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
