@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)<br>
-2. ❌ Closed PR [#29](https://github.com/hugomods/images/pull/29) in [hugomods/images](https://github.com/hugomods/images)<br>
-3. 💬 Commented on [#33](https://github.com/hugomods/images/pull/33#issuecomment-1881163287) in [hugomods/images](https://github.com/hugomods/images)<br>
-4. 🎉 Merged PR [#34](https://github.com/hugomods/images/pull/34) in [hugomods/images](https://github.com/hugomods/images)<br>
-5. 🎉 Merged PR [#33](https://github.com/hugomods/images/pull/33) in [hugomods/images](https://github.com/hugomods/images)<br>
-6. 💬 Commented on [#32](https://github.com/hugomods/images/pull/32#issuecomment-1881108821) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. ❌ Closed PR [#32](https://github.com/hugomods/images/pull/32) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. 💬 Commented on [#32](https://github.com/hugomods/images/pull/32#issuecomment-1881089370) in [hugomods/images](https://github.com/hugomods/images)<br>
-9. 💪 Opened PR [#33](https://github.com/hugomods/images/pull/33) in [hugomods/images](https://github.com/hugomods/images)<br>
-10. 💬 Commented on [#32](https://github.com/hugomods/images/pull/32#issuecomment-1880959280) in [hugomods/images](https://github.com/hugomods/images)<br>
+1. 🎉 Merged PR [#12](https://github.com/hbstack/social-share-buttons/pull/12) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+2. 🎉 Merged PR [#11](https://github.com/hbstack/social-share-buttons/pull/11) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+3. 💪 Opened PR [#11](https://github.com/hbstack/social-share-buttons/pull/11) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+4. ⭐ Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)<br>
+5. ❌ Closed PR [#29](https://github.com/hugomods/images/pull/29) in [hugomods/images](https://github.com/hugomods/images)<br>
+6. 💬 Commented on [#33](https://github.com/hugomods/images/pull/33#issuecomment-1881163287) in [hugomods/images](https://github.com/hugomods/images)<br>
+7. 🎉 Merged PR [#34](https://github.com/hugomods/images/pull/34) in [hugomods/images](https://github.com/hugomods/images)<br>
+8. 🎉 Merged PR [#33](https://github.com/hugomods/images/pull/33) in [hugomods/images](https://github.com/hugomods/images)<br>
+9. 💬 Commented on [#32](https://github.com/hugomods/images/pull/32#issuecomment-1881108821) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. ❌ Closed PR [#32](https://github.com/hugomods/images/pull/32) in [hugomods/images](https://github.com/hugomods/images)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
