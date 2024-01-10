@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#63](https://github.com/hugomods/docker/issues/63#issuecomment-1883052431) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 🎉 Merged PR [#105](https://github.com/hbstack/theme-cards/pull/105) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-3. 🎉 Merged PR [#12](https://github.com/hbstack/social-share-buttons/pull/12) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-4. 🎉 Merged PR [#11](https://github.com/hbstack/social-share-buttons/pull/11) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-5. 💪 Opened PR [#11](https://github.com/hbstack/social-share-buttons/pull/11) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-6. ⭐ Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)<br>
-7. ❌ Closed PR [#29](https://github.com/hugomods/images/pull/29) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. 💬 Commented on [#33](https://github.com/hugomods/images/pull/33#issuecomment-1881163287) in [hugomods/images](https://github.com/hugomods/images)<br>
-9. 🎉 Merged PR [#34](https://github.com/hugomods/images/pull/34) in [hugomods/images](https://github.com/hugomods/images)<br>
-10. 🎉 Merged PR [#33](https://github.com/hugomods/images/pull/33) in [hugomods/images](https://github.com/hugomods/images)<br>
+1. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.309.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+2. 💬 Commented on [#63](https://github.com/hugomods/docker/issues/63#issuecomment-1883052431) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 🎉 Merged PR [#105](https://github.com/hbstack/theme-cards/pull/105) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+4. 🎉 Merged PR [#12](https://github.com/hbstack/social-share-buttons/pull/12) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+5. 🎉 Merged PR [#11](https://github.com/hbstack/social-share-buttons/pull/11) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+6. 💪 Opened PR [#11](https://github.com/hbstack/social-share-buttons/pull/11) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+7. ⭐ Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)<br>
+8. ❌ Closed PR [#29](https://github.com/hugomods/images/pull/29) in [hugomods/images](https://github.com/hugomods/images)<br>
+9. 💬 Commented on [#33](https://github.com/hugomods/images/pull/33#issuecomment-1881163287) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. 🎉 Merged PR [#34](https://github.com/hugomods/images/pull/34) in [hugomods/images](https://github.com/hugomods/images)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
