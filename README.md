@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#274](https://github.com/hugomods/icons/pull/274) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#274](https://github.com/hugomods/icons/pull/274#pullrequestreview-1812809997) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.309.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-4. 💬 Commented on [#63](https://github.com/hugomods/docker/issues/63#issuecomment-1883052431) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. 🎉 Merged PR [#105](https://github.com/hbstack/theme-cards/pull/105) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. 🎉 Merged PR [#12](https://github.com/hbstack/social-share-buttons/pull/12) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-7. 🎉 Merged PR [#11](https://github.com/hbstack/social-share-buttons/pull/11) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-8. 💪 Opened PR [#11](https://github.com/hbstack/social-share-buttons/pull/11) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-9. ⭐ Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)<br>
-10. ❌ Closed PR [#29](https://github.com/hugomods/images/pull/29) in [hugomods/images](https://github.com/hugomods/images)<br>
+1. 💬 Commented on [#100](https://github.com/hugomods/bootstrap/issues/100#issuecomment-1886069188) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. 🎉 Merged PR [#274](https://github.com/hugomods/icons/pull/274) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#274](https://github.com/hugomods/icons/pull/274#pullrequestreview-1812809997) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.309.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+5. 💬 Commented on [#63](https://github.com/hugomods/docker/issues/63#issuecomment-1883052431) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 🎉 Merged PR [#105](https://github.com/hbstack/theme-cards/pull/105) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+7. 🎉 Merged PR [#12](https://github.com/hbstack/social-share-buttons/pull/12) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+8. 🎉 Merged PR [#11](https://github.com/hbstack/social-share-buttons/pull/11) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+9. 💪 Opened PR [#11](https://github.com/hbstack/social-share-buttons/pull/11) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+10. ⭐ Starred [octokit/octokit.js](https://github.com/octokit/octokit.js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
