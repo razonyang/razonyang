@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#104](https://github.com/hugomods/bootstrap/issues/104) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 💬 Commented on [#103](https://github.com/hugomods/bootstrap/pull/103#issuecomment-1888442106) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 💬 Commented on [#103](https://github.com/hugomods/bootstrap/pull/103#issuecomment-1888414302) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 🎉 Merged PR [#102](https://github.com/hugomods/bootstrap/pull/102) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. 🎉 Merged PR [#101](https://github.com/hugomods/bootstrap/pull/101) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-6. 💪 Opened PR [#101](https://github.com/hugomods/bootstrap/pull/101) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-7. 💬 Commented on [#100](https://github.com/hugomods/bootstrap/issues/100#issuecomment-1886069188) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-8. 🎉 Merged PR [#274](https://github.com/hugomods/icons/pull/274) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#274](https://github.com/hugomods/icons/pull/274#pullrequestreview-1812809997) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.309.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+1. 🎉 Merged PR [#276](https://github.com/hugomods/icons/pull/276) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#276](https://github.com/hugomods/icons/pull/276#pullrequestreview-1819660766) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 💬 Commented on [#70](https://github.com/hugomods/decap-cms/issues/70#issuecomment-1890257718) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. 💬 Commented on [#35](https://github.com/hugomods/images/issues/35#issuecomment-1890249948) in [hugomods/images](https://github.com/hugomods/images)<br>
+5. ❗️ Opened issue [#104](https://github.com/hugomods/bootstrap/issues/104) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+6. 💬 Commented on [#103](https://github.com/hugomods/bootstrap/pull/103#issuecomment-1888442106) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+7. 💬 Commented on [#103](https://github.com/hugomods/bootstrap/pull/103#issuecomment-1888414302) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+8. 🎉 Merged PR [#102](https://github.com/hugomods/bootstrap/pull/102) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. 🎉 Merged PR [#101](https://github.com/hugomods/bootstrap/pull/101) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+10. 💪 Opened PR [#101](https://github.com/hugomods/bootstrap/pull/101) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
