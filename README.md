@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.310.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-2. ❗️ Opened issue [#83](https://github.com/hugomods/decap-cms/issues/83) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-3. ✔️ Closed issue [#79](https://github.com/hugomods/decap-cms/issues/79) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-4. 🎉 Merged PR [#82](https://github.com/hugomods/decap-cms/pull/82) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-5. 💪 Opened PR [#82](https://github.com/hugomods/decap-cms/pull/82) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-6. 🎉 Merged PR [#81](https://github.com/hugomods/decap-cms/pull/81) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-7. 💪 Opened PR [#81](https://github.com/hugomods/decap-cms/pull/81) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-8. ❗️ Opened issue [#80](https://github.com/hugomods/decap-cms/issues/80) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 💪 Opened PR [#7039](https://github.com/decaporg/decap-cms/pull/7039) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
-10. 💪 Opened PR [#7038](https://github.com/decaporg/decap-cms/pull/7038) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
+1. 🎉 Merged PR [#278](https://github.com/hugomods/icons/pull/278) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 🎉 Merged PR [#280](https://github.com/hugomods/icons/pull/280) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#278](https://github.com/hugomods/icons/pull/278#pullrequestreview-1824253422) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#280](https://github.com/hugomods/icons/pull/280#pullrequestreview-1824252855) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.310.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+6. ❗️ Opened issue [#83](https://github.com/hugomods/decap-cms/issues/83) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+7. ✔️ Closed issue [#79](https://github.com/hugomods/decap-cms/issues/79) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+8. 🎉 Merged PR [#82](https://github.com/hugomods/decap-cms/pull/82) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+9. 💪 Opened PR [#82](https://github.com/hugomods/decap-cms/pull/82) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+10. 🎉 Merged PR [#81](https://github.com/hugomods/decap-cms/pull/81) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
