@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](https://github.com/razonyang/testing/pull/3) in [razonyang/testing](https://github.com/razonyang/testing)<br>
-2. 💬 Commented on [#7039](https://github.com/decaporg/decap-cms/pull/7039#issuecomment-1896084782) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
-3. 🎉 Merged PR [#278](https://github.com/hugomods/icons/pull/278) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 🎉 Merged PR [#280](https://github.com/hugomods/icons/pull/280) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 👍 Approved [#278](https://github.com/hugomods/icons/pull/278#pullrequestreview-1824253422) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 👍 Approved [#280](https://github.com/hugomods/icons/pull/280#pullrequestreview-1824252855) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.310.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-8. ❗️ Opened issue [#83](https://github.com/hugomods/decap-cms/issues/83) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. ✔️ Closed issue [#79](https://github.com/hugomods/decap-cms/issues/79) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-10. 🎉 Merged PR [#82](https://github.com/hugomods/decap-cms/pull/82) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+1. 🎉 Merged PR [#87](https://github.com/hugomods/decap-cms/pull/87) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 💪 Opened PR [#87](https://github.com/hugomods/decap-cms/pull/87) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 🎉 Merged PR [#86](https://github.com/hugomods/decap-cms/pull/86) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. 💪 Opened PR [#86](https://github.com/hugomods/decap-cms/pull/86) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+5. 📔 Created new repository [razonyang/one-click-hugo-cms](https://github.com/razonyang/one-click-hugo-cms)<br>
+6. 💪 Opened PR [#3](https://github.com/razonyang/testing/pull/3) in [razonyang/testing](https://github.com/razonyang/testing)<br>
+7. 💬 Commented on [#7039](https://github.com/decaporg/decap-cms/pull/7039#issuecomment-1896084782) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
+8. 🎉 Merged PR [#278](https://github.com/hugomods/icons/pull/278) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 🎉 Merged PR [#280](https://github.com/hugomods/icons/pull/280) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 👍 Approved [#278](https://github.com/hugomods/icons/pull/278#pullrequestreview-1824253422) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
