@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jestjs/jest](https://github.com/jestjs/jest)<br>
-2. ❗️ Opened issue [#88](https://github.com/hugomods/decap-cms/issues/88) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-3. 🎉 Merged PR [#87](https://github.com/hugomods/decap-cms/pull/87) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-4. 💪 Opened PR [#87](https://github.com/hugomods/decap-cms/pull/87) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-5. 🎉 Merged PR [#86](https://github.com/hugomods/decap-cms/pull/86) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-6. 💪 Opened PR [#86](https://github.com/hugomods/decap-cms/pull/86) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-7. 📔 Created new repository [razonyang/one-click-hugo-cms](https://github.com/razonyang/one-click-hugo-cms)<br>
-8. 💪 Opened PR [#3](https://github.com/razonyang/testing/pull/3) in [razonyang/testing](https://github.com/razonyang/testing)<br>
-9. 💬 Commented on [#7039](https://github.com/decaporg/decap-cms/pull/7039#issuecomment-1896084782) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
-10. 🎉 Merged PR [#278](https://github.com/hugomods/icons/pull/278) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 💬 Commented on [#89](https://github.com/hugomods/decap-cms/issues/89#issuecomment-1899535328) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. ❗️ Opened issue [#90](https://github.com/hugomods/decap-cms/issues/90) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 💬 Commented on [#89](https://github.com/hugomods/decap-cms/issues/89#issuecomment-1899497145) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. 💬 Commented on [#89](https://github.com/hugomods/decap-cms/issues/89#issuecomment-1899493029) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+5. ⭐ Starred [jestjs/jest](https://github.com/jestjs/jest)<br>
+6. ❗️ Opened issue [#88](https://github.com/hugomods/decap-cms/issues/88) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+7. 🎉 Merged PR [#87](https://github.com/hugomods/decap-cms/pull/87) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+8. 💪 Opened PR [#87](https://github.com/hugomods/decap-cms/pull/87) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+9. 🎉 Merged PR [#86](https://github.com/hugomods/decap-cms/pull/86) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+10. 💪 Opened PR [#86](https://github.com/hugomods/decap-cms/pull/86) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
