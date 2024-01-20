@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/hugomods/debugger/pull/6) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-2. ❗️ Opened issue [#5](https://github.com/hugomods/debugger/issues/5) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-3. ❗️ Opened issue [#4](https://github.com/hugomods/debugger/issues/4) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-4. ⭐ Starred [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-5. 🎉 Merged PR [#3](https://github.com/hugomods/debugger/pull/3) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-6. ❌ Closed PR [#1](https://github.com/hugomods/debugger/pull/1) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-7. 📔 Created new repository [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-8. ❗️ Opened issue [#55](https://github.com/hbstack/featured-image/issues/55) in [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
-9. 💬 Commented on [#7039](https://github.com/decaporg/decap-cms/pull/7039#issuecomment-1902086055) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
-10. ❗️ Opened issue [#48](https://github.com/hugomods/hugopress/issues/48) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+1. 📔 Created new repository [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+2. ⭐ Starred [upptime/upptime](https://github.com/upptime/upptime)<br>
+3. 🎉 Merged PR [#6](https://github.com/hugomods/debugger/pull/6) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+4. ❗️ Opened issue [#5](https://github.com/hugomods/debugger/issues/5) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+5. ❗️ Opened issue [#4](https://github.com/hugomods/debugger/issues/4) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+6. ⭐ Starred [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+7. 🎉 Merged PR [#3](https://github.com/hugomods/debugger/pull/3) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+8. ❌ Closed PR [#1](https://github.com/hugomods/debugger/pull/1) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+9. 📔 Created new repository [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+10. ❗️ Opened issue [#55](https://github.com/hbstack/featured-image/issues/55) in [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
