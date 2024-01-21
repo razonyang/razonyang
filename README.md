@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [hbstack/site-status](https://github.com/hbstack/site-status)<br>
-2. ⭐ Starred [upptime/upptime](https://github.com/upptime/upptime)<br>
-3. 🎉 Merged PR [#6](https://github.com/hugomods/debugger/pull/6) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-4. ❗️ Opened issue [#5](https://github.com/hugomods/debugger/issues/5) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-5. ❗️ Opened issue [#4](https://github.com/hugomods/debugger/issues/4) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-6. ⭐ Starred [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-7. 🎉 Merged PR [#3](https://github.com/hugomods/debugger/pull/3) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-8. ❌ Closed PR [#1](https://github.com/hugomods/debugger/pull/1) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-9. 📔 Created new repository [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-10. ❗️ Opened issue [#55](https://github.com/hbstack/featured-image/issues/55) in [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
+1. 💬 Commented on [#1015](https://github.com/razonyang/hugo-theme-bootstrap/issues/1015#issuecomment-1902456173) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 📔 Created new repository [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+3. ⭐ Starred [upptime/upptime](https://github.com/upptime/upptime)<br>
+4. 🎉 Merged PR [#6](https://github.com/hugomods/debugger/pull/6) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+5. ❗️ Opened issue [#5](https://github.com/hugomods/debugger/issues/5) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+6. ❗️ Opened issue [#4](https://github.com/hugomods/debugger/issues/4) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+7. ⭐ Starred [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+8. 🎉 Merged PR [#3](https://github.com/hugomods/debugger/pull/3) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+9. ❌ Closed PR [#1](https://github.com/hugomods/debugger/pull/1) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+10. 📔 Created new repository [hugomods/debugger](https://github.com/hugomods/debugger)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
