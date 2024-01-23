@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#88](https://github.com/hugomods/decap-cms/issues/88) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-2. 🎉 Merged PR [#93](https://github.com/hugomods/decap-cms/pull/93) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-3. 💪 Opened PR [#93](https://github.com/hugomods/decap-cms/pull/93) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-4. ⭐ Starred [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)<br>
-5. 📔 Created new repository [razonyang/site-status](https://github.com/razonyang/site-status)<br>
-6. 📔 Created new repository [hugomods/site-status](https://github.com/hugomods/site-status)<br>
-7. 📔 Created new repository [razonyang/site-status](https://github.com/razonyang/site-status)<br>
-8. 💬 Commented on [#13](https://github.com/hbstack/site-status/issues/13#issuecomment-1902610864) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
-9. ✔️ Closed issue [#13](https://github.com/hbstack/site-status/issues/13) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
-10. ✔️ Closed issue [#13](https://github.com/hbstack/site-status/issues/13) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+1. ✔️ Closed issue [#83](https://github.com/hugomods/decap-cms/issues/83) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 🎉 Merged PR [#95](https://github.com/hugomods/decap-cms/pull/95) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 💪 Opened PR [#95](https://github.com/hugomods/decap-cms/pull/95) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. ✔️ Closed issue [#80](https://github.com/hugomods/decap-cms/issues/80) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+5. 🎉 Merged PR [#94](https://github.com/hugomods/decap-cms/pull/94) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+6. 💪 Opened PR [#94](https://github.com/hugomods/decap-cms/pull/94) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+7. ✔️ Closed issue [#88](https://github.com/hugomods/decap-cms/issues/88) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+8. 🎉 Merged PR [#93](https://github.com/hugomods/decap-cms/pull/93) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+9. 💪 Opened PR [#93](https://github.com/hugomods/decap-cms/pull/93) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+10. ⭐ Starred [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
