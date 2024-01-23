@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [razonyang/site-status](https://github.com/razonyang/site-status)<br>
-2. 📔 Created new repository [hugomods/site-status](https://github.com/hugomods/site-status)<br>
-3. 📔 Created new repository [razonyang/site-status](https://github.com/razonyang/site-status)<br>
-4. 💬 Commented on [#13](https://github.com/hbstack/site-status/issues/13#issuecomment-1902610864) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
-5. ✔️ Closed issue [#13](https://github.com/hbstack/site-status/issues/13) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+1. ⭐ Starred [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)<br>
+2. 📔 Created new repository [razonyang/site-status](https://github.com/razonyang/site-status)<br>
+3. 📔 Created new repository [hugomods/site-status](https://github.com/hugomods/site-status)<br>
+4. 📔 Created new repository [razonyang/site-status](https://github.com/razonyang/site-status)<br>
+5. 💬 Commented on [#13](https://github.com/hbstack/site-status/issues/13#issuecomment-1902610864) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
 6. ✔️ Closed issue [#13](https://github.com/hbstack/site-status/issues/13) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
-7. 💬 Commented on [#13](https://github.com/hbstack/site-status/issues/13#issuecomment-1902610862) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
-8. ❗️ Opened issue [#13](https://github.com/hbstack/site-status/issues/13) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
-9. ❗️ Opened issue [#12](https://github.com/hbstack/site-status/issues/12) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
-10. 💬 Commented on [#11](https://github.com/hbstack/site-status/issues/11#issuecomment-1902610813) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+7. ✔️ Closed issue [#13](https://github.com/hbstack/site-status/issues/13) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+8. 💬 Commented on [#13](https://github.com/hbstack/site-status/issues/13#issuecomment-1902610862) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+9. ❗️ Opened issue [#13](https://github.com/hbstack/site-status/issues/13) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+10. ❗️ Opened issue [#12](https://github.com/hbstack/site-status/issues/12) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
