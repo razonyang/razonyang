@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#472](https://github.com/hbstack/header/issues/472) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 🎉 Merged PR [#117](https://github.com/hugomods/decap-cms/pull/117) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-3. ✔️ Closed issue [#119](https://github.com/hugomods/decap-cms/issues/119) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-4. 🎉 Merged PR [#120](https://github.com/hugomods/decap-cms/pull/120) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-5. 💪 Opened PR [#120](https://github.com/hugomods/decap-cms/pull/120) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-6. ❗️ Opened issue [#119](https://github.com/hugomods/decap-cms/issues/119) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-7. 🎉 Merged PR [#511](https://github.com/hbstack/docs/pull/511) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-8. 🎉 Merged PR [#512](https://github.com/hbstack/docs/pull/512) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-9. 💪 Opened PR [#512](https://github.com/hbstack/docs/pull/512) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-10. 🎉 Merged PR [#510](https://github.com/hbstack/docs/pull/510) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. ❗️ Opened issue [#123](https://github.com/hugomods/decap-cms/issues/123) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. ❗️ Opened issue [#122](https://github.com/hugomods/decap-cms/issues/122) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. ❗️ Opened issue [#121](https://github.com/hugomods/decap-cms/issues/121) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. ❗️ Opened issue [#472](https://github.com/hbstack/header/issues/472) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 🎉 Merged PR [#117](https://github.com/hugomods/decap-cms/pull/117) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+6. ✔️ Closed issue [#119](https://github.com/hugomods/decap-cms/issues/119) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+7. 🎉 Merged PR [#120](https://github.com/hugomods/decap-cms/pull/120) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+8. 💪 Opened PR [#120](https://github.com/hugomods/decap-cms/pull/120) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+9. ❗️ Opened issue [#119](https://github.com/hugomods/decap-cms/issues/119) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+10. 🎉 Merged PR [#511](https://github.com/hbstack/docs/pull/511) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
