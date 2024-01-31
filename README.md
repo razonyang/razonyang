@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#59](https://github.com/hbstack/featured-image/issues/59#issuecomment-1916841978) in [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
-2. 💬 Commented on [#130](https://github.com/hbstack/theme-cards/issues/130#issuecomment-1916837355) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-3. 💬 Commented on [#129](https://github.com/hbstack/theme-cards/issues/129#issuecomment-1914062218) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-4. 💬 Commented on [#129](https://github.com/hbstack/theme-cards/issues/129#issuecomment-1914034224) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-5. 💬 Commented on [#129](https://github.com/hbstack/theme-cards/issues/129#issuecomment-1914030680) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. ⭐ Starred [krahets/hello-algo](https://github.com/krahets/hello-algo)<br>
-7. 💬 Commented on [#41](https://github.com/razonyang/hugo-theme-bootstrap-skeleton/issues/41#issuecomment-1913927987) in [razonyang/hugo-theme-bootstrap-skeleton](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)<br>
-8. ❌ Closed PR [#756](https://github.com/hbstack/site/pull/756) in [hbstack/site](https://github.com/hbstack/site)<br>
-9. 💬 Commented on [#758](https://github.com/hbstack/site/issues/758#issuecomment-1913587051) in [hbstack/site](https://github.com/hbstack/site)<br>
-10. ✔️ Closed issue [#758](https://github.com/hbstack/site/issues/758) in [hbstack/site](https://github.com/hbstack/site)<br>
+1. 💬 Commented on [#131](https://github.com/hbstack/theme-cards/issues/131#issuecomment-1918652284) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. ✔️ Closed issue [#131](https://github.com/hbstack/theme-cards/issues/131) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+3. 💬 Commented on [#59](https://github.com/hbstack/featured-image/issues/59#issuecomment-1916841978) in [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
+4. 💬 Commented on [#130](https://github.com/hbstack/theme-cards/issues/130#issuecomment-1916837355) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+5. 💬 Commented on [#129](https://github.com/hbstack/theme-cards/issues/129#issuecomment-1914062218) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+6. 💬 Commented on [#129](https://github.com/hbstack/theme-cards/issues/129#issuecomment-1914034224) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+7. 💬 Commented on [#129](https://github.com/hbstack/theme-cards/issues/129#issuecomment-1914030680) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+8. ⭐ Starred [krahets/hello-algo](https://github.com/krahets/hello-algo)<br>
+9. 💬 Commented on [#41](https://github.com/razonyang/hugo-theme-bootstrap-skeleton/issues/41#issuecomment-1913927987) in [razonyang/hugo-theme-bootstrap-skeleton](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)<br>
+10. ❌ Closed PR [#756](https://github.com/hbstack/site/pull/756) in [hbstack/site](https://github.com/hbstack/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
