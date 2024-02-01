@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#475](https://github.com/hbstack/header/pull/475) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. ✔️ Closed issue [#472](https://github.com/hbstack/header/issues/472) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 🎉 Merged PR [#474](https://github.com/hbstack/header/pull/474) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. 💪 Opened PR [#474](https://github.com/hbstack/header/pull/474) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. 🎉 Merged PR [#516](https://github.com/hbstack/docs/pull/516) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-6. 🎉 Merged PR [#515](https://github.com/hbstack/docs/pull/515) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-7. 💪 Opened PR [#515](https://github.com/hbstack/docs/pull/515) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-8. ❗️ Opened issue [#61](https://github.com/hugomods/pwa/issues/61) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-9. 💬 Commented on [#131](https://github.com/hbstack/theme-cards/issues/131#issuecomment-1918745697) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-10. ✔️ Closed issue [#131](https://github.com/hbstack/theme-cards/issues/131) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+1. 💬 Commented on [#130](https://github.com/hbstack/theme-cards/issues/130#issuecomment-1921223569) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. ✔️ Closed issue [#130](https://github.com/hbstack/theme-cards/issues/130) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+3. 🎉 Merged PR [#475](https://github.com/hbstack/header/pull/475) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. ✔️ Closed issue [#472](https://github.com/hbstack/header/issues/472) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 🎉 Merged PR [#474](https://github.com/hbstack/header/pull/474) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. 💪 Opened PR [#474](https://github.com/hbstack/header/pull/474) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 🎉 Merged PR [#516](https://github.com/hbstack/docs/pull/516) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. 🎉 Merged PR [#515](https://github.com/hbstack/docs/pull/515) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+9. 💪 Opened PR [#515](https://github.com/hbstack/docs/pull/515) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+10. ❗️ Opened issue [#61](https://github.com/hugomods/pwa/issues/61) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
