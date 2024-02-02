@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#135](https://github.com/hbstack/theme-cards/issues/135#issuecomment-1923447509) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-2. 💬 Commented on [#760](https://github.com/hbstack/site/pull/760#issuecomment-1923439683) in [hbstack/site](https://github.com/hbstack/site)<br>
-3. 🎉 Merged PR [#760](https://github.com/hbstack/site/pull/760) in [hbstack/site](https://github.com/hbstack/site)<br>
-4. 💬 Commented on [#135](https://github.com/hbstack/theme-cards/issues/135#issuecomment-1922726707) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-5. 💬 Commented on [#135](https://github.com/hbstack/theme-cards/issues/135#issuecomment-1922688531) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. 💬 Commented on [#627](https://github.com/hbstack/blog/issues/627#issuecomment-1922677947) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 👍 Approved [#282](https://github.com/hugomods/icons/pull/282#pullrequestreview-1858129598) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 💬 Commented on [#130](https://github.com/hugomods/decap-cms/issues/130#issuecomment-1922676436) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 💬 Commented on [#627](https://github.com/hbstack/blog/issues/627#issuecomment-1922616006) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. 💬 Commented on [#130](https://github.com/hugomods/decap-cms/issues/130#issuecomment-1922603704) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+1. ✔️ Closed issue [#59](https://github.com/hbstack/featured-image/issues/59) in [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
+2. 🎉 Merged PR [#61](https://github.com/hbstack/featured-image/pull/61) in [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
+3. 💪 Opened PR [#61](https://github.com/hbstack/featured-image/pull/61) in [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
+4. 🎉 Merged PR [#165](https://github.com/hbstack/hb/pull/165) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+5. 🎉 Merged PR [#164](https://github.com/hbstack/hb/pull/164) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+6. 💪 Opened PR [#164](https://github.com/hbstack/hb/pull/164) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+7. 💬 Commented on [#135](https://github.com/hbstack/theme-cards/issues/135#issuecomment-1923447509) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+8. 💬 Commented on [#760](https://github.com/hbstack/site/pull/760#issuecomment-1923439683) in [hbstack/site](https://github.com/hbstack/site)<br>
+9. 🎉 Merged PR [#760](https://github.com/hbstack/site/pull/760) in [hbstack/site](https://github.com/hbstack/site)<br>
+10. 💬 Commented on [#135](https://github.com/hbstack/theme-cards/issues/135#issuecomment-1922726707) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
