@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/hbstack/pwa-installer/pull/2) in [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
-2. 📔 Created new repository [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
-3. 💬 Commented on [#140](https://github.com/hbstack/theme-cards/issues/140#issuecomment-1925866423) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-4. 💬 Commented on [#140](https://github.com/hbstack/theme-cards/issues/140#issuecomment-1925860711) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-5. 💬 Commented on [#140](https://github.com/hbstack/theme-cards/issues/140#issuecomment-1925845997) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. ❗️ Opened issue [#283](https://github.com/hugomods/icons/issues/283) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 💬 Commented on [#140](https://github.com/hbstack/theme-cards/issues/140#issuecomment-1925724071) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-8. 💬 Commented on [#140](https://github.com/hbstack/theme-cards/issues/140#issuecomment-1925561285) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-9. ❗️ Opened issue [#656](https://github.com/badgen/badgen.net/issues/656) in [badgen/badgen.net](https://github.com/badgen/badgen.net)<br>
-10. 💬 Commented on [#130](https://github.com/hugomods/decap-cms/issues/130#issuecomment-1925366440) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+1. 💬 Commented on [#140](https://github.com/hbstack/theme-cards/issues/140#issuecomment-1925875242) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. 🎉 Merged PR [#2](https://github.com/hbstack/pwa-installer/pull/2) in [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
+3. 📔 Created new repository [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
+4. 💬 Commented on [#140](https://github.com/hbstack/theme-cards/issues/140#issuecomment-1925866423) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+5. 💬 Commented on [#140](https://github.com/hbstack/theme-cards/issues/140#issuecomment-1925860711) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+6. 💬 Commented on [#140](https://github.com/hbstack/theme-cards/issues/140#issuecomment-1925845997) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+7. ❗️ Opened issue [#283](https://github.com/hugomods/icons/issues/283) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 💬 Commented on [#140](https://github.com/hbstack/theme-cards/issues/140#issuecomment-1925724071) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+9. 💬 Commented on [#140](https://github.com/hbstack/theme-cards/issues/140#issuecomment-1925561285) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+10. ❗️ Opened issue [#656](https://github.com/badgen/badgen.net/issues/656) in [badgen/badgen.net](https://github.com/badgen/badgen.net)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
