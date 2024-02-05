@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#7086](https://github.com/decaporg/decap-cms/issues/7086#issuecomment-1926449943) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
-2. ❗️ Opened issue [#142](https://github.com/hugomods/decap-cms/issues/142) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-3. 💬 Commented on [#7086](https://github.com/decaporg/decap-cms/issues/7086#issuecomment-1926434900) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
-4. 💬 Commented on [#7086](https://github.com/decaporg/decap-cms/issues/7086#issuecomment-1926429185) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
-5. 💬 Commented on [#7086](https://github.com/decaporg/decap-cms/issues/7086#issuecomment-1926390961) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
-6. 🎉 Merged PR [#9](https://github.com/hbstack/decap-cms/pull/9) in [hbstack/decap-cms](https://github.com/hbstack/decap-cms)<br>
-7. ❗️ Opened issue [#7086](https://github.com/decaporg/decap-cms/issues/7086) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
-8. 💬 Commented on [#137](https://github.com/hugomods/decap-cms/issues/137#issuecomment-1926286106) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 🎉 Merged PR [#285](https://github.com/hugomods/icons/pull/285) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 🎉 Merged PR [#284](https://github.com/hugomods/icons/pull/284) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. ✔️ Closed issue [#142](https://github.com/hugomods/decap-cms/issues/142) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 🎉 Merged PR [#143](https://github.com/hugomods/decap-cms/pull/143) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 💪 Opened PR [#143](https://github.com/hugomods/decap-cms/pull/143) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. 💬 Commented on [#7086](https://github.com/decaporg/decap-cms/issues/7086#issuecomment-1926449943) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
+5. ❗️ Opened issue [#142](https://github.com/hugomods/decap-cms/issues/142) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+6. 💬 Commented on [#7086](https://github.com/decaporg/decap-cms/issues/7086#issuecomment-1926434900) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
+7. 💬 Commented on [#7086](https://github.com/decaporg/decap-cms/issues/7086#issuecomment-1926429185) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
+8. 💬 Commented on [#7086](https://github.com/decaporg/decap-cms/issues/7086#issuecomment-1926390961) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
+9. 🎉 Merged PR [#9](https://github.com/hbstack/decap-cms/pull/9) in [hbstack/decap-cms](https://github.com/hbstack/decap-cms)<br>
+10. ❗️ Opened issue [#7086](https://github.com/decaporg/decap-cms/issues/7086) in [decaporg/decap-cms](https://github.com/decaporg/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
