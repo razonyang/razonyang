@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#147](https://github.com/hugomods/decap-cms/pull/147#issuecomment-1935317021) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-2. 💬 Commented on [#147](https://github.com/hugomods/decap-cms/pull/147#issuecomment-1935277082) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-3. 💬 Commented on [#147](https://github.com/hugomods/decap-cms/pull/147#discussion_r1483819522) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-4. ⭐ Starred [netlify/netlify-identity-widget](https://github.com/netlify/netlify-identity-widget)<br>
-5. 🎉 Merged PR [#152](https://github.com/hugomods/decap-cms/pull/152) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-6. 💪 Opened PR [#152](https://github.com/hugomods/decap-cms/pull/152) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-7. 💬 Commented on [#151](https://github.com/hugomods/decap-cms/issues/151#issuecomment-1934111743) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-8. 🎉 Merged PR [#149](https://github.com/hugomods/decap-cms/pull/149) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 🎉 Merged PR [#148](https://github.com/hugomods/decap-cms/pull/148) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-10. 💪 Opened PR [#148](https://github.com/hugomods/decap-cms/pull/148) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+1. 💬 Commented on [#147](https://github.com/hugomods/decap-cms/pull/147#issuecomment-1935411446) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 💬 Commented on [#147](https://github.com/hugomods/decap-cms/pull/147#issuecomment-1935317021) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 💬 Commented on [#147](https://github.com/hugomods/decap-cms/pull/147#issuecomment-1935277082) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. 💬 Commented on [#147](https://github.com/hugomods/decap-cms/pull/147#discussion_r1483819522) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+5. ⭐ Starred [netlify/netlify-identity-widget](https://github.com/netlify/netlify-identity-widget)<br>
+6. 🎉 Merged PR [#152](https://github.com/hugomods/decap-cms/pull/152) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+7. 💪 Opened PR [#152](https://github.com/hugomods/decap-cms/pull/152) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+8. 💬 Commented on [#151](https://github.com/hugomods/decap-cms/issues/151#issuecomment-1934111743) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+9. 🎉 Merged PR [#149](https://github.com/hugomods/decap-cms/pull/149) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+10. 🎉 Merged PR [#148](https://github.com/hugomods/decap-cms/pull/148) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
