@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-2. 🎉 Merged PR [#647](https://github.com/hbstack/blog/pull/647) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. ✔️ Closed issue [#644](https://github.com/hbstack/blog/issues/644) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 🎉 Merged PR [#646](https://github.com/hbstack/blog/pull/646) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 💪 Opened PR [#646](https://github.com/hbstack/blog/pull/646) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 🎉 Merged PR [#645](https://github.com/hbstack/blog/pull/645) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. ❗️ Opened issue [#66](https://github.com/hbstack/featured-image/issues/66) in [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
-8. 💬 Commented on [#147](https://github.com/hugomods/decap-cms/pull/147#issuecomment-1935495443) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 💬 Commented on [#90](https://github.com/hugomods/decap-cms/issues/90#issuecomment-1935494350) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-10. ✔️ Closed issue [#90](https://github.com/hugomods/decap-cms/issues/90) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+1. 🎉 Merged PR [#297](https://github.com/hugomods/icons/pull/297) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 💬 Commented on [#295](https://github.com/hugomods/icons/issues/295#issuecomment-1937446384) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ✔️ Closed issue [#295](https://github.com/hugomods/icons/issues/295) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 🎉 Merged PR [#296](https://github.com/hugomods/icons/pull/296) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 💪 Opened PR [#296](https://github.com/hugomods/icons/pull/296) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+7. 🎉 Merged PR [#647](https://github.com/hbstack/blog/pull/647) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. ✔️ Closed issue [#644](https://github.com/hbstack/blog/issues/644) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 🎉 Merged PR [#646](https://github.com/hbstack/blog/pull/646) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. 💪 Opened PR [#646](https://github.com/hbstack/blog/pull/646) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
