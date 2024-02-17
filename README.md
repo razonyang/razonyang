@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#302](https://github.com/hugomods/icons/pull/302#pullrequestreview-1886575086) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 💬 Commented on [#40](https://github.com/hugomods/images/issues/40#issuecomment-1950176383) in [hugomods/images](https://github.com/hugomods/images)<br>
-3. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.331.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-4. ✔️ Closed issue [#721](https://github.com/hbstack/theme/issues/721) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-5. 💬 Commented on [#39](https://github.com/decaporg/decap-website/issues/39#issuecomment-1949990319) in [decaporg/decap-website](https://github.com/decaporg/decap-website)<br>
-6. 💬 Commented on [#40](https://github.com/hugomods/images/issues/40#issuecomment-1949925229) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. 💬 Commented on [#721](https://github.com/hbstack/theme/issues/721#issuecomment-1949650611) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-8. ❗️ Opened issue [#659](https://github.com/hbstack/blog/issues/659) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. ⭐ Starred [FreeFlarum/freeflarum.com](https://github.com/FreeFlarum/freeflarum.com)<br>
-10. ❗️ Opened issue [#658](https://github.com/hbstack/blog/issues/658) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. ❗️ Opened issue [#154](https://github.com/hbstack/theme-cards/issues/154) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. 👍 Approved [#302](https://github.com/hugomods/icons/pull/302#pullrequestreview-1886575086) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 💬 Commented on [#40](https://github.com/hugomods/images/issues/40#issuecomment-1950176383) in [hugomods/images](https://github.com/hugomods/images)<br>
+4. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.331.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
+5. ✔️ Closed issue [#721](https://github.com/hbstack/theme/issues/721) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+6. 💬 Commented on [#39](https://github.com/decaporg/decap-website/issues/39#issuecomment-1949990319) in [decaporg/decap-website](https://github.com/decaporg/decap-website)<br>
+7. 💬 Commented on [#40](https://github.com/hugomods/images/issues/40#issuecomment-1949925229) in [hugomods/images](https://github.com/hugomods/images)<br>
+8. 💬 Commented on [#721](https://github.com/hbstack/theme/issues/721#issuecomment-1949650611) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+9. ❗️ Opened issue [#659](https://github.com/hbstack/blog/issues/659) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. ⭐ Starred [FreeFlarum/freeflarum.com](https://github.com/FreeFlarum/freeflarum.com)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
