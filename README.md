@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#39](https://github.com/decaporg/decap-website/issues/39#issuecomment-1949990319) in [decaporg/decap-website](https://github.com/decaporg/decap-website)<br>
-2. 💬 Commented on [#40](https://github.com/hugomods/images/issues/40#issuecomment-1949925229) in [hugomods/images](https://github.com/hugomods/images)<br>
-3. 💬 Commented on [#721](https://github.com/hbstack/theme/issues/721#issuecomment-1949650611) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-4. ❗️ Opened issue [#659](https://github.com/hbstack/blog/issues/659) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ⭐ Starred [FreeFlarum/freeflarum.com](https://github.com/FreeFlarum/freeflarum.com)<br>
-6. ❗️ Opened issue [#658](https://github.com/hbstack/blog/issues/658) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 🎉 Merged PR [#491](https://github.com/hbstack/header/pull/491) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 🎉 Merged PR [#492](https://github.com/hbstack/header/pull/492) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 💪 Opened PR [#492](https://github.com/hbstack/header/pull/492) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. ✔️ Closed issue [#489](https://github.com/hbstack/header/issues/489) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. ✔️ Closed issue [#721](https://github.com/hbstack/theme/issues/721) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+2. 💬 Commented on [#39](https://github.com/decaporg/decap-website/issues/39#issuecomment-1949990319) in [decaporg/decap-website](https://github.com/decaporg/decap-website)<br>
+3. 💬 Commented on [#40](https://github.com/hugomods/images/issues/40#issuecomment-1949925229) in [hugomods/images](https://github.com/hugomods/images)<br>
+4. 💬 Commented on [#721](https://github.com/hbstack/theme/issues/721#issuecomment-1949650611) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+5. ❗️ Opened issue [#659](https://github.com/hbstack/blog/issues/659) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. ⭐ Starred [FreeFlarum/freeflarum.com](https://github.com/FreeFlarum/freeflarum.com)<br>
+7. ❗️ Opened issue [#658](https://github.com/hbstack/blog/issues/658) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 🎉 Merged PR [#491](https://github.com/hbstack/header/pull/491) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 🎉 Merged PR [#492](https://github.com/hbstack/header/pull/492) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 💪 Opened PR [#492](https://github.com/hbstack/header/pull/492) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
