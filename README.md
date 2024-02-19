@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#46](https://github.com/hugomods/shortcodes/pull/46) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-2. 💪 Opened PR [#46](https://github.com/hugomods/shortcodes/pull/46) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-3. 🎉 Merged PR [#44](https://github.com/hugomods/shortcodes/pull/44) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-4. 💪 Opened PR [#44](https://github.com/hugomods/shortcodes/pull/44) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-5. ⭐ Starred [hbstack/shortcodes](https://github.com/hbstack/shortcodes)<br>
-6. 💬 Commented on [#203](https://github.com/hugomods/search/issues/203#issuecomment-1951934853) in [hugomods/search](https://github.com/hugomods/search)<br>
-7. 🎉 Merged PR [#3](https://github.com/hbstack/shortcodes/pull/3) in [hbstack/shortcodes](https://github.com/hbstack/shortcodes)<br>
-8. ❌ Closed PR [#2](https://github.com/hbstack/shortcodes/pull/2) in [hbstack/shortcodes](https://github.com/hbstack/shortcodes)<br>
-9. 📔 Created new repository [hbstack/shortcodes](https://github.com/hbstack/shortcodes)<br>
-10. 💬 Commented on [#203](https://github.com/hugomods/search/issues/203#issuecomment-1951542668) in [hugomods/search](https://github.com/hugomods/search)<br>
+1. 🎉 Merged PR [#205](https://github.com/hugomods/search/pull/205) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. ✔️ Closed issue [#164](https://github.com/hugomods/search/issues/164) in [hugomods/search](https://github.com/hugomods/search)<br>
+3. 🎉 Merged PR [#204](https://github.com/hugomods/search/pull/204) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 💪 Opened PR [#204](https://github.com/hugomods/search/pull/204) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. 🎉 Merged PR [#46](https://github.com/hugomods/shortcodes/pull/46) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+6. 💪 Opened PR [#46](https://github.com/hugomods/shortcodes/pull/46) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+7. 🎉 Merged PR [#44](https://github.com/hugomods/shortcodes/pull/44) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+8. 💪 Opened PR [#44](https://github.com/hugomods/shortcodes/pull/44) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+9. ⭐ Starred [hbstack/shortcodes](https://github.com/hbstack/shortcodes)<br>
+10. 💬 Commented on [#203](https://github.com/hugomods/search/issues/203#issuecomment-1951934853) in [hugomods/search](https://github.com/hugomods/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
