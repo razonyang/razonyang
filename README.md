@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#303](https://github.com/hugomods/icons/issues/303#issuecomment-1952936011) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 💬 Commented on [#303](https://github.com/hugomods/icons/issues/303#issuecomment-1952932296) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 🎉 Merged PR [#310](https://github.com/hugomods/icons/pull/310) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#310](https://github.com/hugomods/icons/pull/310#pullrequestreview-1888933572) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 🎉 Merged PR [#309](https://github.com/hugomods/icons/pull/309) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 🎉 Merged PR [#306](https://github.com/hugomods/icons/pull/306) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 🎉 Merged PR [#308](https://github.com/hugomods/icons/pull/308) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 🎉 Merged PR [#307](https://github.com/hugomods/icons/pull/307) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 🎉 Merged PR [#305](https://github.com/hugomods/icons/pull/305) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. ✔️ Closed issue [#303](https://github.com/hugomods/icons/issues/303) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#891](https://github.com/hugomods/site/pull/891) in [hugomods/site](https://github.com/hugomods/site)<br>
+2. 🎉 Merged PR [#893](https://github.com/hugomods/site/pull/893) in [hugomods/site](https://github.com/hugomods/site)<br>
+3. 🎉 Merged PR [#892](https://github.com/hugomods/site/pull/892) in [hugomods/site](https://github.com/hugomods/site)<br>
+4. 🎉 Merged PR [#894](https://github.com/hugomods/site/pull/894) in [hugomods/site](https://github.com/hugomods/site)<br>
+5. 🎉 Merged PR [#895](https://github.com/hugomods/site/pull/895) in [hugomods/site](https://github.com/hugomods/site)<br>
+6. 💬 Commented on [#303](https://github.com/hugomods/icons/issues/303#issuecomment-1952936011) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 💬 Commented on [#303](https://github.com/hugomods/icons/issues/303#issuecomment-1952932296) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 🎉 Merged PR [#310](https://github.com/hugomods/icons/pull/310) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 👍 Approved [#310](https://github.com/hugomods/icons/pull/310#pullrequestreview-1888933572) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 🎉 Merged PR [#309](https://github.com/hugomods/icons/pull/309) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
