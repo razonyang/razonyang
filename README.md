@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#891](https://github.com/hugomods/site/pull/891) in [hugomods/site](https://github.com/hugomods/site)<br>
-2. 🎉 Merged PR [#893](https://github.com/hugomods/site/pull/893) in [hugomods/site](https://github.com/hugomods/site)<br>
-3. 🎉 Merged PR [#892](https://github.com/hugomods/site/pull/892) in [hugomods/site](https://github.com/hugomods/site)<br>
-4. 🎉 Merged PR [#894](https://github.com/hugomods/site/pull/894) in [hugomods/site](https://github.com/hugomods/site)<br>
-5. 🎉 Merged PR [#895](https://github.com/hugomods/site/pull/895) in [hugomods/site](https://github.com/hugomods/site)<br>
-6. 💬 Commented on [#303](https://github.com/hugomods/icons/issues/303#issuecomment-1952936011) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 💬 Commented on [#303](https://github.com/hugomods/icons/issues/303#issuecomment-1952932296) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 🎉 Merged PR [#310](https://github.com/hugomods/icons/pull/310) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#310](https://github.com/hugomods/icons/pull/310#pullrequestreview-1888933572) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 🎉 Merged PR [#309](https://github.com/hugomods/icons/pull/309) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#117](https://github.com/hugomods/bootstrap/pull/117) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. 💬 Commented on [#116](https://github.com/hugomods/bootstrap/pull/116#issuecomment-1953327783) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+3. 🎉 Merged PR [#116](https://github.com/hugomods/bootstrap/pull/116) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. 👍 Approved [#116](https://github.com/hugomods/bootstrap/pull/116#pullrequestreview-1889330404) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 🎉 Merged PR [#891](https://github.com/hugomods/site/pull/891) in [hugomods/site](https://github.com/hugomods/site)<br>
+6. 🎉 Merged PR [#893](https://github.com/hugomods/site/pull/893) in [hugomods/site](https://github.com/hugomods/site)<br>
+7. 🎉 Merged PR [#892](https://github.com/hugomods/site/pull/892) in [hugomods/site](https://github.com/hugomods/site)<br>
+8. 🎉 Merged PR [#894](https://github.com/hugomods/site/pull/894) in [hugomods/site](https://github.com/hugomods/site)<br>
+9. 🎉 Merged PR [#895](https://github.com/hugomods/site/pull/895) in [hugomods/site](https://github.com/hugomods/site)<br>
+10. 💬 Commented on [#303](https://github.com/hugomods/icons/issues/303#issuecomment-1952936011) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
