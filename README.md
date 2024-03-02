@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#525](https://github.com/hbstack/header/pull/525) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 🎉 Merged PR [#524](https://github.com/hbstack/header/pull/524) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 💪 Opened PR [#524](https://github.com/hbstack/header/pull/524) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. ❗️ Opened issue [#523](https://github.com/hbstack/header/issues/523) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. ❗️ Opened issue [#49](https://github.com/hugomods/shortcodes/issues/49) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-6. ❗️ Opened issue [#48](https://github.com/hugomods/shortcodes/issues/48) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-7. ✔️ Closed issue [#23](https://github.com/hugomods/images/issues/23) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. 💪 Opened PR [#12179](https://github.com/gohugoio/hugo/pull/12179) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-9. ❗️ Opened issue [#522](https://github.com/hbstack/header/issues/522) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 🎉 Merged PR [#521](https://github.com/hbstack/header/pull/521) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#526](https://github.com/hbstack/header/pull/526) in [hbstack/header](https://github.com/hbstack/header)<br>
+2. 🎉 Merged PR [#243](https://github.com/hbstack/footer/pull/243) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+3. 🎉 Merged PR [#525](https://github.com/hbstack/header/pull/525) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 🎉 Merged PR [#524](https://github.com/hbstack/header/pull/524) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 💪 Opened PR [#524](https://github.com/hbstack/header/pull/524) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. ❗️ Opened issue [#523](https://github.com/hbstack/header/issues/523) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. ❗️ Opened issue [#49](https://github.com/hugomods/shortcodes/issues/49) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+8. ❗️ Opened issue [#48](https://github.com/hugomods/shortcodes/issues/48) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+9. ✔️ Closed issue [#23](https://github.com/hugomods/images/issues/23) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. 💪 Opened PR [#12179](https://github.com/gohugoio/hugo/pull/12179) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
