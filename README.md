@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#18](https://github.com/hugomods/seo/issues/18) in [hugomods/seo](https://github.com/hugomods/seo)<br>
-2. ✔️ Closed issue [#23](https://github.com/hugomods/seo/issues/23) in [hugomods/seo](https://github.com/hugomods/seo)<br>
-3. 🎉 Merged PR [#25](https://github.com/hugomods/seo/pull/25) in [hugomods/seo](https://github.com/hugomods/seo)<br>
-4. 🎉 Merged PR [#24](https://github.com/hugomods/seo/pull/24) in [hugomods/seo](https://github.com/hugomods/seo)<br>
-5. 🎉 Merged PR [#52](https://github.com/hugomods/shortcodes/pull/52) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-6. 🎉 Merged PR [#6](https://github.com/hbstack/shortcodes/pull/6) in [hbstack/shortcodes](https://github.com/hbstack/shortcodes)<br>
-7. 🎉 Merged PR [#5](https://github.com/hbstack/shortcodes/pull/5) in [hbstack/shortcodes](https://github.com/hbstack/shortcodes)<br>
-8. 💪 Opened PR [#5](https://github.com/hbstack/shortcodes/pull/5) in [hbstack/shortcodes](https://github.com/hbstack/shortcodes)<br>
-9. 🎉 Merged PR [#124](https://github.com/hugomods/bootstrap/pull/124) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-10. 🎉 Merged PR [#123](https://github.com/hugomods/bootstrap/pull/123) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+1. 🎉 Merged PR [#26](https://github.com/hugomods/seo/pull/26) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+2. ✔️ Closed issue [#18](https://github.com/hugomods/seo/issues/18) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+3. ✔️ Closed issue [#23](https://github.com/hugomods/seo/issues/23) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+4. 🎉 Merged PR [#25](https://github.com/hugomods/seo/pull/25) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+5. 🎉 Merged PR [#24](https://github.com/hugomods/seo/pull/24) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+6. 🎉 Merged PR [#52](https://github.com/hugomods/shortcodes/pull/52) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+7. 🎉 Merged PR [#6](https://github.com/hbstack/shortcodes/pull/6) in [hbstack/shortcodes](https://github.com/hbstack/shortcodes)<br>
+8. 🎉 Merged PR [#5](https://github.com/hbstack/shortcodes/pull/5) in [hbstack/shortcodes](https://github.com/hbstack/shortcodes)<br>
+9. 💪 Opened PR [#5](https://github.com/hbstack/shortcodes/pull/5) in [hbstack/shortcodes](https://github.com/hbstack/shortcodes)<br>
+10. 🎉 Merged PR [#124](https://github.com/hugomods/bootstrap/pull/124) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
