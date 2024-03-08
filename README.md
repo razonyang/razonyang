@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#127](https://github.com/hugomods/bootstrap/issues/127) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 🎉 Merged PR [#541](https://github.com/hbstack/header/pull/541) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 🎉 Merged PR [#540](https://github.com/hbstack/header/pull/540) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. 💪 Opened PR [#540](https://github.com/hbstack/header/pull/540) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. ❗️ Opened issue [#225](https://github.com/hugomods/search/issues/225) in [hugomods/search](https://github.com/hugomods/search)<br>
-6. 🎉 Merged PR [#325](https://github.com/hugomods/icons/pull/325) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ❌ Closed PR [#322](https://github.com/hugomods/icons/pull/322) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. ❌ Closed PR [#324](https://github.com/hugomods/icons/pull/324) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. ❌ Closed PR [#323](https://github.com/hugomods/icons/pull/323) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. ❌ Closed PR [#321](https://github.com/hugomods/icons/pull/321) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#334](https://github.com/hugomods/icons/pull/334) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#334](https://github.com/hugomods/icons/pull/334#pullrequestreview-1923733918) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ❗️ Opened issue [#127](https://github.com/hugomods/bootstrap/issues/127) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. 🎉 Merged PR [#541](https://github.com/hbstack/header/pull/541) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 🎉 Merged PR [#540](https://github.com/hbstack/header/pull/540) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. 💪 Opened PR [#540](https://github.com/hbstack/header/pull/540) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. ❗️ Opened issue [#225](https://github.com/hugomods/search/issues/225) in [hugomods/search](https://github.com/hugomods/search)<br>
+8. 🎉 Merged PR [#325](https://github.com/hugomods/icons/pull/325) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ❌ Closed PR [#322](https://github.com/hugomods/icons/pull/322) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. ❌ Closed PR [#324](https://github.com/hugomods/icons/pull/324) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
