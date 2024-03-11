@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#2](https://github.com/hugomods/kroki/pull/2) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-2. 📔 Created new repository [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-3. ⭐ Starred [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
-4. 💬 Commented on [#38](https://github.com/hugomods/base/issues/38#issuecomment-1988239187) in [hugomods/base](https://github.com/hugomods/base)<br>
-5. 💬 Commented on [#38](https://github.com/hugomods/base/issues/38#issuecomment-1987831594) in [hugomods/base](https://github.com/hugomods/base)<br>
-6. 💬 Commented on [#38](https://github.com/hugomods/base/issues/38#issuecomment-1987735478) in [hugomods/base](https://github.com/hugomods/base)<br>
-7. 💪 Opened PR [#937](https://github.com/hugomods/site/pull/937) in [hugomods/site](https://github.com/hugomods/site)<br>
-8. 🎉 Merged PR [#338](https://github.com/hugomods/icons/pull/338) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#338](https://github.com/hugomods/icons/pull/338#pullrequestreview-1926773504) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 🎉 Merged PR [#55](https://github.com/hugomods/shortcodes/pull/55) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+1. 💬 Commented on [#39](https://github.com/hugomods/base/issues/39#issuecomment-1988628773) in [hugomods/base](https://github.com/hugomods/base)<br>
+2. 💬 Commented on [#4](https://github.com/hugomods/kroki/issues/4#issuecomment-1988408005) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+3. ❌ Closed PR [#2](https://github.com/hugomods/kroki/pull/2) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+4. 📔 Created new repository [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+5. ⭐ Starred [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
+6. 💬 Commented on [#38](https://github.com/hugomods/base/issues/38#issuecomment-1988239187) in [hugomods/base](https://github.com/hugomods/base)<br>
+7. 💬 Commented on [#38](https://github.com/hugomods/base/issues/38#issuecomment-1987831594) in [hugomods/base](https://github.com/hugomods/base)<br>
+8. 💬 Commented on [#38](https://github.com/hugomods/base/issues/38#issuecomment-1987735478) in [hugomods/base](https://github.com/hugomods/base)<br>
+9. 💪 Opened PR [#937](https://github.com/hugomods/site/pull/937) in [hugomods/site](https://github.com/hugomods/site)<br>
+10. 🎉 Merged PR [#338](https://github.com/hugomods/icons/pull/338) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
