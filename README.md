@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [apache/echarts](https://github.com/apache/echarts)<br>
-2. 💬 Commented on [#39](https://github.com/hugomods/base/issues/39#issuecomment-1988628773) in [hugomods/base](https://github.com/hugomods/base)<br>
-3. 💬 Commented on [#4](https://github.com/hugomods/kroki/issues/4#issuecomment-1988408005) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-4. ❌ Closed PR [#2](https://github.com/hugomods/kroki/pull/2) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-5. 📔 Created new repository [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-6. ⭐ Starred [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
-7. 💬 Commented on [#38](https://github.com/hugomods/base/issues/38#issuecomment-1988239187) in [hugomods/base](https://github.com/hugomods/base)<br>
-8. 💬 Commented on [#38](https://github.com/hugomods/base/issues/38#issuecomment-1987831594) in [hugomods/base](https://github.com/hugomods/base)<br>
-9. 💬 Commented on [#38](https://github.com/hugomods/base/issues/38#issuecomment-1987735478) in [hugomods/base](https://github.com/hugomods/base)<br>
-10. 💪 Opened PR [#937](https://github.com/hugomods/site/pull/937) in [hugomods/site](https://github.com/hugomods/site)<br>
+1. 💬 Commented on [#121](https://github.com/hugomods/bootstrap/issues/121#issuecomment-1989900004) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. 🎉 Merged PR [#135](https://github.com/hugomods/bootstrap/pull/135) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+3. 💪 Opened PR [#135](https://github.com/hugomods/bootstrap/pull/135) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. 🎉 Merged PR [#41](https://github.com/hugomods/base/pull/41) in [hugomods/base](https://github.com/hugomods/base)<br>
+5. 🎉 Merged PR [#40](https://github.com/hugomods/base/pull/40) in [hugomods/base](https://github.com/hugomods/base)<br>
+6. 💪 Opened PR [#40](https://github.com/hugomods/base/pull/40) in [hugomods/base](https://github.com/hugomods/base)<br>
+7. ⭐ Starred [apache/echarts](https://github.com/apache/echarts)<br>
+8. 💬 Commented on [#39](https://github.com/hugomods/base/issues/39#issuecomment-1988628773) in [hugomods/base](https://github.com/hugomods/base)<br>
+9. 💬 Commented on [#4](https://github.com/hugomods/kroki/issues/4#issuecomment-1988408005) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+10. ❌ Closed PR [#2](https://github.com/hugomods/kroki/pull/2) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
