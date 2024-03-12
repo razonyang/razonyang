@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-2. 💬 Commented on [#121](https://github.com/hugomods/bootstrap/issues/121#issuecomment-1989900004) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 🎉 Merged PR [#135](https://github.com/hugomods/bootstrap/pull/135) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 💪 Opened PR [#135](https://github.com/hugomods/bootstrap/pull/135) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. 🎉 Merged PR [#41](https://github.com/hugomods/base/pull/41) in [hugomods/base](https://github.com/hugomods/base)<br>
-6. 🎉 Merged PR [#40](https://github.com/hugomods/base/pull/40) in [hugomods/base](https://github.com/hugomods/base)<br>
-7. 💪 Opened PR [#40](https://github.com/hugomods/base/pull/40) in [hugomods/base](https://github.com/hugomods/base)<br>
-8. ⭐ Starred [apache/echarts](https://github.com/apache/echarts)<br>
-9. 💬 Commented on [#39](https://github.com/hugomods/base/issues/39#issuecomment-1988628773) in [hugomods/base](https://github.com/hugomods/base)<br>
-10. 💬 Commented on [#4](https://github.com/hugomods/kroki/issues/4#issuecomment-1988408005) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+1. ✌️ Released [](https://github.com/hugomods/apache-echarts/releases/tag/v5.5.0) in [hugomods/apache-echarts](https://github.com/hugomods/apache-echarts)<br>
+2. 📔 Created new repository [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+3. 💬 Commented on [#121](https://github.com/hugomods/bootstrap/issues/121#issuecomment-1989900004) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. 🎉 Merged PR [#135](https://github.com/hugomods/bootstrap/pull/135) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 💪 Opened PR [#135](https://github.com/hugomods/bootstrap/pull/135) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+6. 🎉 Merged PR [#41](https://github.com/hugomods/base/pull/41) in [hugomods/base](https://github.com/hugomods/base)<br>
+7. 🎉 Merged PR [#40](https://github.com/hugomods/base/pull/40) in [hugomods/base](https://github.com/hugomods/base)<br>
+8. 💪 Opened PR [#40](https://github.com/hugomods/base/pull/40) in [hugomods/base](https://github.com/hugomods/base)<br>
+9. ⭐ Starred [apache/echarts](https://github.com/apache/echarts)<br>
+10. 💬 Commented on [#39](https://github.com/hugomods/base/issues/39#issuecomment-1988628773) in [hugomods/base](https://github.com/hugomods/base)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
