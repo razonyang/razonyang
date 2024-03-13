@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#223](https://github.com/hbstack/theme-cards/pull/223) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-2. 👍 Approved [#223](https://github.com/hbstack/theme-cards/pull/223#pullrequestreview-1934590576) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-3. ❌ Closed PR [#941](https://github.com/hugomods/site/pull/941) in [hugomods/site](https://github.com/hugomods/site)<br>
-4. ❌ Closed PR [#938](https://github.com/hugomods/site/pull/938) in [hugomods/site](https://github.com/hugomods/site)<br>
-5. ❌ Closed PR [#936](https://github.com/hugomods/site/pull/936) in [hugomods/site](https://github.com/hugomods/site)<br>
-6. ❌ Closed PR [#935](https://github.com/hugomods/site/pull/935) in [hugomods/site](https://github.com/hugomods/site)<br>
-7. ❌ Closed PR [#934](https://github.com/hugomods/site/pull/934) in [hugomods/site](https://github.com/hugomods/site)<br>
-8. ❌ Closed PR [#933](https://github.com/hugomods/site/pull/933) in [hugomods/site](https://github.com/hugomods/site)<br>
-9. ❌ Closed PR [#932](https://github.com/hugomods/site/pull/932) in [hugomods/site](https://github.com/hugomods/site)<br>
-10. ❌ Closed PR [#931](https://github.com/hugomods/site/pull/931) in [hugomods/site](https://github.com/hugomods/site)<br>
+1. ❗️ Opened issue [#136](https://github.com/hugomods/bootstrap/issues/136) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+2. 💬 Commented on [#223](https://github.com/hbstack/theme-cards/pull/223#issuecomment-1994799236) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+3. 🎉 Merged PR [#223](https://github.com/hbstack/theme-cards/pull/223) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+4. 👍 Approved [#223](https://github.com/hbstack/theme-cards/pull/223#pullrequestreview-1934590576) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+5. ❌ Closed PR [#941](https://github.com/hugomods/site/pull/941) in [hugomods/site](https://github.com/hugomods/site)<br>
+6. ❌ Closed PR [#938](https://github.com/hugomods/site/pull/938) in [hugomods/site](https://github.com/hugomods/site)<br>
+7. ❌ Closed PR [#936](https://github.com/hugomods/site/pull/936) in [hugomods/site](https://github.com/hugomods/site)<br>
+8. ❌ Closed PR [#935](https://github.com/hugomods/site/pull/935) in [hugomods/site](https://github.com/hugomods/site)<br>
+9. ❌ Closed PR [#934](https://github.com/hugomods/site/pull/934) in [hugomods/site](https://github.com/hugomods/site)<br>
+10. ❌ Closed PR [#933](https://github.com/hugomods/site/pull/933) in [hugomods/site](https://github.com/hugomods/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
