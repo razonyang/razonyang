@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5](https://github.com/hugomods/echarts/pull/5#issuecomment-1993806792) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-2. 🎉 Merged PR [#5](https://github.com/hugomods/echarts/pull/5) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-3. 💪 Opened PR [#5](https://github.com/hugomods/echarts/pull/5) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-4. 💬 Commented on [#646](https://github.com/peaceiris/actions-hugo/pull/646#issuecomment-1993201273) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-5. 🎉 Merged PR [#1](https://github.com/razonyang/github-workflows-testing/pull/1) in [razonyang/github-workflows-testing](https://github.com/razonyang/github-workflows-testing)<br>
-6. 💪 Opened PR [#646](https://github.com/peaceiris/actions-hugo/pull/646) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-7. 🔱 Forked [razonyang/actions-hugo](https://github.com/razonyang/actions-hugo) from [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-8. ❗️ Opened issue [#645](https://github.com/peaceiris/actions-hugo/issues/645) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-9. 📔 Created new repository [razonyang/github-workflows-testing](https://github.com/razonyang/github-workflows-testing)<br>
-10. 🎉 Merged PR [#187](https://github.com/hbstack/hb/pull/187) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. ❌ Closed PR [#941](https://github.com/hugomods/site/pull/941) in [hugomods/site](https://github.com/hugomods/site)<br>
+2. ❌ Closed PR [#938](https://github.com/hugomods/site/pull/938) in [hugomods/site](https://github.com/hugomods/site)<br>
+3. ❌ Closed PR [#936](https://github.com/hugomods/site/pull/936) in [hugomods/site](https://github.com/hugomods/site)<br>
+4. ❌ Closed PR [#935](https://github.com/hugomods/site/pull/935) in [hugomods/site](https://github.com/hugomods/site)<br>
+5. ❌ Closed PR [#934](https://github.com/hugomods/site/pull/934) in [hugomods/site](https://github.com/hugomods/site)<br>
+6. ❌ Closed PR [#933](https://github.com/hugomods/site/pull/933) in [hugomods/site](https://github.com/hugomods/site)<br>
+7. ❌ Closed PR [#932](https://github.com/hugomods/site/pull/932) in [hugomods/site](https://github.com/hugomods/site)<br>
+8. ❌ Closed PR [#931](https://github.com/hugomods/site/pull/931) in [hugomods/site](https://github.com/hugomods/site)<br>
+9. ❌ Closed PR [#930](https://github.com/hugomods/site/pull/930) in [hugomods/site](https://github.com/hugomods/site)<br>
+10. ❌ Closed PR [#929](https://github.com/hugomods/site/pull/929) in [hugomods/site](https://github.com/hugomods/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
