@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#5](https://github.com/hugomods/echarts/pull/5#issuecomment-1996672142) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-2. 🎉 Merged PR [#138](https://github.com/hugomods/bootstrap/pull/138) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 🎉 Merged PR [#137](https://github.com/hugomods/bootstrap/pull/137) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 💪 Opened PR [#137](https://github.com/hugomods/bootstrap/pull/137) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. 💬 Commented on [#24](https://github.com/hbstack/social-share-buttons/issues/24#issuecomment-1996250469) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-6. 🎉 Merged PR [#26](https://github.com/hbstack/social-share-buttons/pull/26) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-7. ✔️ Closed issue [#24](https://github.com/hbstack/social-share-buttons/issues/24) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-8. 🎉 Merged PR [#25](https://github.com/hbstack/social-share-buttons/pull/25) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-9. 💪 Opened PR [#25](https://github.com/hbstack/social-share-buttons/pull/25) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-10. ❗️ Opened issue [#136](https://github.com/hugomods/bootstrap/issues/136) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+1. 💬 Commented on [#4](https://github.com/hugomods/kroki/issues/4#issuecomment-1996821846) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+2. ✔️ Closed issue [#4](https://github.com/hugomods/kroki/issues/4) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+3. 🎉 Merged PR [#3](https://github.com/hugomods/kroki/pull/3) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+4. 🎉 Merged PR [#7](https://github.com/hugomods/echarts/pull/7) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+5. 💬 Commented on [#5](https://github.com/hugomods/echarts/pull/5#issuecomment-1996765429) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+6. 🎉 Merged PR [#6](https://github.com/hugomods/echarts/pull/6) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+7. 🎉 Merged PR [#3](https://github.com/hugomods/echarts/pull/3) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+8. 💬 Commented on [#5](https://github.com/hugomods/echarts/pull/5#issuecomment-1996672142) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+9. 🎉 Merged PR [#138](https://github.com/hugomods/bootstrap/pull/138) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+10. 🎉 Merged PR [#137](https://github.com/hugomods/bootstrap/pull/137) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
