@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#136](https://github.com/hugomods/bootstrap/issues/136) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 💬 Commented on [#223](https://github.com/hbstack/theme-cards/pull/223#issuecomment-1994799236) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-3. 🎉 Merged PR [#223](https://github.com/hbstack/theme-cards/pull/223) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-4. 👍 Approved [#223](https://github.com/hbstack/theme-cards/pull/223#pullrequestreview-1934590576) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-5. ❌ Closed PR [#941](https://github.com/hugomods/site/pull/941) in [hugomods/site](https://github.com/hugomods/site)<br>
-6. ❌ Closed PR [#938](https://github.com/hugomods/site/pull/938) in [hugomods/site](https://github.com/hugomods/site)<br>
-7. ❌ Closed PR [#936](https://github.com/hugomods/site/pull/936) in [hugomods/site](https://github.com/hugomods/site)<br>
-8. ❌ Closed PR [#935](https://github.com/hugomods/site/pull/935) in [hugomods/site](https://github.com/hugomods/site)<br>
-9. ❌ Closed PR [#934](https://github.com/hugomods/site/pull/934) in [hugomods/site](https://github.com/hugomods/site)<br>
-10. ❌ Closed PR [#933](https://github.com/hugomods/site/pull/933) in [hugomods/site](https://github.com/hugomods/site)<br>
+1. 💬 Commented on [#24](https://github.com/hbstack/social-share-buttons/issues/24#issuecomment-1996250469) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+2. 🎉 Merged PR [#26](https://github.com/hbstack/social-share-buttons/pull/26) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+3. ✔️ Closed issue [#24](https://github.com/hbstack/social-share-buttons/issues/24) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+4. 🎉 Merged PR [#25](https://github.com/hbstack/social-share-buttons/pull/25) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+5. 💪 Opened PR [#25](https://github.com/hbstack/social-share-buttons/pull/25) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+6. ❗️ Opened issue [#136](https://github.com/hugomods/bootstrap/issues/136) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+7. 💬 Commented on [#223](https://github.com/hbstack/theme-cards/pull/223#issuecomment-1994799236) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+8. 🎉 Merged PR [#223](https://github.com/hbstack/theme-cards/pull/223) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+9. 👍 Approved [#223](https://github.com/hbstack/theme-cards/pull/223#pullrequestreview-1934590576) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+10. ❌ Closed PR [#941](https://github.com/hugomods/site/pull/941) in [hugomods/site](https://github.com/hugomods/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
