@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#4](https://github.com/hugomods/kroki/issues/4#issuecomment-1996821846) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-2. ✔️ Closed issue [#4](https://github.com/hugomods/kroki/issues/4) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-3. 🎉 Merged PR [#3](https://github.com/hugomods/kroki/pull/3) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-4. 🎉 Merged PR [#7](https://github.com/hugomods/echarts/pull/7) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-5. 💬 Commented on [#5](https://github.com/hugomods/echarts/pull/5#issuecomment-1996765429) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-6. 🎉 Merged PR [#6](https://github.com/hugomods/echarts/pull/6) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-7. 🎉 Merged PR [#3](https://github.com/hugomods/echarts/pull/3) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-8. 💬 Commented on [#5](https://github.com/hugomods/echarts/pull/5#issuecomment-1996672142) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-9. 🎉 Merged PR [#138](https://github.com/hugomods/bootstrap/pull/138) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-10. 🎉 Merged PR [#137](https://github.com/hugomods/bootstrap/pull/137) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+1. 🎉 Merged PR [#9](https://github.com/hugomods/echarts/pull/9) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+2. 🎉 Merged PR [#8](https://github.com/hugomods/echarts/pull/8) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+3. 💪 Opened PR [#8](https://github.com/hugomods/echarts/pull/8) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+4. 💬 Commented on [#4](https://github.com/hugomods/kroki/issues/4#issuecomment-1996821846) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+5. ✔️ Closed issue [#4](https://github.com/hugomods/kroki/issues/4) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+6. 🎉 Merged PR [#3](https://github.com/hugomods/kroki/pull/3) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+7. 🎉 Merged PR [#7](https://github.com/hugomods/echarts/pull/7) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+8. 💬 Commented on [#5](https://github.com/hugomods/echarts/pull/5#issuecomment-1996765429) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+9. 🎉 Merged PR [#6](https://github.com/hugomods/echarts/pull/6) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+10. 🎉 Merged PR [#3](https://github.com/hugomods/echarts/pull/3) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
