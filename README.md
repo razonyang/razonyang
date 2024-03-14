@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#10](https://github.com/hugomods/echarts/issues/10) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-2. ⭐ Starred [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-3. 💬 Commented on [#4](https://github.com/hugomods/echarts/issues/4#issuecomment-1997015023) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-4. ✔️ Closed issue [#4](https://github.com/hugomods/echarts/issues/4) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-5. 💬 Commented on [#5](https://github.com/hugomods/echarts/pull/5#issuecomment-1997013727) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-6. 🎉 Merged PR [#9](https://github.com/hugomods/echarts/pull/9) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-7. 🎉 Merged PR [#8](https://github.com/hugomods/echarts/pull/8) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-8. 💪 Opened PR [#8](https://github.com/hugomods/echarts/pull/8) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-9. 💬 Commented on [#4](https://github.com/hugomods/kroki/issues/4#issuecomment-1996821846) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-10. ✔️ Closed issue [#4](https://github.com/hugomods/kroki/issues/4) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+1. 🎉 Merged PR [#1](https://github.com/hbstack/echarts/pull/1) in [hbstack/echarts](https://github.com/hbstack/echarts)<br>
+2. 📔 Created new repository [hbstack/echarts](https://github.com/hbstack/echarts)<br>
+3. ❗️ Opened issue [#10](https://github.com/hugomods/echarts/issues/10) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+4. ⭐ Starred [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+5. 💬 Commented on [#4](https://github.com/hugomods/echarts/issues/4#issuecomment-1997015023) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+6. ✔️ Closed issue [#4](https://github.com/hugomods/echarts/issues/4) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+7. 💬 Commented on [#5](https://github.com/hugomods/echarts/pull/5#issuecomment-1997013727) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+8. 🎉 Merged PR [#9](https://github.com/hugomods/echarts/pull/9) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+9. 🎉 Merged PR [#8](https://github.com/hugomods/echarts/pull/8) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+10. 💪 Opened PR [#8](https://github.com/hugomods/echarts/pull/8) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
