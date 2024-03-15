@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3](https://github.com/hbstack/echarts/issues/3) in [hbstack/echarts](https://github.com/hbstack/echarts)<br>
-2. 🎉 Merged PR [#49](https://github.com/hugomods/images/pull/49) in [hugomods/images](https://github.com/hugomods/images)<br>
-3. 🎉 Merged PR [#50](https://github.com/hugomods/images/pull/50) in [hugomods/images](https://github.com/hugomods/images)<br>
-4. 💪 Opened PR [#50](https://github.com/hugomods/images/pull/50) in [hugomods/images](https://github.com/hugomods/images)<br>
-5. 🎉 Merged PR [#48](https://github.com/hugomods/images/pull/48) in [hugomods/images](https://github.com/hugomods/images)<br>
-6. 💪 Opened PR [#48](https://github.com/hugomods/images/pull/48) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. 🎉 Merged PR [#340](https://github.com/hugomods/icons/pull/340) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 👍 Approved [#340](https://github.com/hugomods/icons/pull/340#pullrequestreview-1937965864) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 🎉 Merged PR [#1](https://github.com/hbstack/echarts/pull/1) in [hbstack/echarts](https://github.com/hbstack/echarts)<br>
-10. 📔 Created new repository [hbstack/echarts](https://github.com/hbstack/echarts)<br>
+1. 💬 Commented on [#4](https://github.com/hugomods/kroki/issues/4#issuecomment-1999184058) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+2. ⭐ Starred [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+3. 🎉 Merged PR [#2](https://github.com/hbstack/kroki/pull/2) in [hbstack/kroki](https://github.com/hbstack/kroki)<br>
+4. 📔 Created new repository [hbstack/kroki](https://github.com/hbstack/kroki)<br>
+5. 🎉 Merged PR [#5](https://github.com/hugomods/kroki/pull/5) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+6. ❗️ Opened issue [#3](https://github.com/hbstack/echarts/issues/3) in [hbstack/echarts](https://github.com/hbstack/echarts)<br>
+7. 🎉 Merged PR [#49](https://github.com/hugomods/images/pull/49) in [hugomods/images](https://github.com/hugomods/images)<br>
+8. 🎉 Merged PR [#50](https://github.com/hugomods/images/pull/50) in [hugomods/images](https://github.com/hugomods/images)<br>
+9. 💪 Opened PR [#50](https://github.com/hugomods/images/pull/50) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. 🎉 Merged PR [#48](https://github.com/hugomods/images/pull/48) in [hugomods/images](https://github.com/hugomods/images)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
