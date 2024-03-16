@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2002065462) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-2. ✔️ Closed issue [#189](https://github.com/hbstack/hb/issues/189) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-3. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)<br>
-4. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)<br>
-5. 💪 Opened PR [#68](https://github.com/uetchy/create-create-app/pull/68) in [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
-6. 🔱 Forked [razonyang/create-create-app](https://github.com/razonyang/create-create-app) from [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
-7. ⭐ Starred [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
-8. 💬 Commented on [#42](https://github.com/hugomods/base/issues/42#issuecomment-2001351952) in [hugomods/base](https://github.com/hugomods/base)<br>
-9. ✔️ Closed issue [#42](https://github.com/hugomods/base/issues/42) in [hugomods/base](https://github.com/hugomods/base)<br>
-10. 🎉 Merged PR [#554](https://github.com/hbstack/header/pull/554) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)<br>
+2. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2002065462) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+3. ✔️ Closed issue [#189](https://github.com/hbstack/hb/issues/189) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+4. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)<br>
+5. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)<br>
+6. 💪 Opened PR [#68](https://github.com/uetchy/create-create-app/pull/68) in [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
+7. 🔱 Forked [razonyang/create-create-app](https://github.com/razonyang/create-create-app) from [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
+8. ⭐ Starred [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
+9. 💬 Commented on [#42](https://github.com/hugomods/base/issues/42#issuecomment-2001351952) in [hugomods/base](https://github.com/hugomods/base)<br>
+10. ✔️ Closed issue [#42](https://github.com/hugomods/base/issues/42) in [hugomods/base](https://github.com/hugomods/base)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
