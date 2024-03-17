@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#588](https://github.com/hbstack/docs/pull/588) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. 🎉 Merged PR [#716](https://github.com/hbstack/blog/pull/716) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.9.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-4. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)<br>
-5. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2002065462) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-6. ✔️ Closed issue [#189](https://github.com/hbstack/hb/issues/189) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-7. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)<br>
-8. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)<br>
-9. 💪 Opened PR [#68](https://github.com/uetchy/create-create-app/pull/68) in [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
-10. 🔱 Forked [razonyang/create-create-app](https://github.com/razonyang/create-create-app) from [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
+1. 🎉 Merged PR [#345](https://github.com/hugomods/icons/pull/345) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#345](https://github.com/hugomods/icons/pull/345#pullrequestreview-1941388281) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#588](https://github.com/hbstack/docs/pull/588) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. 🎉 Merged PR [#716](https://github.com/hbstack/blog/pull/716) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.9.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+6. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)<br>
+7. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2002065462) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+8. ✔️ Closed issue [#189](https://github.com/hbstack/hb/issues/189) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)<br>
+10. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
