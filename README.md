@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)<br>
-2. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2002065462) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-3. ✔️ Closed issue [#189](https://github.com/hbstack/hb/issues/189) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-4. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)<br>
-5. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)<br>
-6. 💪 Opened PR [#68](https://github.com/uetchy/create-create-app/pull/68) in [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
-7. 🔱 Forked [razonyang/create-create-app](https://github.com/razonyang/create-create-app) from [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
-8. ⭐ Starred [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
-9. 💬 Commented on [#42](https://github.com/hugomods/base/issues/42#issuecomment-2001351952) in [hugomods/base](https://github.com/hugomods/base)<br>
-10. ✔️ Closed issue [#42](https://github.com/hugomods/base/issues/42) in [hugomods/base](https://github.com/hugomods/base)<br>
+1. 🎉 Merged PR [#588](https://github.com/hbstack/docs/pull/588) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. 🎉 Merged PR [#716](https://github.com/hbstack/blog/pull/716) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.9.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+4. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)<br>
+5. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2002065462) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+6. ✔️ Closed issue [#189](https://github.com/hbstack/hb/issues/189) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+7. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)<br>
+8. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)<br>
+9. 💪 Opened PR [#68](https://github.com/uetchy/create-create-app/pull/68) in [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
+10. 🔱 Forked [razonyang/create-create-app](https://github.com/razonyang/create-create-app) from [uetchy/create-create-app](https://github.com/uetchy/create-create-app)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
