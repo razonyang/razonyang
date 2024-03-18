@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#345](https://github.com/hugomods/icons/pull/345) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#345](https://github.com/hugomods/icons/pull/345#pullrequestreview-1941388281) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 🎉 Merged PR [#588](https://github.com/hbstack/docs/pull/588) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-4. 🎉 Merged PR [#716](https://github.com/hbstack/blog/pull/716) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.9.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-6. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)<br>
-7. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2002065462) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-8. ✔️ Closed issue [#189](https://github.com/hbstack/hb/issues/189) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-9. ⭐ Starred [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea)<br>
-10. ⭐ Starred [rivo/tview](https://github.com/rivo/tview)<br>
+1. ❗️ Opened issue [#143](https://github.com/hbstack/disqus/issues/143) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+2. 💬 Commented on [#762](https://github.com/hbstack/site/pull/762#issuecomment-2002748357) in [hbstack/site](https://github.com/hbstack/site)<br>
+3. 🎉 Merged PR [#762](https://github.com/hbstack/site/pull/762) in [hbstack/site](https://github.com/hbstack/site)<br>
+4. 👍 Approved [#762](https://github.com/hbstack/site/pull/762#pullrequestreview-1941837900) in [hbstack/site](https://github.com/hbstack/site)<br>
+5. 🎉 Merged PR [#345](https://github.com/hugomods/icons/pull/345) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 👍 Approved [#345](https://github.com/hugomods/icons/pull/345#pullrequestreview-1941388281) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 🎉 Merged PR [#588](https://github.com/hbstack/docs/pull/588) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. 🎉 Merged PR [#716](https://github.com/hbstack/blog/pull/716) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.9.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+10. ⭐ Starred [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
