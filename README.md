@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#143](https://github.com/hbstack/disqus/issues/143#issuecomment-2008475254) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
-2. 🎉 Merged PR [#147](https://github.com/hbstack/disqus/pull/147) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
-3. ✔️ Closed issue [#143](https://github.com/hbstack/disqus/issues/143) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
-4. 🎉 Merged PR [#146](https://github.com/hbstack/disqus/pull/146) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
-5. 💪 Opened PR [#146](https://github.com/hbstack/disqus/pull/146) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
-6. 💬 Commented on [#143](https://github.com/hbstack/disqus/issues/143#issuecomment-2005672839) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
-7. 💬 Commented on [#1033](https://github.com/razonyang/hugo-theme-bootstrap/pull/1033#issuecomment-2004449277) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 🎉 Merged PR [#1033](https://github.com/razonyang/hugo-theme-bootstrap/pull/1033) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 👍 Approved [#1033](https://github.com/razonyang/hugo-theme-bootstrap/pull/1033#pullrequestreview-1943669308) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. ❗️ Opened issue [#143](https://github.com/hbstack/disqus/issues/143) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+1. 💬 Commented on [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035#issuecomment-2008981354) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 💬 Commented on [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035#issuecomment-2008949896) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 💬 Commented on [#143](https://github.com/hbstack/disqus/issues/143#issuecomment-2008475254) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+4. 🎉 Merged PR [#147](https://github.com/hbstack/disqus/pull/147) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+5. ✔️ Closed issue [#143](https://github.com/hbstack/disqus/issues/143) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+6. 🎉 Merged PR [#146](https://github.com/hbstack/disqus/pull/146) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+7. 💪 Opened PR [#146](https://github.com/hbstack/disqus/pull/146) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+8. 💬 Commented on [#143](https://github.com/hbstack/disqus/issues/143#issuecomment-2005672839) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+9. 💬 Commented on [#1033](https://github.com/razonyang/hugo-theme-bootstrap/pull/1033#issuecomment-2004449277) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 🎉 Merged PR [#1033](https://github.com/razonyang/hugo-theme-bootstrap/pull/1033) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
