@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#558](https://github.com/hbstack/header/pull/558) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 💬 Commented on [#138](https://github.com/hbstack/background-image/issues/138#issuecomment-2009587976) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
-3. 🎉 Merged PR [#80](https://github.com/hbstack/background-image/pull/80) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
-4. ✔️ Closed issue [#138](https://github.com/hbstack/background-image/issues/138) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
-5. 🎉 Merged PR [#139](https://github.com/hbstack/background-image/pull/139) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
-6. 💪 Opened PR [#139](https://github.com/hbstack/background-image/pull/139) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
-7. 💬 Commented on [#138](https://github.com/hbstack/background-image/issues/138#issuecomment-2009562258) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
-8. ❗️ Opened issue [#138](https://github.com/hbstack/background-image/issues/138) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
-9. 💪 Opened PR [#2](https://github.com/LITUATUI/pushevs.com/pull/2) in [LITUATUI/pushevs.com](https://github.com/LITUATUI/pushevs.com)<br>
-10. 💪 Opened PR [#1](https://github.com/LITUATUI/pushevs.com/pull/1) in [LITUATUI/pushevs.com](https://github.com/LITUATUI/pushevs.com)<br>
+1. ❌ Closed PR [#6](https://github.com/jmooring/hugo-testing/pull/6) in [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
+2. 💬 Commented on [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035#issuecomment-2010068597) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. ✔️ Closed issue [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2010013819) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+5. 💪 Opened PR [#6](https://github.com/jmooring/hugo-testing/pull/6) in [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
+6. 🎉 Merged PR [#558](https://github.com/hbstack/header/pull/558) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 💬 Commented on [#138](https://github.com/hbstack/background-image/issues/138#issuecomment-2009587976) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
+8. 🎉 Merged PR [#80](https://github.com/hbstack/background-image/pull/80) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
+9. ✔️ Closed issue [#138](https://github.com/hbstack/background-image/issues/138) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
+10. 🎉 Merged PR [#139](https://github.com/hbstack/background-image/pull/139) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
