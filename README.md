@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/LITUATUI/pushevs.com/pull/2) in [LITUATUI/pushevs.com](https://github.com/LITUATUI/pushevs.com)<br>
-2. 💪 Opened PR [#1](https://github.com/LITUATUI/pushevs.com/pull/1) in [LITUATUI/pushevs.com](https://github.com/LITUATUI/pushevs.com)<br>
-3. 🔱 Forked [razonyang/pushevs.com](https://github.com/razonyang/pushevs.com) from [LITUATUI/pushevs.com](https://github.com/LITUATUI/pushevs.com)<br>
-4. 💬 Commented on [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035#issuecomment-2008981354) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 💬 Commented on [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035#issuecomment-2008949896) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💬 Commented on [#143](https://github.com/hbstack/disqus/issues/143#issuecomment-2008475254) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
-7. 🎉 Merged PR [#147](https://github.com/hbstack/disqus/pull/147) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
-8. ✔️ Closed issue [#143](https://github.com/hbstack/disqus/issues/143) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
-9. 🎉 Merged PR [#146](https://github.com/hbstack/disqus/pull/146) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
-10. 💪 Opened PR [#146](https://github.com/hbstack/disqus/pull/146) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+1. ❗️ Opened issue [#138](https://github.com/hbstack/background-image/issues/138) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
+2. 💪 Opened PR [#2](https://github.com/LITUATUI/pushevs.com/pull/2) in [LITUATUI/pushevs.com](https://github.com/LITUATUI/pushevs.com)<br>
+3. 💪 Opened PR [#1](https://github.com/LITUATUI/pushevs.com/pull/1) in [LITUATUI/pushevs.com](https://github.com/LITUATUI/pushevs.com)<br>
+4. 🔱 Forked [razonyang/pushevs.com](https://github.com/razonyang/pushevs.com) from [LITUATUI/pushevs.com](https://github.com/LITUATUI/pushevs.com)<br>
+5. 💬 Commented on [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035#issuecomment-2008981354) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💬 Commented on [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035#issuecomment-2008949896) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. 💬 Commented on [#143](https://github.com/hbstack/disqus/issues/143#issuecomment-2008475254) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+8. 🎉 Merged PR [#147](https://github.com/hbstack/disqus/pull/147) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+9. ✔️ Closed issue [#143](https://github.com/hbstack/disqus/issues/143) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+10. 🎉 Merged PR [#146](https://github.com/hbstack/disqus/pull/146) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
