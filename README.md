@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#140](https://github.com/hugomods/bootstrap/pull/140) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2010318843) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-3. ❌ Closed PR [#6](https://github.com/jmooring/hugo-testing/pull/6) in [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
-4. 💬 Commented on [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035#issuecomment-2010068597) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. ✔️ Closed issue [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2010013819) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-7. 💪 Opened PR [#6](https://github.com/jmooring/hugo-testing/pull/6) in [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
-8. 🎉 Merged PR [#558](https://github.com/hbstack/header/pull/558) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 💬 Commented on [#138](https://github.com/hbstack/background-image/issues/138#issuecomment-2009587976) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
-10. 🎉 Merged PR [#80](https://github.com/hbstack/background-image/pull/80) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
+1. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2011090238) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. 🎉 Merged PR [#140](https://github.com/hugomods/bootstrap/pull/140) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+3. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2010318843) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+4. ❌ Closed PR [#6](https://github.com/jmooring/hugo-testing/pull/6) in [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
+5. 💬 Commented on [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035#issuecomment-2010068597) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. ✔️ Closed issue [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2010013819) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+8. 💪 Opened PR [#6](https://github.com/jmooring/hugo-testing/pull/6) in [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
+9. 🎉 Merged PR [#558](https://github.com/hbstack/header/pull/558) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 💬 Commented on [#138](https://github.com/hbstack/background-image/issues/138#issuecomment-2009587976) in [hbstack/background-image](https://github.com/hbstack/background-image)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
