@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2011248427) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-2. 🎉 Merged PR [#44](https://github.com/hugomods/base/pull/44) in [hugomods/base](https://github.com/hugomods/base)<br>
-3. 🎉 Merged PR [#43](https://github.com/hugomods/base/pull/43) in [hugomods/base](https://github.com/hugomods/base)<br>
-4. 💪 Opened PR [#43](https://github.com/hugomods/base/pull/43) in [hugomods/base](https://github.com/hugomods/base)<br>
-5. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2011210929) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2011090238) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-7. 🎉 Merged PR [#140](https://github.com/hugomods/bootstrap/pull/140) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-8. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2010318843) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-9. ❌ Closed PR [#6](https://github.com/jmooring/hugo-testing/pull/6) in [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
-10. 💬 Commented on [#1035](https://github.com/razonyang/hugo-theme-bootstrap/issues/1035#issuecomment-2010068597) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. ✔️ Closed issue [#234](https://github.com/hbstack/theme-cards/issues/234) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2011248427) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+3. 🎉 Merged PR [#44](https://github.com/hugomods/base/pull/44) in [hugomods/base](https://github.com/hugomods/base)<br>
+4. 🎉 Merged PR [#43](https://github.com/hugomods/base/pull/43) in [hugomods/base](https://github.com/hugomods/base)<br>
+5. 💪 Opened PR [#43](https://github.com/hugomods/base/pull/43) in [hugomods/base](https://github.com/hugomods/base)<br>
+6. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2011210929) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+7. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2011090238) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+8. 🎉 Merged PR [#140](https://github.com/hugomods/bootstrap/pull/140) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2010318843) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+10. ❌ Closed PR [#6](https://github.com/jmooring/hugo-testing/pull/6) in [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
