@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#726](https://github.com/hbstack/blog/pull/726) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 🎉 Merged PR [#725](https://github.com/hbstack/blog/pull/725) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 💪 Opened PR [#725](https://github.com/hbstack/blog/pull/725) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2014454206) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-5. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2014452460) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-6. 🎉 Merged PR [#146](https://github.com/hugomods/bootstrap/pull/146) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-7. ⭐ Starred [zitadel/zitadel](https://github.com/zitadel/zitadel)<br>
-8. 🎉 Merged PR [#145](https://github.com/hugomods/bootstrap/pull/145) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-9. 🎉 Merged PR [#144](https://github.com/hugomods/bootstrap/pull/144) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-10. 🎉 Merged PR [#143](https://github.com/hugomods/bootstrap/pull/143) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+1. 🎉 Merged PR [#166](https://github.com/hugomods/decap-cms/pull/166) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 👍 Approved [#166](https://github.com/hugomods/decap-cms/pull/166#pullrequestreview-1955213801) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 🎉 Merged PR [#726](https://github.com/hbstack/blog/pull/726) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 🎉 Merged PR [#725](https://github.com/hbstack/blog/pull/725) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 💪 Opened PR [#725](https://github.com/hbstack/blog/pull/725) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2014454206) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+7. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2014452460) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+8. 🎉 Merged PR [#146](https://github.com/hugomods/bootstrap/pull/146) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. ⭐ Starred [zitadel/zitadel](https://github.com/zitadel/zitadel)<br>
+10. 🎉 Merged PR [#145](https://github.com/hugomods/bootstrap/pull/145) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
