@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#146](https://github.com/hugomods/bootstrap/pull/146) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. ⭐ Starred [zitadel/zitadel](https://github.com/zitadel/zitadel)<br>
-3. 🎉 Merged PR [#145](https://github.com/hugomods/bootstrap/pull/145) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 🎉 Merged PR [#144](https://github.com/hugomods/bootstrap/pull/144) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. 🎉 Merged PR [#143](https://github.com/hugomods/bootstrap/pull/143) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-6. ✔️ Closed issue [#141](https://github.com/hugomods/bootstrap/issues/141) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-7. 💪 Opened PR [#143](https://github.com/hugomods/bootstrap/pull/143) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-8. ❗️ Opened issue [#141](https://github.com/hugomods/bootstrap/issues/141) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-9. ✔️ Closed issue [#234](https://github.com/hbstack/theme-cards/issues/234) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-10. 💬 Commented on [#234](https://github.com/hbstack/theme-cards/issues/234#issuecomment-2011248427) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+1. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2014454206) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+2. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2014452460) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+3. 🎉 Merged PR [#146](https://github.com/hugomods/bootstrap/pull/146) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. ⭐ Starred [zitadel/zitadel](https://github.com/zitadel/zitadel)<br>
+5. 🎉 Merged PR [#145](https://github.com/hugomods/bootstrap/pull/145) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+6. 🎉 Merged PR [#144](https://github.com/hugomods/bootstrap/pull/144) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+7. 🎉 Merged PR [#143](https://github.com/hugomods/bootstrap/pull/143) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+8. ✔️ Closed issue [#141](https://github.com/hugomods/bootstrap/issues/141) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. 💪 Opened PR [#143](https://github.com/hugomods/bootstrap/pull/143) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+10. ❗️ Opened issue [#141](https://github.com/hugomods/bootstrap/issues/141) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
