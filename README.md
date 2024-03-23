@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#245](https://github.com/hbstack/theme-cards/issues/245#issuecomment-2015946510) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-2. 🎉 Merged PR [#166](https://github.com/hugomods/decap-cms/pull/166) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-3. 👍 Approved [#166](https://github.com/hugomods/decap-cms/pull/166#pullrequestreview-1955213801) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-4. 🎉 Merged PR [#726](https://github.com/hbstack/blog/pull/726) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 🎉 Merged PR [#725](https://github.com/hbstack/blog/pull/725) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 💪 Opened PR [#725](https://github.com/hbstack/blog/pull/725) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2014454206) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-8. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2014452460) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-9. 🎉 Merged PR [#146](https://github.com/hugomods/bootstrap/pull/146) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-10. ⭐ Starred [zitadel/zitadel](https://github.com/zitadel/zitadel)<br>
+1. 💬 Commented on [#245](https://github.com/hbstack/theme-cards/issues/245#issuecomment-2016356824) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2016355313) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+3. 💬 Commented on [#245](https://github.com/hbstack/theme-cards/issues/245#issuecomment-2015946510) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+4. 🎉 Merged PR [#166](https://github.com/hugomods/decap-cms/pull/166) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+5. 👍 Approved [#166](https://github.com/hugomods/decap-cms/pull/166#pullrequestreview-1955213801) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+6. 🎉 Merged PR [#726](https://github.com/hbstack/blog/pull/726) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. 🎉 Merged PR [#725](https://github.com/hbstack/blog/pull/725) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 💪 Opened PR [#725](https://github.com/hbstack/blog/pull/725) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2014454206) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+10. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2014452460) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
