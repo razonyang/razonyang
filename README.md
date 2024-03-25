@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#18](https://github.com/hugomods/katex/pull/18) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-2. 🎉 Merged PR [#347](https://github.com/hugomods/icons/pull/347) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#347](https://github.com/hugomods/icons/pull/347#pullrequestreview-1956599402) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.10.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-5. 💬 Commented on [#245](https://github.com/hbstack/theme-cards/issues/245#issuecomment-2016356824) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2016355313) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-7. 💬 Commented on [#245](https://github.com/hbstack/theme-cards/issues/245#issuecomment-2015946510) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-8. 🎉 Merged PR [#166](https://github.com/hugomods/decap-cms/pull/166) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 👍 Approved [#166](https://github.com/hugomods/decap-cms/pull/166#pullrequestreview-1955213801) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-10. 🎉 Merged PR [#726](https://github.com/hbstack/blog/pull/726) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 🎉 Merged PR [#149](https://github.com/hbstack/base/pull/149) in [hbstack/base](https://github.com/hbstack/base)<br>
+2. 🎉 Merged PR [#148](https://github.com/hbstack/base/pull/148) in [hbstack/base](https://github.com/hbstack/base)<br>
+3. 💪 Opened PR [#148](https://github.com/hbstack/base/pull/148) in [hbstack/base](https://github.com/hbstack/base)<br>
+4. ❗️ Opened issue [#12307](https://github.com/gohugoio/hugo/issues/12307) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+5. 🎉 Merged PR [#18](https://github.com/hugomods/katex/pull/18) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+6. 🎉 Merged PR [#347](https://github.com/hugomods/icons/pull/347) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 👍 Approved [#347](https://github.com/hugomods/icons/pull/347#pullrequestreview-1956599402) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.10.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+9. 💬 Commented on [#245](https://github.com/hbstack/theme-cards/issues/245#issuecomment-2016356824) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+10. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2016355313) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
