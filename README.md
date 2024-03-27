@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#11196](https://github.com/ant-design/ant-design-pro/issues/11196) in [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)<br>
-2. ⭐ Starred [pipe01/esbuild-plugin-vue3](https://github.com/pipe01/esbuild-plugin-vue3)<br>
-3. ⭐ Starred [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)<br>
-4. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2019207161) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-5. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2018012859) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. 🎉 Merged PR [#565](https://github.com/hbstack/header/pull/565) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. 🎉 Merged PR [#564](https://github.com/hbstack/header/pull/564) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 💪 Opened PR [#564](https://github.com/hbstack/header/pull/564) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2017430111) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-10. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2017376406) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+1. 💬 Commented on [#260](https://github.com/hbstack/theme-cards/issues/260#issuecomment-2022624748) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. ❗️ Opened issue [#11196](https://github.com/ant-design/ant-design-pro/issues/11196) in [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)<br>
+3. ⭐ Starred [pipe01/esbuild-plugin-vue3](https://github.com/pipe01/esbuild-plugin-vue3)<br>
+4. ⭐ Starred [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)<br>
+5. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2019207161) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+6. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2018012859) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+7. 🎉 Merged PR [#565](https://github.com/hbstack/header/pull/565) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. 🎉 Merged PR [#564](https://github.com/hbstack/header/pull/564) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 💪 Opened PR [#564](https://github.com/hbstack/header/pull/564) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2017430111) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
