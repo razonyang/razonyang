@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#735](https://github.com/hbstack/blog/issues/735) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 💬 Commented on [#260](https://github.com/hbstack/theme-cards/issues/260#issuecomment-2022717983) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-3. 🎉 Merged PR [#606](https://github.com/hbstack/docs/pull/606) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-4. 🎉 Merged PR [#605](https://github.com/hbstack/docs/pull/605) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-5. 💪 Opened PR [#605](https://github.com/hbstack/docs/pull/605) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-6. 💬 Commented on [#260](https://github.com/hbstack/theme-cards/issues/260#issuecomment-2022624748) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-7. ❗️ Opened issue [#11196](https://github.com/ant-design/ant-design-pro/issues/11196) in [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)<br>
-8. ⭐ Starred [pipe01/esbuild-plugin-vue3](https://github.com/pipe01/esbuild-plugin-vue3)<br>
-9. ⭐ Starred [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)<br>
-10. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2019207161) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+1. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2027979796) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. ✔️ Closed issue [#255](https://github.com/hbstack/theme-cards/issues/255) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+3. 🎉 Merged PR [#65](https://github.com/hbstack/content-panel/pull/65) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+4. 🎉 Merged PR [#64](https://github.com/hbstack/content-panel/pull/64) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+5. 💪 Opened PR [#64](https://github.com/hbstack/content-panel/pull/64) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+6. 🎉 Merged PR [#174](https://github.com/hugomods/decap-cms/pull/174) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+7. 🎉 Merged PR [#94](https://github.com/hbstack/carousel/pull/94) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+8. 🎉 Merged PR [#170](https://github.com/hbstack/carousel/pull/170) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+9. 💪 Opened PR [#170](https://github.com/hbstack/carousel/pull/170) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+10. ❗️ Opened issue [#735](https://github.com/hbstack/blog/issues/735) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
