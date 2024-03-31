@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [spf13/spf13-vim](https://github.com/spf13/spf13-vim)<br>
-2. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2027979796) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-3. ✔️ Closed issue [#255](https://github.com/hbstack/theme-cards/issues/255) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-4. 🎉 Merged PR [#65](https://github.com/hbstack/content-panel/pull/65) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-5. 🎉 Merged PR [#64](https://github.com/hbstack/content-panel/pull/64) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-6. 💪 Opened PR [#64](https://github.com/hbstack/content-panel/pull/64) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-7. 🎉 Merged PR [#174](https://github.com/hugomods/decap-cms/pull/174) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-8. 🎉 Merged PR [#94](https://github.com/hbstack/carousel/pull/94) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
-9. 🎉 Merged PR [#170](https://github.com/hbstack/carousel/pull/170) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
-10. 💪 Opened PR [#170](https://github.com/hbstack/carousel/pull/170) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.11.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+2. ⭐ Starred [spf13/spf13-vim](https://github.com/spf13/spf13-vim)<br>
+3. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2027979796) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+4. ✔️ Closed issue [#255](https://github.com/hbstack/theme-cards/issues/255) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+5. 🎉 Merged PR [#65](https://github.com/hbstack/content-panel/pull/65) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+6. 🎉 Merged PR [#64](https://github.com/hbstack/content-panel/pull/64) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+7. 💪 Opened PR [#64](https://github.com/hbstack/content-panel/pull/64) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+8. 🎉 Merged PR [#174](https://github.com/hugomods/decap-cms/pull/174) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+9. 🎉 Merged PR [#94](https://github.com/hbstack/carousel/pull/94) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+10. 🎉 Merged PR [#170](https://github.com/hbstack/carousel/pull/170) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
