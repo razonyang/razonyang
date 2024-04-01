@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#349](https://github.com/hugomods/icons/pull/349) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#349](https://github.com/hugomods/icons/pull/349#pullrequestreview-1970399168) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.11.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-4. ⭐ Starred [spf13/spf13-vim](https://github.com/spf13/spf13-vim)<br>
-5. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2027979796) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. ✔️ Closed issue [#255](https://github.com/hbstack/theme-cards/issues/255) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-7. 🎉 Merged PR [#65](https://github.com/hbstack/content-panel/pull/65) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-8. 🎉 Merged PR [#64](https://github.com/hbstack/content-panel/pull/64) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-9. 💪 Opened PR [#64](https://github.com/hbstack/content-panel/pull/64) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-10. 🎉 Merged PR [#174](https://github.com/hugomods/decap-cms/pull/174) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+1. 💬 Commented on [#131](https://github.com/hbstack/theme-cards/issues/131#issuecomment-2028974875) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. 🎉 Merged PR [#349](https://github.com/hugomods/icons/pull/349) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#349](https://github.com/hugomods/icons/pull/349#pullrequestreview-1970399168) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.11.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+5. ⭐ Starred [spf13/spf13-vim](https://github.com/spf13/spf13-vim)<br>
+6. 💬 Commented on [#255](https://github.com/hbstack/theme-cards/issues/255#issuecomment-2027979796) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+7. ✔️ Closed issue [#255](https://github.com/hbstack/theme-cards/issues/255) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+8. 🎉 Merged PR [#65](https://github.com/hbstack/content-panel/pull/65) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+9. 🎉 Merged PR [#64](https://github.com/hbstack/content-panel/pull/64) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+10. 💪 Opened PR [#64](https://github.com/hbstack/content-panel/pull/64) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
