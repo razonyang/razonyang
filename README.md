@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#614](https://github.com/hbstack/docs/pull/614) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. 💪 Opened PR [#614](https://github.com/hbstack/docs/pull/614) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-3. 🎉 Merged PR [#32](https://github.com/hbstack/social-share-buttons/pull/32) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-4. 🎉 Merged PR [#272](https://github.com/hbstack/footer/pull/272) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-5. 🎉 Merged PR [#271](https://github.com/hbstack/footer/pull/271) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-6. 💪 Opened PR [#271](https://github.com/hbstack/footer/pull/271) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-7. 🎉 Merged PR [#249](https://github.com/hbstack/footer/pull/249) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-8. 🎉 Merged PR [#270](https://github.com/hbstack/footer/pull/270) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-9. 💪 Opened PR [#270](https://github.com/hbstack/footer/pull/270) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-10. 💬 Commented on [#131](https://github.com/hbstack/theme-cards/issues/131#issuecomment-2030940794) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+1. 💬 Commented on [#735](https://github.com/hbstack/blog/issues/735#issuecomment-2031158618) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. ✔️ Closed issue [#735](https://github.com/hbstack/blog/issues/735) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. ✔️ Closed issue [#659](https://github.com/hbstack/blog/issues/659) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 🎉 Merged PR [#614](https://github.com/hbstack/docs/pull/614) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+5. 💪 Opened PR [#614](https://github.com/hbstack/docs/pull/614) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+6. 🎉 Merged PR [#32](https://github.com/hbstack/social-share-buttons/pull/32) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+7. 🎉 Merged PR [#272](https://github.com/hbstack/footer/pull/272) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+8. 🎉 Merged PR [#271](https://github.com/hbstack/footer/pull/271) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+9. 💪 Opened PR [#271](https://github.com/hbstack/footer/pull/271) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+10. 🎉 Merged PR [#249](https://github.com/hbstack/footer/pull/249) in [hbstack/footer](https://github.com/hbstack/footer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
