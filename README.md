@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#70](https://github.com/hugomods/docker/pull/70#discussion_r1548941999) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 🎉 Merged PR [#351](https://github.com/hugomods/icons/pull/351) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#351](https://github.com/hugomods/icons/pull/351#pullrequestreview-1975419131) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 🎉 Merged PR [#178](https://github.com/hugomods/decap-cms/pull/178) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-5. 🎉 Merged PR [#749](https://github.com/hbstack/blog/pull/749) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 🎉 Merged PR [#621](https://github.com/hbstack/docs/pull/621) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-7. 💬 Commented on [#69](https://github.com/hugomods/docker/issues/69#issuecomment-2033421722) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.2) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-9. 💪 Opened PR [#70](https://github.com/hugomods/docker/pull/70) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 💬 Commented on [#69](https://github.com/hugomods/docker/issues/69#issuecomment-2033406601) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. ✔️ Closed issue [#69](https://github.com/hugomods/docker/issues/69) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. 🎉 Merged PR [#70](https://github.com/hugomods/docker/pull/70) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 💬 Commented on [#70](https://github.com/hugomods/docker/pull/70#discussion_r1548941999) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. 🎉 Merged PR [#351](https://github.com/hugomods/icons/pull/351) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 👍 Approved [#351](https://github.com/hugomods/icons/pull/351#pullrequestreview-1975419131) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 🎉 Merged PR [#178](https://github.com/hugomods/decap-cms/pull/178) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+7. 🎉 Merged PR [#749](https://github.com/hbstack/blog/pull/749) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 🎉 Merged PR [#621](https://github.com/hbstack/docs/pull/621) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+9. 💬 Commented on [#69](https://github.com/hugomods/docker/issues/69#issuecomment-2033421722) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.2) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
