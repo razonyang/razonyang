@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#749](https://github.com/hbstack/blog/pull/749) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 🎉 Merged PR [#621](https://github.com/hbstack/docs/pull/621) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-3. 💬 Commented on [#69](https://github.com/hugomods/docker/issues/69#issuecomment-2033421722) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.2) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-5. 💪 Opened PR [#70](https://github.com/hugomods/docker/pull/70) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. 💬 Commented on [#69](https://github.com/hugomods/docker/issues/69#issuecomment-2033406601) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. ✔️ Closed issue [#658](https://github.com/hbstack/blog/issues/658) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 💬 Commented on [#131](https://github.com/hbstack/theme-cards/issues/131#issuecomment-2031833351) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-9. 💬 Commented on [#131](https://github.com/hbstack/theme-cards/issues/131#issuecomment-2031828975) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-10. ✔️ Closed issue [#131](https://github.com/hbstack/theme-cards/issues/131) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+1. 🎉 Merged PR [#178](https://github.com/hugomods/decap-cms/pull/178) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 🎉 Merged PR [#749](https://github.com/hbstack/blog/pull/749) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 🎉 Merged PR [#621](https://github.com/hbstack/docs/pull/621) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. 💬 Commented on [#69](https://github.com/hugomods/docker/issues/69#issuecomment-2033421722) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+5. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.5.2) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+6. 💪 Opened PR [#70](https://github.com/hugomods/docker/pull/70) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 💬 Commented on [#69](https://github.com/hugomods/docker/issues/69#issuecomment-2033406601) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. ✔️ Closed issue [#658](https://github.com/hbstack/blog/issues/658) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 💬 Commented on [#131](https://github.com/hbstack/theme-cards/issues/131#issuecomment-2031833351) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+10. 💬 Commented on [#131](https://github.com/hbstack/theme-cards/issues/131#issuecomment-2031828975) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
