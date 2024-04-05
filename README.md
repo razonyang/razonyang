@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#180](https://github.com/hugomods/decap-cms/pull/180) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-2. ✔️ Closed issue [#69](https://github.com/hugomods/docker/issues/69) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 🎉 Merged PR [#70](https://github.com/hugomods/docker/pull/70) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 💬 Commented on [#70](https://github.com/hugomods/docker/pull/70#discussion_r1548941999) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. 🎉 Merged PR [#351](https://github.com/hugomods/icons/pull/351) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 👍 Approved [#351](https://github.com/hugomods/icons/pull/351#pullrequestreview-1975419131) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 🎉 Merged PR [#178](https://github.com/hugomods/decap-cms/pull/178) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-8. 🎉 Merged PR [#749](https://github.com/hbstack/blog/pull/749) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 🎉 Merged PR [#621](https://github.com/hbstack/docs/pull/621) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-10. 💬 Commented on [#69](https://github.com/hugomods/docker/issues/69#issuecomment-2033421722) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. 🎉 Merged PR [#627](https://github.com/hbstack/docs/pull/627) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. 🎉 Merged PR [#180](https://github.com/hugomods/decap-cms/pull/180) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. ✔️ Closed issue [#69](https://github.com/hugomods/docker/issues/69) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. 🎉 Merged PR [#70](https://github.com/hugomods/docker/pull/70) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+5. 💬 Commented on [#70](https://github.com/hugomods/docker/pull/70#discussion_r1548941999) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 🎉 Merged PR [#351](https://github.com/hugomods/icons/pull/351) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 👍 Approved [#351](https://github.com/hugomods/icons/pull/351#pullrequestreview-1975419131) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 🎉 Merged PR [#178](https://github.com/hugomods/decap-cms/pull/178) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+9. 🎉 Merged PR [#749](https://github.com/hbstack/blog/pull/749) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. 🎉 Merged PR [#621](https://github.com/hbstack/docs/pull/621) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
