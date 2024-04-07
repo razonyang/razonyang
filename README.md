@@ -25,7 +25,6 @@
 6. 🎉 Merged PR [#351](https://github.com/hugomods/icons/pull/351) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 7. 👍 Approved [#351](https://github.com/hugomods/icons/pull/351#pullrequestreview-1975419131) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 8. 🎉 Merged PR [#178](https://github.com/hugomods/decap-cms/pull/178) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 🎉 Merged PR [#749](https://github.com/hbstack/blog/pull/749) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
