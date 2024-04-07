@@ -24,7 +24,6 @@
 5. 💬 Commented on [#70](https://github.com/hugomods/docker/pull/70#discussion_r1548941999) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 6. 🎉 Merged PR [#351](https://github.com/hugomods/icons/pull/351) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 7. 👍 Approved [#351](https://github.com/hugomods/icons/pull/351#pullrequestreview-1975419131) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 🎉 Merged PR [#178](https://github.com/hugomods/decap-cms/pull/178) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
