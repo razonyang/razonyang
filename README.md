@@ -19,8 +19,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. 🎉 Merged PR [#627](https://github.com/hbstack/docs/pull/627) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 2. 🎉 Merged PR [#180](https://github.com/hugomods/decap-cms/pull/180) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-3. ✔️ Closed issue [#69](https://github.com/hugomods/docker/issues/69) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 🎉 Merged PR [#70](https://github.com/hugomods/docker/pull/70) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
