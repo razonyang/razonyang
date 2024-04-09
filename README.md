@@ -17,7 +17,9 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#627](https://github.com/hbstack/docs/pull/627) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. 🎉 Merged PR [#755](https://github.com/hbstack/blog/pull/755) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. 🎉 Merged PR [#630](https://github.com/hbstack/docs/pull/630) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. 🎉 Merged PR [#627](https://github.com/hbstack/docs/pull/627) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
