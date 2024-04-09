@@ -17,11 +17,14 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2044101106) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-2. ✔️ Closed issue [#31](https://github.com/hugomods/video-js/issues/31) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-3. 🎉 Merged PR [#755](https://github.com/hbstack/blog/pull/755) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 🎉 Merged PR [#630](https://github.com/hbstack/docs/pull/630) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-5. 🎉 Merged PR [#627](https://github.com/hbstack/docs/pull/627) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. ⭐ Starred [bahmutov/start-server-and-test](https://github.com/bahmutov/start-server-and-test)<br>
+2. 🎉 Merged PR [#1036](https://github.com/razonyang/hugo-theme-bootstrap/pull/1036) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 👍 Approved [#1036](https://github.com/razonyang/hugo-theme-bootstrap/pull/1036#pullrequestreview-1988380453) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💬 Commented on [#31](https://github.com/hugomods/video-js/issues/31#issuecomment-2044101106) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+5. ✔️ Closed issue [#31](https://github.com/hugomods/video-js/issues/31) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+6. 🎉 Merged PR [#755](https://github.com/hbstack/blog/pull/755) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. 🎉 Merged PR [#630](https://github.com/hbstack/docs/pull/630) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. 🎉 Merged PR [#627](https://github.com/hbstack/docs/pull/627) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
