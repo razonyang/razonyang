@@ -18,7 +18,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 🎉 Merged PR [#627](https://github.com/hbstack/docs/pull/627) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. 🎉 Merged PR [#180](https://github.com/hugomods/decap-cms/pull/180) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
