@@ -25,7 +25,6 @@
 6. ✔️ Closed issue [#31](https://github.com/hugomods/video-js/issues/31) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
 7. 🎉 Merged PR [#755](https://github.com/hbstack/blog/pull/755) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 8. 🎉 Merged PR [#630](https://github.com/hbstack/docs/pull/630) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-9. 🎉 Merged PR [#627](https://github.com/hbstack/docs/pull/627) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
