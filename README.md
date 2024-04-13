@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#234](https://github.com/hugomods/search/pull/234#issuecomment-2050157114) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. 💬 Commented on [#235](https://github.com/hugomods/search/issues/235#issuecomment-2050107390) in [hugomods/search](https://github.com/hugomods/search)<br>
-3. ✔️ Closed issue [#235](https://github.com/hugomods/search/issues/235) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. 💬 Commented on [#234](https://github.com/hugomods/search/pull/234#issuecomment-2050101201) in [hugomods/search](https://github.com/hugomods/search)<br>
-5. 🎉 Merged PR [#353](https://github.com/hugomods/icons/pull/353) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 👍 Approved [#353](https://github.com/hugomods/icons/pull/353#pullrequestreview-1994101125) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ❗️ Opened issue [#288](https://github.com/hbstack/theme-cards/issues/288) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-8. ⭐ Starred [bahmutov/start-server-and-test](https://github.com/bahmutov/start-server-and-test)<br>
-9. 🎉 Merged PR [#1036](https://github.com/razonyang/hugo-theme-bootstrap/pull/1036) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 👍 Approved [#1036](https://github.com/razonyang/hugo-theme-bootstrap/pull/1036#pullrequestreview-1988380453) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#184](https://github.com/hugomods/decap-cms/pull/184) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 👍 Approved [#184](https://github.com/hugomods/decap-cms/pull/184#pullrequestreview-1999361607) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 💬 Commented on [#234](https://github.com/hugomods/search/pull/234#issuecomment-2050157114) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 💬 Commented on [#235](https://github.com/hugomods/search/issues/235#issuecomment-2050107390) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. ✔️ Closed issue [#235](https://github.com/hugomods/search/issues/235) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 💬 Commented on [#234](https://github.com/hugomods/search/pull/234#issuecomment-2050101201) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. 🎉 Merged PR [#353](https://github.com/hugomods/icons/pull/353) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 👍 Approved [#353](https://github.com/hugomods/icons/pull/353#pullrequestreview-1994101125) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ❗️ Opened issue [#288](https://github.com/hbstack/theme-cards/issues/288) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+10. ⭐ Starred [bahmutov/start-server-and-test](https://github.com/bahmutov/start-server-and-test)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
