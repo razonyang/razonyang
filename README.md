@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#762](https://github.com/hbstack/blog/pull/762) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. ✔️ Closed issue [#760](https://github.com/hbstack/blog/issues/760) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 🎉 Merged PR [#761](https://github.com/hbstack/blog/pull/761) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 💪 Opened PR [#761](https://github.com/hbstack/blog/pull/761) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ❗️ Opened issue [#760](https://github.com/hbstack/blog/issues/760) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. ❗️ Opened issue [#759](https://github.com/hbstack/blog/issues/759) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 🎉 Merged PR [#184](https://github.com/hugomods/decap-cms/pull/184) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-8. 👍 Approved [#184](https://github.com/hugomods/decap-cms/pull/184#pullrequestreview-1999361607) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 💬 Commented on [#234](https://github.com/hugomods/search/pull/234#issuecomment-2050157114) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. 💬 Commented on [#235](https://github.com/hugomods/search/issues/235#issuecomment-2050107390) in [hugomods/search](https://github.com/hugomods/search)<br>
+1. 🎉 Merged PR [#765](https://github.com/hbstack/blog/pull/765) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. 🎉 Merged PR [#766](https://github.com/hbstack/blog/pull/766) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 💪 Opened PR [#766](https://github.com/hbstack/blog/pull/766) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 🎉 Merged PR [#764](https://github.com/hbstack/blog/pull/764) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 💪 Opened PR [#764](https://github.com/hbstack/blog/pull/764) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 🎉 Merged PR [#762](https://github.com/hbstack/blog/pull/762) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. ✔️ Closed issue [#760](https://github.com/hbstack/blog/issues/760) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 🎉 Merged PR [#761](https://github.com/hbstack/blog/pull/761) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 💪 Opened PR [#761](https://github.com/hbstack/blog/pull/761) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. ❗️ Opened issue [#760](https://github.com/hbstack/blog/issues/760) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
