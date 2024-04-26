@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)<br>
-2. 💬 Commented on [#40](https://github.com/hbstack/slide/issues/40#issuecomment-2072006641) in [hbstack/slide](https://github.com/hbstack/slide)<br>
-3. 🎉 Merged PR [#42](https://github.com/hbstack/slide/pull/42) in [hbstack/slide](https://github.com/hbstack/slide)<br>
-4. ✔️ Closed issue [#40](https://github.com/hbstack/slide/issues/40) in [hbstack/slide](https://github.com/hbstack/slide)<br>
-5. 🎉 Merged PR [#41](https://github.com/hbstack/slide/pull/41) in [hbstack/slide](https://github.com/hbstack/slide)<br>
-6. 💪 Opened PR [#41](https://github.com/hbstack/slide/pull/41) in [hbstack/slide](https://github.com/hbstack/slide)<br>
-7. ❗️ Opened issue [#771](https://github.com/hbstack/site/issues/771) in [hbstack/site](https://github.com/hbstack/site)<br>
-8. 💬 Commented on [#770](https://github.com/hbstack/site/issues/770#issuecomment-2071802985) in [hbstack/site](https://github.com/hbstack/site)<br>
-9. 🎉 Merged PR [#65](https://github.com/hugomods/pwa/pull/65) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-10. 🎉 Merged PR [#64](https://github.com/hugomods/pwa/pull/64) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+1. ❗️ Opened issue [#790](https://github.com/hbstack/blog/issues/790) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. ❗️ Opened issue [#308](https://github.com/hbstack/theme-cards/issues/308) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+3. ⭐ Starred [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)<br>
+4. 💬 Commented on [#40](https://github.com/hbstack/slide/issues/40#issuecomment-2072006641) in [hbstack/slide](https://github.com/hbstack/slide)<br>
+5. 🎉 Merged PR [#42](https://github.com/hbstack/slide/pull/42) in [hbstack/slide](https://github.com/hbstack/slide)<br>
+6. ✔️ Closed issue [#40](https://github.com/hbstack/slide/issues/40) in [hbstack/slide](https://github.com/hbstack/slide)<br>
+7. 🎉 Merged PR [#41](https://github.com/hbstack/slide/pull/41) in [hbstack/slide](https://github.com/hbstack/slide)<br>
+8. 💪 Opened PR [#41](https://github.com/hbstack/slide/pull/41) in [hbstack/slide](https://github.com/hbstack/slide)<br>
+9. ❗️ Opened issue [#771](https://github.com/hbstack/site/issues/771) in [hbstack/site](https://github.com/hbstack/site)<br>
+10. 💬 Commented on [#770](https://github.com/hbstack/site/issues/770#issuecomment-2071802985) in [hbstack/site](https://github.com/hbstack/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
