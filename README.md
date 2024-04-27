@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#225](https://github.com/hbstack/socials/pull/225) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-2. 🎉 Merged PR [#224](https://github.com/hbstack/socials/pull/224) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-3. 💪 Opened PR [#224](https://github.com/hbstack/socials/pull/224) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-4. ❗️ Opened issue [#790](https://github.com/hbstack/blog/issues/790) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ❗️ Opened issue [#308](https://github.com/hbstack/theme-cards/issues/308) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. ⭐ Starred [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)<br>
-7. 💬 Commented on [#40](https://github.com/hbstack/slide/issues/40#issuecomment-2072006641) in [hbstack/slide](https://github.com/hbstack/slide)<br>
-8. 🎉 Merged PR [#42](https://github.com/hbstack/slide/pull/42) in [hbstack/slide](https://github.com/hbstack/slide)<br>
-9. ✔️ Closed issue [#40](https://github.com/hbstack/slide/issues/40) in [hbstack/slide](https://github.com/hbstack/slide)<br>
-10. 🎉 Merged PR [#41](https://github.com/hbstack/slide/pull/41) in [hbstack/slide](https://github.com/hbstack/slide)<br>
+1. 🎉 Merged PR [#154](https://github.com/hbstack/base/pull/154) in [hbstack/base](https://github.com/hbstack/base)<br>
+2. 🎉 Merged PR [#794](https://github.com/hbstack/blog/pull/794) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. ✔️ Closed issue [#790](https://github.com/hbstack/blog/issues/790) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 🎉 Merged PR [#793](https://github.com/hbstack/blog/pull/793) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 💪 Opened PR [#793](https://github.com/hbstack/blog/pull/793) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 🎉 Merged PR [#791](https://github.com/hbstack/blog/pull/791) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. 🎉 Merged PR [#225](https://github.com/hbstack/socials/pull/225) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+8. 🎉 Merged PR [#224](https://github.com/hbstack/socials/pull/224) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+9. 💪 Opened PR [#224](https://github.com/hbstack/socials/pull/224) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+10. ❗️ Opened issue [#790](https://github.com/hbstack/blog/issues/790) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
