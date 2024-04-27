@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [nanovazquez/yargs-interactive](https://github.com/nanovazquez/yargs-interactive)<br>
-2. ⭐ Starred [tj/commander.js](https://github.com/tj/commander.js)<br>
-3. ⭐ Starred [yargs/yargs](https://github.com/yargs/yargs)<br>
-4. ⭐ Starred [oclif/oclif](https://github.com/oclif/oclif)<br>
-5. 🎉 Merged PR [#227](https://github.com/hbstack/socials/pull/227) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-6. 🎉 Merged PR [#228](https://github.com/hbstack/socials/pull/228) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-7. 💪 Opened PR [#228](https://github.com/hbstack/socials/pull/228) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-8. 🎉 Merged PR [#226](https://github.com/hbstack/socials/pull/226) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-9. 💪 Opened PR [#226](https://github.com/hbstack/socials/pull/226) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-10. 🎉 Merged PR [#154](https://github.com/hbstack/base/pull/154) in [hbstack/base](https://github.com/hbstack/base)<br>
+1. ❗️ Opened issue [#54](https://github.com/nanovazquez/yargs-interactive/issues/54) in [nanovazquez/yargs-interactive](https://github.com/nanovazquez/yargs-interactive)<br>
+2. ⭐ Starred [nanovazquez/yargs-interactive](https://github.com/nanovazquez/yargs-interactive)<br>
+3. ⭐ Starred [tj/commander.js](https://github.com/tj/commander.js)<br>
+4. ⭐ Starred [yargs/yargs](https://github.com/yargs/yargs)<br>
+5. ⭐ Starred [oclif/oclif](https://github.com/oclif/oclif)<br>
+6. 🎉 Merged PR [#227](https://github.com/hbstack/socials/pull/227) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+7. 🎉 Merged PR [#228](https://github.com/hbstack/socials/pull/228) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+8. 💪 Opened PR [#228](https://github.com/hbstack/socials/pull/228) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+9. 🎉 Merged PR [#226](https://github.com/hbstack/socials/pull/226) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+10. 💪 Opened PR [#226](https://github.com/hbstack/socials/pull/226) in [hbstack/socials](https://github.com/hbstack/socials)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
