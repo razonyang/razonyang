@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#231](https://github.com/hbstack/socials/pull/231) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-2. 🎉 Merged PR [#230](https://github.com/hbstack/socials/pull/230) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-3. 💪 Opened PR [#230](https://github.com/hbstack/socials/pull/230) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-4. 🎉 Merged PR [#357](https://github.com/hugomods/icons/pull/357) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 👍 Approved [#357](https://github.com/hugomods/icons/pull/357#pullrequestreview-2027440745) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.14.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-7. ❗️ Opened issue [#54](https://github.com/nanovazquez/yargs-interactive/issues/54) in [nanovazquez/yargs-interactive](https://github.com/nanovazquez/yargs-interactive)<br>
-8. ⭐ Starred [nanovazquez/yargs-interactive](https://github.com/nanovazquez/yargs-interactive)<br>
-9. ⭐ Starred [tj/commander.js](https://github.com/tj/commander.js)<br>
-10. ⭐ Starred [yargs/yargs](https://github.com/yargs/yargs)<br>
+1. ⭐ Starred [th0r/inquirer-sortable-checkbox](https://github.com/th0r/inquirer-sortable-checkbox)<br>
+2. 🎉 Merged PR [#231](https://github.com/hbstack/socials/pull/231) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+3. 🎉 Merged PR [#230](https://github.com/hbstack/socials/pull/230) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+4. 💪 Opened PR [#230](https://github.com/hbstack/socials/pull/230) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+5. 🎉 Merged PR [#357](https://github.com/hugomods/icons/pull/357) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 👍 Approved [#357](https://github.com/hugomods/icons/pull/357#pullrequestreview-2027440745) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.14.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+8. ❗️ Opened issue [#54](https://github.com/nanovazquez/yargs-interactive/issues/54) in [nanovazquez/yargs-interactive](https://github.com/nanovazquez/yargs-interactive)<br>
+9. ⭐ Starred [nanovazquez/yargs-interactive](https://github.com/nanovazquez/yargs-interactive)<br>
+10. ⭐ Starred [tj/commander.js](https://github.com/tj/commander.js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
