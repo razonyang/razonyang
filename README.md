@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#801](https://github.com/hbstack/blog/issues/801) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. ❗️ Opened issue [#284](https://github.com/hbstack/footer/issues/284) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-3. ❗️ Opened issue [#582](https://github.com/hbstack/header/issues/582) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. ⭐ Starred [th0r/inquirer-sortable-checkbox](https://github.com/th0r/inquirer-sortable-checkbox)<br>
-5. 🎉 Merged PR [#231](https://github.com/hbstack/socials/pull/231) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-6. 🎉 Merged PR [#230](https://github.com/hbstack/socials/pull/230) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-7. 💪 Opened PR [#230](https://github.com/hbstack/socials/pull/230) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-8. 🎉 Merged PR [#357](https://github.com/hugomods/icons/pull/357) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#357](https://github.com/hugomods/icons/pull/357#pullrequestreview-2027440745) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.14.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+1. 🎉 Merged PR [#232](https://github.com/hbstack/socials/pull/232) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+2. 💪 Opened PR [#232](https://github.com/hbstack/socials/pull/232) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+3. 💬 Commented on [#802](https://github.com/hbstack/blog/issues/802#issuecomment-2084186982) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. ❗️ Opened issue [#801](https://github.com/hbstack/blog/issues/801) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ❗️ Opened issue [#284](https://github.com/hbstack/footer/issues/284) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+6. ❗️ Opened issue [#582](https://github.com/hbstack/header/issues/582) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. ⭐ Starred [th0r/inquirer-sortable-checkbox](https://github.com/th0r/inquirer-sortable-checkbox)<br>
+8. 🎉 Merged PR [#231](https://github.com/hbstack/socials/pull/231) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+9. 🎉 Merged PR [#230](https://github.com/hbstack/socials/pull/230) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+10. 💪 Opened PR [#230](https://github.com/hbstack/socials/pull/230) in [hbstack/socials](https://github.com/hbstack/socials)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
