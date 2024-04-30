@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#233](https://github.com/hbstack/socials/pull/233) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-2. 🎉 Merged PR [#232](https://github.com/hbstack/socials/pull/232) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-3. 💪 Opened PR [#232](https://github.com/hbstack/socials/pull/232) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-4. 💬 Commented on [#802](https://github.com/hbstack/blog/issues/802#issuecomment-2084186982) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ❗️ Opened issue [#801](https://github.com/hbstack/blog/issues/801) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. ❗️ Opened issue [#284](https://github.com/hbstack/footer/issues/284) in [hbstack/footer](https://github.com/hbstack/footer)<br>
-7. ❗️ Opened issue [#582](https://github.com/hbstack/header/issues/582) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. ⭐ Starred [th0r/inquirer-sortable-checkbox](https://github.com/th0r/inquirer-sortable-checkbox)<br>
-9. 🎉 Merged PR [#231](https://github.com/hbstack/socials/pull/231) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-10. 🎉 Merged PR [#230](https://github.com/hbstack/socials/pull/230) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+1. 🎉 Merged PR [#286](https://github.com/hbstack/footer/pull/286) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+2. ✔️ Closed issue [#284](https://github.com/hbstack/footer/issues/284) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+3. 🎉 Merged PR [#285](https://github.com/hbstack/footer/pull/285) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+4. 💪 Opened PR [#285](https://github.com/hbstack/footer/pull/285) in [hbstack/footer](https://github.com/hbstack/footer)<br>
+5. 🎉 Merged PR [#584](https://github.com/hbstack/header/pull/584) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. ✔️ Closed issue [#582](https://github.com/hbstack/header/issues/582) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 🎉 Merged PR [#583](https://github.com/hbstack/header/pull/583) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. 💪 Opened PR [#583](https://github.com/hbstack/header/pull/583) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 🎉 Merged PR [#233](https://github.com/hbstack/socials/pull/233) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+10. 🎉 Merged PR [#232](https://github.com/hbstack/socials/pull/232) in [hbstack/socials](https://github.com/hbstack/socials)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
