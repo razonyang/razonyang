@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#237](https://github.com/hbstack/socials/pull/237) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-2. ✔️ Closed issue [#234](https://github.com/hbstack/socials/issues/234) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-3. 🎉 Merged PR [#236](https://github.com/hbstack/socials/pull/236) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-4. 💪 Opened PR [#236](https://github.com/hbstack/socials/pull/236) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-5. ⭐ Starred [hugomods/ascii](https://github.com/hugomods/ascii)<br>
-6. ⭐ Starred [hugomods/encoder](https://github.com/hugomods/encoder)<br>
-7. 🎉 Merged PR [#1](https://github.com/hugomods/encoder/pull/1) in [hugomods/encoder](https://github.com/hugomods/encoder)<br>
-8. 🎉 Merged PR [#1](https://github.com/hugomods/ascii/pull/1) in [hugomods/ascii](https://github.com/hugomods/ascii)<br>
-9. 📔 Created new repository [hugomods/encoder](https://github.com/hugomods/encoder)<br>
-10. 📔 Created new repository [hugomods/ascii](https://github.com/hugomods/ascii)<br>
+1. 🎉 Merged PR [#361](https://github.com/hugomods/icons/pull/361) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#361](https://github.com/hugomods/icons/pull/361#pullrequestreview-2033899395) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#237](https://github.com/hbstack/socials/pull/237) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+4. ✔️ Closed issue [#234](https://github.com/hbstack/socials/issues/234) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+5. 🎉 Merged PR [#236](https://github.com/hbstack/socials/pull/236) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+6. 💪 Opened PR [#236](https://github.com/hbstack/socials/pull/236) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+7. ⭐ Starred [hugomods/ascii](https://github.com/hugomods/ascii)<br>
+8. ⭐ Starred [hugomods/encoder](https://github.com/hugomods/encoder)<br>
+9. 🎉 Merged PR [#1](https://github.com/hugomods/encoder/pull/1) in [hugomods/encoder](https://github.com/hugomods/encoder)<br>
+10. 🎉 Merged PR [#1](https://github.com/hugomods/ascii/pull/1) in [hugomods/ascii](https://github.com/hugomods/ascii)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
