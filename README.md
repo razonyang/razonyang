@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#668](https://github.com/hbstack/docs/issues/668) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. 🎉 Merged PR [#152](https://github.com/hbstack/bootstrap/pull/152) in [hbstack/bootstrap](https://github.com/hbstack/bootstrap)<br>
-3. 💬 Commented on [#813](https://github.com/hbstack/blog/issues/813#issuecomment-2091118279) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. ✔️ Closed issue [#813](https://github.com/hbstack/blog/issues/813) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 🎉 Merged PR [#814](https://github.com/hbstack/blog/pull/814) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 💬 Commented on [#813](https://github.com/hbstack/blog/issues/813#issuecomment-2090776781) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 💬 Commented on [#813](https://github.com/hbstack/blog/issues/813#issuecomment-2090772977) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. ❗️ Opened issue [#813](https://github.com/hbstack/blog/issues/813) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 💬 Commented on [#1038](https://github.com/razonyang/hugo-theme-bootstrap/pull/1038#issuecomment-2089627074) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 💬 Commented on [#1038](https://github.com/razonyang/hugo-theme-bootstrap/pull/1038#issuecomment-2089427624) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#670](https://github.com/hbstack/docs/pull/670) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. ✔️ Closed issue [#668](https://github.com/hbstack/docs/issues/668) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. 🎉 Merged PR [#669](https://github.com/hbstack/docs/pull/669) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. 💪 Opened PR [#669](https://github.com/hbstack/docs/pull/669) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+5. ❗️ Opened issue [#668](https://github.com/hbstack/docs/issues/668) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+6. 🎉 Merged PR [#152](https://github.com/hbstack/bootstrap/pull/152) in [hbstack/bootstrap](https://github.com/hbstack/bootstrap)<br>
+7. 💬 Commented on [#813](https://github.com/hbstack/blog/issues/813#issuecomment-2091118279) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. ✔️ Closed issue [#813](https://github.com/hbstack/blog/issues/813) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 🎉 Merged PR [#814](https://github.com/hbstack/blog/pull/814) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. 💬 Commented on [#813](https://github.com/hbstack/blog/issues/813#issuecomment-2090776781) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
