@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#823](https://github.com/hbstack/blog/issues/823) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 💬 Commented on [#1045](https://github.com/hugomods/site/pull/1045#issuecomment-2106789180) in [hugomods/site](https://github.com/hugomods/site)<br>
-3. 🎉 Merged PR [#1045](https://github.com/hugomods/site/pull/1045) in [hugomods/site](https://github.com/hugomods/site)<br>
-4. 👍 Approved [#1045](https://github.com/hugomods/site/pull/1045#pullrequestreview-2051837416) in [hugomods/site](https://github.com/hugomods/site)<br>
-5. ❗️ Opened issue [#783](https://github.com/hbstack/site/issues/783) in [hbstack/site](https://github.com/hbstack/site)<br>
-6. ❗️ Opened issue [#56](https://github.com/hugomods/shortcodes/issues/56) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-7. 💬 Commented on [#6](https://github.com/razonyang/gopencc/pull/6#issuecomment-2104683491) in [razonyang/gopencc](https://github.com/razonyang/gopencc)<br>
-8. ✌️ Released [v0.1.2](https://github.com/razonyang/gopencc/releases/tag/v0.1.2) in [razonyang/gopencc](https://github.com/razonyang/gopencc)<br>
-9. 🎉 Merged PR [#6](https://github.com/razonyang/gopencc/pull/6) in [razonyang/gopencc](https://github.com/razonyang/gopencc)<br>
-10. 💪 Opened PR [#6](https://github.com/razonyang/gopencc/pull/6) in [razonyang/gopencc](https://github.com/razonyang/gopencc)<br>
+1. 🎉 Merged PR [#826](https://github.com/hbstack/blog/pull/826) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. 💬 Commented on [#824](https://github.com/hbstack/blog/pull/824#issuecomment-2111259684) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 👍 Approved [#824](https://github.com/hbstack/blog/pull/824#pullrequestreview-2056586289) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. ❗️ Opened issue [#823](https://github.com/hbstack/blog/issues/823) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 💬 Commented on [#1045](https://github.com/hugomods/site/pull/1045#issuecomment-2106789180) in [hugomods/site](https://github.com/hugomods/site)<br>
+6. 🎉 Merged PR [#1045](https://github.com/hugomods/site/pull/1045) in [hugomods/site](https://github.com/hugomods/site)<br>
+7. 👍 Approved [#1045](https://github.com/hugomods/site/pull/1045#pullrequestreview-2051837416) in [hugomods/site](https://github.com/hugomods/site)<br>
+8. ❗️ Opened issue [#783](https://github.com/hbstack/site/issues/783) in [hbstack/site](https://github.com/hbstack/site)<br>
+9. ❗️ Opened issue [#56](https://github.com/hugomods/shortcodes/issues/56) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+10. 💬 Commented on [#6](https://github.com/razonyang/gopencc/pull/6#issuecomment-2104683491) in [razonyang/gopencc](https://github.com/razonyang/gopencc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
