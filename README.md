@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#56](https://github.com/hbstack/revision/issues/56) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-2. 🎉 Merged PR [#826](https://github.com/hbstack/blog/pull/826) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 💬 Commented on [#824](https://github.com/hbstack/blog/pull/824#issuecomment-2111259684) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 👍 Approved [#824](https://github.com/hbstack/blog/pull/824#pullrequestreview-2056586289) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ❗️ Opened issue [#823](https://github.com/hbstack/blog/issues/823) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 💬 Commented on [#1045](https://github.com/hugomods/site/pull/1045#issuecomment-2106789180) in [hugomods/site](https://github.com/hugomods/site)<br>
-7. 🎉 Merged PR [#1045](https://github.com/hugomods/site/pull/1045) in [hugomods/site](https://github.com/hugomods/site)<br>
-8. 👍 Approved [#1045](https://github.com/hugomods/site/pull/1045#pullrequestreview-2051837416) in [hugomods/site](https://github.com/hugomods/site)<br>
-9. ❗️ Opened issue [#783](https://github.com/hbstack/site/issues/783) in [hbstack/site](https://github.com/hbstack/site)<br>
-10. ❗️ Opened issue [#56](https://github.com/hugomods/shortcodes/issues/56) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+1. 🎉 Merged PR [#363](https://github.com/hugomods/icons/pull/363) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#363](https://github.com/hugomods/icons/pull/363#pullrequestreview-2059733006) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ❗️ Opened issue [#56](https://github.com/hbstack/revision/issues/56) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+4. 🎉 Merged PR [#826](https://github.com/hbstack/blog/pull/826) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 💬 Commented on [#824](https://github.com/hbstack/blog/pull/824#issuecomment-2111259684) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 👍 Approved [#824](https://github.com/hbstack/blog/pull/824#pullrequestreview-2056586289) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. ❗️ Opened issue [#823](https://github.com/hbstack/blog/issues/823) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 💬 Commented on [#1045](https://github.com/hugomods/site/pull/1045#issuecomment-2106789180) in [hugomods/site](https://github.com/hugomods/site)<br>
+9. 🎉 Merged PR [#1045](https://github.com/hugomods/site/pull/1045) in [hugomods/site](https://github.com/hugomods/site)<br>
+10. 👍 Approved [#1045](https://github.com/hugomods/site/pull/1045#pullrequestreview-2051837416) in [hugomods/site](https://github.com/hugomods/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
