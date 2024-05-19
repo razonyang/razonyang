@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#331](https://github.com/hugomods/icons/pull/331) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. ❌ Closed PR [#333](https://github.com/hugomods/icons/pull/333) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ❌ Closed PR [#332](https://github.com/hugomods/icons/pull/332) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ❌ Closed PR [#330](https://github.com/hugomods/icons/pull/330) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. ❌ Closed PR [#329](https://github.com/hugomods/icons/pull/329) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. ❌ Closed PR [#328](https://github.com/hugomods/icons/pull/328) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ❌ Closed PR [#327](https://github.com/hugomods/icons/pull/327) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 🎉 Merged PR [#365](https://github.com/hugomods/icons/pull/365) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v11.15.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-10. ❗️ Opened issue [#10](https://github.com/razonyang/hb-mod-thanks/issues/10) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
+1. ❗️ Opened issue [#588](https://github.com/hbstack/header/issues/588) in [hbstack/header](https://github.com/hbstack/header)<br>
+2. ❗️ Opened issue [#366](https://github.com/hugomods/icons/issues/366) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ⭐ Starred [lipis/flag-icons](https://github.com/lipis/flag-icons)<br>
+4. ❌ Closed PR [#331](https://github.com/hugomods/icons/pull/331) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. ❌ Closed PR [#333](https://github.com/hugomods/icons/pull/333) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. ❌ Closed PR [#332](https://github.com/hugomods/icons/pull/332) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. ❌ Closed PR [#330](https://github.com/hugomods/icons/pull/330) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. ❌ Closed PR [#329](https://github.com/hugomods/icons/pull/329) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ❌ Closed PR [#328](https://github.com/hugomods/icons/pull/328) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. ❌ Closed PR [#327](https://github.com/hugomods/icons/pull/327) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
