@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#370](https://github.com/hugomods/icons/pull/370) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. ✔️ Closed issue [#366](https://github.com/hugomods/icons/issues/366) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 🎉 Merged PR [#369](https://github.com/hugomods/icons/pull/369) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 💪 Opened PR [#369](https://github.com/hugomods/icons/pull/369) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 🎉 Merged PR [#368](https://github.com/hugomods/icons/pull/368) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 👍 Approved [#368](https://github.com/hugomods/icons/pull/368#pullrequestreview-2070274937) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ❗️ Opened issue [#588](https://github.com/hbstack/header/issues/588) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. ❗️ Opened issue [#366](https://github.com/hugomods/icons/issues/366) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. ⭐ Starred [lipis/flag-icons](https://github.com/lipis/flag-icons)<br>
-10. ❌ Closed PR [#331](https://github.com/hugomods/icons/pull/331) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. ❌ Closed PR [#1](https://github.com/hugomods/prettier-config/pull/1) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+2. 📔 Created new repository [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+3. 🎉 Merged PR [#370](https://github.com/hugomods/icons/pull/370) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✔️ Closed issue [#366](https://github.com/hugomods/icons/issues/366) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 🎉 Merged PR [#369](https://github.com/hugomods/icons/pull/369) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 💪 Opened PR [#369](https://github.com/hugomods/icons/pull/369) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 🎉 Merged PR [#368](https://github.com/hugomods/icons/pull/368) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 👍 Approved [#368](https://github.com/hugomods/icons/pull/368#pullrequestreview-2070274937) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ❗️ Opened issue [#588](https://github.com/hbstack/header/issues/588) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. ❗️ Opened issue [#366](https://github.com/hugomods/icons/issues/366) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
