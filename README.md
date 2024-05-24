@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#832](https://github.com/hbstack/blog/pull/832) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 💪 Opened PR [#832](https://github.com/hbstack/blog/pull/832) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. ⭐ Starred [guyzmo/git-repo](https://github.com/guyzmo/git-repo)<br>
-4. 🎉 Merged PR [#5](https://github.com/hugomods/prettier-config/pull/5) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-5. ❌ Closed PR [#4](https://github.com/hugomods/prettier-config/pull/4) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-6. ❌ Closed PR [#3](https://github.com/hugomods/prettier-config/pull/3) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-7. ⭐ Starred [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-8. ⭐ Starred [subframe7536/maple-font](https://github.com/subframe7536/maple-font)<br>
-9. ⭐ Starred [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)<br>
-10. ❗️ Opened issue [#111](https://github.com/NiklasPor/prettier-plugin-go-template/issues/111) in [NiklasPor/prettier-plugin-go-template](https://github.com/NiklasPor/prettier-plugin-go-template)<br>
+1. 💪 Opened PR [#833](https://github.com/hbstack/blog/pull/833) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. 🎉 Merged PR [#832](https://github.com/hbstack/blog/pull/832) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 💪 Opened PR [#832](https://github.com/hbstack/blog/pull/832) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. ⭐ Starred [guyzmo/git-repo](https://github.com/guyzmo/git-repo)<br>
+5. 🎉 Merged PR [#5](https://github.com/hugomods/prettier-config/pull/5) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+6. ❌ Closed PR [#4](https://github.com/hugomods/prettier-config/pull/4) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+7. ❌ Closed PR [#3](https://github.com/hugomods/prettier-config/pull/3) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+8. ⭐ Starred [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+9. ⭐ Starred [subframe7536/maple-font](https://github.com/subframe7536/maple-font)<br>
+10. ⭐ Starred [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
