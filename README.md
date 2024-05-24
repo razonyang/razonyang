@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#834](https://github.com/hbstack/blog/pull/834) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. ✔️ Closed issue [#825](https://github.com/hbstack/blog/issues/825) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 🎉 Merged PR [#833](https://github.com/hbstack/blog/pull/833) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 💪 Opened PR [#833](https://github.com/hbstack/blog/pull/833) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 🎉 Merged PR [#832](https://github.com/hbstack/blog/pull/832) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 💪 Opened PR [#832](https://github.com/hbstack/blog/pull/832) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. ⭐ Starred [guyzmo/git-repo](https://github.com/guyzmo/git-repo)<br>
-8. 🎉 Merged PR [#5](https://github.com/hugomods/prettier-config/pull/5) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-9. ❌ Closed PR [#4](https://github.com/hugomods/prettier-config/pull/4) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-10. ❌ Closed PR [#3](https://github.com/hugomods/prettier-config/pull/3) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+1. 🎉 Merged PR [#120](https://github.com/hbstack/announcement-bar/pull/120) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+2. 💪 Opened PR [#120](https://github.com/hbstack/announcement-bar/pull/120) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+3. 🎉 Merged PR [#834](https://github.com/hbstack/blog/pull/834) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. ✔️ Closed issue [#825](https://github.com/hbstack/blog/issues/825) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 🎉 Merged PR [#833](https://github.com/hbstack/blog/pull/833) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 💪 Opened PR [#833](https://github.com/hbstack/blog/pull/833) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. 🎉 Merged PR [#832](https://github.com/hbstack/blog/pull/832) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 💪 Opened PR [#832](https://github.com/hbstack/blog/pull/832) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. ⭐ Starred [guyzmo/git-repo](https://github.com/guyzmo/git-repo)<br>
+10. 🎉 Merged PR [#5](https://github.com/hugomods/prettier-config/pull/5) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
