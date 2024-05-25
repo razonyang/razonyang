@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#205](https://github.com/hbstack/hb/issues/205) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-2. 🎉 Merged PR [#122](https://github.com/hbstack/announcement-bar/pull/122) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-3. 💪 Opened PR [#122](https://github.com/hbstack/announcement-bar/pull/122) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-4. ❌ Closed PR [#47](https://github.com/hbstack/announcement-bar/pull/47) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-5. 🎉 Merged PR [#155](https://github.com/hbstack/base/pull/155) in [hbstack/base](https://github.com/hbstack/base)<br>
-6. ⭐ Starred [cypress-io/github-action](https://github.com/cypress-io/github-action)<br>
-7. 🎉 Merged PR [#120](https://github.com/hbstack/announcement-bar/pull/120) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-8. 💪 Opened PR [#120](https://github.com/hbstack/announcement-bar/pull/120) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-9. 🎉 Merged PR [#834](https://github.com/hbstack/blog/pull/834) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ✔️ Closed issue [#825](https://github.com/hbstack/blog/issues/825) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 🎉 Merged PR [#2](https://github.com/hbstack/node-packages/pull/2) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+2. 📔 Created new repository [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+3. ❗️ Opened issue [#205](https://github.com/hbstack/hb/issues/205) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+4. 🎉 Merged PR [#122](https://github.com/hbstack/announcement-bar/pull/122) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+5. 💪 Opened PR [#122](https://github.com/hbstack/announcement-bar/pull/122) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+6. ❌ Closed PR [#47](https://github.com/hbstack/announcement-bar/pull/47) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+7. 🎉 Merged PR [#155](https://github.com/hbstack/base/pull/155) in [hbstack/base](https://github.com/hbstack/base)<br>
+8. ⭐ Starred [cypress-io/github-action](https://github.com/cypress-io/github-action)<br>
+9. 🎉 Merged PR [#120](https://github.com/hbstack/announcement-bar/pull/120) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+10. 💪 Opened PR [#120](https://github.com/hbstack/announcement-bar/pull/120) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
