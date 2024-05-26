@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/hbstack/node-packages/pull/4) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-2. 💬 Commented on [#27450](https://github.com/cypress-io/cypress/issues/27450#issuecomment-2131948660) in [cypress-io/cypress](https://github.com/cypress-io/cypress)<br>
-3. ⭐ Starred [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-4. 💬 Commented on [#205](https://github.com/hbstack/hb/issues/205#issuecomment-2131156667) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-5. ✔️ Closed issue [#205](https://github.com/hbstack/hb/issues/205) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-6. 🎉 Merged PR [#3](https://github.com/hbstack/node-packages/pull/3) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-7. 🎉 Merged PR [#2](https://github.com/hbstack/node-packages/pull/2) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-8. 📔 Created new repository [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-9. ❗️ Opened issue [#205](https://github.com/hbstack/hb/issues/205) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-10. 🎉 Merged PR [#122](https://github.com/hbstack/announcement-bar/pull/122) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+1. 🎉 Merged PR [#238](https://github.com/hugomods/search/pull/238) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. ✔️ Closed issue [#225](https://github.com/hugomods/search/issues/225) in [hugomods/search](https://github.com/hugomods/search)<br>
+3. 🎉 Merged PR [#237](https://github.com/hugomods/search/pull/237) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 💪 Opened PR [#237](https://github.com/hugomods/search/pull/237) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. 🎉 Merged PR [#4](https://github.com/hbstack/node-packages/pull/4) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+6. 💬 Commented on [#27450](https://github.com/cypress-io/cypress/issues/27450#issuecomment-2131948660) in [cypress-io/cypress](https://github.com/cypress-io/cypress)<br>
+7. ⭐ Starred [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+8. 💬 Commented on [#205](https://github.com/hbstack/hb/issues/205#issuecomment-2131156667) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. ✔️ Closed issue [#205](https://github.com/hbstack/hb/issues/205) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. 🎉 Merged PR [#3](https://github.com/hbstack/node-packages/pull/3) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
