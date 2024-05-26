@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-2. 💬 Commented on [#205](https://github.com/hbstack/hb/issues/205#issuecomment-2131156667) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-3. ✔️ Closed issue [#205](https://github.com/hbstack/hb/issues/205) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-4. 🎉 Merged PR [#3](https://github.com/hbstack/node-packages/pull/3) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-5. 🎉 Merged PR [#2](https://github.com/hbstack/node-packages/pull/2) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-6. 📔 Created new repository [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-7. ❗️ Opened issue [#205](https://github.com/hbstack/hb/issues/205) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-8. 🎉 Merged PR [#122](https://github.com/hbstack/announcement-bar/pull/122) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-9. 💪 Opened PR [#122](https://github.com/hbstack/announcement-bar/pull/122) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-10. ❌ Closed PR [#47](https://github.com/hbstack/announcement-bar/pull/47) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+1. 💬 Commented on [#27450](https://github.com/cypress-io/cypress/issues/27450#issuecomment-2131948660) in [cypress-io/cypress](https://github.com/cypress-io/cypress)<br>
+2. ⭐ Starred [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+3. 💬 Commented on [#205](https://github.com/hbstack/hb/issues/205#issuecomment-2131156667) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+4. ✔️ Closed issue [#205](https://github.com/hbstack/hb/issues/205) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+5. 🎉 Merged PR [#3](https://github.com/hbstack/node-packages/pull/3) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+6. 🎉 Merged PR [#2](https://github.com/hbstack/node-packages/pull/2) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+7. 📔 Created new repository [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+8. ❗️ Opened issue [#205](https://github.com/hbstack/hb/issues/205) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. 🎉 Merged PR [#122](https://github.com/hbstack/announcement-bar/pull/122) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+10. 💪 Opened PR [#122](https://github.com/hbstack/announcement-bar/pull/122) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
