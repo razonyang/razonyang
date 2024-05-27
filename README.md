@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#685](https://github.com/hbstack/docs/issues/685) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. ❗️ Opened issue [#161](https://github.com/hbstack/mermaid/issues/161) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-3. 🎉 Merged PR [#124](https://github.com/hbstack/mermaid/pull/124) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-4. ✔️ Closed issue [#159](https://github.com/hbstack/mermaid/issues/159) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-5. 🎉 Merged PR [#160](https://github.com/hbstack/mermaid/pull/160) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-6. 💪 Opened PR [#160](https://github.com/hbstack/mermaid/pull/160) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-7. ❗️ Opened issue [#159](https://github.com/hbstack/mermaid/issues/159) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
-8. 🎉 Merged PR [#124](https://github.com/hbstack/announcement-bar/pull/124) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-9. 💪 Opened PR [#124](https://github.com/hbstack/announcement-bar/pull/124) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-10. ⭐ Starred [microsoft/playwright](https://github.com/microsoft/playwright)<br>
+1. 🎉 Merged PR [#6](https://github.com/hbstack/node-packages/pull/6) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+2. ❌ Closed PR [#5](https://github.com/hbstack/node-packages/pull/5) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+3. ❗️ Opened issue [#685](https://github.com/hbstack/docs/issues/685) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. ❗️ Opened issue [#161](https://github.com/hbstack/mermaid/issues/161) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+5. 🎉 Merged PR [#124](https://github.com/hbstack/mermaid/pull/124) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+6. ✔️ Closed issue [#159](https://github.com/hbstack/mermaid/issues/159) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+7. 🎉 Merged PR [#160](https://github.com/hbstack/mermaid/pull/160) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+8. 💪 Opened PR [#160](https://github.com/hbstack/mermaid/pull/160) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+9. ❗️ Opened issue [#159](https://github.com/hbstack/mermaid/issues/159) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+10. 🎉 Merged PR [#124](https://github.com/hbstack/announcement-bar/pull/124) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
