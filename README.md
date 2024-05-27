@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#124](https://github.com/hbstack/announcement-bar/pull/124) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-2. 💪 Opened PR [#124](https://github.com/hbstack/announcement-bar/pull/124) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-3. ⭐ Starred [microsoft/playwright](https://github.com/microsoft/playwright)<br>
-4. 🎉 Merged PR [#372](https://github.com/hugomods/icons/pull/372) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.0.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-6. 🎉 Merged PR [#238](https://github.com/hugomods/search/pull/238) in [hugomods/search](https://github.com/hugomods/search)<br>
-7. ✔️ Closed issue [#225](https://github.com/hugomods/search/issues/225) in [hugomods/search](https://github.com/hugomods/search)<br>
-8. 🎉 Merged PR [#237](https://github.com/hugomods/search/pull/237) in [hugomods/search](https://github.com/hugomods/search)<br>
-9. 💪 Opened PR [#237](https://github.com/hugomods/search/pull/237) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. 🎉 Merged PR [#4](https://github.com/hbstack/node-packages/pull/4) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+1. ❗️ Opened issue [#161](https://github.com/hbstack/mermaid/issues/161) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+2. 🎉 Merged PR [#124](https://github.com/hbstack/mermaid/pull/124) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+3. ✔️ Closed issue [#159](https://github.com/hbstack/mermaid/issues/159) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+4. 🎉 Merged PR [#160](https://github.com/hbstack/mermaid/pull/160) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+5. 💪 Opened PR [#160](https://github.com/hbstack/mermaid/pull/160) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+6. ❗️ Opened issue [#159](https://github.com/hbstack/mermaid/issues/159) in [hbstack/mermaid](https://github.com/hbstack/mermaid)<br>
+7. 🎉 Merged PR [#124](https://github.com/hbstack/announcement-bar/pull/124) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+8. 💪 Opened PR [#124](https://github.com/hbstack/announcement-bar/pull/124) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+9. ⭐ Starred [microsoft/playwright](https://github.com/microsoft/playwright)<br>
+10. 🎉 Merged PR [#372](https://github.com/hugomods/icons/pull/372) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
