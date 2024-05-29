@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#126](https://github.com/hbstack/announcement-bar/pull/126) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-2. 🎉 Merged PR [#6](https://github.com/hugomods/prettier-config/pull/6) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-3. 💪 Opened PR [#126](https://github.com/hbstack/announcement-bar/pull/126) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-4. 🎉 Merged PR [#17](https://github.com/hbstack/contact/pull/17) in [hbstack/contact](https://github.com/hbstack/contact)<br>
-5. 🎉 Merged PR [#240](https://github.com/hbstack/socials/pull/240) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-6. 🎉 Merged PR [#66](https://github.com/hugomods/pwa/pull/66) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-7. 🎉 Merged PR [#198](https://github.com/hugomods/decap-cms/pull/198) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-8. 🎉 Merged PR [#128](https://github.com/hbstack/gallery/pull/128) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-9. 🎉 Merged PR [#18](https://github.com/hugomods/encrypt/pull/18) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-10. 🎉 Merged PR [#22](https://github.com/hbstack/staticman-comments/pull/22) in [hbstack/staticman-comments](https://github.com/hbstack/staticman-comments)<br>
+1. ❗️ Opened issue [#71](https://github.com/hugomods/docker/issues/71) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. 🎉 Merged PR [#126](https://github.com/hbstack/announcement-bar/pull/126) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+3. 🎉 Merged PR [#6](https://github.com/hugomods/prettier-config/pull/6) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+4. 💪 Opened PR [#126](https://github.com/hbstack/announcement-bar/pull/126) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+5. 🎉 Merged PR [#17](https://github.com/hbstack/contact/pull/17) in [hbstack/contact](https://github.com/hbstack/contact)<br>
+6. 🎉 Merged PR [#240](https://github.com/hbstack/socials/pull/240) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+7. 🎉 Merged PR [#66](https://github.com/hugomods/pwa/pull/66) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+8. 🎉 Merged PR [#198](https://github.com/hugomods/decap-cms/pull/198) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+9. 🎉 Merged PR [#128](https://github.com/hbstack/gallery/pull/128) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+10. 🎉 Merged PR [#18](https://github.com/hugomods/encrypt/pull/18) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
