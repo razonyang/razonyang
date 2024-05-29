@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#17](https://github.com/hbstack/contact/pull/17) in [hbstack/contact](https://github.com/hbstack/contact)<br>
-2. 🎉 Merged PR [#240](https://github.com/hbstack/socials/pull/240) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-3. 🎉 Merged PR [#66](https://github.com/hugomods/pwa/pull/66) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
-4. 🎉 Merged PR [#198](https://github.com/hugomods/decap-cms/pull/198) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-5. 🎉 Merged PR [#128](https://github.com/hbstack/gallery/pull/128) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
-6. 🎉 Merged PR [#18](https://github.com/hugomods/encrypt/pull/18) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-7. 🎉 Merged PR [#22](https://github.com/hbstack/staticman-comments/pull/22) in [hbstack/staticman-comments](https://github.com/hbstack/staticman-comments)<br>
-8. 🎉 Merged PR [#16](https://github.com/hbstack/form/pull/16) in [hbstack/form](https://github.com/hbstack/form)<br>
-9. 🎉 Merged PR [#159](https://github.com/hbstack/pagination/pull/159) in [hbstack/pagination](https://github.com/hbstack/pagination)<br>
-10. 🎉 Merged PR [#68](https://github.com/hbstack/content-panel/pull/68) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+1. 🎉 Merged PR [#126](https://github.com/hbstack/announcement-bar/pull/126) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+2. 🎉 Merged PR [#6](https://github.com/hugomods/prettier-config/pull/6) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+3. 💪 Opened PR [#126](https://github.com/hbstack/announcement-bar/pull/126) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+4. 🎉 Merged PR [#17](https://github.com/hbstack/contact/pull/17) in [hbstack/contact](https://github.com/hbstack/contact)<br>
+5. 🎉 Merged PR [#240](https://github.com/hbstack/socials/pull/240) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+6. 🎉 Merged PR [#66](https://github.com/hugomods/pwa/pull/66) in [hugomods/pwa](https://github.com/hugomods/pwa)<br>
+7. 🎉 Merged PR [#198](https://github.com/hugomods/decap-cms/pull/198) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+8. 🎉 Merged PR [#128](https://github.com/hbstack/gallery/pull/128) in [hbstack/gallery](https://github.com/hbstack/gallery)<br>
+9. 🎉 Merged PR [#18](https://github.com/hugomods/encrypt/pull/18) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+10. 🎉 Merged PR [#22](https://github.com/hbstack/staticman-comments/pull/22) in [hbstack/staticman-comments](https://github.com/hbstack/staticman-comments)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
