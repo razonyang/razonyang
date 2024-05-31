@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#48](https://github.com/hugomods/hugopress/issues/48) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-2. 💬 Commented on [#48](https://github.com/hugomods/hugopress/issues/48#issuecomment-2138777998) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-3. 🎉 Merged PR [#50](https://github.com/hugomods/hugopress/pull/50) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-4. 💪 Opened PR [#50](https://github.com/hugomods/hugopress/pull/50) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-5. ❗️ Opened issue [#71](https://github.com/hugomods/docker/issues/71) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. 🎉 Merged PR [#126](https://github.com/hbstack/announcement-bar/pull/126) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-7. 🎉 Merged PR [#6](https://github.com/hugomods/prettier-config/pull/6) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-8. 💪 Opened PR [#126](https://github.com/hbstack/announcement-bar/pull/126) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
-9. 🎉 Merged PR [#17](https://github.com/hbstack/contact/pull/17) in [hbstack/contact](https://github.com/hbstack/contact)<br>
-10. 🎉 Merged PR [#240](https://github.com/hbstack/socials/pull/240) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+1. ❗️ Opened issue [#52](https://github.com/hugomods/hugopress/issues/52) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+2. 💬 Commented on [#72](https://github.com/hugomods/docker/issues/72#issuecomment-2141746772) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. ✔️ Closed issue [#48](https://github.com/hugomods/hugopress/issues/48) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+4. 💬 Commented on [#48](https://github.com/hugomods/hugopress/issues/48#issuecomment-2138777998) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+5. 🎉 Merged PR [#50](https://github.com/hugomods/hugopress/pull/50) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+6. 💪 Opened PR [#50](https://github.com/hugomods/hugopress/pull/50) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+7. ❗️ Opened issue [#71](https://github.com/hugomods/docker/issues/71) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. 🎉 Merged PR [#126](https://github.com/hbstack/announcement-bar/pull/126) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
+9. 🎉 Merged PR [#6](https://github.com/hugomods/prettier-config/pull/6) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+10. 💪 Opened PR [#126](https://github.com/hbstack/announcement-bar/pull/126) in [hbstack/announcement-bar](https://github.com/hbstack/announcement-bar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
