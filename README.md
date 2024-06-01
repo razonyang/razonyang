@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#146](https://github.com/hbstack/search/pull/146) in [hbstack/search](https://github.com/hbstack/search)<br>
-2. 🎉 Merged PR [#54](https://github.com/hugomods/hugopress/pull/54) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-3. 🎉 Merged PR [#53](https://github.com/hugomods/hugopress/pull/53) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-4. 💪 Opened PR [#53](https://github.com/hugomods/hugopress/pull/53) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-5. 💪 Opened PR [#856](https://github.com/hbstack/blog/pull/856) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. 🎉 Merged PR [#8](https://github.com/hugomods/google-analytics/pull/8) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
-7. 🎉 Merged PR [#7](https://github.com/hugomods/google-analytics/pull/7) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
-8. 💪 Opened PR [#7](https://github.com/hugomods/google-analytics/pull/7) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
-9. 🎉 Merged PR [#51](https://github.com/hugomods/hugopress/pull/51) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-10. ❗️ Opened issue [#241](https://github.com/hugomods/search/issues/241) in [hugomods/search](https://github.com/hugomods/search)<br>
+1. 💪 Opened PR [#12558](https://github.com/gohugoio/hugo/pull/12558) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. 🎉 Merged PR [#146](https://github.com/hbstack/search/pull/146) in [hbstack/search](https://github.com/hbstack/search)<br>
+3. 🎉 Merged PR [#54](https://github.com/hugomods/hugopress/pull/54) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+4. 🎉 Merged PR [#53](https://github.com/hugomods/hugopress/pull/53) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+5. 💪 Opened PR [#53](https://github.com/hugomods/hugopress/pull/53) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+6. 💪 Opened PR [#856](https://github.com/hbstack/blog/pull/856) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. 🎉 Merged PR [#8](https://github.com/hugomods/google-analytics/pull/8) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
+8. 🎉 Merged PR [#7](https://github.com/hugomods/google-analytics/pull/7) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
+9. 💪 Opened PR [#7](https://github.com/hugomods/google-analytics/pull/7) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
+10. 🎉 Merged PR [#51](https://github.com/hugomods/hugopress/pull/51) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
