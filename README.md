@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#8](https://github.com/hugomods/google-analytics/pull/8) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
-2. 🎉 Merged PR [#7](https://github.com/hugomods/google-analytics/pull/7) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
-3. 💪 Opened PR [#7](https://github.com/hugomods/google-analytics/pull/7) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
-4. 🎉 Merged PR [#51](https://github.com/hugomods/hugopress/pull/51) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-5. ❗️ Opened issue [#241](https://github.com/hugomods/search/issues/241) in [hugomods/search](https://github.com/hugomods/search)<br>
-6. ❗️ Opened issue [#240](https://github.com/hugomods/search/issues/240) in [hugomods/search](https://github.com/hugomods/search)<br>
-7. ❗️ Opened issue [#52](https://github.com/hugomods/hugopress/issues/52) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-8. 💬 Commented on [#72](https://github.com/hugomods/docker/issues/72#issuecomment-2141746772) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. ✔️ Closed issue [#48](https://github.com/hugomods/hugopress/issues/48) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-10. 💬 Commented on [#48](https://github.com/hugomods/hugopress/issues/48#issuecomment-2138777998) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+1. 💪 Opened PR [#856](https://github.com/hbstack/blog/pull/856) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. 🎉 Merged PR [#8](https://github.com/hugomods/google-analytics/pull/8) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
+3. 🎉 Merged PR [#7](https://github.com/hugomods/google-analytics/pull/7) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
+4. 💪 Opened PR [#7](https://github.com/hugomods/google-analytics/pull/7) in [hugomods/google-analytics](https://github.com/hugomods/google-analytics)<br>
+5. 🎉 Merged PR [#51](https://github.com/hugomods/hugopress/pull/51) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+6. ❗️ Opened issue [#241](https://github.com/hugomods/search/issues/241) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. ❗️ Opened issue [#240](https://github.com/hugomods/search/issues/240) in [hugomods/search](https://github.com/hugomods/search)<br>
+8. ❗️ Opened issue [#52](https://github.com/hugomods/hugopress/issues/52) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+9. 💬 Commented on [#72](https://github.com/hugomods/docker/issues/72#issuecomment-2141746772) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. ✔️ Closed issue [#48](https://github.com/hugomods/hugopress/issues/48) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
