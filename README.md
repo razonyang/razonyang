@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#66](https://github.com/hbstack/revision/pull/66) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-2. 🎉 Merged PR [#67](https://github.com/hbstack/revision/pull/67) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-3. 💪 Opened PR [#67](https://github.com/hbstack/revision/pull/67) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-4. 🎉 Merged PR [#65](https://github.com/hbstack/revision/pull/65) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-5. 💪 Opened PR [#65](https://github.com/hbstack/revision/pull/65) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-6. ❗️ Opened issue [#607](https://github.com/hbstack/header/issues/607) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. ❗️ Opened issue [#606](https://github.com/hbstack/header/issues/606) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 💬 Commented on [#4520](https://github.com/gohugoio/hugo/issues/4520#issuecomment-2146767339) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-9. 🎉 Merged PR [#34](https://github.com/hugomods/code-block-panel/pull/34) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-10. 🎉 Merged PR [#33](https://github.com/hugomods/code-block-panel/pull/33) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+1. ✔️ Closed issue [#701](https://github.com/hbstack/docs/issues/701) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. 🎉 Merged PR [#707](https://github.com/hbstack/docs/pull/707) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. 💪 Opened PR [#707](https://github.com/hbstack/docs/pull/707) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. 🎉 Merged PR [#66](https://github.com/hbstack/revision/pull/66) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+5. 🎉 Merged PR [#67](https://github.com/hbstack/revision/pull/67) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+6. 💪 Opened PR [#67](https://github.com/hbstack/revision/pull/67) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+7. 🎉 Merged PR [#65](https://github.com/hbstack/revision/pull/65) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+8. 💪 Opened PR [#65](https://github.com/hbstack/revision/pull/65) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+9. ❗️ Opened issue [#607](https://github.com/hbstack/header/issues/607) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. ❗️ Opened issue [#606](https://github.com/hbstack/header/issues/606) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
