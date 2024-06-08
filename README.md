@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#52](https://github.com/hugomods/images/issues/52) in [hugomods/images](https://github.com/hugomods/images)<br>
-2. 💬 Commented on [#62](https://github.com/abtris/gomeetupprague-website/pull/62#issuecomment-2153052686) in [abtris/gomeetupprague-website](https://github.com/abtris/gomeetupprague-website)<br>
-3. ❗️ Opened issue [#12572](https://github.com/gohugoio/hugo/issues/12572) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-4. 💬 Commented on [#62](https://github.com/abtris/gomeetupprague-website/pull/62#issuecomment-2151400983) in [abtris/gomeetupprague-website](https://github.com/abtris/gomeetupprague-website)<br>
-5. ❗️ Opened issue [#12](https://github.com/hugomods/kroki/issues/12) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-6. 🎉 Merged PR [#8](https://github.com/hugomods/prettier-config/pull/8) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-7. ❗️ Opened issue [#19](https://github.com/hugomods/katex/issues/19) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-8. 💬 Commented on [#823](https://github.com/hbstack/blog/issues/823#issuecomment-2148242795) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 🎉 Merged PR [#178](https://github.com/hbstack/breadcrumb/pull/178) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-10. 🎉 Merged PR [#69](https://github.com/hbstack/revision/pull/69) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+1. 🎉 Merged PR [#14](https://github.com/hugomods/kroki/pull/14) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+2. ✔️ Closed issue [#12](https://github.com/hugomods/kroki/issues/12) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+3. 🎉 Merged PR [#13](https://github.com/hugomods/kroki/pull/13) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+4. 💪 Opened PR [#13](https://github.com/hugomods/kroki/pull/13) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+5. ❗️ Opened issue [#52](https://github.com/hugomods/images/issues/52) in [hugomods/images](https://github.com/hugomods/images)<br>
+6. 💬 Commented on [#62](https://github.com/abtris/gomeetupprague-website/pull/62#issuecomment-2153052686) in [abtris/gomeetupprague-website](https://github.com/abtris/gomeetupprague-website)<br>
+7. ❗️ Opened issue [#12572](https://github.com/gohugoio/hugo/issues/12572) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+8. 💬 Commented on [#62](https://github.com/abtris/gomeetupprague-website/pull/62#issuecomment-2151400983) in [abtris/gomeetupprague-website](https://github.com/abtris/gomeetupprague-website)<br>
+9. ❗️ Opened issue [#12](https://github.com/hugomods/kroki/issues/12) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+10. 🎉 Merged PR [#8](https://github.com/hugomods/prettier-config/pull/8) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
