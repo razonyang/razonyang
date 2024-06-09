@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#12585](https://github.com/gohugoio/hugo/pull/12585) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-2. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.2.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-3. ❗️ Opened issue [#123](https://github.com/hugomods/encrypt/issues/123) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-4. 💬 Commented on [#376](https://github.com/hugomods/icons/issues/376#issuecomment-2156278527) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 🎉 Merged PR [#14](https://github.com/hugomods/kroki/pull/14) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-6. ✔️ Closed issue [#12](https://github.com/hugomods/kroki/issues/12) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-7. 🎉 Merged PR [#13](https://github.com/hugomods/kroki/pull/13) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-8. 💪 Opened PR [#13](https://github.com/hugomods/kroki/pull/13) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-9. ❗️ Opened issue [#52](https://github.com/hugomods/images/issues/52) in [hugomods/images](https://github.com/hugomods/images)<br>
-10. 💬 Commented on [#62](https://github.com/abtris/gomeetupprague-website/pull/62#issuecomment-2153052686) in [abtris/gomeetupprague-website](https://github.com/abtris/gomeetupprague-website)<br>
+1. 🎉 Merged PR [#374](https://github.com/hugomods/icons/pull/374) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#374](https://github.com/hugomods/icons/pull/374#pullrequestreview-2106310544) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 💪 Opened PR [#12585](https://github.com/gohugoio/hugo/pull/12585) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.2.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+5. ❗️ Opened issue [#123](https://github.com/hugomods/encrypt/issues/123) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+6. 💬 Commented on [#376](https://github.com/hugomods/icons/issues/376#issuecomment-2156278527) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 🎉 Merged PR [#14](https://github.com/hugomods/kroki/pull/14) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+8. ✔️ Closed issue [#12](https://github.com/hugomods/kroki/issues/12) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+9. 🎉 Merged PR [#13](https://github.com/hugomods/kroki/pull/13) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+10. 💪 Opened PR [#13](https://github.com/hugomods/kroki/pull/13) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
