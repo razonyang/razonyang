@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#376](https://github.com/hugomods/icons/issues/376#issuecomment-2156278527) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 🎉 Merged PR [#14](https://github.com/hugomods/kroki/pull/14) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-3. ✔️ Closed issue [#12](https://github.com/hugomods/kroki/issues/12) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-4. 🎉 Merged PR [#13](https://github.com/hugomods/kroki/pull/13) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-5. 💪 Opened PR [#13](https://github.com/hugomods/kroki/pull/13) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-6. ❗️ Opened issue [#52](https://github.com/hugomods/images/issues/52) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. 💬 Commented on [#62](https://github.com/abtris/gomeetupprague-website/pull/62#issuecomment-2153052686) in [abtris/gomeetupprague-website](https://github.com/abtris/gomeetupprague-website)<br>
-8. ❗️ Opened issue [#12572](https://github.com/gohugoio/hugo/issues/12572) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-9. 💬 Commented on [#62](https://github.com/abtris/gomeetupprague-website/pull/62#issuecomment-2151400983) in [abtris/gomeetupprague-website](https://github.com/abtris/gomeetupprague-website)<br>
-10. ❗️ Opened issue [#12](https://github.com/hugomods/kroki/issues/12) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+1. ❗️ Opened issue [#123](https://github.com/hugomods/encrypt/issues/123) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+2. 💬 Commented on [#376](https://github.com/hugomods/icons/issues/376#issuecomment-2156278527) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#14](https://github.com/hugomods/kroki/pull/14) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+4. ✔️ Closed issue [#12](https://github.com/hugomods/kroki/issues/12) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+5. 🎉 Merged PR [#13](https://github.com/hugomods/kroki/pull/13) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+6. 💪 Opened PR [#13](https://github.com/hugomods/kroki/pull/13) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+7. ❗️ Opened issue [#52](https://github.com/hugomods/images/issues/52) in [hugomods/images](https://github.com/hugomods/images)<br>
+8. 💬 Commented on [#62](https://github.com/abtris/gomeetupprague-website/pull/62#issuecomment-2153052686) in [abtris/gomeetupprague-website](https://github.com/abtris/gomeetupprague-website)<br>
+9. ❗️ Opened issue [#12572](https://github.com/gohugoio/hugo/issues/12572) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+10. 💬 Commented on [#62](https://github.com/abtris/gomeetupprague-website/pull/62#issuecomment-2151400983) in [abtris/gomeetupprague-website](https://github.com/abtris/gomeetupprague-website)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
