@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#3](https://github.com/ipitio/ghcr-pulls/pull/3) in [ipitio/ghcr-pulls](https://github.com/ipitio/ghcr-pulls)<br>
-2. 🔱 Forked [razonyang/ghcr-pulls](https://github.com/razonyang/ghcr-pulls) from [ipitio/ghcr-pulls](https://github.com/ipitio/ghcr-pulls)<br>
-3. 🎉 Merged PR [#374](https://github.com/hugomods/icons/pull/374) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#374](https://github.com/hugomods/icons/pull/374#pullrequestreview-2106310544) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 💪 Opened PR [#12585](https://github.com/gohugoio/hugo/pull/12585) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.2.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-7. ❗️ Opened issue [#123](https://github.com/hugomods/encrypt/issues/123) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-8. 💬 Commented on [#376](https://github.com/hugomods/icons/issues/376#issuecomment-2156278527) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 🎉 Merged PR [#14](https://github.com/hugomods/kroki/pull/14) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-10. ✔️ Closed issue [#12](https://github.com/hugomods/kroki/issues/12) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+1. 🎉 Merged PR [#243](https://github.com/hbstack/socials/pull/243) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+2. 👍 Approved [#243](https://github.com/hbstack/socials/pull/243#pullrequestreview-2108205507) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+3. 🎉 Merged PR [#242](https://github.com/hbstack/socials/pull/242) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+4. 💪 Opened PR [#242](https://github.com/hbstack/socials/pull/242) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+5. 💪 Opened PR [#3](https://github.com/ipitio/ghcr-pulls/pull/3) in [ipitio/ghcr-pulls](https://github.com/ipitio/ghcr-pulls)<br>
+6. 🔱 Forked [razonyang/ghcr-pulls](https://github.com/razonyang/ghcr-pulls) from [ipitio/ghcr-pulls](https://github.com/ipitio/ghcr-pulls)<br>
+7. 🎉 Merged PR [#374](https://github.com/hugomods/icons/pull/374) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 👍 Approved [#374](https://github.com/hugomods/icons/pull/374#pullrequestreview-2106310544) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 💪 Opened PR [#12585](https://github.com/gohugoio/hugo/pull/12585) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+10. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.2.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
