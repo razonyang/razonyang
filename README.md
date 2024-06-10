@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#44](https://github.com/hbstack/social-share-buttons/pull/44) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-2. 💪 Opened PR [#44](https://github.com/hbstack/social-share-buttons/pull/44) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-3. 🎉 Merged PR [#243](https://github.com/hbstack/socials/pull/243) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-4. 👍 Approved [#243](https://github.com/hbstack/socials/pull/243#pullrequestreview-2108205507) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-5. 🎉 Merged PR [#242](https://github.com/hbstack/socials/pull/242) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-6. 💪 Opened PR [#242](https://github.com/hbstack/socials/pull/242) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-7. 💪 Opened PR [#3](https://github.com/ipitio/ghcr-pulls/pull/3) in [ipitio/ghcr-pulls](https://github.com/ipitio/ghcr-pulls)<br>
-8. 🔱 Forked [razonyang/ghcr-pulls](https://github.com/razonyang/ghcr-pulls) from [ipitio/ghcr-pulls](https://github.com/ipitio/ghcr-pulls)<br>
-9. 🎉 Merged PR [#374](https://github.com/hugomods/icons/pull/374) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 👍 Approved [#374](https://github.com/hugomods/icons/pull/374#pullrequestreview-2106310544) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#45](https://github.com/hbstack/social-share-buttons/pull/45) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+2. 🎉 Merged PR [#44](https://github.com/hbstack/social-share-buttons/pull/44) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+3. 💪 Opened PR [#44](https://github.com/hbstack/social-share-buttons/pull/44) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+4. 🎉 Merged PR [#243](https://github.com/hbstack/socials/pull/243) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+5. 👍 Approved [#243](https://github.com/hbstack/socials/pull/243#pullrequestreview-2108205507) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+6. 🎉 Merged PR [#242](https://github.com/hbstack/socials/pull/242) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+7. 💪 Opened PR [#242](https://github.com/hbstack/socials/pull/242) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+8. 💪 Opened PR [#3](https://github.com/ipitio/ghcr-pulls/pull/3) in [ipitio/ghcr-pulls](https://github.com/ipitio/ghcr-pulls)<br>
+9. 🔱 Forked [razonyang/ghcr-pulls](https://github.com/razonyang/ghcr-pulls) from [ipitio/ghcr-pulls](https://github.com/ipitio/ghcr-pulls)<br>
+10. 🎉 Merged PR [#374](https://github.com/hugomods/icons/pull/374) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
