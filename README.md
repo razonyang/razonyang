@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#5](https://github.com/hugomods/lorem-ipsum-generator/pull/5) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
-2. 🎉 Merged PR [#4](https://github.com/hugomods/lorem-ipsum-generator/pull/4) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
-3. 🎉 Merged PR [#3](https://github.com/hugomods/lorem-ipsum-generator/pull/3) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
-4. 🎉 Merged PR [#1](https://github.com/hugomods/lorem-ipsum-generator/pull/1) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
-5. 📔 Created new repository [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
-6. 📔 Created new repository [razonyang/hb-theme-benchmark](https://github.com/razonyang/hb-theme-benchmark)<br>
-7. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2162808681) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. ❗️ Opened issue [#2023](https://github.com/twbs/icons/issues/2023) in [twbs/icons](https://github.com/twbs/icons)<br>
-9. 🎉 Merged PR [#72](https://github.com/hbstack/revision/pull/72) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-10. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2161111515) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. ❗️ Opened issue [#35](https://github.com/hugomods/code-block-panel/issues/35) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+2. 🎉 Merged PR [#5](https://github.com/hugomods/lorem-ipsum-generator/pull/5) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
+3. 🎉 Merged PR [#4](https://github.com/hugomods/lorem-ipsum-generator/pull/4) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
+4. 🎉 Merged PR [#3](https://github.com/hugomods/lorem-ipsum-generator/pull/3) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
+5. 🎉 Merged PR [#1](https://github.com/hugomods/lorem-ipsum-generator/pull/1) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
+6. 📔 Created new repository [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
+7. 📔 Created new repository [razonyang/hb-theme-benchmark](https://github.com/razonyang/hb-theme-benchmark)<br>
+8. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2162808681) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. ❗️ Opened issue [#2023](https://github.com/twbs/icons/issues/2023) in [twbs/icons](https://github.com/twbs/icons)<br>
+10. 🎉 Merged PR [#72](https://github.com/hbstack/revision/pull/72) in [hbstack/revision](https://github.com/hbstack/revision)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
