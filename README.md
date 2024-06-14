@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#164](https://github.com/hbstack/base/pull/164) in [hbstack/base](https://github.com/hbstack/base)<br>
-2. 🎉 Merged PR [#60](https://github.com/hugomods/hugopress/pull/60) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-3. 💪 Opened PR [#60](https://github.com/hugomods/hugopress/pull/60) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-4. 🎉 Merged PR [#58](https://github.com/hugomods/hugopress/pull/58) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-5. 💪 Opened PR [#58](https://github.com/hugomods/hugopress/pull/58) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-6. 💬 Commented on [#209](https://github.com/hbstack/search/issues/209#issuecomment-2167186157) in [hbstack/search](https://github.com/hbstack/search)<br>
-7. 💪 Opened PR [#1](https://github.com/razonyang/hb-framework-benchmark/pull/1) in [razonyang/hb-framework-benchmark](https://github.com/razonyang/hb-framework-benchmark)<br>
-8. 🎉 Merged PR [#379](https://github.com/hugomods/icons/pull/379) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#379](https://github.com/hugomods/icons/pull/379#pullrequestreview-2117146781) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2165306119) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 💪 Opened PR [#34](https://github.com/hugomods/seo/pull/34) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+2. 💪 Opened PR [#614](https://github.com/hbstack/header/pull/614) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. 💪 Opened PR [#164](https://github.com/hbstack/base/pull/164) in [hbstack/base](https://github.com/hbstack/base)<br>
+4. 🎉 Merged PR [#60](https://github.com/hugomods/hugopress/pull/60) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+5. 💪 Opened PR [#60](https://github.com/hugomods/hugopress/pull/60) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+6. 🎉 Merged PR [#58](https://github.com/hugomods/hugopress/pull/58) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+7. 💪 Opened PR [#58](https://github.com/hugomods/hugopress/pull/58) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+8. 💬 Commented on [#209](https://github.com/hbstack/search/issues/209#issuecomment-2167186157) in [hbstack/search](https://github.com/hbstack/search)<br>
+9. 💪 Opened PR [#1](https://github.com/razonyang/hb-framework-benchmark/pull/1) in [razonyang/hb-framework-benchmark](https://github.com/razonyang/hb-framework-benchmark)<br>
+10. 🎉 Merged PR [#379](https://github.com/hugomods/icons/pull/379) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
