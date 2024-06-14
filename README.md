@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#379](https://github.com/hugomods/icons/pull/379) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#379](https://github.com/hugomods/icons/pull/379#pullrequestreview-2117146781) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2165306119) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 🎉 Merged PR [#2](https://github.com/hugomods/metrics-parser/pull/2) in [hugomods/metrics-parser](https://github.com/hugomods/metrics-parser)<br>
-5. 📔 Created new repository [hugomods/metrics-parser](https://github.com/hugomods/metrics-parser)<br>
-6. 📔 Created new repository [hbstack/template-node-package](https://github.com/hbstack/template-node-package)<br>
-7. 📔 Created new repository [hugomods/template-node-package](https://github.com/hugomods/template-node-package)<br>
-8. ⭐ Starred [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
-9. ❗️ Opened issue [#35](https://github.com/hugomods/code-block-panel/issues/35) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-10. 🎉 Merged PR [#5](https://github.com/hugomods/lorem-ipsum-generator/pull/5) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
+1. 💪 Opened PR [#1](https://github.com/razonyang/hb-framework-benchmark/pull/1) in [razonyang/hb-framework-benchmark](https://github.com/razonyang/hb-framework-benchmark)<br>
+2. 🎉 Merged PR [#379](https://github.com/hugomods/icons/pull/379) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#379](https://github.com/hugomods/icons/pull/379#pullrequestreview-2117146781) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2165306119) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 🎉 Merged PR [#2](https://github.com/hugomods/metrics-parser/pull/2) in [hugomods/metrics-parser](https://github.com/hugomods/metrics-parser)<br>
+6. 📔 Created new repository [hugomods/metrics-parser](https://github.com/hugomods/metrics-parser)<br>
+7. 📔 Created new repository [hbstack/template-node-package](https://github.com/hbstack/template-node-package)<br>
+8. 📔 Created new repository [hugomods/template-node-package](https://github.com/hugomods/template-node-package)<br>
+9. ⭐ Starred [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
+10. ❗️ Opened issue [#35](https://github.com/hugomods/code-block-panel/issues/35) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
