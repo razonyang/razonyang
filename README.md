@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#7](https://github.com/hugomods/metrics-parser/pull/7) in [hugomods/metrics-parser](https://github.com/hugomods/metrics-parser)<br>
-2. 🎉 Merged PR [#6](https://github.com/hugomods/metrics-parser/pull/6) in [hugomods/metrics-parser](https://github.com/hugomods/metrics-parser)<br>
-3. 🎉 Merged PR [#5](https://github.com/hugomods/metrics-parser/pull/5) in [hugomods/metrics-parser](https://github.com/hugomods/metrics-parser)<br>
-4. 🎉 Merged PR [#181](https://github.com/hbstack/breadcrumb/pull/181) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-5. 🎉 Merged PR [#180](https://github.com/hbstack/breadcrumb/pull/180) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-6. 💪 Opened PR [#180](https://github.com/hbstack/breadcrumb/pull/180) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-7. 🎉 Merged PR [#3](https://github.com/hugomods/metrics-parser/pull/3) in [hugomods/metrics-parser](https://github.com/hugomods/metrics-parser)<br>
-8. 💬 Commented on [#209](https://github.com/hbstack/search/issues/209#issuecomment-2168079209) in [hbstack/search](https://github.com/hbstack/search)<br>
-9. 💪 Opened PR [#34](https://github.com/hugomods/seo/pull/34) in [hugomods/seo](https://github.com/hugomods/seo)<br>
-10. 💪 Opened PR [#614](https://github.com/hbstack/header/pull/614) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#8](https://github.com/hugomods/metrics-parser/pull/8) in [hugomods/metrics-parser](https://github.com/hugomods/metrics-parser)<br>
+2. 🎉 Merged PR [#615](https://github.com/hbstack/header/pull/615) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. 🎉 Merged PR [#614](https://github.com/hbstack/header/pull/614) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 🎉 Merged PR [#35](https://github.com/hugomods/seo/pull/35) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+5. 🎉 Merged PR [#34](https://github.com/hugomods/seo/pull/34) in [hugomods/seo](https://github.com/hugomods/seo)<br>
+6. 🎉 Merged PR [#165](https://github.com/hbstack/base/pull/165) in [hbstack/base](https://github.com/hbstack/base)<br>
+7. 🎉 Merged PR [#164](https://github.com/hbstack/base/pull/164) in [hbstack/base](https://github.com/hbstack/base)<br>
+8. 🎉 Merged PR [#890](https://github.com/hbstack/blog/pull/890) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 🎉 Merged PR [#59](https://github.com/hugomods/hugopress/pull/59) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+10. 🎉 Merged PR [#889](https://github.com/hbstack/blog/pull/889) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
