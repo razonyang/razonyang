@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#622](https://github.com/hbstack/header/issues/622#issuecomment-2171745891) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. ✔️ Closed issue [#622](https://github.com/hbstack/header/issues/622) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. ⭐ Starred [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk)<br>
-4. 🎉 Merged PR [#210](https://github.com/hbstack/hb/pull/210) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-5. 🎉 Merged PR [#177](https://github.com/hbstack/carousel/pull/177) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
-6. 🎉 Merged PR [#20](https://github.com/hugomods/katex/pull/20) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-7. 🎉 Merged PR [#727](https://github.com/hbstack/docs/pull/727) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-8. 🎉 Merged PR [#48](https://github.com/hugomods/base/pull/48) in [hugomods/base](https://github.com/hugomods/base)<br>
-9. 🎉 Merged PR [#899](https://github.com/hbstack/blog/pull/899) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ❌ Closed PR [#17](https://github.com/hugomods/katex/pull/17) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+1. 🎉 Merged PR [#908](https://github.com/hbstack/blog/pull/908) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. 🎉 Merged PR [#907](https://github.com/hbstack/blog/pull/907) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 🎉 Merged PR [#906](https://github.com/hbstack/blog/pull/906) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 💪 Opened PR [#906](https://github.com/hbstack/blog/pull/906) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 💬 Commented on [#622](https://github.com/hbstack/header/issues/622#issuecomment-2171745891) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. ✔️ Closed issue [#622](https://github.com/hbstack/header/issues/622) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. ⭐ Starred [gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk)<br>
+8. 🎉 Merged PR [#210](https://github.com/hbstack/hb/pull/210) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. 🎉 Merged PR [#177](https://github.com/hbstack/carousel/pull/177) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+10. 🎉 Merged PR [#20](https://github.com/hugomods/katex/pull/20) in [hugomods/katex](https://github.com/hugomods/katex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
