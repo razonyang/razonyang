@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#17](https://github.com/hugomods/katex/pull/17) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-2. 🎉 Merged PR [#61](https://github.com/hugomods/hugopress/pull/61) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-3. 🎉 Merged PR [#382](https://github.com/hugomods/icons/pull/382) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ❗️ Opened issue [#8](https://github.com/hugomods/lorem-ipsum-generator/issues/8) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
-5. ❗️ Opened issue [#7](https://github.com/hugomods/lorem-ipsum-generator/issues/7) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
-6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.3.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-7. 🎉 Merged PR [#1040](https://github.com/razonyang/hugo-theme-bootstrap/pull/1040) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 🎉 Merged PR [#1039](https://github.com/razonyang/hugo-theme-bootstrap/pull/1039) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 💪 Opened PR [#1039](https://github.com/razonyang/hugo-theme-bootstrap/pull/1039) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2169769321) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 🎉 Merged PR [#210](https://github.com/hbstack/hb/pull/210) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+2. 🎉 Merged PR [#177](https://github.com/hbstack/carousel/pull/177) in [hbstack/carousel](https://github.com/hbstack/carousel)<br>
+3. 🎉 Merged PR [#20](https://github.com/hugomods/katex/pull/20) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+4. 🎉 Merged PR [#727](https://github.com/hbstack/docs/pull/727) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+5. 🎉 Merged PR [#48](https://github.com/hugomods/base/pull/48) in [hugomods/base](https://github.com/hugomods/base)<br>
+6. 🎉 Merged PR [#899](https://github.com/hbstack/blog/pull/899) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. ❌ Closed PR [#17](https://github.com/hugomods/katex/pull/17) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+8. 🎉 Merged PR [#61](https://github.com/hugomods/hugopress/pull/61) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+9. 🎉 Merged PR [#382](https://github.com/hugomods/icons/pull/382) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. ❗️ Opened issue [#8](https://github.com/hugomods/lorem-ipsum-generator/issues/8) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
