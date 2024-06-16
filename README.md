@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#8](https://github.com/hugomods/lorem-ipsum-generator/issues/8) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
-2. ❗️ Opened issue [#7](https://github.com/hugomods/lorem-ipsum-generator/issues/7) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
-3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.3.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-4. 🎉 Merged PR [#1040](https://github.com/razonyang/hugo-theme-bootstrap/pull/1040) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 🎉 Merged PR [#1039](https://github.com/razonyang/hugo-theme-bootstrap/pull/1039) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💪 Opened PR [#1039](https://github.com/razonyang/hugo-theme-bootstrap/pull/1039) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2169769321) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. ⭐ Starred [hugomods/metrics-parser](https://github.com/hugomods/metrics-parser)<br>
-9. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2169501065) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. 🎉 Merged PR [#896](https://github.com/hbstack/blog/pull/896) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. ❌ Closed PR [#17](https://github.com/hugomods/katex/pull/17) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+2. 🎉 Merged PR [#61](https://github.com/hugomods/hugopress/pull/61) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+3. 🎉 Merged PR [#382](https://github.com/hugomods/icons/pull/382) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ❗️ Opened issue [#8](https://github.com/hugomods/lorem-ipsum-generator/issues/8) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
+5. ❗️ Opened issue [#7](https://github.com/hugomods/lorem-ipsum-generator/issues/7) in [hugomods/lorem-ipsum-generator](https://github.com/hugomods/lorem-ipsum-generator)<br>
+6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.3.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+7. 🎉 Merged PR [#1040](https://github.com/razonyang/hugo-theme-bootstrap/pull/1040) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 🎉 Merged PR [#1039](https://github.com/razonyang/hugo-theme-bootstrap/pull/1039) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 💪 Opened PR [#1039](https://github.com/razonyang/hugo-theme-bootstrap/pull/1039) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2169769321) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
