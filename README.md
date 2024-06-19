@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#646](https://github.com/peaceiris/actions-hugo/pull/646#issuecomment-2178005140) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-2. 💬 Commented on [#646](https://github.com/peaceiris/actions-hugo/pull/646#issuecomment-2177991004) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-3. 💬 Commented on [#172](https://github.com/hbstack/base/issues/172#issuecomment-2177358023) in [hbstack/base](https://github.com/hbstack/base)<br>
-4. ✔️ Closed issue [#172](https://github.com/hbstack/base/issues/172) in [hbstack/base](https://github.com/hbstack/base)<br>
-5. 💬 Commented on [#172](https://github.com/hbstack/base/issues/172#issuecomment-2177350388) in [hbstack/base](https://github.com/hbstack/base)<br>
-6. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2176289411) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2176234527) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2176200806) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2176190094) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2175932927) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2178155660) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. 💬 Commented on [#646](https://github.com/peaceiris/actions-hugo/pull/646#issuecomment-2178005140) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
+3. 💬 Commented on [#646](https://github.com/peaceiris/actions-hugo/pull/646#issuecomment-2177991004) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
+4. 💬 Commented on [#172](https://github.com/hbstack/base/issues/172#issuecomment-2177358023) in [hbstack/base](https://github.com/hbstack/base)<br>
+5. ✔️ Closed issue [#172](https://github.com/hbstack/base/issues/172) in [hbstack/base](https://github.com/hbstack/base)<br>
+6. 💬 Commented on [#172](https://github.com/hbstack/base/issues/172#issuecomment-2177350388) in [hbstack/base](https://github.com/hbstack/base)<br>
+7. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2176289411) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2176234527) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2176200806) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+10. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2176190094) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
