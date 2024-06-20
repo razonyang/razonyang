@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
-2. 🎉 Merged PR [#3](https://github.com/hugomods/swagger-ui/pull/3) in [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
-3. ❌ Closed PR [#2](https://github.com/hugomods/swagger-ui/pull/2) in [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
-4. 📔 Created new repository [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
-5. ⭐ Starred [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)<br>
-6. 💬 Commented on [#12612](https://github.com/gohugoio/hugo/pull/12612#issuecomment-2179185073) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-7. 💬 Commented on [#12612](https://github.com/gohugoio/hugo/pull/12612#issuecomment-2179132129) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-8. 💪 Opened PR [#12612](https://github.com/gohugoio/hugo/pull/12612) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-9. ✔️ Closed issue [#645](https://github.com/peaceiris/actions-hugo/issues/645) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-10. 💬 Commented on [#646](https://github.com/peaceiris/actions-hugo/pull/646#issuecomment-2178243901) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
+1. ❗️ Opened issue [#651](https://github.com/peaceiris/actions-hugo/issues/651) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
+2. 💬 Commented on [#1082](https://github.com/peaceiris/actions-gh-pages/issues/1082#issuecomment-2179844223) in [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)<br>
+3. ❗️ Opened issue [#1082](https://github.com/peaceiris/actions-gh-pages/issues/1082) in [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)<br>
+4. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2179782213) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ⭐ Starred [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
+6. 🎉 Merged PR [#3](https://github.com/hugomods/swagger-ui/pull/3) in [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
+7. ❌ Closed PR [#2](https://github.com/hugomods/swagger-ui/pull/2) in [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
+8. 📔 Created new repository [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
+9. ⭐ Starred [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)<br>
+10. 💬 Commented on [#12612](https://github.com/gohugoio/hugo/pull/12612#issuecomment-2179185073) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
