@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)<br>
-2. 💬 Commented on [#12612](https://github.com/gohugoio/hugo/pull/12612#issuecomment-2179185073) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-3. 💬 Commented on [#12612](https://github.com/gohugoio/hugo/pull/12612#issuecomment-2179132129) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-4. 💪 Opened PR [#12612](https://github.com/gohugoio/hugo/pull/12612) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-5. ✔️ Closed issue [#645](https://github.com/peaceiris/actions-hugo/issues/645) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-6. 💬 Commented on [#646](https://github.com/peaceiris/actions-hugo/pull/646#issuecomment-2178243901) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-7. ❌ Closed PR [#646](https://github.com/peaceiris/actions-hugo/pull/646) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-8. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2178155660) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 💬 Commented on [#646](https://github.com/peaceiris/actions-hugo/pull/646#issuecomment-2178005140) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-10. 💬 Commented on [#646](https://github.com/peaceiris/actions-hugo/pull/646#issuecomment-2177991004) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
+1. 🎉 Merged PR [#3](https://github.com/hugomods/swagger-ui/pull/3) in [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
+2. ❌ Closed PR [#2](https://github.com/hugomods/swagger-ui/pull/2) in [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
+3. 📔 Created new repository [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
+4. ⭐ Starred [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui)<br>
+5. 💬 Commented on [#12612](https://github.com/gohugoio/hugo/pull/12612#issuecomment-2179185073) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+6. 💬 Commented on [#12612](https://github.com/gohugoio/hugo/pull/12612#issuecomment-2179132129) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+7. 💪 Opened PR [#12612](https://github.com/gohugoio/hugo/pull/12612) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+8. ✔️ Closed issue [#645](https://github.com/peaceiris/actions-hugo/issues/645) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
+9. 💬 Commented on [#646](https://github.com/peaceiris/actions-hugo/pull/646#issuecomment-2178243901) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
+10. ❌ Closed PR [#646](https://github.com/peaceiris/actions-hugo/pull/646) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
