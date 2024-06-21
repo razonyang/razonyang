@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#242](https://github.com/hugomods/search/issues/242) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. ⭐ Starred [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-3. ❗️ Opened issue [#75](https://github.com/hugomods/docker/issues/75) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 🎉 Merged PR [#1](https://github.com/hbstack/swagger-ui/pull/1) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-5. 📔 Created new repository [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-6. ❗️ Opened issue [#651](https://github.com/peaceiris/actions-hugo/issues/651) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-7. 💬 Commented on [#1082](https://github.com/peaceiris/actions-gh-pages/issues/1082#issuecomment-2179844223) in [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)<br>
-8. ❗️ Opened issue [#1082](https://github.com/peaceiris/actions-gh-pages/issues/1082) in [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)<br>
-9. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2179782213) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ⭐ Starred [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
+1. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2181760209) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. ❗️ Opened issue [#242](https://github.com/hugomods/search/issues/242) in [hugomods/search](https://github.com/hugomods/search)<br>
+3. ⭐ Starred [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+4. ❗️ Opened issue [#75](https://github.com/hugomods/docker/issues/75) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+5. 🎉 Merged PR [#1](https://github.com/hbstack/swagger-ui/pull/1) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+6. 📔 Created new repository [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+7. ❗️ Opened issue [#651](https://github.com/peaceiris/actions-hugo/issues/651) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
+8. 💬 Commented on [#1082](https://github.com/peaceiris/actions-gh-pages/issues/1082#issuecomment-2179844223) in [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)<br>
+9. ❗️ Opened issue [#1082](https://github.com/peaceiris/actions-gh-pages/issues/1082) in [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages)<br>
+10. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2179782213) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
