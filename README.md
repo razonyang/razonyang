@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#914](https://github.com/hbstack/blog/issues/914) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. 💬 Commented on [#1189](https://github.com/desandro/masonry/issues/1189#issuecomment-2181864252) in [desandro/masonry](https://github.com/desandro/masonry)<br>
-3. ⭐ Starred [ademilter/bricklayer](https://github.com/ademilter/bricklayer)<br>
-4. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2181760209) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ❗️ Opened issue [#242](https://github.com/hugomods/search/issues/242) in [hugomods/search](https://github.com/hugomods/search)<br>
-6. ⭐ Starred [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-7. ❗️ Opened issue [#75](https://github.com/hugomods/docker/issues/75) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. 🎉 Merged PR [#1](https://github.com/hbstack/swagger-ui/pull/1) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-9. 📔 Created new repository [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-10. ❗️ Opened issue [#651](https://github.com/peaceiris/actions-hugo/issues/651) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
+1. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2182099947) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. ❗️ Opened issue [#914](https://github.com/hbstack/blog/issues/914) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 💬 Commented on [#1189](https://github.com/desandro/masonry/issues/1189#issuecomment-2181864252) in [desandro/masonry](https://github.com/desandro/masonry)<br>
+4. ⭐ Starred [ademilter/bricklayer](https://github.com/ademilter/bricklayer)<br>
+5. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2181760209) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. ❗️ Opened issue [#242](https://github.com/hugomods/search/issues/242) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. ⭐ Starred [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+8. ❗️ Opened issue [#75](https://github.com/hugomods/docker/issues/75) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 🎉 Merged PR [#1](https://github.com/hbstack/swagger-ui/pull/1) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+10. 📔 Created new repository [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
