@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#384](https://github.com/hugomods/icons/pull/384) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#384](https://github.com/hugomods/icons/pull/384#pullrequestreview-2134053747) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-4. 💬 Commented on [#79](https://github.com/hbstack/revision/issues/79#issuecomment-2183608773) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-5. 🎉 Merged PR [#80](https://github.com/hbstack/revision/pull/80) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-6. ✔️ Closed issue [#79](https://github.com/hbstack/revision/issues/79) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-7. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2182989207) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. ⭐ Starred [jonschlinkert/handlebars-delimiters](https://github.com/jonschlinkert/handlebars-delimiters)<br>
-9. 🎉 Merged PR [#916](https://github.com/hbstack/blog/pull/916) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ✔️ Closed issue [#914](https://github.com/hbstack/blog/issues/914) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 🎉 Merged PR [#4](https://github.com/hbstack/swagger-ui/pull/4) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+2. 🎉 Merged PR [#3](https://github.com/hbstack/swagger-ui/pull/3) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+3. 💪 Opened PR [#3](https://github.com/hbstack/swagger-ui/pull/3) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+4. 🎉 Merged PR [#384](https://github.com/hugomods/icons/pull/384) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 👍 Approved [#384](https://github.com/hugomods/icons/pull/384#pullrequestreview-2134053747) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+7. 💬 Commented on [#79](https://github.com/hbstack/revision/issues/79#issuecomment-2183608773) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+8. 🎉 Merged PR [#80](https://github.com/hbstack/revision/pull/80) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+9. ✔️ Closed issue [#79](https://github.com/hbstack/revision/issues/79) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+10. 💬 Commented on [#884](https://github.com/hbstack/blog/issues/884#issuecomment-2182989207) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
