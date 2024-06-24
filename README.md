@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#78](https://github.com/hugomods/docker/pull/78) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. ✔️ Closed issue [#76](https://github.com/hugomods/docker/issues/76) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 🎉 Merged PR [#77](https://github.com/hugomods/docker/pull/77) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 💪 Opened PR [#77](https://github.com/hugomods/docker/pull/77) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. ❗️ Opened issue [#76](https://github.com/hugomods/docker/issues/76) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. 🎉 Merged PR [#4](https://github.com/hbstack/swagger-ui/pull/4) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-7. 🎉 Merged PR [#3](https://github.com/hbstack/swagger-ui/pull/3) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-8. 💪 Opened PR [#3](https://github.com/hbstack/swagger-ui/pull/3) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-9. 🎉 Merged PR [#384](https://github.com/hugomods/icons/pull/384) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 👍 Approved [#384](https://github.com/hugomods/icons/pull/384#pullrequestreview-2134053747) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#78](https://github.com/hugomods/docker/pull/78) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. 💪 Opened PR [#78](https://github.com/hugomods/docker/pull/78) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. ✔️ Closed issue [#76](https://github.com/hugomods/docker/issues/76) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. 🎉 Merged PR [#77](https://github.com/hugomods/docker/pull/77) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+5. 💪 Opened PR [#77](https://github.com/hugomods/docker/pull/77) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. ❗️ Opened issue [#76](https://github.com/hugomods/docker/issues/76) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 🎉 Merged PR [#4](https://github.com/hbstack/swagger-ui/pull/4) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+8. 🎉 Merged PR [#3](https://github.com/hbstack/swagger-ui/pull/3) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+9. 💪 Opened PR [#3](https://github.com/hbstack/swagger-ui/pull/3) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+10. 🎉 Merged PR [#384](https://github.com/hugomods/icons/pull/384) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
