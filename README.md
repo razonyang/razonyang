@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#76](https://github.com/hugomods/docker/issues/76) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 🎉 Merged PR [#4](https://github.com/hbstack/swagger-ui/pull/4) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-3. 🎉 Merged PR [#3](https://github.com/hbstack/swagger-ui/pull/3) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-4. 💪 Opened PR [#3](https://github.com/hbstack/swagger-ui/pull/3) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
-5. 🎉 Merged PR [#384](https://github.com/hugomods/icons/pull/384) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 👍 Approved [#384](https://github.com/hugomods/icons/pull/384#pullrequestreview-2134053747) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-8. 💬 Commented on [#79](https://github.com/hbstack/revision/issues/79#issuecomment-2183608773) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-9. 🎉 Merged PR [#80](https://github.com/hbstack/revision/pull/80) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-10. ✔️ Closed issue [#79](https://github.com/hbstack/revision/issues/79) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+1. 💪 Opened PR [#77](https://github.com/hugomods/docker/pull/77) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. ❗️ Opened issue [#76](https://github.com/hugomods/docker/issues/76) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 🎉 Merged PR [#4](https://github.com/hbstack/swagger-ui/pull/4) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+4. 🎉 Merged PR [#3](https://github.com/hbstack/swagger-ui/pull/3) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+5. 💪 Opened PR [#3](https://github.com/hbstack/swagger-ui/pull/3) in [hbstack/swagger-ui](https://github.com/hbstack/swagger-ui)<br>
+6. 🎉 Merged PR [#384](https://github.com/hugomods/icons/pull/384) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 👍 Approved [#384](https://github.com/hugomods/icons/pull/384#pullrequestreview-2134053747) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v12.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+9. 💬 Commented on [#79](https://github.com/hbstack/revision/issues/79#issuecomment-2183608773) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+10. 🎉 Merged PR [#80](https://github.com/hbstack/revision/pull/80) in [hbstack/revision](https://github.com/hbstack/revision)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
