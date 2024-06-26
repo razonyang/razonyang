@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#79](https://github.com/hugomods/docker/pull/79) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 🎉 Merged PR [#3](https://github.com/razonyang/github-action-github-latest-release/pull/3) in [razonyang/github-action-github-latest-release](https://github.com/razonyang/github-action-github-latest-release)<br>
-3. ⭐ Starred [razonyang/github-action-github-latest-release](https://github.com/razonyang/github-action-github-latest-release)<br>
-4. 🎉 Merged PR [#2](https://github.com/razonyang/github-action-github-latest-release/pull/2) in [razonyang/github-action-github-latest-release](https://github.com/razonyang/github-action-github-latest-release)<br>
-5. 🎉 Merged PR [#1](https://github.com/razonyang/github-action-github-latest-release/pull/1) in [razonyang/github-action-github-latest-release](https://github.com/razonyang/github-action-github-latest-release)<br>
-6. ✌️ Released [](https://github.com/razonyang/foo-bar-fizz-buzz/releases/tag/v1.2.3) in [razonyang/foo-bar-fizz-buzz](https://github.com/razonyang/foo-bar-fizz-buzz)<br>
-7. 📔 Created new repository [razonyang/foo-bar-fizz-buzz](https://github.com/razonyang/foo-bar-fizz-buzz)<br>
-8. 🎉 Merged PR [#386](https://github.com/hugomods/icons/pull/386) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#386](https://github.com/hugomods/icons/pull/386#pullrequestreview-2140180139) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 🎉 Merged PR [#78](https://github.com/hugomods/docker/pull/78) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. 🎉 Merged PR [#79](https://github.com/hugomods/docker/pull/79) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. 📔 Created new repository [razonyang/template-github-action](https://github.com/razonyang/template-github-action)<br>
+3. 💪 Opened PR [#79](https://github.com/hugomods/docker/pull/79) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. 🎉 Merged PR [#3](https://github.com/razonyang/github-action-github-latest-release/pull/3) in [razonyang/github-action-github-latest-release](https://github.com/razonyang/github-action-github-latest-release)<br>
+5. ⭐ Starred [razonyang/github-action-github-latest-release](https://github.com/razonyang/github-action-github-latest-release)<br>
+6. 🎉 Merged PR [#2](https://github.com/razonyang/github-action-github-latest-release/pull/2) in [razonyang/github-action-github-latest-release](https://github.com/razonyang/github-action-github-latest-release)<br>
+7. 🎉 Merged PR [#1](https://github.com/razonyang/github-action-github-latest-release/pull/1) in [razonyang/github-action-github-latest-release](https://github.com/razonyang/github-action-github-latest-release)<br>
+8. ✌️ Released [](https://github.com/razonyang/foo-bar-fizz-buzz/releases/tag/v1.2.3) in [razonyang/foo-bar-fizz-buzz](https://github.com/razonyang/foo-bar-fizz-buzz)<br>
+9. 📔 Created new repository [razonyang/foo-bar-fizz-buzz](https://github.com/razonyang/foo-bar-fizz-buzz)<br>
+10. 🎉 Merged PR [#386](https://github.com/hugomods/icons/pull/386) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
