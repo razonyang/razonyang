@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#81](https://github.com/hugomods/docker/pull/81) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 💪 Opened PR [#81](https://github.com/hugomods/docker/pull/81) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 🎉 Merged PR [#80](https://github.com/hugomods/docker/pull/80) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 💪 Opened PR [#80](https://github.com/hugomods/docker/pull/80) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. 🎉 Merged PR [#3](https://github.com/razonyang/github-action-docker-image-tag-exists/pull/3) in [razonyang/github-action-docker-image-tag-exists](https://github.com/razonyang/github-action-docker-image-tag-exists)<br>
-6. 🎉 Merged PR [#2](https://github.com/razonyang/github-action-docker-image-tag-exists/pull/2) in [razonyang/github-action-docker-image-tag-exists](https://github.com/razonyang/github-action-docker-image-tag-exists)<br>
-7. 🎉 Merged PR [#1](https://github.com/razonyang/github-action-docker-image-tag-exists/pull/1) in [razonyang/github-action-docker-image-tag-exists](https://github.com/razonyang/github-action-docker-image-tag-exists)<br>
-8. 📔 Created new repository [razonyang/github-action-docker-image-tag-exists](https://github.com/razonyang/github-action-docker-image-tag-exists)<br>
-9. 🎉 Merged PR [#79](https://github.com/hugomods/docker/pull/79) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 📔 Created new repository [razonyang/template-github-action](https://github.com/razonyang/template-github-action)<br>
+1. 💪 Opened PR [#83](https://github.com/hugomods/docker/pull/83) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. 🎉 Merged PR [#82](https://github.com/hugomods/docker/pull/82) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. ❌ Closed PR [#74](https://github.com/hugomods/docker/pull/74) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. ⭐ Starred [nginx/nginx](https://github.com/nginx/nginx)<br>
+5. 💪 Opened PR [#82](https://github.com/hugomods/docker/pull/82) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 🎉 Merged PR [#81](https://github.com/hugomods/docker/pull/81) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 💪 Opened PR [#81](https://github.com/hugomods/docker/pull/81) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. 🎉 Merged PR [#80](https://github.com/hugomods/docker/pull/80) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 💪 Opened PR [#80](https://github.com/hugomods/docker/pull/80) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 🎉 Merged PR [#3](https://github.com/razonyang/github-action-docker-image-tag-exists/pull/3) in [razonyang/github-action-docker-image-tag-exists](https://github.com/razonyang/github-action-docker-image-tag-exists)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
