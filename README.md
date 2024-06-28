@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#16599](https://github.com/DaoCloud/public-image-mirror/pull/16599) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)<br>
-2. ⭐ Starred [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)<br>
-3. 🔱 Forked [razonyang/public-image-mirror](https://github.com/razonyang/public-image-mirror) from [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)<br>
-4. 💪 Opened PR [#88](https://github.com/hugomods/docker/pull/88) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. ✔️ Closed issue [#85](https://github.com/hugomods/docker/issues/85) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. 🎉 Merged PR [#87](https://github.com/hugomods/docker/pull/87) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. 💪 Opened PR [#87](https://github.com/hugomods/docker/pull/87) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. ❗️ Opened issue [#86](https://github.com/hugomods/docker/issues/86) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. ❗️ Opened issue [#85](https://github.com/hugomods/docker/issues/85) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. ❗️ Opened issue [#12625](https://github.com/gohugoio/hugo/issues/12625) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+1. 🎉 Merged PR [#88](https://github.com/hugomods/docker/pull/88) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. ✔️ Closed issue [#86](https://github.com/hugomods/docker/issues/86) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 💬 Commented on [#16599](https://github.com/DaoCloud/public-image-mirror/pull/16599#issuecomment-2196809551) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)<br>
+4. 💪 Opened PR [#16599](https://github.com/DaoCloud/public-image-mirror/pull/16599) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)<br>
+5. ⭐ Starred [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)<br>
+6. 🔱 Forked [razonyang/public-image-mirror](https://github.com/razonyang/public-image-mirror) from [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)<br>
+7. 💪 Opened PR [#88](https://github.com/hugomods/docker/pull/88) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. ✔️ Closed issue [#85](https://github.com/hugomods/docker/issues/85) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 🎉 Merged PR [#87](https://github.com/hugomods/docker/pull/87) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 💪 Opened PR [#87](https://github.com/hugomods/docker/pull/87) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
