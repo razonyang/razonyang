@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#157](https://github.com/hugomods/bootstrap/pull/157) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 💬 Commented on [#156](https://github.com/hugomods/bootstrap/pull/156#issuecomment-2198523057) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 🎉 Merged PR [#156](https://github.com/hugomods/bootstrap/pull/156) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-4. 👍 Approved [#156](https://github.com/hugomods/bootstrap/pull/156#pullrequestreview-2150027441) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. 💪 Opened PR [#92](https://github.com/hugomods/docker/pull/92) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. ❌ Closed PR [#91](https://github.com/hugomods/docker/pull/91) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. 💬 Commented on [#10](https://github.com/hugomods/mermaid/issues/10#issuecomment-2198394635) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
-8. 💬 Commented on [#10](https://github.com/hugomods/mermaid/issues/10#issuecomment-2198390469) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
-9. 💪 Opened PR [#91](https://github.com/hugomods/docker/pull/91) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. ❗️ Opened issue [#921](https://github.com/hbstack/blog/issues/921) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 💬 Commented on [#10](https://github.com/hugomods/mermaid/issues/10#issuecomment-2198617065) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
+2. 🎉 Merged PR [#12](https://github.com/hugomods/mermaid/pull/12) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
+3. 🎉 Merged PR [#11](https://github.com/hugomods/mermaid/pull/11) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
+4. ✔️ Closed issue [#10](https://github.com/hugomods/mermaid/issues/10) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
+5. 💪 Opened PR [#11](https://github.com/hugomods/mermaid/pull/11) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
+6. 🎉 Merged PR [#157](https://github.com/hugomods/bootstrap/pull/157) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+7. 💬 Commented on [#156](https://github.com/hugomods/bootstrap/pull/156#issuecomment-2198523057) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+8. 🎉 Merged PR [#156](https://github.com/hugomods/bootstrap/pull/156) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. 👍 Approved [#156](https://github.com/hugomods/bootstrap/pull/156#pullrequestreview-2150027441) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+10. 💪 Opened PR [#92](https://github.com/hugomods/docker/pull/92) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
