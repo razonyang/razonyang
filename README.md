@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#22](https://github.com/hugomods/katex/pull/22) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-2. ❌ Closed PR [#16](https://github.com/hugomods/katex/pull/16) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-3. ❌ Closed PR [#14](https://github.com/hugomods/katex/pull/14) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-4. ❌ Closed PR [#15](https://github.com/hugomods/katex/pull/15) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-5. ❌ Closed PR [#13](https://github.com/hugomods/katex/pull/13) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-6. 🎉 Merged PR [#23](https://github.com/hugomods/katex/pull/23) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-7. 🎉 Merged PR [#14](https://github.com/hugomods/mermaid/pull/14) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
-8. 🎉 Merged PR [#92](https://github.com/hugomods/docker/pull/92) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. 💬 Commented on [#10](https://github.com/hugomods/mermaid/issues/10#issuecomment-2199335294) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
-10. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.0.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+1. ❗️ Opened issue [#12640](https://github.com/gohugoio/hugo/issues/12640) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. ❗️ Opened issue [#15](https://github.com/hugomods/mermaid/issues/15) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
+3. ❌ Closed PR [#22](https://github.com/hugomods/katex/pull/22) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+4. ❌ Closed PR [#16](https://github.com/hugomods/katex/pull/16) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+5. ❌ Closed PR [#14](https://github.com/hugomods/katex/pull/14) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+6. ❌ Closed PR [#15](https://github.com/hugomods/katex/pull/15) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+7. ❌ Closed PR [#13](https://github.com/hugomods/katex/pull/13) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+8. 🎉 Merged PR [#23](https://github.com/hugomods/katex/pull/23) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+9. 🎉 Merged PR [#14](https://github.com/hugomods/mermaid/pull/14) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
+10. 🎉 Merged PR [#92](https://github.com/hugomods/docker/pull/92) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
