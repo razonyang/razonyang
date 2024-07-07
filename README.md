@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.1.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-2. 🎉 Merged PR [#924](https://github.com/hbstack/blog/pull/924) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. ❗️ Opened issue [#923](https://github.com/hbstack/blog/issues/923) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. ❗️ Opened issue [#448](https://github.com/hbstack/theme-cards/issues/448) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-5. ❗️ Opened issue [#12640](https://github.com/gohugoio/hugo/issues/12640) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-6. ❗️ Opened issue [#15](https://github.com/hugomods/mermaid/issues/15) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
-7. ❌ Closed PR [#22](https://github.com/hugomods/katex/pull/22) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-8. ❌ Closed PR [#16](https://github.com/hugomods/katex/pull/16) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-9. ❌ Closed PR [#14](https://github.com/hugomods/katex/pull/14) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-10. ❌ Closed PR [#15](https://github.com/hugomods/katex/pull/15) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+1. 🎉 Merged PR [#389](https://github.com/hugomods/icons/pull/389) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#389](https://github.com/hugomods/icons/pull/389#pullrequestreview-2161892158) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.1.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+4. 🎉 Merged PR [#924](https://github.com/hbstack/blog/pull/924) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ❗️ Opened issue [#923](https://github.com/hbstack/blog/issues/923) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. ❗️ Opened issue [#448](https://github.com/hbstack/theme-cards/issues/448) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+7. ❗️ Opened issue [#12640](https://github.com/gohugoio/hugo/issues/12640) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+8. ❗️ Opened issue [#15](https://github.com/hugomods/mermaid/issues/15) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
+9. ❌ Closed PR [#22](https://github.com/hugomods/katex/pull/22) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+10. ❌ Closed PR [#16](https://github.com/hugomods/katex/pull/16) in [hugomods/katex](https://github.com/hugomods/katex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
