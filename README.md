@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#52](https://github.com/razonyang/blog/issues/52) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-2. ❗️ Opened issue [#1187](https://github.com/hugomods/site/issues/1187) in [hugomods/site](https://github.com/hugomods/site)<br>
-3. 🎉 Merged PR [#392](https://github.com/hugomods/icons/pull/392) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#392](https://github.com/hugomods/icons/pull/392#pullrequestreview-2167510222) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. ❗️ Opened issue [#790](https://github.com/hbstack/site/issues/790) in [hbstack/site](https://github.com/hbstack/site)<br>
-6. 🎉 Merged PR [#389](https://github.com/hugomods/icons/pull/389) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 👍 Approved [#389](https://github.com/hugomods/icons/pull/389#pullrequestreview-2161892158) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.1.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-9. 🎉 Merged PR [#924](https://github.com/hbstack/blog/pull/924) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ❗️ Opened issue [#923](https://github.com/hbstack/blog/issues/923) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. ❗️ Opened issue [#747](https://github.com/hbstack/docs/issues/747) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. ❗️ Opened issue [#52](https://github.com/razonyang/blog/issues/52) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+3. ❗️ Opened issue [#1187](https://github.com/hugomods/site/issues/1187) in [hugomods/site](https://github.com/hugomods/site)<br>
+4. 🎉 Merged PR [#392](https://github.com/hugomods/icons/pull/392) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 👍 Approved [#392](https://github.com/hugomods/icons/pull/392#pullrequestreview-2167510222) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. ❗️ Opened issue [#790](https://github.com/hbstack/site/issues/790) in [hbstack/site](https://github.com/hbstack/site)<br>
+7. 🎉 Merged PR [#389](https://github.com/hugomods/icons/pull/389) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 👍 Approved [#389](https://github.com/hugomods/icons/pull/389#pullrequestreview-2161892158) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.1.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+10. 🎉 Merged PR [#924](https://github.com/hbstack/blog/pull/924) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
