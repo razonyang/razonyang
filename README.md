@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#790](https://github.com/hbstack/site/issues/790#issuecomment-2238709508) in [hbstack/site](https://github.com/hbstack/site)<br>
-2. ✔️ Closed issue [#790](https://github.com/hbstack/site/issues/790) in [hbstack/site](https://github.com/hbstack/site)<br>
-3. 💬 Commented on [#743](https://github.com/cloudflare/cloudflared/issues/743#issuecomment-2238583987) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)<br>
-4. 🎉 Merged PR [#394](https://github.com/hugomods/icons/pull/394) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 🎉 Merged PR [#13](https://github.com/hugomods/docsearch/pull/13) in [hugomods/docsearch](https://github.com/hugomods/docsearch)<br>
-6. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.6.0) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-7. ❗️ Opened issue [#1190](https://github.com/hugomods/site/issues/1190) in [hugomods/site](https://github.com/hugomods/site)<br>
-8. 🎉 Merged PR [#749](https://github.com/hbstack/docs/pull/749) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-9. ✔️ Closed issue [#747](https://github.com/hbstack/docs/issues/747) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-10. 🎉 Merged PR [#748](https://github.com/hbstack/docs/pull/748) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. ✔️ Closed issue [#52](https://github.com/razonyang/blog/issues/52) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+2. 💬 Commented on [#790](https://github.com/hbstack/site/issues/790#issuecomment-2238709508) in [hbstack/site](https://github.com/hbstack/site)<br>
+3. ✔️ Closed issue [#790](https://github.com/hbstack/site/issues/790) in [hbstack/site](https://github.com/hbstack/site)<br>
+4. 💬 Commented on [#743](https://github.com/cloudflare/cloudflared/issues/743#issuecomment-2238583987) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)<br>
+5. 🎉 Merged PR [#394](https://github.com/hugomods/icons/pull/394) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 🎉 Merged PR [#13](https://github.com/hugomods/docsearch/pull/13) in [hugomods/docsearch](https://github.com/hugomods/docsearch)<br>
+7. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.6.0) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+8. ❗️ Opened issue [#1190](https://github.com/hugomods/site/issues/1190) in [hugomods/site](https://github.com/hugomods/site)<br>
+9. 🎉 Merged PR [#749](https://github.com/hbstack/docs/pull/749) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+10. ✔️ Closed issue [#747](https://github.com/hbstack/docs/issues/747) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
