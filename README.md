@@ -25,7 +25,6 @@
 6. 🎉 Merged PR [#13](https://github.com/hugomods/docsearch/pull/13) in [hugomods/docsearch](https://github.com/hugomods/docsearch)<br>
 7. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.6.0) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
 8. ❗️ Opened issue [#1190](https://github.com/hugomods/site/issues/1190) in [hugomods/site](https://github.com/hugomods/site)<br>
-9. 🎉 Merged PR [#749](https://github.com/hbstack/docs/pull/749) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
