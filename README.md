@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [linuxerwang/rkflashkit](https://github.com/linuxerwang/rkflashkit)<br>
-2. ⭐ Starred [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware)<br>
-3. 🎉 Merged PR [#397](https://github.com/hugomods/icons/pull/397) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#397](https://github.com/hugomods/icons/pull/397#pullrequestreview-2191181237) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.2.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-6. ✔️ Closed issue [#52](https://github.com/razonyang/blog/issues/52) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-7. 💬 Commented on [#790](https://github.com/hbstack/site/issues/790#issuecomment-2238709508) in [hbstack/site](https://github.com/hbstack/site)<br>
-8. ✔️ Closed issue [#790](https://github.com/hbstack/site/issues/790) in [hbstack/site](https://github.com/hbstack/site)<br>
-9. 💬 Commented on [#743](https://github.com/cloudflare/cloudflared/issues/743#issuecomment-2238583987) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)<br>
-10. 🎉 Merged PR [#394](https://github.com/hugomods/icons/pull/394) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. ❗️ Opened issue [#53](https://github.com/razonyang/blog/issues/53) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+2. ⭐ Starred [linuxerwang/rkflashkit](https://github.com/linuxerwang/rkflashkit)<br>
+3. ⭐ Starred [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware)<br>
+4. 🎉 Merged PR [#397](https://github.com/hugomods/icons/pull/397) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 👍 Approved [#397](https://github.com/hugomods/icons/pull/397#pullrequestreview-2191181237) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.2.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+7. ✔️ Closed issue [#52](https://github.com/razonyang/blog/issues/52) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+8. 💬 Commented on [#790](https://github.com/hbstack/site/issues/790#issuecomment-2238709508) in [hbstack/site](https://github.com/hbstack/site)<br>
+9. ✔️ Closed issue [#790](https://github.com/hbstack/site/issues/790) in [hbstack/site](https://github.com/hbstack/site)<br>
+10. 💬 Commented on [#743](https://github.com/cloudflare/cloudflared/issues/743#issuecomment-2238583987) in [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
