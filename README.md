@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#8](https://github.com/hbstack/node-packages/pull/8) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-2. 👍 Approved [#8](https://github.com/hbstack/node-packages/pull/8#pullrequestreview-2198265120) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-3. ❗️ Opened issue [#53](https://github.com/razonyang/blog/issues/53) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-4. ⭐ Starred [linuxerwang/rkflashkit](https://github.com/linuxerwang/rkflashkit)<br>
-5. ⭐ Starred [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware)<br>
-6. 🎉 Merged PR [#397](https://github.com/hugomods/icons/pull/397) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 👍 Approved [#397](https://github.com/hugomods/icons/pull/397#pullrequestreview-2191181237) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.2.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-9. ✔️ Closed issue [#52](https://github.com/razonyang/blog/issues/52) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-10. 💬 Commented on [#790](https://github.com/hbstack/site/issues/790#issuecomment-2238709508) in [hbstack/site](https://github.com/hbstack/site)<br>
+1. 💬 Commented on [#15](https://github.com/hbstack/site-status/issues/15#issuecomment-2250728750) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+2. ✔️ Closed issue [#15](https://github.com/hbstack/site-status/issues/15) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+3. ❗️ Opened issue [#15](https://github.com/hbstack/site-status/issues/15) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+4. 🎉 Merged PR [#8](https://github.com/hbstack/node-packages/pull/8) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+5. 👍 Approved [#8](https://github.com/hbstack/node-packages/pull/8#pullrequestreview-2198265120) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+6. ❗️ Opened issue [#53](https://github.com/razonyang/blog/issues/53) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+7. ⭐ Starred [linuxerwang/rkflashkit](https://github.com/linuxerwang/rkflashkit)<br>
+8. ⭐ Starred [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware)<br>
+9. 🎉 Merged PR [#397](https://github.com/hugomods/icons/pull/397) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 👍 Approved [#397](https://github.com/hugomods/icons/pull/397#pullrequestreview-2191181237) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
