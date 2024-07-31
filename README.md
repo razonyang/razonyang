@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#56](https://github.com/hugomods/images/issues/56) in [hugomods/images](https://github.com/hugomods/images)<br>
-2. 💬 Commented on [#56](https://github.com/hugomods/images/issues/56#issuecomment-2258966756) in [hugomods/images](https://github.com/hugomods/images)<br>
-3. ❗️ Opened issue [#1200](https://github.com/hugomods/site/issues/1200) in [hugomods/site](https://github.com/hugomods/site)<br>
-4. ⭐ Starred [dnsjia/luban](https://github.com/dnsjia/luban)<br>
-5. 🎉 Merged PR [#399](https://github.com/hugomods/icons/pull/399) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 👍 Approved [#399](https://github.com/hugomods/icons/pull/399#pullrequestreview-2203387484) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.3.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-8. 💬 Commented on [#9](https://github.com/hugomods/.github/issues/9#issuecomment-2254330932) in [hugomods/.github](https://github.com/hugomods/.github)<br>
-9. ❗️ Opened issue [#1197](https://github.com/hugomods/site/issues/1197) in [hugomods/site](https://github.com/hugomods/site)<br>
-10. 💬 Commented on [#15](https://github.com/hbstack/site-status/issues/15#issuecomment-2250728750) in [hbstack/site-status](https://github.com/hbstack/site-status)<br>
+1. ⭐ Starred [electerm/electerm](https://github.com/electerm/electerm)<br>
+2. ✔️ Closed issue [#56](https://github.com/hugomods/images/issues/56) in [hugomods/images](https://github.com/hugomods/images)<br>
+3. 💬 Commented on [#56](https://github.com/hugomods/images/issues/56#issuecomment-2258966756) in [hugomods/images](https://github.com/hugomods/images)<br>
+4. ❗️ Opened issue [#1200](https://github.com/hugomods/site/issues/1200) in [hugomods/site](https://github.com/hugomods/site)<br>
+5. ⭐ Starred [dnsjia/luban](https://github.com/dnsjia/luban)<br>
+6. 🎉 Merged PR [#399](https://github.com/hugomods/icons/pull/399) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 👍 Approved [#399](https://github.com/hugomods/icons/pull/399#pullrequestreview-2203387484) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.3.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+9. 💬 Commented on [#9](https://github.com/hugomods/.github/issues/9#issuecomment-2254330932) in [hugomods/.github](https://github.com/hugomods/.github)<br>
+10. ❗️ Opened issue [#1197](https://github.com/hugomods/site/issues/1197) in [hugomods/site](https://github.com/hugomods/site)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
