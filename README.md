@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1043](https://github.com/razonyang/hugo-theme-bootstrap/pull/1043) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. 🎉 Merged PR [#1042](https://github.com/razonyang/hugo-theme-bootstrap/pull/1042) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 💪 Opened PR [#1042](https://github.com/razonyang/hugo-theme-bootstrap/pull/1042) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-5. ❗️ Opened issue [#55](https://github.com/razonyang/blog/issues/55) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-6. 🎉 Merged PR [#10](https://github.com/hbstack/node-packages/pull/10) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-7. 👍 Approved [#10](https://github.com/hbstack/node-packages/pull/10#pullrequestreview-2216584666) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
-8. ⭐ Starred [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)<br>
-9. ⭐ Starred [nextcloud/server](https://github.com/nextcloud/server)<br>
-10. ⭐ Starred [electerm/electerm](https://github.com/electerm/electerm)<br>
+1. 🎉 Merged PR [#401](https://github.com/hugomods/icons/pull/401) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#401](https://github.com/hugomods/icons/pull/401#pullrequestreview-2220367456) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#1043](https://github.com/razonyang/hugo-theme-bootstrap/pull/1043) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 🎉 Merged PR [#1042](https://github.com/razonyang/hugo-theme-bootstrap/pull/1042) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 💪 Opened PR [#1042](https://github.com/razonyang/hugo-theme-bootstrap/pull/1042) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.4.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+7. ❗️ Opened issue [#55](https://github.com/razonyang/blog/issues/55) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+8. 🎉 Merged PR [#10](https://github.com/hbstack/node-packages/pull/10) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+9. 👍 Approved [#10](https://github.com/hbstack/node-packages/pull/10#pullrequestreview-2216584666) in [hbstack/node-packages](https://github.com/hbstack/node-packages)<br>
+10. ⭐ Starred [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
