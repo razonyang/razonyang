@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#403](https://github.com/hugomods/icons/pull/403) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#403](https://github.com/hugomods/icons/pull/403#pullrequestreview-2231740052) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.5.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-4. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2282502722) in [hugomods/images](https://github.com/hugomods/images)<br>
-5. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2279504284) in [hugomods/images](https://github.com/hugomods/images)<br>
-6. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2278917209) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. ❗️ Opened issue [#56](https://github.com/razonyang/blog/issues/56) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-8. ❗️ Opened issue [#221](https://github.com/hugomods/decap-cms/issues/221) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 🎉 Merged PR [#401](https://github.com/hugomods/icons/pull/401) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 👍 Approved [#401](https://github.com/hugomods/icons/pull/401#pullrequestreview-2220367456) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#405](https://github.com/hugomods/icons/pull/405) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. 👍 Approved [#405](https://github.com/hugomods/icons/pull/405#pullrequestreview-2231979010) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 🎉 Merged PR [#403](https://github.com/hugomods/icons/pull/403) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#403](https://github.com/hugomods/icons/pull/403#pullrequestreview-2231740052) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.5.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+6. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2282502722) in [hugomods/images](https://github.com/hugomods/images)<br>
+7. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2279504284) in [hugomods/images](https://github.com/hugomods/images)<br>
+8. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2278917209) in [hugomods/images](https://github.com/hugomods/images)<br>
+9. ❗️ Opened issue [#56](https://github.com/razonyang/blog/issues/56) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+10. ❗️ Opened issue [#221](https://github.com/hugomods/decap-cms/issues/221) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
