@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Const-me/Whisper](https://github.com/Const-me/Whisper)<br>
-2. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)<br>
-3. ❗️ Opened issue [#645](https://github.com/hbstack/header/issues/645) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. ⭐ Starred [olive-editor/olive](https://github.com/olive-editor/olive)<br>
-5. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2285204919) in [hugomods/images](https://github.com/hugomods/images)<br>
-6. 🎉 Merged PR [#405](https://github.com/hugomods/icons/pull/405) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 👍 Approved [#405](https://github.com/hugomods/icons/pull/405#pullrequestreview-2231979010) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 🎉 Merged PR [#403](https://github.com/hugomods/icons/pull/403) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#403](https://github.com/hugomods/icons/pull/403#pullrequestreview-2231740052) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.5.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+1. 💬 Commented on [#645](https://github.com/hbstack/header/issues/645#issuecomment-2287736369) in [hbstack/header](https://github.com/hbstack/header)<br>
+2. 🎉 Merged PR [#638](https://github.com/hbstack/header/pull/638) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. ✔️ Closed issue [#645](https://github.com/hbstack/header/issues/645) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 🎉 Merged PR [#646](https://github.com/hbstack/header/pull/646) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. 💪 Opened PR [#646](https://github.com/hbstack/header/pull/646) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. 💬 Commented on [#1044](https://github.com/razonyang/hugo-theme-bootstrap/issues/1044#issuecomment-2287688863) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. ✔️ Closed issue [#1044](https://github.com/razonyang/hugo-theme-bootstrap/issues/1044) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. ⭐ Starred [Const-me/Whisper](https://github.com/Const-me/Whisper)<br>
+9. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)<br>
+10. ❗️ Opened issue [#645](https://github.com/hbstack/header/issues/645) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
