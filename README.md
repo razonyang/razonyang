@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [razonyang/hugomods-images-test](https://github.com/razonyang/hugomods-images-test) from [taxilian/hugo-images-test](https://github.com/taxilian/hugo-images-test)<br>
-2. 💬 Commented on [#645](https://github.com/hbstack/header/issues/645#issuecomment-2287736369) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 🎉 Merged PR [#638](https://github.com/hbstack/header/pull/638) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. ✔️ Closed issue [#645](https://github.com/hbstack/header/issues/645) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. 🎉 Merged PR [#646](https://github.com/hbstack/header/pull/646) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. 💪 Opened PR [#646](https://github.com/hbstack/header/pull/646) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. 💬 Commented on [#1044](https://github.com/razonyang/hugo-theme-bootstrap/issues/1044#issuecomment-2287688863) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. ✔️ Closed issue [#1044](https://github.com/razonyang/hugo-theme-bootstrap/issues/1044) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. ⭐ Starred [Const-me/Whisper](https://github.com/Const-me/Whisper)<br>
-10. ⭐ Starred [openai/whisper](https://github.com/openai/whisper)<br>
+1. ❗️ Opened issue [#652](https://github.com/peaceiris/actions-hugo/issues/652) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
+2. 🔱 Forked [razonyang/hugomods-images-test](https://github.com/razonyang/hugomods-images-test) from [taxilian/hugo-images-test](https://github.com/taxilian/hugo-images-test)<br>
+3. 💬 Commented on [#645](https://github.com/hbstack/header/issues/645#issuecomment-2287736369) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 🎉 Merged PR [#638](https://github.com/hbstack/header/pull/638) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. ✔️ Closed issue [#645](https://github.com/hbstack/header/issues/645) in [hbstack/header](https://github.com/hbstack/header)<br>
+6. 🎉 Merged PR [#646](https://github.com/hbstack/header/pull/646) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 💪 Opened PR [#646](https://github.com/hbstack/header/pull/646) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. 💬 Commented on [#1044](https://github.com/razonyang/hugo-theme-bootstrap/issues/1044#issuecomment-2287688863) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. ✔️ Closed issue [#1044](https://github.com/razonyang/hugo-theme-bootstrap/issues/1044) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. ⭐ Starred [Const-me/Whisper](https://github.com/Const-me/Whisper)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
