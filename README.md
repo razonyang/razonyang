@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#57](https://github.com/razonyang/blog/issues/57) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-2. ⭐ Starred [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn)<br>
-3. ⭐ Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)<br>
-4. ❗️ Opened issue [#24](https://github.com/hugomods/katex/issues/24) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-5. ⭐ Starred [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe)<br>
-6. 💬 Commented on [#209](https://github.com/hbstack/search/issues/209#issuecomment-2287846931) in [hbstack/search](https://github.com/hbstack/search)<br>
-7. ✔️ Closed issue [#209](https://github.com/hbstack/search/issues/209) in [hbstack/search](https://github.com/hbstack/search)<br>
-8. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2287832900) in [hugomods/images](https://github.com/hugomods/images)<br>
-9. ❗️ Opened issue [#652](https://github.com/peaceiris/actions-hugo/issues/652) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
-10. 🔱 Forked [razonyang/hugomods-images-test](https://github.com/razonyang/hugomods-images-test) from [taxilian/hugo-images-test](https://github.com/taxilian/hugo-images-test)<br>
+1. ✌️ Released [](https://github.com/razonyang/github-workflows-testing/releases/tag/v0.0.1) in [razonyang/github-workflows-testing](https://github.com/razonyang/github-workflows-testing)<br>
+2. ❗️ Opened issue [#57](https://github.com/razonyang/blog/issues/57) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+3. ⭐ Starred [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn)<br>
+4. ⭐ Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)<br>
+5. ❗️ Opened issue [#24](https://github.com/hugomods/katex/issues/24) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+6. ⭐ Starred [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe)<br>
+7. 💬 Commented on [#209](https://github.com/hbstack/search/issues/209#issuecomment-2287846931) in [hbstack/search](https://github.com/hbstack/search)<br>
+8. ✔️ Closed issue [#209](https://github.com/hbstack/search/issues/209) in [hbstack/search](https://github.com/hbstack/search)<br>
+9. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2287832900) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. ❗️ Opened issue [#652](https://github.com/peaceiris/actions-hugo/issues/652) in [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
