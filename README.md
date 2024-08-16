@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#12753](https://github.com/gohugoio/hugo/issues/12753#issuecomment-2291232763) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-2. ✌️ Released [](https://github.com/razonyang/github-workflows-testing/releases/tag/v0.0.1) in [razonyang/github-workflows-testing](https://github.com/razonyang/github-workflows-testing)<br>
-3. ❗️ Opened issue [#57](https://github.com/razonyang/blog/issues/57) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-4. ⭐ Starred [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn)<br>
-5. ⭐ Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)<br>
-6. ❗️ Opened issue [#24](https://github.com/hugomods/katex/issues/24) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-7. ⭐ Starred [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe)<br>
-8. 💬 Commented on [#209](https://github.com/hbstack/search/issues/209#issuecomment-2287846931) in [hbstack/search](https://github.com/hbstack/search)<br>
-9. ✔️ Closed issue [#209](https://github.com/hbstack/search/issues/209) in [hbstack/search](https://github.com/hbstack/search)<br>
-10. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2287832900) in [hugomods/images](https://github.com/hugomods/images)<br>
+1. ⭐ Starred [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)<br>
+2. 💬 Commented on [#12753](https://github.com/gohugoio/hugo/issues/12753#issuecomment-2291232763) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+3. ✌️ Released [](https://github.com/razonyang/github-workflows-testing/releases/tag/v0.0.1) in [razonyang/github-workflows-testing](https://github.com/razonyang/github-workflows-testing)<br>
+4. ❗️ Opened issue [#57](https://github.com/razonyang/blog/issues/57) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+5. ⭐ Starred [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn)<br>
+6. ⭐ Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)<br>
+7. ❗️ Opened issue [#24](https://github.com/hugomods/katex/issues/24) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+8. ⭐ Starred [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe)<br>
+9. 💬 Commented on [#209](https://github.com/hbstack/search/issues/209#issuecomment-2287846931) in [hbstack/search](https://github.com/hbstack/search)<br>
+10. ✔️ Closed issue [#209](https://github.com/hbstack/search/issues/209) in [hbstack/search](https://github.com/hbstack/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
