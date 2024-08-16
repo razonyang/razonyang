@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#945](https://github.com/hbstack/blog/issues/945#issuecomment-2293191760) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. ⭐ Starred [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)<br>
-3. 💬 Commented on [#12753](https://github.com/gohugoio/hugo/issues/12753#issuecomment-2291232763) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-4. ✌️ Released [](https://github.com/razonyang/github-workflows-testing/releases/tag/v0.0.1) in [razonyang/github-workflows-testing](https://github.com/razonyang/github-workflows-testing)<br>
-5. ❗️ Opened issue [#57](https://github.com/razonyang/blog/issues/57) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-6. ⭐ Starred [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn)<br>
-7. ⭐ Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)<br>
-8. ❗️ Opened issue [#24](https://github.com/hugomods/katex/issues/24) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-9. ⭐ Starred [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe)<br>
-10. 💬 Commented on [#209](https://github.com/hbstack/search/issues/209#issuecomment-2287846931) in [hbstack/search](https://github.com/hbstack/search)<br>
+1. 💬 Commented on [#945](https://github.com/hbstack/blog/issues/945#issuecomment-2293626873) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. ✔️ Closed issue [#945](https://github.com/hbstack/blog/issues/945) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 💬 Commented on [#945](https://github.com/hbstack/blog/issues/945#issuecomment-2293191760) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. ⭐ Starred [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)<br>
+5. 💬 Commented on [#12753](https://github.com/gohugoio/hugo/issues/12753#issuecomment-2291232763) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+6. ✌️ Released [](https://github.com/razonyang/github-workflows-testing/releases/tag/v0.0.1) in [razonyang/github-workflows-testing](https://github.com/razonyang/github-workflows-testing)<br>
+7. ❗️ Opened issue [#57](https://github.com/razonyang/blog/issues/57) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+8. ⭐ Starred [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn)<br>
+9. ⭐ Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)<br>
+10. ❗️ Opened issue [#24](https://github.com/hugomods/katex/issues/24) in [hugomods/katex](https://github.com/hugomods/katex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
