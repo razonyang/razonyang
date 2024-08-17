@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#945](https://github.com/hbstack/blog/issues/945#issuecomment-2293626873) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. ✔️ Closed issue [#945](https://github.com/hbstack/blog/issues/945) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 💬 Commented on [#945](https://github.com/hbstack/blog/issues/945#issuecomment-2293191760) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. ⭐ Starred [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)<br>
-5. 💬 Commented on [#12753](https://github.com/gohugoio/hugo/issues/12753#issuecomment-2291232763) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-6. ✌️ Released [](https://github.com/razonyang/github-workflows-testing/releases/tag/v0.0.1) in [razonyang/github-workflows-testing](https://github.com/razonyang/github-workflows-testing)<br>
-7. ❗️ Opened issue [#57](https://github.com/razonyang/blog/issues/57) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-8. ⭐ Starred [k2-fsa/sherpa-ncnn](https://github.com/k2-fsa/sherpa-ncnn)<br>
-9. ⭐ Starred [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx)<br>
-10. ❗️ Opened issue [#24](https://github.com/hugomods/katex/issues/24) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+1. 🎉 Merged PR [#948](https://github.com/hbstack/blog/pull/948) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. ✔️ Closed issue [#946](https://github.com/hbstack/blog/issues/946) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 🎉 Merged PR [#947](https://github.com/hbstack/blog/pull/947) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 💪 Opened PR [#947](https://github.com/hbstack/blog/pull/947) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ❗️ Opened issue [#946](https://github.com/hbstack/blog/issues/946) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 💬 Commented on [#945](https://github.com/hbstack/blog/issues/945#issuecomment-2293626873) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. ✔️ Closed issue [#945](https://github.com/hbstack/blog/issues/945) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 💬 Commented on [#945](https://github.com/hbstack/blog/issues/945#issuecomment-2293191760) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. ⭐ Starred [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper)<br>
+10. 💬 Commented on [#12753](https://github.com/gohugoio/hugo/issues/12753#issuecomment-2291232763) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
