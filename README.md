@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295307217) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. 💬 Commented on [#1045](https://github.com/razonyang/hugo-theme-bootstrap/issues/1045#issuecomment-2295303499) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295299823) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.6.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-5. 💬 Commented on [#12753](https://github.com/gohugoio/hugo/issues/12753#issuecomment-2295098576) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-6. 💬 Commented on [#94](https://github.com/hugomods/docker/issues/94#issuecomment-2294835426) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. 💬 Commented on [#94](https://github.com/hugomods/docker/issues/94#issuecomment-2294826296) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. 💬 Commented on [#93](https://github.com/hugomods/docker/pull/93#issuecomment-2294825346) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. 🎉 Merged PR [#93](https://github.com/hugomods/docker/pull/93) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 👍 Approved [#93](https://github.com/hugomods/docker/pull/93#pullrequestreview-2244083645) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295309979) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295307217) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 💬 Commented on [#1045](https://github.com/razonyang/hugo-theme-bootstrap/issues/1045#issuecomment-2295303499) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295299823) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.6.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+6. 💬 Commented on [#12753](https://github.com/gohugoio/hugo/issues/12753#issuecomment-2295098576) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+7. 💬 Commented on [#94](https://github.com/hugomods/docker/issues/94#issuecomment-2294835426) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. 💬 Commented on [#94](https://github.com/hugomods/docker/issues/94#issuecomment-2294826296) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 💬 Commented on [#93](https://github.com/hugomods/docker/pull/93#issuecomment-2294825346) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 🎉 Merged PR [#93](https://github.com/hugomods/docker/pull/93) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
