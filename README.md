@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295299823) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.6.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-3. 💬 Commented on [#12753](https://github.com/gohugoio/hugo/issues/12753#issuecomment-2295098576) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-4. 💬 Commented on [#94](https://github.com/hugomods/docker/issues/94#issuecomment-2294835426) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. 💬 Commented on [#94](https://github.com/hugomods/docker/issues/94#issuecomment-2294826296) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. 💬 Commented on [#93](https://github.com/hugomods/docker/pull/93#issuecomment-2294825346) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. 🎉 Merged PR [#93](https://github.com/hugomods/docker/pull/93) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. 👍 Approved [#93](https://github.com/hugomods/docker/pull/93#pullrequestreview-2244083645) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. 🎉 Merged PR [#948](https://github.com/hbstack/blog/pull/948) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ✔️ Closed issue [#946](https://github.com/hbstack/blog/issues/946) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 💬 Commented on [#1045](https://github.com/razonyang/hugo-theme-bootstrap/issues/1045#issuecomment-2295303499) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295299823) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.6.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+4. 💬 Commented on [#12753](https://github.com/gohugoio/hugo/issues/12753#issuecomment-2295098576) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+5. 💬 Commented on [#94](https://github.com/hugomods/docker/issues/94#issuecomment-2294835426) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 💬 Commented on [#94](https://github.com/hugomods/docker/issues/94#issuecomment-2294826296) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 💬 Commented on [#93](https://github.com/hugomods/docker/pull/93#issuecomment-2294825346) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. 🎉 Merged PR [#93](https://github.com/hugomods/docker/pull/93) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 👍 Approved [#93](https://github.com/hugomods/docker/pull/93#pullrequestreview-2244083645) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 🎉 Merged PR [#948](https://github.com/hbstack/blog/pull/948) in [hbstack/blog](https://github.com/hbstack/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
