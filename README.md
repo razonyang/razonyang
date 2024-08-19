@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [coqui-ai/TTS](https://github.com/coqui-ai/TTS)<br>
-2. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295346196) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. ❗️ Opened issue [#1049](https://github.com/razonyang/hugo-theme-bootstrap/issues/1049) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295337381) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 💬 Commented on [#1045](https://github.com/razonyang/hugo-theme-bootstrap/issues/1045#issuecomment-2295331172) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 🎉 Merged PR [#1048](https://github.com/razonyang/hugo-theme-bootstrap/pull/1048) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💬 Commented on [#1045](https://github.com/razonyang/hugo-theme-bootstrap/issues/1045#issuecomment-2295329930) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295326551) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 💬 Commented on [#1045](https://github.com/razonyang/hugo-theme-bootstrap/issues/1045#issuecomment-2295324179) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 🎉 Merged PR [#1047](https://github.com/razonyang/hugo-theme-bootstrap/pull/1047) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295638984) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 🎉 Merged PR [#1051](https://github.com/razonyang/hugo-theme-bootstrap/pull/1051) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. ✔️ Closed issue [#1049](https://github.com/razonyang/hugo-theme-bootstrap/issues/1049) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. ✔️ Closed issue [#1049](https://github.com/razonyang/hugo-theme-bootstrap/issues/1049) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 🎉 Merged PR [#1050](https://github.com/razonyang/hugo-theme-bootstrap/pull/1050) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💪 Opened PR [#1050](https://github.com/razonyang/hugo-theme-bootstrap/pull/1050) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. ⭐ Starred [coqui-ai/TTS](https://github.com/coqui-ai/TTS)<br>
+8. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295346196) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. ❗️ Opened issue [#1049](https://github.com/razonyang/hugo-theme-bootstrap/issues/1049) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 💬 Commented on [#449](https://github.com/razonyang/hugo-theme-bootstrap/issues/449#issuecomment-2295337381) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
