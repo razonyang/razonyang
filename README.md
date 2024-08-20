@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#226](https://github.com/hbstack/hb/pull/226) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-2. 💪 Opened PR [#226](https://github.com/hbstack/hb/pull/226) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-3. 🎉 Merged PR [#1058](https://github.com/razonyang/hugo-theme-bootstrap/pull/1058) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. 🎉 Merged PR [#1057](https://github.com/razonyang/hugo-theme-bootstrap/pull/1057) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 💪 Opened PR [#1057](https://github.com/razonyang/hugo-theme-bootstrap/pull/1057) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💬 Commented on [#169](https://github.com/hbstack/preferred-language/issues/169#issuecomment-2298052429) in [hbstack/preferred-language](https://github.com/hbstack/preferred-language)<br>
-7. ✔️ Closed issue [#1052](https://github.com/razonyang/hugo-theme-bootstrap/issues/1052) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 💬 Commented on [#1052](https://github.com/razonyang/hugo-theme-bootstrap/issues/1052#issuecomment-2297461301) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 🎉 Merged PR [#1056](https://github.com/razonyang/hugo-theme-bootstrap/pull/1056) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 🎉 Merged PR [#407](https://github.com/hugomods/icons/pull/407) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#244](https://github.com/hugomods/search/pull/244) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. 🎉 Merged PR [#37](https://github.com/hugomods/code-block-panel/pull/37) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+3. 🎉 Merged PR [#170](https://github.com/hbstack/preferred-language/pull/170) in [hbstack/preferred-language](https://github.com/hbstack/preferred-language)<br>
+4. 🎉 Merged PR [#219](https://github.com/hbstack/hb/pull/219) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+5. 🎉 Merged PR [#243](https://github.com/hugomods/search/pull/243) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 🎉 Merged PR [#36](https://github.com/hugomods/code-block-panel/pull/36) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+7. 💪 Opened PR [#170](https://github.com/hbstack/preferred-language/pull/170) in [hbstack/preferred-language](https://github.com/hbstack/preferred-language)<br>
+8. 💪 Opened PR [#36](https://github.com/hugomods/code-block-panel/pull/36) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+9. 💪 Opened PR [#243](https://github.com/hugomods/search/pull/243) in [hugomods/search](https://github.com/hugomods/search)<br>
+10. 🎉 Merged PR [#226](https://github.com/hbstack/hb/pull/226) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
