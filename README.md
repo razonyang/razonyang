@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [lgou2w/HoYo.Gacha](https://github.com/lgou2w/HoYo.Gacha)<br>
-2. ❗️ Opened issue [#227](https://github.com/hbstack/hb/issues/227) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-3. 🎉 Merged PR [#3](https://github.com/actionstore/ghcr-stats/pull/3) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
-4. 🎉 Merged PR [#2](https://github.com/actionstore/ghcr-stats/pull/2) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
-5. 💪 Opened PR [#17](https://github.com/ipitio/backage/pull/17) in [ipitio/backage](https://github.com/ipitio/backage)<br>
-6. ⭐ Starred [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
-7. 🎉 Merged PR [#1](https://github.com/actionstore/ghcr-stats/pull/1) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
-8. 📔 Created new repository [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
-9. 🎉 Merged PR [#225](https://github.com/hugomods/decap-cms/pull/225) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-10. 💬 Commented on [#169](https://github.com/hbstack/preferred-language/issues/169#issuecomment-2298122379) in [hbstack/preferred-language](https://github.com/hbstack/preferred-language)<br>
+1. 💬 Commented on [#1059](https://github.com/razonyang/hugo-theme-bootstrap/issues/1059#issuecomment-2303619534) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. ⭐ Starred [lgou2w/HoYo.Gacha](https://github.com/lgou2w/HoYo.Gacha)<br>
+3. ❗️ Opened issue [#227](https://github.com/hbstack/hb/issues/227) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+4. 🎉 Merged PR [#3](https://github.com/actionstore/ghcr-stats/pull/3) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
+5. 🎉 Merged PR [#2](https://github.com/actionstore/ghcr-stats/pull/2) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
+6. 💪 Opened PR [#17](https://github.com/ipitio/backage/pull/17) in [ipitio/backage](https://github.com/ipitio/backage)<br>
+7. ⭐ Starred [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
+8. 🎉 Merged PR [#1](https://github.com/actionstore/ghcr-stats/pull/1) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
+9. 📔 Created new repository [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
+10. 🎉 Merged PR [#225](https://github.com/hugomods/decap-cms/pull/225) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
