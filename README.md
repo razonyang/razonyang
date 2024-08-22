@@ -17,15 +17,15 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#227](https://github.com/hugomods/decap-cms/pull/227) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-2. 🎉 Merged PR [#245](https://github.com/hugomods/search/pull/245) in [hugomods/search](https://github.com/hugomods/search)<br>
-3. 🎉 Merged PR [#12](https://github.com/hugomods/swagger-ui/pull/12) in [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
-4. 🎉 Merged PR [#121](https://github.com/hugomods/encrypt/pull/121) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-5. 🎉 Merged PR [#46](https://github.com/hugomods/debugger/pull/46) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-6. 🎉 Merged PR [#955](https://github.com/hbstack/blog/pull/955) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-7. 🎉 Merged PR [#653](https://github.com/hbstack/header/pull/653) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 🎉 Merged PR [#229](https://github.com/hbstack/hb/pull/229) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-9. ✔️ Closed issue [#227](https://github.com/hbstack/hb/issues/227) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. 🎉 Merged PR [#228](https://github.com/hugomods/decap-cms/pull/228) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 🎉 Merged PR [#227](https://github.com/hugomods/decap-cms/pull/227) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 🎉 Merged PR [#245](https://github.com/hugomods/search/pull/245) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 🎉 Merged PR [#12](https://github.com/hugomods/swagger-ui/pull/12) in [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
+5. 🎉 Merged PR [#121](https://github.com/hugomods/encrypt/pull/121) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
+6. 🎉 Merged PR [#46](https://github.com/hugomods/debugger/pull/46) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
+7. 🎉 Merged PR [#955](https://github.com/hbstack/blog/pull/955) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+8. 🎉 Merged PR [#653](https://github.com/hbstack/header/pull/653) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 🎉 Merged PR [#229](https://github.com/hbstack/hb/pull/229) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 10. ✔️ Closed issue [#227](https://github.com/hbstack/hb/issues/227) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 <!--RECENT_ACTIVITY:end-->
 
