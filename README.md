@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1063](https://github.com/razonyang/hugo-theme-bootstrap/issues/1063#issuecomment-2305206130) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. 💬 Commented on [#1063](https://github.com/razonyang/hugo-theme-bootstrap/issues/1063#issuecomment-2305185081) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 🎉 Merged PR [#228](https://github.com/hugomods/decap-cms/pull/228) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-4. 🎉 Merged PR [#227](https://github.com/hugomods/decap-cms/pull/227) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-5. 🎉 Merged PR [#245](https://github.com/hugomods/search/pull/245) in [hugomods/search](https://github.com/hugomods/search)<br>
-6. 🎉 Merged PR [#12](https://github.com/hugomods/swagger-ui/pull/12) in [hugomods/swagger-ui](https://github.com/hugomods/swagger-ui)<br>
-7. 🎉 Merged PR [#121](https://github.com/hugomods/encrypt/pull/121) in [hugomods/encrypt](https://github.com/hugomods/encrypt)<br>
-8. 🎉 Merged PR [#46](https://github.com/hugomods/debugger/pull/46) in [hugomods/debugger](https://github.com/hugomods/debugger)<br>
-9. 🎉 Merged PR [#955](https://github.com/hbstack/blog/pull/955) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. 🎉 Merged PR [#653](https://github.com/hbstack/header/pull/653) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#1065](https://github.com/razonyang/hugo-theme-bootstrap/pull/1065) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 🎉 Merged PR [#1066](https://github.com/razonyang/hugo-theme-bootstrap/pull/1066) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 💪 Opened PR [#1066](https://github.com/razonyang/hugo-theme-bootstrap/pull/1066) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. ✔️ Closed issue [#1063](https://github.com/razonyang/hugo-theme-bootstrap/issues/1063) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 🎉 Merged PR [#1064](https://github.com/razonyang/hugo-theme-bootstrap/pull/1064) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💪 Opened PR [#1064](https://github.com/razonyang/hugo-theme-bootstrap/pull/1064) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. 💬 Commented on [#1063](https://github.com/razonyang/hugo-theme-bootstrap/issues/1063#issuecomment-2306018960) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 💬 Commented on [#1063](https://github.com/razonyang/hugo-theme-bootstrap/issues/1063#issuecomment-2305206130) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 💬 Commented on [#1063](https://github.com/razonyang/hugo-theme-bootstrap/issues/1063#issuecomment-2305185081) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 🎉 Merged PR [#228](https://github.com/hugomods/decap-cms/pull/228) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
