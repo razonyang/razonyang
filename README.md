@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [2noise/ChatTTS](https://github.com/2noise/ChatTTS)<br>
-2. 💪 Opened PR [#3](https://github.com/bep/circlecitest/pull/3) in [bep/circlecitest](https://github.com/bep/circlecitest)<br>
-3. 💬 Commented on [#2](https://github.com/bep/circlecitest/pull/2#issuecomment-2308831870) in [bep/circlecitest](https://github.com/bep/circlecitest)<br>
-4. 💪 Opened PR [#2](https://github.com/bep/circlecitest/pull/2) in [bep/circlecitest](https://github.com/bep/circlecitest)<br>
-5. 🔱 Forked [razonyang/circlecitest](https://github.com/razonyang/circlecitest) from [bep/circlecitest](https://github.com/bep/circlecitest)<br>
-6. 🎉 Merged PR [#1065](https://github.com/razonyang/hugo-theme-bootstrap/pull/1065) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 🎉 Merged PR [#1066](https://github.com/razonyang/hugo-theme-bootstrap/pull/1066) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 💪 Opened PR [#1066](https://github.com/razonyang/hugo-theme-bootstrap/pull/1066) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. ✔️ Closed issue [#1063](https://github.com/razonyang/hugo-theme-bootstrap/issues/1063) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 🎉 Merged PR [#1064](https://github.com/razonyang/hugo-theme-bootstrap/pull/1064) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. ⭐ Starred [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)<br>
+2. ⭐ Starred [2noise/ChatTTS](https://github.com/2noise/ChatTTS)<br>
+3. 💪 Opened PR [#3](https://github.com/bep/circlecitest/pull/3) in [bep/circlecitest](https://github.com/bep/circlecitest)<br>
+4. 💬 Commented on [#2](https://github.com/bep/circlecitest/pull/2#issuecomment-2308831870) in [bep/circlecitest](https://github.com/bep/circlecitest)<br>
+5. 💪 Opened PR [#2](https://github.com/bep/circlecitest/pull/2) in [bep/circlecitest](https://github.com/bep/circlecitest)<br>
+6. 🔱 Forked [razonyang/circlecitest](https://github.com/razonyang/circlecitest) from [bep/circlecitest](https://github.com/bep/circlecitest)<br>
+7. 🎉 Merged PR [#1065](https://github.com/razonyang/hugo-theme-bootstrap/pull/1065) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 🎉 Merged PR [#1066](https://github.com/razonyang/hugo-theme-bootstrap/pull/1066) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 💪 Opened PR [#1066](https://github.com/razonyang/hugo-theme-bootstrap/pull/1066) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. ✔️ Closed issue [#1063](https://github.com/razonyang/hugo-theme-bootstrap/issues/1063) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
