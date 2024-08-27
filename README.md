@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#58](https://github.com/hugomods/images/issues/58#issuecomment-2309199280) in [hugomods/images](https://github.com/hugomods/images)<br>
-2. 🎉 Merged PR [#61](https://github.com/hugomods/images/pull/61) in [hugomods/images](https://github.com/hugomods/images)<br>
-3. 💬 Commented on [#58](https://github.com/hugomods/images/issues/58#issuecomment-2309190627) in [hugomods/images](https://github.com/hugomods/images)<br>
-4. 🎉 Merged PR [#60](https://github.com/hugomods/images/pull/60) in [hugomods/images](https://github.com/hugomods/images)<br>
-5. ✔️ Closed issue [#58](https://github.com/hugomods/images/issues/58) in [hugomods/images](https://github.com/hugomods/images)<br>
-6. 🎉 Merged PR [#59](https://github.com/hugomods/images/pull/59) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. 💪 Opened PR [#59](https://github.com/hugomods/images/pull/59) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. ⭐ Starred [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)<br>
-9. ⭐ Starred [2noise/ChatTTS](https://github.com/2noise/ChatTTS)<br>
-10. 💪 Opened PR [#3](https://github.com/bep/circlecitest/pull/3) in [bep/circlecitest](https://github.com/bep/circlecitest)<br>
+1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.7.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+2. 🎉 Merged PR [#409](https://github.com/hugomods/icons/pull/409) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 💬 Commented on [#58](https://github.com/hugomods/images/issues/58#issuecomment-2309199280) in [hugomods/images](https://github.com/hugomods/images)<br>
+4. 🎉 Merged PR [#61](https://github.com/hugomods/images/pull/61) in [hugomods/images](https://github.com/hugomods/images)<br>
+5. 💬 Commented on [#58](https://github.com/hugomods/images/issues/58#issuecomment-2309190627) in [hugomods/images](https://github.com/hugomods/images)<br>
+6. 🎉 Merged PR [#60](https://github.com/hugomods/images/pull/60) in [hugomods/images](https://github.com/hugomods/images)<br>
+7. ✔️ Closed issue [#58](https://github.com/hugomods/images/issues/58) in [hugomods/images](https://github.com/hugomods/images)<br>
+8. 🎉 Merged PR [#59](https://github.com/hugomods/images/pull/59) in [hugomods/images](https://github.com/hugomods/images)<br>
+9. 💪 Opened PR [#59](https://github.com/hugomods/images/pull/59) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. ⭐ Starred [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
