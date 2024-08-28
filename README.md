@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)<br>
-2. 🎉 Merged PR [#413](https://github.com/hugomods/icons/pull/413) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#413](https://github.com/hugomods/icons/pull/413#pullrequestreview-2263954528) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 🎉 Merged PR [#411](https://github.com/hugomods/icons/pull/411) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 👍 Approved [#411](https://github.com/hugomods/icons/pull/411#pullrequestreview-2261994414) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.7.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-7. 🎉 Merged PR [#409](https://github.com/hugomods/icons/pull/409) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 💬 Commented on [#58](https://github.com/hugomods/images/issues/58#issuecomment-2309199280) in [hugomods/images](https://github.com/hugomods/images)<br>
-9. 🎉 Merged PR [#61](https://github.com/hugomods/images/pull/61) in [hugomods/images](https://github.com/hugomods/images)<br>
-10. 💬 Commented on [#58](https://github.com/hugomods/images/issues/58#issuecomment-2309190627) in [hugomods/images](https://github.com/hugomods/images)<br>
+1. ⭐ Starred [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)<br>
+2. ⭐ Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)<br>
+3. 🎉 Merged PR [#413](https://github.com/hugomods/icons/pull/413) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#413](https://github.com/hugomods/icons/pull/413#pullrequestreview-2263954528) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 🎉 Merged PR [#411](https://github.com/hugomods/icons/pull/411) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 👍 Approved [#411](https://github.com/hugomods/icons/pull/411#pullrequestreview-2261994414) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.7.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+8. 🎉 Merged PR [#409](https://github.com/hugomods/icons/pull/409) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 💬 Commented on [#58](https://github.com/hugomods/images/issues/58#issuecomment-2309199280) in [hugomods/images](https://github.com/hugomods/images)<br>
+10. 🎉 Merged PR [#61](https://github.com/hugomods/images/pull/61) in [hugomods/images](https://github.com/hugomods/images)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
