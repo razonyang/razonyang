@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#191](https://github.com/hbstack/breadcrumb/pull/191) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-2. ✔️ Closed issue [#204](https://github.com/hbstack/breadcrumb/issues/204) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-3. 🎉 Merged PR [#205](https://github.com/hbstack/breadcrumb/pull/205) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-4. 💪 Opened PR [#205](https://github.com/hbstack/breadcrumb/pull/205) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-5. 💬 Commented on [#204](https://github.com/hbstack/breadcrumb/issues/204#issuecomment-2319946333) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-6. 🎉 Merged PR [#1067](https://github.com/razonyang/hugo-theme-bootstrap/pull/1067) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 🎉 Merged PR [#4](https://github.com/actionstore/ghcr-stats/pull/4) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
-8. ⭐ Starred [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)<br>
-9. ⭐ Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)<br>
-10. 🎉 Merged PR [#413](https://github.com/hugomods/icons/pull/413) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 💪 Opened PR [#47](https://github.com/razonyang/hugo-theme-bootstrap-skeleton/pull/47) in [razonyang/hugo-theme-bootstrap-skeleton](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)<br>
+2. 🎉 Merged PR [#191](https://github.com/hbstack/breadcrumb/pull/191) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+3. ✔️ Closed issue [#204](https://github.com/hbstack/breadcrumb/issues/204) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+4. 🎉 Merged PR [#205](https://github.com/hbstack/breadcrumb/pull/205) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+5. 💪 Opened PR [#205](https://github.com/hbstack/breadcrumb/pull/205) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+6. 💬 Commented on [#204](https://github.com/hbstack/breadcrumb/issues/204#issuecomment-2319946333) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+7. 🎉 Merged PR [#1067](https://github.com/razonyang/hugo-theme-bootstrap/pull/1067) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 🎉 Merged PR [#4](https://github.com/actionstore/ghcr-stats/pull/4) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
+9. ⭐ Starred [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)<br>
+10. ⭐ Starred [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
