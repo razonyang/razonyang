@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#415](https://github.com/hugomods/icons/pull/415) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#415](https://github.com/hugomods/icons/pull/415#pullrequestreview-2276093952) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.8.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-4. 💪 Opened PR [#47](https://github.com/razonyang/hugo-theme-bootstrap-skeleton/pull/47) in [razonyang/hugo-theme-bootstrap-skeleton](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)<br>
-5. 🎉 Merged PR [#191](https://github.com/hbstack/breadcrumb/pull/191) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-6. ✔️ Closed issue [#204](https://github.com/hbstack/breadcrumb/issues/204) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-7. 🎉 Merged PR [#205](https://github.com/hbstack/breadcrumb/pull/205) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-8. 💪 Opened PR [#205](https://github.com/hbstack/breadcrumb/pull/205) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-9. 💬 Commented on [#204](https://github.com/hbstack/breadcrumb/issues/204#issuecomment-2319946333) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-10. 🎉 Merged PR [#1067](https://github.com/razonyang/hugo-theme-bootstrap/pull/1067) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2326155869) in [hugomods/images](https://github.com/hugomods/images)<br>
+2. ✔️ Closed issue [#57](https://github.com/hugomods/images/issues/57) in [hugomods/images](https://github.com/hugomods/images)<br>
+3. 🎉 Merged PR [#415](https://github.com/hugomods/icons/pull/415) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#415](https://github.com/hugomods/icons/pull/415#pullrequestreview-2276093952) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.8.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+6. 💪 Opened PR [#47](https://github.com/razonyang/hugo-theme-bootstrap-skeleton/pull/47) in [razonyang/hugo-theme-bootstrap-skeleton](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)<br>
+7. 🎉 Merged PR [#191](https://github.com/hbstack/breadcrumb/pull/191) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+8. ✔️ Closed issue [#204](https://github.com/hbstack/breadcrumb/issues/204) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+9. 🎉 Merged PR [#205](https://github.com/hbstack/breadcrumb/pull/205) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+10. 💪 Opened PR [#205](https://github.com/hbstack/breadcrumb/pull/205) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
