@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#237](https://github.com/hbstack/hb/pull/237) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-2. 🎉 Merged PR [#236](https://github.com/hbstack/hb/pull/236) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-3. 💪 Opened PR [#236](https://github.com/hbstack/hb/pull/236) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-4. 🎉 Merged PR [#968](https://github.com/hbstack/blog/pull/968) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 🎉 Merged PR [#1068](https://github.com/razonyang/hugo-theme-bootstrap/pull/1068) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💬 Commented on [#57](https://github.com/hugomods/images/issues/57#issuecomment-2326155869) in [hugomods/images](https://github.com/hugomods/images)<br>
-7. ✔️ Closed issue [#57](https://github.com/hugomods/images/issues/57) in [hugomods/images](https://github.com/hugomods/images)<br>
-8. 🎉 Merged PR [#415](https://github.com/hugomods/icons/pull/415) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#415](https://github.com/hugomods/icons/pull/415#pullrequestreview-2276093952) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.8.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+1. 🎉 Merged PR [#67](https://github.com/hugomods/shortcodes/pull/67) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+2. 🎉 Merged PR [#66](https://github.com/hugomods/shortcodes/pull/66) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+3. 💪 Opened PR [#66](https://github.com/hugomods/shortcodes/pull/66) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+4. 🎉 Merged PR [#177](https://github.com/hbstack/base/pull/177) in [hbstack/base](https://github.com/hbstack/base)<br>
+5. 🎉 Merged PR [#3](https://github.com/hbstack/blockquote-alerts/pull/3) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
+6. ❌ Closed PR [#1](https://github.com/hbstack/blockquote-alerts/pull/1) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
+7. 🎉 Merged PR [#232](https://github.com/hbstack/hb/pull/232) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+8. 📔 Created new repository [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
+9. 🎉 Merged PR [#237](https://github.com/hbstack/hb/pull/237) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. 💪 Opened PR [#237](https://github.com/hbstack/hb/pull/237) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
