@@ -17,16 +17,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#252](https://github.com/hugomods/search/pull/252) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. 💪 Opened PR [#252](https://github.com/hugomods/search/pull/252) in [hugomods/search](https://github.com/hugomods/search)<br>
-3. ✔️ Closed issue [#249](https://github.com/hugomods/search/issues/249) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. 🎉 Merged PR [#250](https://github.com/hugomods/search/pull/250) in [hugomods/search](https://github.com/hugomods/search)<br>
-5. 💪 Opened PR [#250](https://github.com/hugomods/search/pull/250) in [hugomods/search](https://github.com/hugomods/search)<br>
-6. 🎉 Merged PR [#248](https://github.com/hugomods/search/pull/248) in [hugomods/search](https://github.com/hugomods/search)<br>
-7. ❗️ Opened issue [#249](https://github.com/hugomods/search/issues/249) in [hugomods/search](https://github.com/hugomods/search)<br>
-8. ✔️ Closed issue [#246](https://github.com/hugomods/search/issues/246) in [hugomods/search](https://github.com/hugomods/search)<br>
+1. 🎉 Merged PR [#251](https://github.com/hugomods/search/pull/251) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. 🎉 Merged PR [#252](https://github.com/hugomods/search/pull/252) in [hugomods/search](https://github.com/hugomods/search)<br>
+3. 💪 Opened PR [#252](https://github.com/hugomods/search/pull/252) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. ✔️ Closed issue [#249](https://github.com/hugomods/search/issues/249) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. 🎉 Merged PR [#250](https://github.com/hugomods/search/pull/250) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 💪 Opened PR [#250](https://github.com/hugomods/search/pull/250) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. 🎉 Merged PR [#248](https://github.com/hugomods/search/pull/248) in [hugomods/search](https://github.com/hugomods/search)<br>
+8. ❗️ Opened issue [#249](https://github.com/hugomods/search/issues/249) in [hugomods/search](https://github.com/hugomods/search)<br>
 9. ✔️ Closed issue [#246](https://github.com/hugomods/search/issues/246) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. 🎉 Merged PR [#247](https://github.com/hugomods/search/pull/247) in [hugomods/search](https://github.com/hugomods/search)<br>
+10. ✔️ Closed issue [#246](https://github.com/hugomods/search/issues/246) in [hugomods/search](https://github.com/hugomods/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
