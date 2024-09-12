@@ -13,6 +13,7 @@
     1. [HugoMods](https://hugomods.com/): third party Hugo Modules and tools.
     1. [HB Framework](https://hbstack.dev/): a framework that built on top of Hugo and Bootstrap, for building modular themes and static sites.
 - 🎧 Reach me via [email](mailto:razonyang@gmail.com) and [Mastodon](https://techhub.social/@razonyang).
+- If you use these projects and feel that it has made your life easier, please consider buying me a cup of coffee/tea once in a while via [GitHub Sponsors](https://github.com/sponsors/razonyang) or [爱发电](https://afdian.com/a/razonyang).
 
 ## Recent Activities
 
