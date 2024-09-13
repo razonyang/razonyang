@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch)<br>
-2. 🎉 Merged PR [#419](https://github.com/hugomods/icons/pull/419) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 👍 Approved [#419](https://github.com/hugomods/icons/pull/419#pullrequestreview-2293260390) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 🎉 Merged PR [#248](https://github.com/hbstack/hb/pull/248) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-5. 💬 Commented on [#247](https://github.com/hbstack/hb/pull/247#issuecomment-2340387302) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-6. 🎉 Merged PR [#247](https://github.com/hbstack/hb/pull/247) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-7. 💬 Commented on [#247](https://github.com/hbstack/hb/pull/247#issuecomment-2340360136) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-8. 🎉 Merged PR [#246](https://github.com/hbstack/hb/pull/246) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-9. ✔️ Closed issue [#244](https://github.com/hbstack/hb/issues/244) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-10. 🎉 Merged PR [#245](https://github.com/hbstack/hb/pull/245) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. 🎉 Merged PR [#17](https://github.com/hugomods/kroki/pull/17) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+2. 🎉 Merged PR [#16](https://github.com/hugomods/kroki/pull/16) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+3. 💪 Opened PR [#16](https://github.com/hugomods/kroki/pull/16) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+4. ⭐ Starred [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch)<br>
+5. 🎉 Merged PR [#419](https://github.com/hugomods/icons/pull/419) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 👍 Approved [#419](https://github.com/hugomods/icons/pull/419#pullrequestreview-2293260390) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 🎉 Merged PR [#248](https://github.com/hbstack/hb/pull/248) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+8. 💬 Commented on [#247](https://github.com/hbstack/hb/pull/247#issuecomment-2340387302) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. 🎉 Merged PR [#247](https://github.com/hbstack/hb/pull/247) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. 💬 Commented on [#247](https://github.com/hbstack/hb/pull/247#issuecomment-2340360136) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
