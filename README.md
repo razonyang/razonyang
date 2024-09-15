@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#421](https://github.com/hugomods/icons/pull/421) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.10.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-3. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2350031647) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-4. ❗️ Opened issue [#1778](https://github.com/yuzutech/kroki/issues/1778) in [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
-5. 🎉 Merged PR [#18](https://github.com/hugomods/kroki/pull/18) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-6. 🎉 Merged PR [#17](https://github.com/hugomods/kroki/pull/17) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-7. 🎉 Merged PR [#16](https://github.com/hugomods/kroki/pull/16) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-8. 💪 Opened PR [#16](https://github.com/hugomods/kroki/pull/16) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-9. ⭐ Starred [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch)<br>
-10. 🎉 Merged PR [#419](https://github.com/hugomods/icons/pull/419) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. ❗️ Opened issue [#68](https://github.com/hugomods/shortcodes/issues/68) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+2. 🎉 Merged PR [#421](https://github.com/hugomods/icons/pull/421) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.10.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+4. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2350031647) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+5. ❗️ Opened issue [#1778](https://github.com/yuzutech/kroki/issues/1778) in [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
+6. 🎉 Merged PR [#18](https://github.com/hugomods/kroki/pull/18) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+7. 🎉 Merged PR [#17](https://github.com/hugomods/kroki/pull/17) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+8. 🎉 Merged PR [#16](https://github.com/hugomods/kroki/pull/16) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+9. 💪 Opened PR [#16](https://github.com/hugomods/kroki/pull/16) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+10. ⭐ Starred [wilsonzlin/edgesearch](https://github.com/wilsonzlin/edgesearch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
