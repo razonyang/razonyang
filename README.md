@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#21](https://github.com/hugomods/google-adsense/issues/21) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
-2. ❗️ Opened issue [#68](https://github.com/hugomods/shortcodes/issues/68) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-3. 🎉 Merged PR [#421](https://github.com/hugomods/icons/pull/421) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.10.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-5. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2350031647) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-6. ❗️ Opened issue [#1778](https://github.com/yuzutech/kroki/issues/1778) in [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
-7. 🎉 Merged PR [#18](https://github.com/hugomods/kroki/pull/18) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-8. 🎉 Merged PR [#17](https://github.com/hugomods/kroki/pull/17) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-9. 🎉 Merged PR [#16](https://github.com/hugomods/kroki/pull/16) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-10. 💪 Opened PR [#16](https://github.com/hugomods/kroki/pull/16) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+1. 💬 Commented on [#1069](https://github.com/razonyang/hugo-theme-bootstrap/pull/1069#issuecomment-2352914209) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 🎉 Merged PR [#1069](https://github.com/razonyang/hugo-theme-bootstrap/pull/1069) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 👍 Approved [#1069](https://github.com/razonyang/hugo-theme-bootstrap/pull/1069#pullrequestreview-2306638510) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. ❗️ Opened issue [#21](https://github.com/hugomods/google-adsense/issues/21) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
+5. ❗️ Opened issue [#68](https://github.com/hugomods/shortcodes/issues/68) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+6. 🎉 Merged PR [#421](https://github.com/hugomods/icons/pull/421) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.10.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+8. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2350031647) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. ❗️ Opened issue [#1778](https://github.com/yuzutech/kroki/issues/1778) in [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
+10. 🎉 Merged PR [#18](https://github.com/hugomods/kroki/pull/18) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
