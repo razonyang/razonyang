@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)<br>
-2. 💬 Commented on [#1069](https://github.com/razonyang/hugo-theme-bootstrap/pull/1069#issuecomment-2352914209) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 🎉 Merged PR [#1069](https://github.com/razonyang/hugo-theme-bootstrap/pull/1069) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. 👍 Approved [#1069](https://github.com/razonyang/hugo-theme-bootstrap/pull/1069#pullrequestreview-2306638510) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. ❗️ Opened issue [#21](https://github.com/hugomods/google-adsense/issues/21) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
-6. ❗️ Opened issue [#68](https://github.com/hugomods/shortcodes/issues/68) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-7. 🎉 Merged PR [#421](https://github.com/hugomods/icons/pull/421) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.10.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-9. 💬 Commented on [#189](https://github.com/hbstack/hb/issues/189#issuecomment-2350031647) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-10. ❗️ Opened issue [#1778](https://github.com/yuzutech/kroki/issues/1778) in [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
+1. 🎉 Merged PR [#23](https://github.com/hugomods/google-adsense/pull/23) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
+2. ✔️ Closed issue [#21](https://github.com/hugomods/google-adsense/issues/21) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
+3. ✔️ Closed issue [#21](https://github.com/hugomods/google-adsense/issues/21) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
+4. 🎉 Merged PR [#22](https://github.com/hugomods/google-adsense/pull/22) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
+5. 💪 Opened PR [#22](https://github.com/hugomods/google-adsense/pull/22) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
+6. ⭐ Starred [gorhill/uBlock](https://github.com/gorhill/uBlock)<br>
+7. 💬 Commented on [#1069](https://github.com/razonyang/hugo-theme-bootstrap/pull/1069#issuecomment-2352914209) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 🎉 Merged PR [#1069](https://github.com/razonyang/hugo-theme-bootstrap/pull/1069) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 👍 Approved [#1069](https://github.com/razonyang/hugo-theme-bootstrap/pull/1069#pullrequestreview-2306638510) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. ❗️ Opened issue [#21](https://github.com/hugomods/google-adsense/issues/21) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
