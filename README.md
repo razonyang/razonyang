@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#12868](https://github.com/gohugoio/hugo/issues/12868#issuecomment-2363684978) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-2. 💬 Commented on [#12867](https://github.com/gohugoio/hugo/pull/12867#issuecomment-2363531448) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-3. ❗️ Opened issue [#12868](https://github.com/gohugoio/hugo/issues/12868) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-4. 💪 Opened PR [#12867](https://github.com/gohugoio/hugo/pull/12867) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-5. ❗️ Opened issue [#50](https://github.com/hugomods/base/issues/50) in [hugomods/base](https://github.com/hugomods/base)<br>
-6. ❗️ Opened issue [#49](https://github.com/hugomods/base/issues/49) in [hugomods/base](https://github.com/hugomods/base)<br>
-7. ❗️ Opened issue [#424](https://github.com/hugomods/icons/issues/424) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 🎉 Merged PR [#6](https://github.com/actionstore/ghcr-stats/pull/6) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
-9. 🎉 Merged PR [#5](https://github.com/actionstore/ghcr-stats/pull/5) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
-10. 💪 Opened PR [#5](https://github.com/actionstore/ghcr-stats/pull/5) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
+1. 🎉 Merged PR [#761](https://github.com/hbstack/docs/pull/761) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. 🎉 Merged PR [#806](https://github.com/hbstack/docs/pull/806) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. 💪 Opened PR [#806](https://github.com/hbstack/docs/pull/806) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. 💬 Commented on [#12868](https://github.com/gohugoio/hugo/issues/12868#issuecomment-2363684978) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+5. 💬 Commented on [#12867](https://github.com/gohugoio/hugo/pull/12867#issuecomment-2363531448) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+6. ❗️ Opened issue [#12868](https://github.com/gohugoio/hugo/issues/12868) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+7. 💪 Opened PR [#12867](https://github.com/gohugoio/hugo/pull/12867) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+8. ❗️ Opened issue [#50](https://github.com/hugomods/base/issues/50) in [hugomods/base](https://github.com/hugomods/base)<br>
+9. ❗️ Opened issue [#49](https://github.com/hugomods/base/issues/49) in [hugomods/base](https://github.com/hugomods/base)<br>
+10. ❗️ Opened issue [#424](https://github.com/hugomods/icons/issues/424) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
