@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#424](https://github.com/hugomods/icons/issues/424) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 🎉 Merged PR [#6](https://github.com/actionstore/ghcr-stats/pull/6) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
-3. 🎉 Merged PR [#5](https://github.com/actionstore/ghcr-stats/pull/5) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
-4. 💪 Opened PR [#5](https://github.com/actionstore/ghcr-stats/pull/5) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
-5. ⭐ Starred [cnpm/cnpm](https://github.com/cnpm/cnpm)<br>
-6. ⭐ Starred [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit)<br>
-7. 📔 Created new repository [ghcr-stats/db](https://github.com/ghcr-stats/db)<br>
-8. 🎉 Merged PR [#24](https://github.com/hugomods/google-adsense/pull/24) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
-9. ⭐ Starred [Redocly/redoc](https://github.com/Redocly/redoc)<br>
-10. 🎉 Merged PR [#23](https://github.com/hugomods/google-adsense/pull/23) in [hugomods/google-adsense](https://github.com/hugomods/google-adsense)<br>
+1. 💬 Commented on [#12867](https://github.com/gohugoio/hugo/pull/12867#issuecomment-2363531448) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. ❗️ Opened issue [#12868](https://github.com/gohugoio/hugo/issues/12868) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+3. 💪 Opened PR [#12867](https://github.com/gohugoio/hugo/pull/12867) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+4. ❗️ Opened issue [#50](https://github.com/hugomods/base/issues/50) in [hugomods/base](https://github.com/hugomods/base)<br>
+5. ❗️ Opened issue [#49](https://github.com/hugomods/base/issues/49) in [hugomods/base](https://github.com/hugomods/base)<br>
+6. ❗️ Opened issue [#424](https://github.com/hugomods/icons/issues/424) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 🎉 Merged PR [#6](https://github.com/actionstore/ghcr-stats/pull/6) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
+8. 🎉 Merged PR [#5](https://github.com/actionstore/ghcr-stats/pull/5) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
+9. 💪 Opened PR [#5](https://github.com/actionstore/ghcr-stats/pull/5) in [actionstore/ghcr-stats](https://github.com/actionstore/ghcr-stats)<br>
+10. ⭐ Starred [cnpm/cnpm](https://github.com/cnpm/cnpm)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
