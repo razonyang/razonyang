@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/hbstack/toc-scrollspy/pull/4) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
-2. 💪 Opened PR [#4](https://github.com/hbstack/toc-scrollspy/pull/4) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
-3. 🎉 Merged PR [#809](https://github.com/hbstack/docs/pull/809) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-4. 💪 Opened PR [#809](https://github.com/hbstack/docs/pull/809) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-5. 🎉 Merged PR [#761](https://github.com/hbstack/docs/pull/761) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-6. 🎉 Merged PR [#806](https://github.com/hbstack/docs/pull/806) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-7. 💪 Opened PR [#806](https://github.com/hbstack/docs/pull/806) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-8. 💬 Commented on [#12868](https://github.com/gohugoio/hugo/issues/12868#issuecomment-2363684978) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-9. 💬 Commented on [#12867](https://github.com/gohugoio/hugo/pull/12867#issuecomment-2363531448) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-10. ❗️ Opened issue [#12868](https://github.com/gohugoio/hugo/issues/12868) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+1. 💪 Opened PR [#811](https://github.com/hbstack/docs/pull/811) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. 🎉 Merged PR [#4](https://github.com/hbstack/toc-scrollspy/pull/4) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
+3. 💪 Opened PR [#4](https://github.com/hbstack/toc-scrollspy/pull/4) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
+4. 🎉 Merged PR [#809](https://github.com/hbstack/docs/pull/809) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+5. 💪 Opened PR [#809](https://github.com/hbstack/docs/pull/809) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+6. 🎉 Merged PR [#761](https://github.com/hbstack/docs/pull/761) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+7. 🎉 Merged PR [#806](https://github.com/hbstack/docs/pull/806) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. 💪 Opened PR [#806](https://github.com/hbstack/docs/pull/806) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+9. 💬 Commented on [#12868](https://github.com/gohugoio/hugo/issues/12868#issuecomment-2363684978) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+10. 💬 Commented on [#12867](https://github.com/gohugoio/hugo/pull/12867#issuecomment-2363531448) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
