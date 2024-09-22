@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#810](https://github.com/hbstack/docs/pull/810) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. 🎉 Merged PR [#5](https://github.com/hbstack/toc-scrollspy/pull/5) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
-3. 🎉 Merged PR [#811](https://github.com/hbstack/docs/pull/811) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-4. 💪 Opened PR [#811](https://github.com/hbstack/docs/pull/811) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-5. 🎉 Merged PR [#4](https://github.com/hbstack/toc-scrollspy/pull/4) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
-6. 💪 Opened PR [#4](https://github.com/hbstack/toc-scrollspy/pull/4) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
-7. 🎉 Merged PR [#809](https://github.com/hbstack/docs/pull/809) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-8. 💪 Opened PR [#809](https://github.com/hbstack/docs/pull/809) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-9. 🎉 Merged PR [#761](https://github.com/hbstack/docs/pull/761) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-10. 🎉 Merged PR [#806](https://github.com/hbstack/docs/pull/806) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.11.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+2. 🎉 Merged PR [#810](https://github.com/hbstack/docs/pull/810) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. 🎉 Merged PR [#5](https://github.com/hbstack/toc-scrollspy/pull/5) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
+4. 🎉 Merged PR [#811](https://github.com/hbstack/docs/pull/811) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+5. 💪 Opened PR [#811](https://github.com/hbstack/docs/pull/811) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+6. 🎉 Merged PR [#4](https://github.com/hbstack/toc-scrollspy/pull/4) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
+7. 💪 Opened PR [#4](https://github.com/hbstack/toc-scrollspy/pull/4) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
+8. 🎉 Merged PR [#809](https://github.com/hbstack/docs/pull/809) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+9. 💪 Opened PR [#809](https://github.com/hbstack/docs/pull/809) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+10. 🎉 Merged PR [#761](https://github.com/hbstack/docs/pull/761) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
