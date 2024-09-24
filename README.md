@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1261](https://github.com/hugomods/site/pull/1261#issuecomment-2369980747) in [hugomods/site](https://github.com/hugomods/site)<br>
-2. 🎉 Merged PR [#1261](https://github.com/hugomods/site/pull/1261) in [hugomods/site](https://github.com/hugomods/site)<br>
-3. 👍 Approved [#1261](https://github.com/hugomods/site/pull/1261#pullrequestreview-2323863845) in [hugomods/site](https://github.com/hugomods/site)<br>
-4. ⭐ Starred [nextcloud/server](https://github.com/nextcloud/server)<br>
-5. ⭐ Starred [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)<br>
-6. 🎉 Merged PR [#62](https://github.com/hugomods/video-js/pull/62) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-7. 🎉 Merged PR [#61](https://github.com/hugomods/video-js/pull/61) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-8. 💪 Opened PR [#61](https://github.com/hugomods/video-js/pull/61) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-9. ⭐ Starred [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)<br>
-10. 🎉 Merged PR [#423](https://github.com/hugomods/icons/pull/423) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 💪 Opened PR [#63](https://github.com/hugomods/video-js/pull/63) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+2. 💬 Commented on [#1261](https://github.com/hugomods/site/pull/1261#issuecomment-2369980747) in [hugomods/site](https://github.com/hugomods/site)<br>
+3. 🎉 Merged PR [#1261](https://github.com/hugomods/site/pull/1261) in [hugomods/site](https://github.com/hugomods/site)<br>
+4. 👍 Approved [#1261](https://github.com/hugomods/site/pull/1261#pullrequestreview-2323863845) in [hugomods/site](https://github.com/hugomods/site)<br>
+5. ⭐ Starred [nextcloud/server](https://github.com/nextcloud/server)<br>
+6. ⭐ Starred [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm)<br>
+7. 🎉 Merged PR [#62](https://github.com/hugomods/video-js/pull/62) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+8. 🎉 Merged PR [#61](https://github.com/hugomods/video-js/pull/61) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+9. 💪 Opened PR [#61](https://github.com/hugomods/video-js/pull/61) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+10. ⭐ Starred [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
