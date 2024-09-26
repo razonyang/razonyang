@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x)<br>
-2. 🎉 Merged PR [#64](https://github.com/hugomods/video-js/pull/64) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-3. ⭐ Starred [videojs/videojs-playlist](https://github.com/videojs/videojs-playlist)<br>
-4. ❗️ Opened issue [#70](https://github.com/hugomods/video-js/issues/70) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-5. ✔️ Closed issue [#68](https://github.com/hugomods/video-js/issues/68) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+1. 💪 Opened PR [#96](https://github.com/hugomods/docker/pull/96) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. ⭐ Starred [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x)<br>
+3. 🎉 Merged PR [#64](https://github.com/hugomods/video-js/pull/64) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+4. ⭐ Starred [videojs/videojs-playlist](https://github.com/videojs/videojs-playlist)<br>
+5. ❗️ Opened issue [#70](https://github.com/hugomods/video-js/issues/70) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
 6. ✔️ Closed issue [#68](https://github.com/hugomods/video-js/issues/68) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-7. 🎉 Merged PR [#69](https://github.com/hugomods/video-js/pull/69) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-8. 💪 Opened PR [#69](https://github.com/hugomods/video-js/pull/69) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-9. ❗️ Opened issue [#68](https://github.com/hugomods/video-js/issues/68) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-10. 🎉 Merged PR [#67](https://github.com/hugomods/video-js/pull/67) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+7. ✔️ Closed issue [#68](https://github.com/hugomods/video-js/issues/68) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+8. 🎉 Merged PR [#69](https://github.com/hugomods/video-js/pull/69) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+9. 💪 Opened PR [#69](https://github.com/hugomods/video-js/pull/69) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+10. ❗️ Opened issue [#68](https://github.com/hugomods/video-js/issues/68) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
