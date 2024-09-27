@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#71](https://github.com/hugomods/docker/issues/71#issuecomment-2376159985) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 🎉 Merged PR [#96](https://github.com/hugomods/docker/pull/96) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 💪 Opened PR [#96](https://github.com/hugomods/docker/pull/96) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. ⭐ Starred [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x)<br>
-5. 🎉 Merged PR [#64](https://github.com/hugomods/video-js/pull/64) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-6. ⭐ Starred [videojs/videojs-playlist](https://github.com/videojs/videojs-playlist)<br>
-7. ❗️ Opened issue [#70](https://github.com/hugomods/video-js/issues/70) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-8. ✔️ Closed issue [#68](https://github.com/hugomods/video-js/issues/68) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-9. ✔️ Closed issue [#68](https://github.com/hugomods/video-js/issues/68) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-10. 🎉 Merged PR [#69](https://github.com/hugomods/video-js/pull/69) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+1. 💬 Commented on [#71](https://github.com/hugomods/docker/issues/71#issuecomment-2378195384) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. ✔️ Closed issue [#71](https://github.com/hugomods/docker/issues/71) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 🎉 Merged PR [#427](https://github.com/hugomods/icons/pull/427) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 👍 Approved [#427](https://github.com/hugomods/icons/pull/427#pullrequestreview-2332503431) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 💬 Commented on [#71](https://github.com/hugomods/docker/issues/71#issuecomment-2376159985) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 🎉 Merged PR [#96](https://github.com/hugomods/docker/pull/96) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 💪 Opened PR [#96](https://github.com/hugomods/docker/pull/96) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. ⭐ Starred [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x)<br>
+9. 🎉 Merged PR [#64](https://github.com/hugomods/video-js/pull/64) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
+10. ⭐ Starred [videojs/videojs-playlist](https://github.com/videojs/videojs-playlist)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
