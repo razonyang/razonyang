@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#71](https://github.com/hugomods/docker/issues/71#issuecomment-2378195384) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. ✔️ Closed issue [#71](https://github.com/hugomods/docker/issues/71) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 🎉 Merged PR [#427](https://github.com/hugomods/icons/pull/427) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 👍 Approved [#427](https://github.com/hugomods/icons/pull/427#pullrequestreview-2332503431) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 💬 Commented on [#71](https://github.com/hugomods/docker/issues/71#issuecomment-2376159985) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. 🎉 Merged PR [#96](https://github.com/hugomods/docker/pull/96) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. 💪 Opened PR [#96](https://github.com/hugomods/docker/pull/96) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. ⭐ Starred [devthefuture-org/dockerfile-x](https://github.com/devthefuture-org/dockerfile-x)<br>
-9. 🎉 Merged PR [#64](https://github.com/hugomods/video-js/pull/64) in [hugomods/video-js](https://github.com/hugomods/video-js)<br>
-10. ⭐ Starred [videojs/videojs-playlist](https://github.com/videojs/videojs-playlist)<br>
+1. 🎉 Merged PR [#7](https://github.com/hbstack/blockquote-alerts/pull/7) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
+2. ✔️ Closed issue [#6](https://github.com/hbstack/blockquote-alerts/issues/6) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
+3. ❗️ Opened issue [#6](https://github.com/hbstack/blockquote-alerts/issues/6) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
+4. 💬 Commented on [#71](https://github.com/hugomods/docker/issues/71#issuecomment-2378195384) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+5. ✔️ Closed issue [#71](https://github.com/hugomods/docker/issues/71) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 🎉 Merged PR [#427](https://github.com/hugomods/icons/pull/427) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 👍 Approved [#427](https://github.com/hugomods/icons/pull/427#pullrequestreview-2332503431) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 💬 Commented on [#71](https://github.com/hugomods/docker/issues/71#issuecomment-2376159985) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 🎉 Merged PR [#96](https://github.com/hugomods/docker/pull/96) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 💪 Opened PR [#96](https://github.com/hugomods/docker/pull/96) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
