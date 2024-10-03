@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#429](https://github.com/hugomods/icons/pull/429) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#429](https://github.com/hugomods/icons/pull/429#pullrequestreview-2335786517) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.12.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-4. ❗️ Opened issue [#257](https://github.com/hugomods/search/issues/257) in [hugomods/search](https://github.com/hugomods/search)<br>
-5. 🎉 Merged PR [#7](https://github.com/hbstack/blockquote-alerts/pull/7) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
-6. ✔️ Closed issue [#6](https://github.com/hbstack/blockquote-alerts/issues/6) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
-7. ❗️ Opened issue [#6](https://github.com/hbstack/blockquote-alerts/issues/6) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
-8. 💬 Commented on [#71](https://github.com/hugomods/docker/issues/71#issuecomment-2378195384) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. ✔️ Closed issue [#71](https://github.com/hugomods/docker/issues/71) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 🎉 Merged PR [#427](https://github.com/hugomods/icons/pull/427) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. ❗️ Opened issue [#2015](https://github.com/DGP-Studio/Snap.Hutao/issues/2015) in [DGP-Studio/Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)<br>
+2. 🎉 Merged PR [#429](https://github.com/hugomods/icons/pull/429) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#429](https://github.com/hugomods/icons/pull/429#pullrequestreview-2335786517) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.12.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+5. ❗️ Opened issue [#257](https://github.com/hugomods/search/issues/257) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 🎉 Merged PR [#7](https://github.com/hbstack/blockquote-alerts/pull/7) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
+7. ✔️ Closed issue [#6](https://github.com/hbstack/blockquote-alerts/issues/6) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
+8. ❗️ Opened issue [#6](https://github.com/hbstack/blockquote-alerts/issues/6) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
+9. 💬 Commented on [#71](https://github.com/hugomods/docker/issues/71#issuecomment-2378195384) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. ✔️ Closed issue [#71](https://github.com/hugomods/docker/issues/71) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
