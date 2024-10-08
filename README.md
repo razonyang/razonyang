@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#694](https://github.com/hbstack/header/pull/694) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 🎉 Merged PR [#695](https://github.com/hbstack/header/pull/695) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 💪 Opened PR [#695](https://github.com/hbstack/header/pull/695) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. 🎉 Merged PR [#692](https://github.com/hbstack/header/pull/692) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. 💪 Opened PR [#692](https://github.com/hbstack/header/pull/692) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. ❗️ Opened issue [#8](https://github.com/hbstack/blockquote-alerts/issues/8) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
-7. 🎉 Merged PR [#658](https://github.com/hbstack/header/pull/658) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 🎉 Merged PR [#691](https://github.com/hbstack/header/pull/691) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 💪 Opened PR [#691](https://github.com/hbstack/header/pull/691) in [hbstack/header](https://github.com/hbstack/header)<br>
-10. 🎉 Merged PR [#433](https://github.com/hugomods/icons/pull/433) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#994](https://github.com/hbstack/blog/pull/994) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+2. ✔️ Closed issue [#992](https://github.com/hbstack/blog/issues/992) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+3. 🎉 Merged PR [#993](https://github.com/hbstack/blog/pull/993) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 💪 Opened PR [#993](https://github.com/hbstack/blog/pull/993) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ❗️ Opened issue [#992](https://github.com/hbstack/blog/issues/992) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. 🎉 Merged PR [#694](https://github.com/hbstack/header/pull/694) in [hbstack/header](https://github.com/hbstack/header)<br>
+7. 🎉 Merged PR [#695](https://github.com/hbstack/header/pull/695) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. 💪 Opened PR [#695](https://github.com/hbstack/header/pull/695) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 🎉 Merged PR [#692](https://github.com/hbstack/header/pull/692) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 💪 Opened PR [#692](https://github.com/hbstack/header/pull/692) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
