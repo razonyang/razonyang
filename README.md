@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#2](https://github.com/hugomods/umami/pull/2) in [hugomods/umami](https://github.com/hugomods/umami)<br>
-2. 📔 Created new repository [hugomods/umami](https://github.com/hugomods/umami)<br>
-3. 📔 Created new repository [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
-4. 🎉 Merged PR [#1075](https://github.com/razonyang/hugo-theme-bootstrap/pull/1075) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 💬 Commented on [#1074](https://github.com/razonyang/hugo-theme-bootstrap/pull/1074#issuecomment-2404457744) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 🎉 Merged PR [#1074](https://github.com/razonyang/hugo-theme-bootstrap/pull/1074) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 👍 Approved [#1074](https://github.com/razonyang/hugo-theme-bootstrap/pull/1074#pullrequestreview-2359511823) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 🎉 Merged PR [#699](https://github.com/hbstack/header/pull/699) in [hbstack/header](https://github.com/hbstack/header)<br>
-9. 🎉 Merged PR [#69](https://github.com/hugomods/shortcodes/pull/69) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-10. 🎉 Merged PR [#12](https://github.com/razonyang/hb-mod-thanks/pull/12) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
+1. 🎉 Merged PR [#2](https://github.com/hugomods/minimal-google-analytics/pull/2) in [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
+2. 🎉 Merged PR [#3](https://github.com/hugomods/umami/pull/3) in [hugomods/umami](https://github.com/hugomods/umami)<br>
+3. ❌ Closed PR [#2](https://github.com/hugomods/umami/pull/2) in [hugomods/umami](https://github.com/hugomods/umami)<br>
+4. 📔 Created new repository [hugomods/umami](https://github.com/hugomods/umami)<br>
+5. 📔 Created new repository [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
+6. 🎉 Merged PR [#1075](https://github.com/razonyang/hugo-theme-bootstrap/pull/1075) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. 💬 Commented on [#1074](https://github.com/razonyang/hugo-theme-bootstrap/pull/1074#issuecomment-2404457744) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 🎉 Merged PR [#1074](https://github.com/razonyang/hugo-theme-bootstrap/pull/1074) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 👍 Approved [#1074](https://github.com/razonyang/hugo-theme-bootstrap/pull/1074#pullrequestreview-2359511823) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 🎉 Merged PR [#699](https://github.com/hbstack/header/pull/699) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
