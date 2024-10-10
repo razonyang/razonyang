@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [razonyang/commondata](https://github.com/razonyang/commondata)<br>
-2. 🎉 Merged PR [#1073](https://github.com/razonyang/hugo-theme-bootstrap/pull/1073) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 🎉 Merged PR [#1071](https://github.com/razonyang/hugo-theme-bootstrap/pull/1071) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. 🎉 Merged PR [#1072](https://github.com/razonyang/hugo-theme-bootstrap/pull/1072) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 💪 Opened PR [#1072](https://github.com/razonyang/hugo-theme-bootstrap/pull/1072) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 🎉 Merged PR [#1070](https://github.com/razonyang/hugo-theme-bootstrap/pull/1070) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💪 Opened PR [#1070](https://github.com/razonyang/hugo-theme-bootstrap/pull/1070) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. ⭐ Starred [Amoenus/SwaggerDark](https://github.com/Amoenus/SwaggerDark)<br>
-9. 🎉 Merged PR [#994](https://github.com/hbstack/blog/pull/994) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-10. ✔️ Closed issue [#992](https://github.com/hbstack/blog/issues/992) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 🎉 Merged PR [#258](https://github.com/hbstack/socials/pull/258) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+2. 🎉 Merged PR [#298](https://github.com/hbstack/socials/pull/298) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+3. 💪 Opened PR [#298](https://github.com/hbstack/socials/pull/298) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+4. 📔 Created new repository [razonyang/commondata](https://github.com/razonyang/commondata)<br>
+5. 🎉 Merged PR [#1073](https://github.com/razonyang/hugo-theme-bootstrap/pull/1073) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 🎉 Merged PR [#1071](https://github.com/razonyang/hugo-theme-bootstrap/pull/1071) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. 🎉 Merged PR [#1072](https://github.com/razonyang/hugo-theme-bootstrap/pull/1072) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 💪 Opened PR [#1072](https://github.com/razonyang/hugo-theme-bootstrap/pull/1072) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 🎉 Merged PR [#1070](https://github.com/razonyang/hugo-theme-bootstrap/pull/1070) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 💪 Opened PR [#1070](https://github.com/razonyang/hugo-theme-bootstrap/pull/1070) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
