@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#12](https://github.com/razonyang/hb-mod-thanks/pull/12) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
-2. 🎉 Merged PR [#11](https://github.com/razonyang/hb-mod-thanks/pull/11) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
-3. 💪 Opened PR [#11](https://github.com/razonyang/hb-mod-thanks/pull/11) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
-4. 🎉 Merged PR [#80](https://github.com/hbstack/content-panel/pull/80) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
-5. 🎉 Merged PR [#258](https://github.com/hbstack/socials/pull/258) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-6. 🎉 Merged PR [#298](https://github.com/hbstack/socials/pull/298) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-7. 💪 Opened PR [#298](https://github.com/hbstack/socials/pull/298) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-8. 📔 Created new repository [razonyang/commondata](https://github.com/razonyang/commondata)<br>
-9. 🎉 Merged PR [#1073](https://github.com/razonyang/hugo-theme-bootstrap/pull/1073) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 🎉 Merged PR [#1071](https://github.com/razonyang/hugo-theme-bootstrap/pull/1071) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#69](https://github.com/hugomods/shortcodes/pull/69) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+2. 🎉 Merged PR [#12](https://github.com/razonyang/hb-mod-thanks/pull/12) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
+3. 🎉 Merged PR [#11](https://github.com/razonyang/hb-mod-thanks/pull/11) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
+4. 💪 Opened PR [#11](https://github.com/razonyang/hb-mod-thanks/pull/11) in [razonyang/hb-mod-thanks](https://github.com/razonyang/hb-mod-thanks)<br>
+5. 🎉 Merged PR [#80](https://github.com/hbstack/content-panel/pull/80) in [hbstack/content-panel](https://github.com/hbstack/content-panel)<br>
+6. 🎉 Merged PR [#258](https://github.com/hbstack/socials/pull/258) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+7. 🎉 Merged PR [#298](https://github.com/hbstack/socials/pull/298) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+8. 💪 Opened PR [#298](https://github.com/hbstack/socials/pull/298) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+9. 📔 Created new repository [razonyang/commondata](https://github.com/razonyang/commondata)<br>
+10. 🎉 Merged PR [#1073](https://github.com/razonyang/hugo-theme-bootstrap/pull/1073) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
