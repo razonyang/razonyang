@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/hugomods/minimal-google-analytics/pull/2) in [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
-2. 🎉 Merged PR [#3](https://github.com/hugomods/umami/pull/3) in [hugomods/umami](https://github.com/hugomods/umami)<br>
-3. ❌ Closed PR [#2](https://github.com/hugomods/umami/pull/2) in [hugomods/umami](https://github.com/hugomods/umami)<br>
-4. 📔 Created new repository [hugomods/umami](https://github.com/hugomods/umami)<br>
-5. 📔 Created new repository [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
-6. 🎉 Merged PR [#1075](https://github.com/razonyang/hugo-theme-bootstrap/pull/1075) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💬 Commented on [#1074](https://github.com/razonyang/hugo-theme-bootstrap/pull/1074#issuecomment-2404457744) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 🎉 Merged PR [#1074](https://github.com/razonyang/hugo-theme-bootstrap/pull/1074) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 👍 Approved [#1074](https://github.com/razonyang/hugo-theme-bootstrap/pull/1074#pullrequestreview-2359511823) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 🎉 Merged PR [#699](https://github.com/hbstack/header/pull/699) in [hbstack/header](https://github.com/hbstack/header)<br>
+1. 🎉 Merged PR [#2](https://github.com/hugomods/cloudflare-analytics/pull/2) in [hugomods/cloudflare-analytics](https://github.com/hugomods/cloudflare-analytics)<br>
+2. 📔 Created new repository [hugomods/cloudflare-analytics](https://github.com/hugomods/cloudflare-analytics)<br>
+3. 🎉 Merged PR [#2](https://github.com/hugomods/minimal-google-analytics/pull/2) in [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
+4. 🎉 Merged PR [#3](https://github.com/hugomods/umami/pull/3) in [hugomods/umami](https://github.com/hugomods/umami)<br>
+5. ❌ Closed PR [#2](https://github.com/hugomods/umami/pull/2) in [hugomods/umami](https://github.com/hugomods/umami)<br>
+6. 📔 Created new repository [hugomods/umami](https://github.com/hugomods/umami)<br>
+7. 📔 Created new repository [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
+8. 🎉 Merged PR [#1075](https://github.com/razonyang/hugo-theme-bootstrap/pull/1075) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 💬 Commented on [#1074](https://github.com/razonyang/hugo-theme-bootstrap/pull/1074#issuecomment-2404457744) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 🎉 Merged PR [#1074](https://github.com/razonyang/hugo-theme-bootstrap/pull/1074) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
