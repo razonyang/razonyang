@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#703](https://github.com/hbstack/header/pull/703) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 🎉 Merged PR [#702](https://github.com/hbstack/header/pull/702) in [hbstack/header](https://github.com/hbstack/header)<br>
-3. 💪 Opened PR [#702](https://github.com/hbstack/header/pull/702) in [hbstack/header](https://github.com/hbstack/header)<br>
-4. ❗️ Opened issue [#74](https://github.com/hugomods/shortcodes/issues/74) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-5. 🎉 Merged PR [#73](https://github.com/hugomods/shortcodes/pull/73) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-6. 💬 Commented on [#71](https://github.com/hugomods/shortcodes/issues/71#issuecomment-2407810892) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-7. ✔️ Closed issue [#71](https://github.com/hugomods/shortcodes/issues/71) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-8. ✔️ Closed issue [#70](https://github.com/hugomods/shortcodes/issues/70) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-9. 🎉 Merged PR [#72](https://github.com/hugomods/shortcodes/pull/72) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-10. 💪 Opened PR [#72](https://github.com/hugomods/shortcodes/pull/72) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+1. 🎉 Merged PR [#8](https://github.com/hugomods/microsoft-clarity/pull/8) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+2. 🎉 Merged PR [#703](https://github.com/hbstack/header/pull/703) in [hbstack/header](https://github.com/hbstack/header)<br>
+3. 🎉 Merged PR [#702](https://github.com/hbstack/header/pull/702) in [hbstack/header](https://github.com/hbstack/header)<br>
+4. 💪 Opened PR [#702](https://github.com/hbstack/header/pull/702) in [hbstack/header](https://github.com/hbstack/header)<br>
+5. ❗️ Opened issue [#74](https://github.com/hugomods/shortcodes/issues/74) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+6. 🎉 Merged PR [#73](https://github.com/hugomods/shortcodes/pull/73) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+7. 💬 Commented on [#71](https://github.com/hugomods/shortcodes/issues/71#issuecomment-2407810892) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+8. ✔️ Closed issue [#71](https://github.com/hugomods/shortcodes/issues/71) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+9. ✔️ Closed issue [#70](https://github.com/hugomods/shortcodes/issues/70) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+10. 🎉 Merged PR [#72](https://github.com/hugomods/shortcodes/pull/72) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
