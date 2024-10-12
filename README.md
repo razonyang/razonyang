@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#835](https://github.com/hbstack/docs/issues/835) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. 🎉 Merged PR [#9](https://github.com/hugomods/microsoft-clarity/pull/9) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-3. 🎉 Merged PR [#8](https://github.com/hugomods/microsoft-clarity/pull/8) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
-4. 🎉 Merged PR [#703](https://github.com/hbstack/header/pull/703) in [hbstack/header](https://github.com/hbstack/header)<br>
-5. 🎉 Merged PR [#702](https://github.com/hbstack/header/pull/702) in [hbstack/header](https://github.com/hbstack/header)<br>
-6. 💪 Opened PR [#702](https://github.com/hbstack/header/pull/702) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. ❗️ Opened issue [#74](https://github.com/hugomods/shortcodes/issues/74) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-8. 🎉 Merged PR [#73](https://github.com/hugomods/shortcodes/pull/73) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-9. 💬 Commented on [#71](https://github.com/hugomods/shortcodes/issues/71#issuecomment-2407810892) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-10. ✔️ Closed issue [#71](https://github.com/hugomods/shortcodes/issues/71) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+1. 🎉 Merged PR [#837](https://github.com/hbstack/docs/pull/837) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. ✔️ Closed issue [#835](https://github.com/hbstack/docs/issues/835) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. 🎉 Merged PR [#836](https://github.com/hbstack/docs/pull/836) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. 💪 Opened PR [#836](https://github.com/hbstack/docs/pull/836) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+5. ❗️ Opened issue [#835](https://github.com/hbstack/docs/issues/835) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+6. 🎉 Merged PR [#9](https://github.com/hugomods/microsoft-clarity/pull/9) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+7. 🎉 Merged PR [#8](https://github.com/hugomods/microsoft-clarity/pull/8) in [hugomods/microsoft-clarity](https://github.com/hugomods/microsoft-clarity)<br>
+8. 🎉 Merged PR [#703](https://github.com/hbstack/header/pull/703) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. 🎉 Merged PR [#702](https://github.com/hbstack/header/pull/702) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 💪 Opened PR [#702](https://github.com/hbstack/header/pull/702) in [hbstack/header](https://github.com/hbstack/header)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
