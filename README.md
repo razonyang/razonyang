@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/hugomods/umami/pull/4) in [hugomods/umami](https://github.com/hugomods/umami)<br>
-2. 🎉 Merged PR [#3](https://github.com/hugomods/minimal-google-analytics/pull/3) in [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
-3. 🎉 Merged PR [#3](https://github.com/hugomods/cloudflare-analytics/pull/3) in [hugomods/cloudflare-analytics](https://github.com/hugomods/cloudflare-analytics)<br>
-4. ❗️ Opened issue [#530](https://github.com/hbstack/theme-cards/issues/530) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-5. 🎉 Merged PR [#2](https://github.com/hugomods/cloudflare-analytics/pull/2) in [hugomods/cloudflare-analytics](https://github.com/hugomods/cloudflare-analytics)<br>
-6. 📔 Created new repository [hugomods/cloudflare-analytics](https://github.com/hugomods/cloudflare-analytics)<br>
-7. 🎉 Merged PR [#2](https://github.com/hugomods/minimal-google-analytics/pull/2) in [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
-8. 🎉 Merged PR [#3](https://github.com/hugomods/umami/pull/3) in [hugomods/umami](https://github.com/hugomods/umami)<br>
-9. ❌ Closed PR [#2](https://github.com/hugomods/umami/pull/2) in [hugomods/umami](https://github.com/hugomods/umami)<br>
-10. 📔 Created new repository [hugomods/umami](https://github.com/hugomods/umami)<br>
+1. ❗️ Opened issue [#74](https://github.com/hugomods/shortcodes/issues/74) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+2. 🎉 Merged PR [#73](https://github.com/hugomods/shortcodes/pull/73) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+3. 💬 Commented on [#71](https://github.com/hugomods/shortcodes/issues/71#issuecomment-2407810892) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+4. ✔️ Closed issue [#71](https://github.com/hugomods/shortcodes/issues/71) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+5. ✔️ Closed issue [#70](https://github.com/hugomods/shortcodes/issues/70) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+6. 🎉 Merged PR [#72](https://github.com/hugomods/shortcodes/pull/72) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+7. 💪 Opened PR [#72](https://github.com/hugomods/shortcodes/pull/72) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+8. ❗️ Opened issue [#161](https://github.com/hugomods/bootstrap/issues/161) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+9. ❗️ Opened issue [#160](https://github.com/hugomods/bootstrap/issues/160) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+10. ❗️ Opened issue [#159](https://github.com/hugomods/bootstrap/issues/159) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
