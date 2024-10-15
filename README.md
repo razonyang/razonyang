@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/hugomods/umami-analytics/pull/6) in [hugomods/umami-analytics](https://github.com/hugomods/umami-analytics)<br>
-2. 🔱 Forked [razonyang/sandsoncosta.github.io](undefined) from [sandsoncosta/sandsoncosta.github.io](https://github.com/sandsoncosta/sandsoncosta.github.io)<br>
-3. 🎉 Merged PR [#54](https://github.com/hugomods/echarts/pull/54) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-4. 🎉 Merged PR [#53](https://github.com/hugomods/echarts/pull/53) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-5. 💪 Opened PR [#53](https://github.com/hugomods/echarts/pull/53) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-6. ⭐ Starred [d3/d3](https://github.com/d3/d3)<br>
-7. ❗️ Opened issue [#261](https://github.com/hugomods/search/issues/261) in [hugomods/search](https://github.com/hugomods/search)<br>
-8. 🎉 Merged PR [#122](https://github.com/hbstack/featured-image/pull/122) in [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
-9. 💬 Commented on [#42](https://github.com/hugomods/docker/issues/42#issuecomment-2409390860) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. ✔️ Closed issue [#42](https://github.com/hugomods/docker/issues/42) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. ❗️ Opened issue [#262](https://github.com/hugomods/search/issues/262) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. 🎉 Merged PR [#6](https://github.com/hugomods/umami-analytics/pull/6) in [hugomods/umami-analytics](https://github.com/hugomods/umami-analytics)<br>
+3. 🔱 Forked [razonyang/sandsoncosta.github.io](undefined) from [sandsoncosta/sandsoncosta.github.io](https://github.com/sandsoncosta/sandsoncosta.github.io)<br>
+4. 🎉 Merged PR [#54](https://github.com/hugomods/echarts/pull/54) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+5. 🎉 Merged PR [#53](https://github.com/hugomods/echarts/pull/53) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+6. 💪 Opened PR [#53](https://github.com/hugomods/echarts/pull/53) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+7. ⭐ Starred [d3/d3](https://github.com/d3/d3)<br>
+8. ❗️ Opened issue [#261](https://github.com/hugomods/search/issues/261) in [hugomods/search](https://github.com/hugomods/search)<br>
+9. 🎉 Merged PR [#122](https://github.com/hbstack/featured-image/pull/122) in [hbstack/featured-image](https://github.com/hbstack/featured-image)<br>
+10. 💬 Commented on [#42](https://github.com/hugomods/docker/issues/42#issuecomment-2409390860) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
