@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)<br>
-2. ⭐ Starred [waydroid/waydroid](https://github.com/waydroid/waydroid)<br>
-3. ❗️ Opened issue [#262](https://github.com/hugomods/search/issues/262) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. 🎉 Merged PR [#6](https://github.com/hugomods/umami-analytics/pull/6) in [hugomods/umami-analytics](https://github.com/hugomods/umami-analytics)<br>
-5. 🔱 Forked [razonyang/sandsoncosta.github.io](undefined) from [sandsoncosta/sandsoncosta.github.io](https://github.com/sandsoncosta/sandsoncosta.github.io)<br>
-6. 🎉 Merged PR [#54](https://github.com/hugomods/echarts/pull/54) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-7. 🎉 Merged PR [#53](https://github.com/hugomods/echarts/pull/53) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-8. 💪 Opened PR [#53](https://github.com/hugomods/echarts/pull/53) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-9. ⭐ Starred [d3/d3](https://github.com/d3/d3)<br>
-10. ❗️ Opened issue [#261](https://github.com/hugomods/search/issues/261) in [hugomods/search](https://github.com/hugomods/search)<br>
+1. 💪 Opened PR [#98](https://github.com/hugomods/docker/pull/98) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. ⭐ Starred [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)<br>
+3. ⭐ Starred [waydroid/waydroid](https://github.com/waydroid/waydroid)<br>
+4. ❗️ Opened issue [#262](https://github.com/hugomods/search/issues/262) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. 🎉 Merged PR [#6](https://github.com/hugomods/umami-analytics/pull/6) in [hugomods/umami-analytics](https://github.com/hugomods/umami-analytics)<br>
+6. 🔱 Forked [razonyang/sandsoncosta.github.io](undefined) from [sandsoncosta/sandsoncosta.github.io](https://github.com/sandsoncosta/sandsoncosta.github.io)<br>
+7. 🎉 Merged PR [#54](https://github.com/hugomods/echarts/pull/54) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+8. 🎉 Merged PR [#53](https://github.com/hugomods/echarts/pull/53) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+9. 💪 Opened PR [#53](https://github.com/hugomods/echarts/pull/53) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+10. ⭐ Starred [d3/d3](https://github.com/d3/d3)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
