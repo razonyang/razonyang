@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#99](https://github.com/hugomods/docker/pull/99) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 🎉 Merged PR [#98](https://github.com/hugomods/docker/pull/98) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 💬 Commented on [#1034](https://github.com/hbstack/theme/issues/1034#issuecomment-2417277567) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-4. 💬 Commented on [#83](https://github.com/hugomods/docker/pull/83#issuecomment-2415668970) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. ❌ Closed PR [#83](https://github.com/hugomods/docker/pull/83) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. 💪 Opened PR [#98](https://github.com/hugomods/docker/pull/98) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. ⭐ Starred [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core)<br>
-8. ⭐ Starred [waydroid/waydroid](https://github.com/waydroid/waydroid)<br>
-9. ❗️ Opened issue [#262](https://github.com/hugomods/search/issues/262) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. 🎉 Merged PR [#6](https://github.com/hugomods/umami-analytics/pull/6) in [hugomods/umami-analytics](https://github.com/hugomods/umami-analytics)<br>
+1. ❌ Closed PR [#50](https://github.com/razonyang/blog/pull/50) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+2. ❌ Closed PR [#37](https://github.com/razonyang/blog/pull/37) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+3. 🎉 Merged PR [#58](https://github.com/razonyang/blog/pull/58) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+4. 🎉 Merged PR [#99](https://github.com/hugomods/docker/pull/99) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+5. 💪 Opened PR [#99](https://github.com/hugomods/docker/pull/99) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. 🎉 Merged PR [#98](https://github.com/hugomods/docker/pull/98) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 💬 Commented on [#1034](https://github.com/hbstack/theme/issues/1034#issuecomment-2417277567) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+8. 💬 Commented on [#83](https://github.com/hugomods/docker/pull/83#issuecomment-2415668970) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. ❌ Closed PR [#83](https://github.com/hugomods/docker/pull/83) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 💪 Opened PR [#98](https://github.com/hugomods/docker/pull/98) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
