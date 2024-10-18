@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#101](https://github.com/hugomods/docker/pull/101) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 🔱 Forked [razonyang/docker](undefined) from [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. ✔️ Closed issue [#1034](https://github.com/hbstack/theme/issues/1034) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-4. ⭐ Starred [tonistiigi/xx](https://github.com/tonistiigi/xx)<br>
-5. 📔 Created new repository [razonyang/github-actions-docker-build-test](https://github.com/razonyang/github-actions-docker-build-test)<br>
-6. ❗️ Opened issue [#100](https://github.com/hugomods/docker/issues/100) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. ❗️ Opened issue [#401](https://github.com/xianmin/hugo-theme-jane/issues/401) in [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)<br>
-8. 💬 Commented on [#400](https://github.com/xianmin/hugo-theme-jane/issues/400#issuecomment-2419311675) in [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)<br>
-9. ❌ Closed PR [#390](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/390) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
-10. ❌ Closed PR [#50](https://github.com/razonyang/blog/pull/50) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+1. 💪 Opened PR [#102](https://github.com/hugomods/docker/pull/102) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. 💪 Opened PR [#101](https://github.com/hugomods/docker/pull/101) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 🔱 Forked [razonyang/docker](undefined) from [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. ✔️ Closed issue [#1034](https://github.com/hbstack/theme/issues/1034) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+5. ⭐ Starred [tonistiigi/xx](https://github.com/tonistiigi/xx)<br>
+6. 📔 Created new repository [razonyang/github-actions-docker-build-test](https://github.com/razonyang/github-actions-docker-build-test)<br>
+7. ❗️ Opened issue [#100](https://github.com/hugomods/docker/issues/100) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. ❗️ Opened issue [#401](https://github.com/xianmin/hugo-theme-jane/issues/401) in [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)<br>
+9. 💬 Commented on [#400](https://github.com/xianmin/hugo-theme-jane/issues/400#issuecomment-2419311675) in [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)<br>
+10. ❌ Closed PR [#390](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/390) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
