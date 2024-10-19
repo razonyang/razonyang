@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy)<br>
-2. 💪 Opened PR [#102](https://github.com/hugomods/docker/pull/102) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 💪 Opened PR [#101](https://github.com/hugomods/docker/pull/101) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 🔱 Forked [razonyang/docker](undefined) from [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. ✔️ Closed issue [#1034](https://github.com/hbstack/theme/issues/1034) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-6. ⭐ Starred [tonistiigi/xx](https://github.com/tonistiigi/xx)<br>
-7. 📔 Created new repository [razonyang/github-actions-docker-build-test](https://github.com/razonyang/github-actions-docker-build-test)<br>
-8. ❗️ Opened issue [#100](https://github.com/hugomods/docker/issues/100) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. ❗️ Opened issue [#401](https://github.com/xianmin/hugo-theme-jane/issues/401) in [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)<br>
-10. 💬 Commented on [#400](https://github.com/xianmin/hugo-theme-jane/issues/400#issuecomment-2419311675) in [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)<br>
+1. 💬 Commented on [#100](https://github.com/hugomods/docker/issues/100#issuecomment-2423809553) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. ✔️ Closed issue [#100](https://github.com/hugomods/docker/issues/100) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 🎉 Merged PR [#103](https://github.com/hugomods/docker/pull/103) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. ❗️ Opened issue [#104](https://github.com/hugomods/docker/issues/104) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+5. 💪 Opened PR [#103](https://github.com/hugomods/docker/pull/103) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. ❌ Closed PR [#102](https://github.com/hugomods/docker/pull/102) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. ❌ Closed PR [#101](https://github.com/hugomods/docker/pull/101) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. ⭐ Starred [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy)<br>
+9. 💪 Opened PR [#102](https://github.com/hugomods/docker/pull/102) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 💪 Opened PR [#101](https://github.com/hugomods/docker/pull/101) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
