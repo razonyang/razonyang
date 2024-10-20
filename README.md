@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#104](https://github.com/hugomods/docker/issues/104) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 🎉 Merged PR [#105](https://github.com/hugomods/docker/pull/105) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 💬 Commented on [#401](https://github.com/xianmin/hugo-theme-jane/issues/401#issuecomment-2424062150) in [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)<br>
-4. ✔️ Closed issue [#401](https://github.com/xianmin/hugo-theme-jane/issues/401) in [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)<br>
-5. 💪 Opened PR [#105](https://github.com/hugomods/docker/pull/105) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. 💬 Commented on [#100](https://github.com/hugomods/docker/issues/100#issuecomment-2423809553) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. ✔️ Closed issue [#100](https://github.com/hugomods/docker/issues/100) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. 🎉 Merged PR [#103](https://github.com/hugomods/docker/pull/103) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. ❗️ Opened issue [#104](https://github.com/hugomods/docker/issues/104) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 💪 Opened PR [#103](https://github.com/hugomods/docker/pull/103) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.14.1) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+2. ✔️ Closed issue [#104](https://github.com/hugomods/docker/issues/104) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 🎉 Merged PR [#105](https://github.com/hugomods/docker/pull/105) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. 💬 Commented on [#401](https://github.com/xianmin/hugo-theme-jane/issues/401#issuecomment-2424062150) in [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)<br>
+5. ✔️ Closed issue [#401](https://github.com/xianmin/hugo-theme-jane/issues/401) in [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane)<br>
+6. 💪 Opened PR [#105](https://github.com/hugomods/docker/pull/105) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 💬 Commented on [#100](https://github.com/hugomods/docker/issues/100#issuecomment-2423809553) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. ✔️ Closed issue [#100](https://github.com/hugomods/docker/issues/100) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 🎉 Merged PR [#103](https://github.com/hugomods/docker/pull/103) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. ❗️ Opened issue [#104](https://github.com/hugomods/docker/issues/104) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
