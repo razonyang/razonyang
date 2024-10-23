@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#61](https://github.com/razonyang/blog/pull/61) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-2. 🎉 Merged PR [#435](https://github.com/hugomods/icons/pull/435) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✔️ Closed issue [#436](https://github.com/hugomods/icons/issues/436) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 🎉 Merged PR [#438](https://github.com/hugomods/icons/pull/438) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 💪 Opened PR [#438](https://github.com/hugomods/icons/pull/438) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 💬 Commented on [#1724](https://github.com/yuzutech/kroki/pull/1724#issuecomment-2426338507) in [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
-7. ❗️ Opened issue [#711](https://github.com/hbstack/header/issues/711) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. ⭐ Starred [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
-9. ❗️ Opened issue [#436](https://github.com/hugomods/icons/issues/436) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 🎉 Merged PR [#59](https://github.com/razonyang/blog/pull/59) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+1. ❗️ Opened issue [#264](https://github.com/hugomods/search/issues/264) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. 🎉 Merged PR [#61](https://github.com/razonyang/blog/pull/61) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+3. 🎉 Merged PR [#435](https://github.com/hugomods/icons/pull/435) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✔️ Closed issue [#436](https://github.com/hugomods/icons/issues/436) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 🎉 Merged PR [#438](https://github.com/hugomods/icons/pull/438) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 💪 Opened PR [#438](https://github.com/hugomods/icons/pull/438) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. 💬 Commented on [#1724](https://github.com/yuzutech/kroki/pull/1724#issuecomment-2426338507) in [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
+8. ❗️ Opened issue [#711](https://github.com/hbstack/header/issues/711) in [hbstack/header](https://github.com/hbstack/header)<br>
+9. ⭐ Starred [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
+10. ❗️ Opened issue [#436](https://github.com/hugomods/icons/issues/436) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
