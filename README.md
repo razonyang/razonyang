@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#435](https://github.com/hugomods/icons/pull/435) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. ✔️ Closed issue [#436](https://github.com/hugomods/icons/issues/436) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 🎉 Merged PR [#438](https://github.com/hugomods/icons/pull/438) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 💪 Opened PR [#438](https://github.com/hugomods/icons/pull/438) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 💬 Commented on [#1724](https://github.com/yuzutech/kroki/pull/1724#issuecomment-2426338507) in [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
-6. ❗️ Opened issue [#711](https://github.com/hbstack/header/issues/711) in [hbstack/header](https://github.com/hbstack/header)<br>
-7. ⭐ Starred [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
-8. ❗️ Opened issue [#436](https://github.com/hugomods/icons/issues/436) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 🎉 Merged PR [#59](https://github.com/razonyang/blog/pull/59) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-10. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.14.1) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+1. 🎉 Merged PR [#61](https://github.com/razonyang/blog/pull/61) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+2. 🎉 Merged PR [#435](https://github.com/hugomods/icons/pull/435) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ✔️ Closed issue [#436](https://github.com/hugomods/icons/issues/436) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 🎉 Merged PR [#438](https://github.com/hugomods/icons/pull/438) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 💪 Opened PR [#438](https://github.com/hugomods/icons/pull/438) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 💬 Commented on [#1724](https://github.com/yuzutech/kroki/pull/1724#issuecomment-2426338507) in [yuzutech/kroki](https://github.com/yuzutech/kroki)<br>
+7. ❗️ Opened issue [#711](https://github.com/hbstack/header/issues/711) in [hbstack/header](https://github.com/hbstack/header)<br>
+8. ⭐ Starred [hugomods/minimal-google-analytics](https://github.com/hugomods/minimal-google-analytics)<br>
+9. ❗️ Opened issue [#436](https://github.com/hugomods/icons/issues/436) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 🎉 Merged PR [#59](https://github.com/razonyang/blog/pull/59) in [razonyang/blog](https://github.com/razonyang/blog)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
