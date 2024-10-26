@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#6](https://github.com/hbstack/theme-search/pull/6) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-2. 💪 Opened PR [#500](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/500) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
-3. ⭐ Starred [hbstack/template-search](https://github.com/hbstack/template-search)<br>
-4. ⭐ Starred [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-5. 🎉 Merged PR [#5](https://github.com/hbstack/theme-search/pull/5) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-6. 🎉 Merged PR [#4](https://github.com/hbstack/theme-search/pull/4) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-7. ❌ Closed PR [#2](https://github.com/hbstack/theme-search/pull/2) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-8. ❌ Closed PR [#1](https://github.com/hbstack/theme-search/pull/1) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-9. 🎉 Merged PR [#276](https://github.com/hugomods/search/pull/276) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. 🎉 Merged PR [#275](https://github.com/hugomods/search/pull/275) in [hugomods/search](https://github.com/hugomods/search)<br>
+1. 🎉 Merged PR [#63](https://github.com/razonyang/blog/pull/63) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+2. 🎉 Merged PR [#6](https://github.com/hbstack/theme-search/pull/6) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+3. 💪 Opened PR [#500](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/500) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
+4. ⭐ Starred [hbstack/template-search](https://github.com/hbstack/template-search)<br>
+5. ⭐ Starred [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+6. 🎉 Merged PR [#5](https://github.com/hbstack/theme-search/pull/5) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+7. 🎉 Merged PR [#4](https://github.com/hbstack/theme-search/pull/4) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+8. ❌ Closed PR [#2](https://github.com/hbstack/theme-search/pull/2) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+9. ❌ Closed PR [#1](https://github.com/hbstack/theme-search/pull/1) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+10. 🎉 Merged PR [#276](https://github.com/hugomods/search/pull/276) in [hugomods/search](https://github.com/hugomods/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
