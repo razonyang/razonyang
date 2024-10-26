@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#276](https://github.com/hugomods/search/pull/276) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. 🎉 Merged PR [#275](https://github.com/hugomods/search/pull/275) in [hugomods/search](https://github.com/hugomods/search)<br>
-3. 💪 Opened PR [#275](https://github.com/hugomods/search/pull/275) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. 🎉 Merged PR [#3](https://github.com/hugomods/search-index/pull/3) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
-5. ❌ Closed PR [#2](https://github.com/hugomods/search-index/pull/2) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
-6. 📔 Created new repository [hugomods/search-index](https://github.com/hugomods/search-index)<br>
-7. 🎉 Merged PR [#707](https://github.com/hbstack/header/pull/707) in [hbstack/header](https://github.com/hbstack/header)<br>
-8. 📔 Created new repository [hbstack/template-search](https://github.com/hbstack/template-search)<br>
-9. 📔 Created new repository [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-10. 🎉 Merged PR [#62](https://github.com/razonyang/blog/pull/62) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+1. ❌ Closed PR [#2](https://github.com/hbstack/theme-search/pull/2) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+2. ❌ Closed PR [#1](https://github.com/hbstack/theme-search/pull/1) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+3. 🎉 Merged PR [#276](https://github.com/hugomods/search/pull/276) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 🎉 Merged PR [#275](https://github.com/hugomods/search/pull/275) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. 💪 Opened PR [#275](https://github.com/hugomods/search/pull/275) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 🎉 Merged PR [#3](https://github.com/hugomods/search-index/pull/3) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
+7. ❌ Closed PR [#2](https://github.com/hugomods/search-index/pull/2) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
+8. 📔 Created new repository [hugomods/search-index](https://github.com/hugomods/search-index)<br>
+9. 🎉 Merged PR [#707](https://github.com/hbstack/header/pull/707) in [hbstack/header](https://github.com/hbstack/header)<br>
+10. 📔 Created new repository [hbstack/template-search](https://github.com/hbstack/template-search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
