@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [FiloSottile/age](https://github.com/FiloSottile/age)<br>
-2. ⭐ Starred [supabase/auth](https://github.com/supabase/auth)<br>
-3. 💬 Commented on [#859](https://github.com/hbstack/docs/issues/859#issuecomment-2439904580) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-4. ✔️ Closed issue [#859](https://github.com/hbstack/docs/issues/859) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-5. 💬 Commented on [#859](https://github.com/hbstack/docs/issues/859#issuecomment-2439883301) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-6. 💬 Commented on [#859](https://github.com/hbstack/docs/issues/859#issuecomment-2439875740) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-7. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.15.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-8. 🎉 Merged PR [#63](https://github.com/razonyang/blog/pull/63) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-9. 🎉 Merged PR [#6](https://github.com/hbstack/theme-search/pull/6) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-10. 💪 Opened PR [#500](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/500) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
+1. 💬 Commented on [#859](https://github.com/hbstack/docs/issues/859#issuecomment-2440073057) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. ⭐ Starred [FiloSottile/age](https://github.com/FiloSottile/age)<br>
+3. ⭐ Starred [supabase/auth](https://github.com/supabase/auth)<br>
+4. 💬 Commented on [#859](https://github.com/hbstack/docs/issues/859#issuecomment-2439904580) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+5. ✔️ Closed issue [#859](https://github.com/hbstack/docs/issues/859) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+6. 💬 Commented on [#859](https://github.com/hbstack/docs/issues/859#issuecomment-2439883301) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+7. 💬 Commented on [#859](https://github.com/hbstack/docs/issues/859#issuecomment-2439875740) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.15.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+9. 🎉 Merged PR [#63](https://github.com/razonyang/blog/pull/63) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+10. 🎉 Merged PR [#6](https://github.com/hbstack/theme-search/pull/6) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
