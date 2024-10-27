@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.15.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-2. 🎉 Merged PR [#63](https://github.com/razonyang/blog/pull/63) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-3. 🎉 Merged PR [#6](https://github.com/hbstack/theme-search/pull/6) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-4. 💪 Opened PR [#500](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/500) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
-5. ⭐ Starred [hbstack/template-search](https://github.com/hbstack/template-search)<br>
-6. ⭐ Starred [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-7. 🎉 Merged PR [#5](https://github.com/hbstack/theme-search/pull/5) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-8. 🎉 Merged PR [#4](https://github.com/hbstack/theme-search/pull/4) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-9. ❌ Closed PR [#2](https://github.com/hbstack/theme-search/pull/2) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-10. ❌ Closed PR [#1](https://github.com/hbstack/theme-search/pull/1) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+1. 💬 Commented on [#859](https://github.com/hbstack/docs/issues/859#issuecomment-2439875740) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.15.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+3. 🎉 Merged PR [#63](https://github.com/razonyang/blog/pull/63) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+4. 🎉 Merged PR [#6](https://github.com/hbstack/theme-search/pull/6) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+5. 💪 Opened PR [#500](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/500) in [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder)<br>
+6. ⭐ Starred [hbstack/template-search](https://github.com/hbstack/template-search)<br>
+7. ⭐ Starred [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+8. 🎉 Merged PR [#5](https://github.com/hbstack/theme-search/pull/5) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+9. 🎉 Merged PR [#4](https://github.com/hbstack/theme-search/pull/4) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+10. ❌ Closed PR [#2](https://github.com/hbstack/theme-search/pull/2) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
