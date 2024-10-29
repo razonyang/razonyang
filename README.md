@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [razonyang/s4bot3ur.github.io](undefined) from [s4bot3ur/s4bot3ur.github.io](https://github.com/s4bot3ur/s4bot3ur.github.io)<br>
-2. 🎉 Merged PR [#443](https://github.com/hugomods/icons/pull/443) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 🎉 Merged PR [#444](https://github.com/hugomods/icons/pull/444) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 💪 Opened PR [#444](https://github.com/hugomods/icons/pull/444) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. ⭐ Starred [supabase/supabase-js](https://github.com/supabase/supabase-js)<br>
-6. 💬 Commented on [#860](https://github.com/hbstack/docs/issues/860#issuecomment-2440088699) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-7. 💬 Commented on [#859](https://github.com/hbstack/docs/issues/859#issuecomment-2440073057) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-8. ⭐ Starred [FiloSottile/age](https://github.com/FiloSottile/age)<br>
-9. ⭐ Starred [supabase/auth](https://github.com/supabase/auth)<br>
-10. 💬 Commented on [#859](https://github.com/hbstack/docs/issues/859#issuecomment-2439904580) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. ❗️ Opened issue [#13](https://github.com/hbstack/blockquote-alerts/issues/13) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
+2. 🔱 Forked [razonyang/s4bot3ur.github.io](undefined) from [s4bot3ur/s4bot3ur.github.io](https://github.com/s4bot3ur/s4bot3ur.github.io)<br>
+3. 🎉 Merged PR [#443](https://github.com/hugomods/icons/pull/443) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 🎉 Merged PR [#444](https://github.com/hugomods/icons/pull/444) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+5. 💪 Opened PR [#444](https://github.com/hugomods/icons/pull/444) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. ⭐ Starred [supabase/supabase-js](https://github.com/supabase/supabase-js)<br>
+7. 💬 Commented on [#860](https://github.com/hbstack/docs/issues/860#issuecomment-2440088699) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. 💬 Commented on [#859](https://github.com/hbstack/docs/issues/859#issuecomment-2440073057) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+9. ⭐ Starred [FiloSottile/age](https://github.com/FiloSottile/age)<br>
+10. ⭐ Starred [supabase/auth](https://github.com/supabase/auth)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
