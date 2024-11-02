@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#860](https://github.com/hbstack/docs/issues/860#issuecomment-2445851043) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. 💪 Opened PR [#866](https://github.com/hbstack/docs/pull/866) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-3. 🎉 Merged PR [#65](https://github.com/razonyang/blog/pull/65) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-4. ❗️ Opened issue [#13](https://github.com/hbstack/blockquote-alerts/issues/13) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
-5. 🔱 Forked [razonyang/s4bot3ur.github.io](undefined) from [s4bot3ur/s4bot3ur.github.io](https://github.com/s4bot3ur/s4bot3ur.github.io)<br>
-6. 🎉 Merged PR [#443](https://github.com/hugomods/icons/pull/443) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 🎉 Merged PR [#444](https://github.com/hugomods/icons/pull/444) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 💪 Opened PR [#444](https://github.com/hugomods/icons/pull/444) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. ⭐ Starred [supabase/supabase-js](https://github.com/supabase/supabase-js)<br>
-10. 💬 Commented on [#860](https://github.com/hbstack/docs/issues/860#issuecomment-2440088699) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. ❗️ Opened issue [#867](https://github.com/hbstack/docs/issues/867) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. 💬 Commented on [#860](https://github.com/hbstack/docs/issues/860#issuecomment-2445851043) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. 💪 Opened PR [#866](https://github.com/hbstack/docs/pull/866) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. 🎉 Merged PR [#65](https://github.com/razonyang/blog/pull/65) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+5. ❗️ Opened issue [#13](https://github.com/hbstack/blockquote-alerts/issues/13) in [hbstack/blockquote-alerts](https://github.com/hbstack/blockquote-alerts)<br>
+6. 🔱 Forked [razonyang/s4bot3ur.github.io](undefined) from [s4bot3ur/s4bot3ur.github.io](https://github.com/s4bot3ur/s4bot3ur.github.io)<br>
+7. 🎉 Merged PR [#443](https://github.com/hugomods/icons/pull/443) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 🎉 Merged PR [#444](https://github.com/hugomods/icons/pull/444) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 💪 Opened PR [#444](https://github.com/hugomods/icons/pull/444) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. ⭐ Starred [supabase/supabase-js](https://github.com/supabase/supabase-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
