@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1018](https://github.com/hbstack/blog/pull/1018) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. ⭐ Starred [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)<br>
-3. ⭐ Starred [supabase-community/supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes)<br>
-4. 🎉 Merged PR [#165](https://github.com/hugomods/bootstrap/pull/165) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. ✔️ Closed issue [#163](https://github.com/hugomods/bootstrap/issues/163) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-6. 🎉 Merged PR [#164](https://github.com/hugomods/bootstrap/pull/164) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-7. ❗️ Opened issue [#1310](https://github.com/hugomods/site/issues/1310) in [hugomods/site](https://github.com/hugomods/site)<br>
-8. 💪 Opened PR [#164](https://github.com/hugomods/bootstrap/pull/164) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-9. ❗️ Opened issue [#163](https://github.com/hugomods/bootstrap/issues/163) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-10. 🎉 Merged PR [#1081](https://github.com/razonyang/hugo-theme-bootstrap/pull/1081) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. ⭐ Starred [hugomods/search-index](https://github.com/hugomods/search-index)<br>
+2. 🎉 Merged PR [#5](https://github.com/hugomods/search-index/pull/5) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
+3. 🎉 Merged PR [#278](https://github.com/hugomods/search/pull/278) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 🎉 Merged PR [#4](https://github.com/hugomods/search-index/pull/4) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
+5. 🎉 Merged PR [#277](https://github.com/hugomods/search/pull/277) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 💪 Opened PR [#277](https://github.com/hugomods/search/pull/277) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. 💪 Opened PR [#4](https://github.com/hugomods/search-index/pull/4) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
+8. 🎉 Merged PR [#1018](https://github.com/hbstack/blog/pull/1018) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. ⭐ Starred [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments)<br>
+10. ⭐ Starred [supabase-community/supabase-kubernetes](https://github.com/supabase-community/supabase-kubernetes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
