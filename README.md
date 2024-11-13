@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#860](https://github.com/hbstack/docs/issues/860#issuecomment-2471562818) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. ⭐ Starred [dockur/macos](https://github.com/dockur/macos)<br>
-3. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)<br>
-4. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)<br>
-5. 💬 Commented on [#110](https://github.com/hbstack/revision/issues/110#issuecomment-2467333746) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-6. 💪 Opened PR [#111](https://github.com/hbstack/revision/pull/111) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-7. 💬 Commented on [#110](https://github.com/hbstack/revision/issues/110#issuecomment-2466999029) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-8. 💬 Commented on [#110](https://github.com/hbstack/revision/issues/110#issuecomment-2466993015) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-9. ⭐ Starred [pterodactyl/panel](https://github.com/pterodactyl/panel)<br>
-10. 🎉 Merged PR [#109](https://github.com/hbstack/revision/pull/109) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+1. 💬 Commented on [#110](https://github.com/hbstack/revision/issues/110#issuecomment-2472328602) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+2. 🎉 Merged PR [#114](https://github.com/hbstack/revision/pull/114) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+3. ✔️ Closed issue [#110](https://github.com/hbstack/revision/issues/110) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+4. 🎉 Merged PR [#111](https://github.com/hbstack/revision/pull/111) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+5. 🎉 Merged PR [#446](https://github.com/hugomods/icons/pull/446) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 💬 Commented on [#860](https://github.com/hbstack/docs/issues/860#issuecomment-2471562818) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+7. ⭐ Starred [dockur/macos](https://github.com/dockur/macos)<br>
+8. ⭐ Starred [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX)<br>
+9. ⭐ Starred [dockur/windows](https://github.com/dockur/windows)<br>
+10. 💬 Commented on [#110](https://github.com/hbstack/revision/issues/110#issuecomment-2467333746) in [hbstack/revision](https://github.com/hbstack/revision)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
