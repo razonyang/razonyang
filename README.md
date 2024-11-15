@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477596809) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-2. ⭐ Starred [asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi)<br>
-3. 🎉 Merged PR [#846](https://github.com/hbstack/docs/pull/846) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-4. ✔️ Closed issue [#860](https://github.com/hbstack/docs/issues/860) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-5. 🎉 Merged PR [#866](https://github.com/hbstack/docs/pull/866) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-6. 🎉 Merged PR [#13](https://github.com/hbstack/theme-search/pull/13) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
-7. ⭐ Starred [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit)<br>
-8. 💬 Commented on [#860](https://github.com/hbstack/docs/issues/860#issuecomment-2472428236) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-9. 💬 Commented on [#110](https://github.com/hbstack/revision/issues/110#issuecomment-2472328602) in [hbstack/revision](https://github.com/hbstack/revision)<br>
-10. 🎉 Merged PR [#114](https://github.com/hbstack/revision/pull/114) in [hbstack/revision](https://github.com/hbstack/revision)<br>
+1. ❗️ Opened issue [#13045](https://github.com/gohugoio/hugo/issues/13045) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477930194) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+3. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477857344) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+4. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477596809) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+5. ⭐ Starred [asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi)<br>
+6. 🎉 Merged PR [#846](https://github.com/hbstack/docs/pull/846) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+7. ✔️ Closed issue [#860](https://github.com/hbstack/docs/issues/860) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. 🎉 Merged PR [#866](https://github.com/hbstack/docs/pull/866) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+9. 🎉 Merged PR [#13](https://github.com/hbstack/theme-search/pull/13) in [hbstack/theme-search](https://github.com/hbstack/theme-search)<br>
+10. ⭐ Starred [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
