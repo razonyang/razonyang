@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.7.0) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-2. ❗️ Opened issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-3. ❗️ Opened issue [#13045](https://github.com/gohugoio/hugo/issues/13045) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-4. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477930194) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-5. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477857344) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-6. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477596809) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-7. ⭐ Starred [asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi)<br>
-8. 🎉 Merged PR [#846](https://github.com/hbstack/docs/pull/846) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-9. ✔️ Closed issue [#860](https://github.com/hbstack/docs/issues/860) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-10. 🎉 Merged PR [#866](https://github.com/hbstack/docs/pull/866) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+1. 🎉 Merged PR [#450](https://github.com/hugomods/icons/pull/450) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+2. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.7.0) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+3. ❗️ Opened issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+4. ❗️ Opened issue [#13045](https://github.com/gohugoio/hugo/issues/13045) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+5. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477930194) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+6. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477857344) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+7. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477596809) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+8. ⭐ Starred [asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi)<br>
+9. 🎉 Merged PR [#846](https://github.com/hbstack/docs/pull/846) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+10. ✔️ Closed issue [#860](https://github.com/hbstack/docs/issues/860) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
