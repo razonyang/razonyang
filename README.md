@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#452](https://github.com/hugomods/icons/pull/452) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.7.1) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-3. 🎉 Merged PR [#450](https://github.com/hugomods/icons/pull/450) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.7.0) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
-5. ❗️ Opened issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-6. ❗️ Opened issue [#13045](https://github.com/gohugoio/hugo/issues/13045) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-7. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477930194) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-8. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477857344) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-9. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2477596809) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-10. ⭐ Starred [asteasolutions/zod-to-openapi](https://github.com/asteasolutions/zod-to-openapi)<br>
+1. 💬 Commented on [#281](https://github.com/hugomods/search/pull/281#issuecomment-2495656145) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. 🎉 Merged PR [#215](https://github.com/hbstack/breadcrumb/pull/215) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+3. 💬 Commented on [#245](https://github.com/hbstack/breadcrumb/pull/245#issuecomment-2495655743) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+4. 👍 Approved [#245](https://github.com/hbstack/breadcrumb/pull/245#pullrequestreview-2456479289) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+5. 🎉 Merged PR [#245](https://github.com/hbstack/breadcrumb/pull/245) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+6. 🎉 Merged PR [#452](https://github.com/hugomods/icons/pull/452) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+7. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.7.1) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+8. 🎉 Merged PR [#450](https://github.com/hugomods/icons/pull/450) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ✌️ Released [](https://github.com/hugomods/font-awesome/releases/tag/v6.7.0) in [hugomods/font-awesome](https://github.com/hugomods/font-awesome)<br>
+10. ❗️ Opened issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
