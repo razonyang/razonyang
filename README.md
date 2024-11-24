@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#16](https://github.com/hugomods/mermaid/issues/16#issuecomment-2495821305) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
-2. 🎉 Merged PR [#250](https://github.com/hbstack/hb/pull/250) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-3. 🎉 Merged PR [#279](https://github.com/hbstack/hb/pull/279) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-4. 💪 Opened PR [#279](https://github.com/hbstack/hb/pull/279) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.18.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-6. 🎉 Merged PR [#109](https://github.com/hugomods/docker/pull/109) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. 💪 Opened PR [#109](https://github.com/hugomods/docker/pull/109) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. 💬 Commented on [#281](https://github.com/hugomods/search/pull/281#issuecomment-2495663669) in [hugomods/search](https://github.com/hugomods/search)<br>
-9. 🎉 Merged PR [#282](https://github.com/hugomods/search/pull/282) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. 🎉 Merged PR [#281](https://github.com/hugomods/search/pull/281) in [hugomods/search](https://github.com/hugomods/search)<br>
+1. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2495873144) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+2. ✔️ Closed issue [#1059](https://github.com/hbstack/theme/issues/1059) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+3. 🎉 Merged PR [#281](https://github.com/hbstack/hb/pull/281) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+4. ✔️ Closed issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+5. ✔️ Closed issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+6. 🎉 Merged PR [#282](https://github.com/hbstack/hb/pull/282) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+7. 💪 Opened PR [#282](https://github.com/hbstack/hb/pull/282) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+8. 🎉 Merged PR [#280](https://github.com/hbstack/hb/pull/280) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. 💪 Opened PR [#280](https://github.com/hbstack/hb/pull/280) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. 💬 Commented on [#16](https://github.com/hugomods/mermaid/issues/16#issuecomment-2495821305) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
