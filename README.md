@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#109](https://github.com/hugomods/docker/pull/109) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 💪 Opened PR [#109](https://github.com/hugomods/docker/pull/109) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 💬 Commented on [#281](https://github.com/hugomods/search/pull/281#issuecomment-2495663669) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. 🎉 Merged PR [#282](https://github.com/hugomods/search/pull/282) in [hugomods/search](https://github.com/hugomods/search)<br>
-5. 🎉 Merged PR [#281](https://github.com/hugomods/search/pull/281) in [hugomods/search](https://github.com/hugomods/search)<br>
-6. 👍 Approved [#281](https://github.com/hugomods/search/pull/281#pullrequestreview-2456483184) in [hugomods/search](https://github.com/hugomods/search)<br>
-7. 💬 Commented on [#281](https://github.com/hugomods/search/pull/281#issuecomment-2495656145) in [hugomods/search](https://github.com/hugomods/search)<br>
-8. 🎉 Merged PR [#215](https://github.com/hbstack/breadcrumb/pull/215) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-9. 💬 Commented on [#245](https://github.com/hbstack/breadcrumb/pull/245#issuecomment-2495655743) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
-10. 👍 Approved [#245](https://github.com/hbstack/breadcrumb/pull/245#pullrequestreview-2456479289) in [hbstack/breadcrumb](https://github.com/hbstack/breadcrumb)<br>
+1. 💬 Commented on [#16](https://github.com/hugomods/mermaid/issues/16#issuecomment-2495821305) in [hugomods/mermaid](https://github.com/hugomods/mermaid)<br>
+2. 🎉 Merged PR [#250](https://github.com/hbstack/hb/pull/250) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+3. 🎉 Merged PR [#279](https://github.com/hbstack/hb/pull/279) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+4. 💪 Opened PR [#279](https://github.com/hbstack/hb/pull/279) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.18.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+6. 🎉 Merged PR [#109](https://github.com/hugomods/docker/pull/109) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 💪 Opened PR [#109](https://github.com/hugomods/docker/pull/109) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. 💬 Commented on [#281](https://github.com/hugomods/search/pull/281#issuecomment-2495663669) in [hugomods/search](https://github.com/hugomods/search)<br>
+9. 🎉 Merged PR [#282](https://github.com/hugomods/search/pull/282) in [hugomods/search](https://github.com/hugomods/search)<br>
+10. 🎉 Merged PR [#281](https://github.com/hugomods/search/pull/281) in [hugomods/search](https://github.com/hugomods/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
