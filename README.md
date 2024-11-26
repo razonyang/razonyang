@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [razonyang/my-sponsors](https://github.com/razonyang/my-sponsors)<br>
-2. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
-3. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2495873144) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-4. ✔️ Closed issue [#1059](https://github.com/hbstack/theme/issues/1059) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-5. 🎉 Merged PR [#281](https://github.com/hbstack/hb/pull/281) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-6. ✔️ Closed issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. ⭐ Starred [razonyang/static-files](https://github.com/razonyang/static-files)<br>
+2. 📔 Created new repository [razonyang/my-sponsors](https://github.com/razonyang/my-sponsors)<br>
+3. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
+4. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2495873144) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+5. ✔️ Closed issue [#1059](https://github.com/hbstack/theme/issues/1059) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+6. 🎉 Merged PR [#281](https://github.com/hbstack/hb/pull/281) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 7. ✔️ Closed issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-8. 🎉 Merged PR [#282](https://github.com/hbstack/hb/pull/282) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-9. 💪 Opened PR [#282](https://github.com/hbstack/hb/pull/282) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-10. 🎉 Merged PR [#280](https://github.com/hbstack/hb/pull/280) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+8. ✔️ Closed issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. 🎉 Merged PR [#282](https://github.com/hbstack/hb/pull/282) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. 💪 Opened PR [#282](https://github.com/hbstack/hb/pull/282) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
