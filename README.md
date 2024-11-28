@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action)<br>
-2. ⭐ Starred [razonyang/static-files](https://github.com/razonyang/static-files)<br>
-3. 📔 Created new repository [razonyang/my-sponsors](https://github.com/razonyang/my-sponsors)<br>
-4. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
-5. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2495873144) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-6. ✔️ Closed issue [#1059](https://github.com/hbstack/theme/issues/1059) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-7. 🎉 Merged PR [#281](https://github.com/hbstack/hb/pull/281) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-8. ✔️ Closed issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-9. ✔️ Closed issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-10. 🎉 Merged PR [#282](https://github.com/hbstack/hb/pull/282) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. 💬 Commented on [#12640](https://github.com/gohugoio/hugo/issues/12640#issuecomment-2505760270) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. ⭐ Starred [spf13/pathologize](https://github.com/spf13/pathologize)<br>
+3. ⭐ Starred [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action)<br>
+4. ⭐ Starred [razonyang/static-files](https://github.com/razonyang/static-files)<br>
+5. 📔 Created new repository [razonyang/my-sponsors](https://github.com/razonyang/my-sponsors)<br>
+6. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
+7. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2495873144) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+8. ✔️ Closed issue [#1059](https://github.com/hbstack/theme/issues/1059) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+9. 🎉 Merged PR [#281](https://github.com/hbstack/hb/pull/281) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. ✔️ Closed issue [#275](https://github.com/hbstack/hb/issues/275) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
