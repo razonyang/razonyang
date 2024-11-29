@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#13096](https://github.com/gohugoio/hugo/issues/13096#issuecomment-2507002366) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-2. ❗️ Opened issue [#13096](https://github.com/gohugoio/hugo/issues/13096) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-3. ❗️ Opened issue [#14](https://github.com/hugomods/i18n-js/issues/14) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
-4. 💬 Commented on [#12640](https://github.com/gohugoio/hugo/issues/12640#issuecomment-2505760270) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-5. ⭐ Starred [spf13/pathologize](https://github.com/spf13/pathologize)<br>
-6. ⭐ Starred [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action)<br>
-7. ⭐ Starred [razonyang/static-files](https://github.com/razonyang/static-files)<br>
-8. 📔 Created new repository [razonyang/my-sponsors](https://github.com/razonyang/my-sponsors)<br>
-9. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
-10. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2495873144) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+1. 💬 Commented on [#13096](https://github.com/gohugoio/hugo/issues/13096#issuecomment-2507383097) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. 💬 Commented on [#13096](https://github.com/gohugoio/hugo/issues/13096#issuecomment-2507002366) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+3. ❗️ Opened issue [#13096](https://github.com/gohugoio/hugo/issues/13096) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+4. ❗️ Opened issue [#14](https://github.com/hugomods/i18n-js/issues/14) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
+5. 💬 Commented on [#12640](https://github.com/gohugoio/hugo/issues/12640#issuecomment-2505760270) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+6. ⭐ Starred [spf13/pathologize](https://github.com/spf13/pathologize)<br>
+7. ⭐ Starred [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action)<br>
+8. ⭐ Starred [razonyang/static-files](https://github.com/razonyang/static-files)<br>
+9. 📔 Created new repository [razonyang/my-sponsors](https://github.com/razonyang/my-sponsors)<br>
+10. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
