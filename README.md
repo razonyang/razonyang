@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#14](https://github.com/hugomods/i18n-js/issues/14) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
-2. 💬 Commented on [#12640](https://github.com/gohugoio/hugo/issues/12640#issuecomment-2505760270) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-3. ⭐ Starred [spf13/pathologize](https://github.com/spf13/pathologize)<br>
-4. ⭐ Starred [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action)<br>
-5. ⭐ Starred [razonyang/static-files](https://github.com/razonyang/static-files)<br>
-6. 📔 Created new repository [razonyang/my-sponsors](https://github.com/razonyang/my-sponsors)<br>
-7. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
-8. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2495873144) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-9. ✔️ Closed issue [#1059](https://github.com/hbstack/theme/issues/1059) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-10. 🎉 Merged PR [#281](https://github.com/hbstack/hb/pull/281) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. ❗️ Opened issue [#13096](https://github.com/gohugoio/hugo/issues/13096) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. ❗️ Opened issue [#14](https://github.com/hugomods/i18n-js/issues/14) in [hugomods/i18n-js](https://github.com/hugomods/i18n-js)<br>
+3. 💬 Commented on [#12640](https://github.com/gohugoio/hugo/issues/12640#issuecomment-2505760270) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+4. ⭐ Starred [spf13/pathologize](https://github.com/spf13/pathologize)<br>
+5. ⭐ Starred [cloudflare/wrangler-action](https://github.com/cloudflare/wrangler-action)<br>
+6. ⭐ Starred [razonyang/static-files](https://github.com/razonyang/static-files)<br>
+7. 📔 Created new repository [razonyang/my-sponsors](https://github.com/razonyang/my-sponsors)<br>
+8. ⭐ Starred [supabase/supabase](https://github.com/supabase/supabase)<br>
+9. 💬 Commented on [#1059](https://github.com/hbstack/theme/issues/1059#issuecomment-2495873144) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+10. ✔️ Closed issue [#1059](https://github.com/hbstack/theme/issues/1059) in [hbstack/theme](https://github.com/hbstack/theme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
