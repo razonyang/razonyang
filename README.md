@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [hbstack/toasts](https://github.com/hbstack/toasts)<br>
-2. ❌ Closed PR [#1](https://github.com/hugomods/cookies/pull/1) in [hugomods/cookies](https://github.com/hugomods/cookies)<br>
-3. ❌ Closed PR [#2](https://github.com/hugomods/cookies/pull/2) in [hugomods/cookies](https://github.com/hugomods/cookies)<br>
-4. 📔 Created new repository [hugomods/cookies](https://github.com/hugomods/cookies)<br>
-5. 💪 Opened PR [#7](https://github.com/fauzanmy/pehtheme-hugo/pull/7) in [fauzanmy/pehtheme-hugo](https://github.com/fauzanmy/pehtheme-hugo)<br>
-6. 🔱 Forked [razonyang/pehtheme-hugo](https://github.com/razonyang/pehtheme-hugo) from [fauzanmy/pehtheme-hugo](https://github.com/fauzanmy/pehtheme-hugo)<br>
-7. ⭐ Starred [hashicorp/terraform](https://github.com/hashicorp/terraform)<br>
-8. 💬 Commented on [#13096](https://github.com/gohugoio/hugo/issues/13096#issuecomment-2507619835) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-9. 💬 Commented on [#13096](https://github.com/gohugoio/hugo/issues/13096#issuecomment-2507383097) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-10. 💬 Commented on [#13096](https://github.com/gohugoio/hugo/issues/13096#issuecomment-2507002366) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+1. 🎉 Merged PR [#5](https://github.com/hbstack/toasts/pull/5) in [hbstack/toasts](https://github.com/hbstack/toasts)<br>
+2. 💪 Opened PR [#100](https://github.com/antfu-collective/sponsorkit/pull/100) in [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit)<br>
+3. 🔱 Forked [razonyang/sponsorkit](https://github.com/razonyang/sponsorkit) from [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit)<br>
+4. 🎉 Merged PR [#1](https://github.com/hbstack/toasts/pull/1) in [hbstack/toasts](https://github.com/hbstack/toasts)<br>
+5. 🎉 Merged PR [#6](https://github.com/hugomods/cookies/pull/6) in [hugomods/cookies](https://github.com/hugomods/cookies)<br>
+6. ❌ Closed PR [#5](https://github.com/hugomods/cookies/pull/5) in [hugomods/cookies](https://github.com/hugomods/cookies)<br>
+7. ❌ Closed PR [#4](https://github.com/hugomods/cookies/pull/4) in [hugomods/cookies](https://github.com/hugomods/cookies)<br>
+8. 📔 Created new repository [hbstack/toasts](https://github.com/hbstack/toasts)<br>
+9. ❌ Closed PR [#1](https://github.com/hugomods/cookies/pull/1) in [hugomods/cookies](https://github.com/hugomods/cookies)<br>
+10. ❌ Closed PR [#2](https://github.com/hugomods/cookies/pull/2) in [hugomods/cookies](https://github.com/hugomods/cookies)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
