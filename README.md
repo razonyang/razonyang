@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#7](https://github.com/hbstack/bs-tooltip/issues/7) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
-2. 🎉 Merged PR [#8](https://github.com/hbstack/bs-tooltip/pull/8) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
-3. 💪 Opened PR [#8](https://github.com/hbstack/bs-tooltip/pull/8) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
-4. 🎉 Merged PR [#5](https://github.com/hbstack/toasts/pull/5) in [hbstack/toasts](https://github.com/hbstack/toasts)<br>
-5. 💪 Opened PR [#100](https://github.com/antfu-collective/sponsorkit/pull/100) in [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit)<br>
-6. 🔱 Forked [razonyang/sponsorkit](https://github.com/razonyang/sponsorkit) from [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit)<br>
-7. 🎉 Merged PR [#1](https://github.com/hbstack/toasts/pull/1) in [hbstack/toasts](https://github.com/hbstack/toasts)<br>
-8. 🎉 Merged PR [#6](https://github.com/hugomods/cookies/pull/6) in [hugomods/cookies](https://github.com/hugomods/cookies)<br>
-9. ❌ Closed PR [#5](https://github.com/hugomods/cookies/pull/5) in [hugomods/cookies](https://github.com/hugomods/cookies)<br>
-10. ❌ Closed PR [#4](https://github.com/hugomods/cookies/pull/4) in [hugomods/cookies](https://github.com/hugomods/cookies)<br>
+1. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.19.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+2. 💬 Commented on [#7](https://github.com/hbstack/bs-tooltip/issues/7#issuecomment-2509743898) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
+3. 🎉 Merged PR [#9](https://github.com/hbstack/bs-tooltip/pull/9) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
+4. ✔️ Closed issue [#7](https://github.com/hbstack/bs-tooltip/issues/7) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
+5. 🎉 Merged PR [#8](https://github.com/hbstack/bs-tooltip/pull/8) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
+6. 💪 Opened PR [#8](https://github.com/hbstack/bs-tooltip/pull/8) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
+7. 🎉 Merged PR [#5](https://github.com/hbstack/toasts/pull/5) in [hbstack/toasts](https://github.com/hbstack/toasts)<br>
+8. 💪 Opened PR [#100](https://github.com/antfu-collective/sponsorkit/pull/100) in [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit)<br>
+9. 🔱 Forked [razonyang/sponsorkit](https://github.com/razonyang/sponsorkit) from [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit)<br>
+10. 🎉 Merged PR [#1](https://github.com/hbstack/toasts/pull/1) in [hbstack/toasts](https://github.com/hbstack/toasts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
