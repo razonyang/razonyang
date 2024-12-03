@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)<br>
-2. 🎉 Merged PR [#454](https://github.com/hugomods/icons/pull/454) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.19.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-4. 💬 Commented on [#7](https://github.com/hbstack/bs-tooltip/issues/7#issuecomment-2509743898) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
-5. 🎉 Merged PR [#9](https://github.com/hbstack/bs-tooltip/pull/9) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
-6. ✔️ Closed issue [#7](https://github.com/hbstack/bs-tooltip/issues/7) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
-7. 🎉 Merged PR [#8](https://github.com/hbstack/bs-tooltip/pull/8) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
-8. 💪 Opened PR [#8](https://github.com/hbstack/bs-tooltip/pull/8) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
-9. 🎉 Merged PR [#5](https://github.com/hbstack/toasts/pull/5) in [hbstack/toasts](https://github.com/hbstack/toasts)<br>
-10. 💪 Opened PR [#100](https://github.com/antfu-collective/sponsorkit/pull/100) in [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit)<br>
+1. ⭐ Starred [neostandard/neostandard](https://github.com/neostandard/neostandard)<br>
+2. ⭐ Starred [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash)<br>
+3. 🎉 Merged PR [#454](https://github.com/hugomods/icons/pull/454) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v13.19.0) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+5. 💬 Commented on [#7](https://github.com/hbstack/bs-tooltip/issues/7#issuecomment-2509743898) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
+6. 🎉 Merged PR [#9](https://github.com/hbstack/bs-tooltip/pull/9) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
+7. ✔️ Closed issue [#7](https://github.com/hbstack/bs-tooltip/issues/7) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
+8. 🎉 Merged PR [#8](https://github.com/hbstack/bs-tooltip/pull/8) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
+9. 💪 Opened PR [#8](https://github.com/hbstack/bs-tooltip/pull/8) in [hbstack/bs-tooltip](https://github.com/hbstack/bs-tooltip)<br>
+10. 🎉 Merged PR [#5](https://github.com/hbstack/toasts/pull/5) in [hbstack/toasts](https://github.com/hbstack/toasts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
