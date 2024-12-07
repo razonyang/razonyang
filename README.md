@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
-2. 🎉 Merged PR [#5](https://github.com/hugomods/stylelint-config/pull/5) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
-3. 🎉 Merged PR [#4](https://github.com/hugomods/stylelint-config/pull/4) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
-4. ❌ Closed PR [#3](https://github.com/hugomods/stylelint-config/pull/3) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
-5. ❌ Closed PR [#2](https://github.com/hugomods/stylelint-config/pull/2) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
-6. 📔 Created new repository [hugomods/stylelint](https://github.com/hugomods/stylelint)<br>
-7. 🎉 Merged PR [#11](https://github.com/hugomods/prettier-config/pull/11) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-8. 🎉 Merged PR [#16](https://github.com/hugomods/prettier-config/pull/16) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-9. 💪 Opened PR [#16](https://github.com/hugomods/prettier-config/pull/16) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-10. 💬 Commented on [#1085](https://github.com/razonyang/hugo-theme-bootstrap/issues/1085#issuecomment-2520526206) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#3](https://github.com/hugomods/eslint-config/pull/3) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
+2. ❌ Closed PR [#1](https://github.com/hugomods/eslint-config/pull/1) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
+3. 📔 Created new repository [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
+4. 🎉 Merged PR [#5](https://github.com/hugomods/stylelint-config/pull/5) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
+5. 🎉 Merged PR [#4](https://github.com/hugomods/stylelint-config/pull/4) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
+6. ❌ Closed PR [#3](https://github.com/hugomods/stylelint-config/pull/3) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
+7. ❌ Closed PR [#2](https://github.com/hugomods/stylelint-config/pull/2) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
+8. 📔 Created new repository [hugomods/stylelint](https://github.com/hugomods/stylelint)<br>
+9. 🎉 Merged PR [#11](https://github.com/hugomods/prettier-config/pull/11) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+10. 🎉 Merged PR [#16](https://github.com/hugomods/prettier-config/pull/16) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
