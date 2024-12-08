@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#17](https://github.com/hugomods/prettier-config/pull/17) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
-2. 🎉 Merged PR [#3](https://github.com/hugomods/eslint-config/pull/3) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
-3. ❌ Closed PR [#1](https://github.com/hugomods/eslint-config/pull/1) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
-4. 📔 Created new repository [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
-5. 🎉 Merged PR [#5](https://github.com/hugomods/stylelint-config/pull/5) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
-6. 🎉 Merged PR [#4](https://github.com/hugomods/stylelint-config/pull/4) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
-7. ❌ Closed PR [#3](https://github.com/hugomods/stylelint-config/pull/3) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
-8. ❌ Closed PR [#2](https://github.com/hugomods/stylelint-config/pull/2) in [hugomods/stylelint-config](https://github.com/hugomods/stylelint-config)<br>
-9. 📔 Created new repository [hugomods/stylelint](https://github.com/hugomods/stylelint)<br>
-10. 🎉 Merged PR [#11](https://github.com/hugomods/prettier-config/pull/11) in [hugomods/prettier-config](https://github.com/hugomods/prettier-config)<br>
+1. 🎉 Merged PR [#19](https://github.com/hugomods/jsend/pull/19) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+2. 🎉 Merged PR [#18](https://github.com/hugomods/jsend/pull/18) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+3. 🎉 Merged PR [#17](https://github.com/hugomods/jsend/pull/17) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+4. ❌ Closed PR [#15](https://github.com/hugomods/jsend/pull/15) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+5. 🎉 Merged PR [#16](https://github.com/hugomods/jsend/pull/16) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+6. 🎉 Merged PR [#14](https://github.com/hugomods/jsend/pull/14) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+7. ❌ Closed PR [#13](https://github.com/hugomods/jsend/pull/13) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+8. ❌ Closed PR [#12](https://github.com/hugomods/jsend/pull/12) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+9. ❌ Closed PR [#11](https://github.com/hugomods/jsend/pull/11) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+10. 🎉 Merged PR [#6](https://github.com/hugomods/eslint-config/pull/6) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
