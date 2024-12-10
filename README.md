@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#112](https://github.com/hugomods/docker/pull/112) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 💪 Opened PR [#112](https://github.com/hugomods/docker/pull/112) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. ❗️ Opened issue [#62](https://github.com/hugomods/images/issues/62) in [hugomods/images](https://github.com/hugomods/images)<br>
-4. 🎉 Merged PR [#19](https://github.com/hugomods/jsend/pull/19) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
-5. 🎉 Merged PR [#18](https://github.com/hugomods/jsend/pull/18) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
-6. 🎉 Merged PR [#17](https://github.com/hugomods/jsend/pull/17) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
-7. ❌ Closed PR [#15](https://github.com/hugomods/jsend/pull/15) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
-8. 🎉 Merged PR [#16](https://github.com/hugomods/jsend/pull/16) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
-9. 🎉 Merged PR [#14](https://github.com/hugomods/jsend/pull/14) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
-10. ❌ Closed PR [#13](https://github.com/hugomods/jsend/pull/13) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+1. 🎉 Merged PR [#28](https://github.com/hugomods/katex/pull/28) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+2. 🎉 Merged PR [#112](https://github.com/hugomods/docker/pull/112) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 💪 Opened PR [#112](https://github.com/hugomods/docker/pull/112) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. ❗️ Opened issue [#62](https://github.com/hugomods/images/issues/62) in [hugomods/images](https://github.com/hugomods/images)<br>
+5. 🎉 Merged PR [#19](https://github.com/hugomods/jsend/pull/19) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+6. 🎉 Merged PR [#18](https://github.com/hugomods/jsend/pull/18) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+7. 🎉 Merged PR [#17](https://github.com/hugomods/jsend/pull/17) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+8. ❌ Closed PR [#15](https://github.com/hugomods/jsend/pull/15) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+9. 🎉 Merged PR [#16](https://github.com/hugomods/jsend/pull/16) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+10. 🎉 Merged PR [#14](https://github.com/hugomods/jsend/pull/14) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
