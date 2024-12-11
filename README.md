@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#24](https://github.com/hugomods/jsend/pull/24) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
-2. 🎉 Merged PR [#23](https://github.com/hugomods/jsend/pull/23) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
-3. 💬 Commented on [#13096](https://github.com/gohugoio/hugo/issues/13096#issuecomment-2533548586) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-4. ✔️ Closed issue [#13096](https://github.com/gohugoio/hugo/issues/13096) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-5. 🎉 Merged PR [#22](https://github.com/hugomods/jsend/pull/22) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
-6. 🎉 Merged PR [#21](https://github.com/hugomods/jsend/pull/21) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
-7. 🎉 Merged PR [#20](https://github.com/hugomods/jsend/pull/20) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
-8. 🎉 Merged PR [#79](https://github.com/hugomods/shortcodes/pull/79) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-9. 💬 Commented on [#78](https://github.com/hugomods/shortcodes/pull/78#issuecomment-2533223437) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-10. 🎉 Merged PR [#78](https://github.com/hugomods/shortcodes/pull/78) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+1. 🎉 Merged PR [#25](https://github.com/hugomods/jsend/pull/25) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+2. 🎉 Merged PR [#24](https://github.com/hugomods/jsend/pull/24) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+3. 🎉 Merged PR [#23](https://github.com/hugomods/jsend/pull/23) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+4. 💬 Commented on [#13096](https://github.com/gohugoio/hugo/issues/13096#issuecomment-2533548586) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+5. ✔️ Closed issue [#13096](https://github.com/gohugoio/hugo/issues/13096) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+6. 🎉 Merged PR [#22](https://github.com/hugomods/jsend/pull/22) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+7. 🎉 Merged PR [#21](https://github.com/hugomods/jsend/pull/21) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+8. 🎉 Merged PR [#20](https://github.com/hugomods/jsend/pull/20) in [hugomods/jsend](https://github.com/hugomods/jsend)<br>
+9. 🎉 Merged PR [#79](https://github.com/hugomods/shortcodes/pull/79) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+10. 💬 Commented on [#78](https://github.com/hugomods/shortcodes/pull/78#issuecomment-2533223437) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
