@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#4715](https://github.com/polarsource/polar/issues/4715) in [polarsource/polar](https://github.com/polarsource/polar)<br>
-2. 🎉 Merged PR [#880](https://github.com/hbstack/docs/pull/880) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-3. 🎉 Merged PR [#1038](https://github.com/hbstack/blog/pull/1038) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 💬 Commented on [#594](https://github.com/hbstack/theme-cards/pull/594#issuecomment-2542713241) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-5. 🎉 Merged PR [#594](https://github.com/hbstack/theme-cards/pull/594) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. 👍 Approved [#594](https://github.com/hbstack/theme-cards/pull/594#pullrequestreview-2503500272) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-7. 🎉 Merged PR [#111](https://github.com/hugomods/docker/pull/111) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. ✔️ Closed issue [#75](https://github.com/hugomods/docker/issues/75) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. 🎉 Merged PR [#113](https://github.com/hugomods/docker/pull/113) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 💬 Commented on [#1074](https://github.com/hbstack/theme/issues/1074#issuecomment-2540355209) in [hbstack/theme](https://github.com/hbstack/theme)<br>
+1. 💬 Commented on [#18](https://github.com/gohugoio/hugo-mod-bootstrap-scss/issues/18#issuecomment-2557054199) in [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss)<br>
+2. ❗️ Opened issue [#4715](https://github.com/polarsource/polar/issues/4715) in [polarsource/polar](https://github.com/polarsource/polar)<br>
+3. 🎉 Merged PR [#880](https://github.com/hbstack/docs/pull/880) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. 🎉 Merged PR [#1038](https://github.com/hbstack/blog/pull/1038) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 💬 Commented on [#594](https://github.com/hbstack/theme-cards/pull/594#issuecomment-2542713241) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+6. 🎉 Merged PR [#594](https://github.com/hbstack/theme-cards/pull/594) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+7. 👍 Approved [#594](https://github.com/hbstack/theme-cards/pull/594#pullrequestreview-2503500272) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+8. 🎉 Merged PR [#111](https://github.com/hugomods/docker/pull/111) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. ✔️ Closed issue [#75](https://github.com/hugomods/docker/issues/75) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 🎉 Merged PR [#113](https://github.com/hugomods/docker/pull/113) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
