@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#18](https://github.com/gohugoio/hugo-mod-bootstrap-scss/issues/18#issuecomment-2557054199) in [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss)<br>
-2. ❗️ Opened issue [#4715](https://github.com/polarsource/polar/issues/4715) in [polarsource/polar](https://github.com/polarsource/polar)<br>
-3. 🎉 Merged PR [#880](https://github.com/hbstack/docs/pull/880) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-4. 🎉 Merged PR [#1038](https://github.com/hbstack/blog/pull/1038) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. 💬 Commented on [#594](https://github.com/hbstack/theme-cards/pull/594#issuecomment-2542713241) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-6. 🎉 Merged PR [#594](https://github.com/hbstack/theme-cards/pull/594) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-7. 👍 Approved [#594](https://github.com/hbstack/theme-cards/pull/594#pullrequestreview-2503500272) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-8. 🎉 Merged PR [#111](https://github.com/hugomods/docker/pull/111) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. ✔️ Closed issue [#75](https://github.com/hugomods/docker/issues/75) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 🎉 Merged PR [#113](https://github.com/hugomods/docker/pull/113) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. ✔️ Closed issue [#1085](https://github.com/razonyang/hugo-theme-bootstrap/issues/1085) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 💬 Commented on [#1085](https://github.com/razonyang/hugo-theme-bootstrap/issues/1085#issuecomment-2557947845) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 🎉 Merged PR [#1088](https://github.com/razonyang/hugo-theme-bootstrap/pull/1088) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💬 Commented on [#1087](https://github.com/razonyang/hugo-theme-bootstrap/pull/1087#issuecomment-2557946940) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. ✔️ Closed issue [#1086](https://github.com/razonyang/hugo-theme-bootstrap/issues/1086) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. ✔️ Closed issue [#1086](https://github.com/razonyang/hugo-theme-bootstrap/issues/1086) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. 🎉 Merged PR [#1087](https://github.com/razonyang/hugo-theme-bootstrap/pull/1087) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 👍 Approved [#1087](https://github.com/razonyang/hugo-theme-bootstrap/pull/1087#pullrequestreview-2518551123) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 💬 Commented on [#18](https://github.com/gohugoio/hugo-mod-bootstrap-scss/issues/18#issuecomment-2557054199) in [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss)<br>
+10. ❗️ Opened issue [#4715](https://github.com/polarsource/polar/issues/4715) in [polarsource/polar](https://github.com/polarsource/polar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
