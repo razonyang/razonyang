@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#10](https://github.com/hugomods/eslint-config/pull/10) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
-2. 🎉 Merged PR [#5](https://github.com/hugomods/eslint-config/pull/5) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
-3. 🎉 Merged PR [#8](https://github.com/hugomods/eslint-config/pull/8) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
-4. 🎉 Merged PR [#9](https://github.com/hugomods/eslint-config/pull/9) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
-5. 🎉 Merged PR [#7](https://github.com/hugomods/eslint-config/pull/7) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
-6. 🎉 Merged PR [#67](https://github.com/razonyang/blog/pull/67) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-7. ✔️ Closed issue [#1085](https://github.com/razonyang/hugo-theme-bootstrap/issues/1085) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 💬 Commented on [#1085](https://github.com/razonyang/hugo-theme-bootstrap/issues/1085#issuecomment-2557947845) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 🎉 Merged PR [#1088](https://github.com/razonyang/hugo-theme-bootstrap/pull/1088) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 💬 Commented on [#1087](https://github.com/razonyang/hugo-theme-bootstrap/pull/1087#issuecomment-2557946940) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 💪 Opened PR [#1090](https://github.com/razonyang/hugo-theme-bootstrap/pull/1090) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 🎉 Merged PR [#10](https://github.com/hugomods/eslint-config/pull/10) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
+3. 🎉 Merged PR [#5](https://github.com/hugomods/eslint-config/pull/5) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
+4. 🎉 Merged PR [#8](https://github.com/hugomods/eslint-config/pull/8) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
+5. 🎉 Merged PR [#9](https://github.com/hugomods/eslint-config/pull/9) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
+6. 🎉 Merged PR [#7](https://github.com/hugomods/eslint-config/pull/7) in [hugomods/eslint-config](https://github.com/hugomods/eslint-config)<br>
+7. 🎉 Merged PR [#67](https://github.com/razonyang/blog/pull/67) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+8. ✔️ Closed issue [#1085](https://github.com/razonyang/hugo-theme-bootstrap/issues/1085) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 💬 Commented on [#1085](https://github.com/razonyang/hugo-theme-bootstrap/issues/1085#issuecomment-2557947845) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 🎉 Merged PR [#1088](https://github.com/razonyang/hugo-theme-bootstrap/pull/1088) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
