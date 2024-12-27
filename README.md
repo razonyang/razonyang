@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1094](https://github.com/razonyang/hugo-theme-bootstrap/pull/1094) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. 🎉 Merged PR [#1093](https://github.com/razonyang/hugo-theme-bootstrap/pull/1093) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 💪 Opened PR [#1093](https://github.com/razonyang/hugo-theme-bootstrap/pull/1093) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. 💬 Commented on [#37100](https://github.com/DaoCloud/public-image-mirror/pull/37100#issuecomment-2561936504) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)<br>
-5. 💪 Opened PR [#37100](https://github.com/DaoCloud/public-image-mirror/pull/37100) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)<br>
-6. ✔️ Closed issue [#461](https://github.com/hugomods/icons/issues/461) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ⭐ Starred [Pana/nrm](https://github.com/Pana/nrm)<br>
-8. 💬 Commented on [#461](https://github.com/hugomods/icons/issues/461#issuecomment-2561536597) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 💬 Commented on [#12991](https://github.com/gohugoio/hugo/issues/12991#issuecomment-2561155167) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-10. 🎉 Merged PR [#1091](https://github.com/razonyang/hugo-theme-bootstrap/pull/1091) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#1095](https://github.com/razonyang/hugo-theme-bootstrap/pull/1095) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 🎉 Merged PR [#302](https://github.com/hbstack/socials/pull/302) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+3. 🎉 Merged PR [#1094](https://github.com/razonyang/hugo-theme-bootstrap/pull/1094) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 🎉 Merged PR [#1093](https://github.com/razonyang/hugo-theme-bootstrap/pull/1093) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 💪 Opened PR [#1093](https://github.com/razonyang/hugo-theme-bootstrap/pull/1093) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💬 Commented on [#37100](https://github.com/DaoCloud/public-image-mirror/pull/37100#issuecomment-2561936504) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)<br>
+7. 💪 Opened PR [#37100](https://github.com/DaoCloud/public-image-mirror/pull/37100) in [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror)<br>
+8. ✔️ Closed issue [#461](https://github.com/hugomods/icons/issues/461) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ⭐ Starred [Pana/nrm](https://github.com/Pana/nrm)<br>
+10. 💬 Commented on [#461](https://github.com/hugomods/icons/issues/461#issuecomment-2561536597) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
