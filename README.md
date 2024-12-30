@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#221](https://github.com/hugomods/decap-cms/issues/221#issuecomment-2564968941) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-2. ⭐ Starred [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms)<br>
-3. ⭐ Starred [bep/npmgoproxy](https://github.com/bep/npmgoproxy)<br>
-4. 🎉 Merged PR [#458](https://github.com/hugomods/icons/pull/458) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v14.0.1) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
-6. 🎉 Merged PR [#340](https://github.com/hbstack/socials/pull/340) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-7. 🎉 Merged PR [#1097](https://github.com/razonyang/hugo-theme-bootstrap/pull/1097) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 🎉 Merged PR [#1096](https://github.com/razonyang/hugo-theme-bootstrap/pull/1096) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 🎉 Merged PR [#1095](https://github.com/razonyang/hugo-theme-bootstrap/pull/1095) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 🎉 Merged PR [#302](https://github.com/hbstack/socials/pull/302) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+1. 💬 Commented on [#253](https://github.com/hugomods/decap-cms/issues/253#issuecomment-2564987253) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 🎉 Merged PR [#254](https://github.com/hugomods/decap-cms/pull/254) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. ✔️ Closed issue [#221](https://github.com/hugomods/decap-cms/issues/221) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. 💬 Commented on [#221](https://github.com/hugomods/decap-cms/issues/221#issuecomment-2564968941) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+5. ⭐ Starred [pages-cms/pages-cms](https://github.com/pages-cms/pages-cms)<br>
+6. ⭐ Starred [bep/npmgoproxy](https://github.com/bep/npmgoproxy)<br>
+7. 🎉 Merged PR [#458](https://github.com/hugomods/icons/pull/458) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. ✌️ Released [](https://github.com/hugomods/simple-icons/releases/tag/v14.0.1) in [hugomods/simple-icons](https://github.com/hugomods/simple-icons)<br>
+9. 🎉 Merged PR [#340](https://github.com/hbstack/socials/pull/340) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+10. 🎉 Merged PR [#1097](https://github.com/razonyang/hugo-theme-bootstrap/pull/1097) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
