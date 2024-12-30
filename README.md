@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#221](https://github.com/hugomods/decap-cms/issues/221#issuecomment-2565043542) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-2. 🎉 Merged PR [#39](https://github.com/hugomods/katex/pull/39) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-3. 🎉 Merged PR [#38](https://github.com/hugomods/katex/pull/38) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-4. 💪 Opened PR [#38](https://github.com/hugomods/katex/pull/38) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-5. ❌ Closed PR [#37](https://github.com/hugomods/katex/pull/37) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-6. 💪 Opened PR [#37](https://github.com/hugomods/katex/pull/37) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-7. ❌ Closed PR [#36](https://github.com/hugomods/katex/pull/36) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-8. 💪 Opened PR [#36](https://github.com/hugomods/katex/pull/36) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-9. ❌ Closed PR [#35](https://github.com/hugomods/katex/pull/35) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-10. 💪 Opened PR [#35](https://github.com/hugomods/katex/pull/35) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+1. 💬 Commented on [#29231](https://github.com/supabase/supabase/issues/29231#issuecomment-2565349797) in [supabase/supabase](https://github.com/supabase/supabase)<br>
+2. 💬 Commented on [#221](https://github.com/hugomods/decap-cms/issues/221#issuecomment-2565043542) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 🎉 Merged PR [#39](https://github.com/hugomods/katex/pull/39) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+4. 🎉 Merged PR [#38](https://github.com/hugomods/katex/pull/38) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+5. 💪 Opened PR [#38](https://github.com/hugomods/katex/pull/38) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+6. ❌ Closed PR [#37](https://github.com/hugomods/katex/pull/37) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+7. 💪 Opened PR [#37](https://github.com/hugomods/katex/pull/37) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+8. ❌ Closed PR [#36](https://github.com/hugomods/katex/pull/36) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+9. 💪 Opened PR [#36](https://github.com/hugomods/katex/pull/36) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+10. ❌ Closed PR [#35](https://github.com/hugomods/katex/pull/35) in [hugomods/katex](https://github.com/hugomods/katex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
