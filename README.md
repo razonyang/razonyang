@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#70](https://github.com/razonyang/blog/pull/70) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-2. ✔️ Closed issue [#4715](https://github.com/polarsource/polar/issues/4715) in [polarsource/polar](https://github.com/polarsource/polar)<br>
-3. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
-4. 🎉 Merged PR [#101](https://github.com/hbstack/syntax-highlighting/pull/101) in [hbstack/syntax-highlighting](https://github.com/hbstack/syntax-highlighting)<br>
-5. 💬 Commented on [#29231](https://github.com/supabase/supabase/issues/29231#issuecomment-2565349797) in [supabase/supabase](https://github.com/supabase/supabase)<br>
-6. 💬 Commented on [#221](https://github.com/hugomods/decap-cms/issues/221#issuecomment-2565043542) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-7. 🎉 Merged PR [#39](https://github.com/hugomods/katex/pull/39) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-8. 🎉 Merged PR [#38](https://github.com/hugomods/katex/pull/38) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-9. 💪 Opened PR [#38](https://github.com/hugomods/katex/pull/38) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-10. ❌ Closed PR [#37](https://github.com/hugomods/katex/pull/37) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+1. ⭐ Starred [serverless/serverless](https://github.com/serverless/serverless)<br>
+2. 🎉 Merged PR [#70](https://github.com/razonyang/blog/pull/70) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+3. ✔️ Closed issue [#4715](https://github.com/polarsource/polar/issues/4715) in [polarsource/polar](https://github.com/polarsource/polar)<br>
+4. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
+5. 🎉 Merged PR [#101](https://github.com/hbstack/syntax-highlighting/pull/101) in [hbstack/syntax-highlighting](https://github.com/hbstack/syntax-highlighting)<br>
+6. 💬 Commented on [#29231](https://github.com/supabase/supabase/issues/29231#issuecomment-2565349797) in [supabase/supabase](https://github.com/supabase/supabase)<br>
+7. 💬 Commented on [#221](https://github.com/hugomods/decap-cms/issues/221#issuecomment-2565043542) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+8. 🎉 Merged PR [#39](https://github.com/hugomods/katex/pull/39) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+9. 🎉 Merged PR [#38](https://github.com/hugomods/katex/pull/38) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+10. 💪 Opened PR [#38](https://github.com/hugomods/katex/pull/38) in [hugomods/katex](https://github.com/hugomods/katex)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
