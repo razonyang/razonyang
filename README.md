@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575281805) in [razonyang/api](https://github.com/razonyang/api)<br>
-2. ✔️ Closed issue [#25](https://github.com/razonyang/api/issues/25) in [razonyang/api](https://github.com/razonyang/api)<br>
-3. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575261014) in [razonyang/api](https://github.com/razonyang/api)<br>
-4. ⭐ Starred [serverless/serverless](https://github.com/serverless/serverless)<br>
-5. 🎉 Merged PR [#70](https://github.com/razonyang/blog/pull/70) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-6. ✔️ Closed issue [#4715](https://github.com/polarsource/polar/issues/4715) in [polarsource/polar](https://github.com/polarsource/polar)<br>
-7. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
-8. 🎉 Merged PR [#101](https://github.com/hbstack/syntax-highlighting/pull/101) in [hbstack/syntax-highlighting](https://github.com/hbstack/syntax-highlighting)<br>
-9. 💬 Commented on [#29231](https://github.com/supabase/supabase/issues/29231#issuecomment-2565349797) in [supabase/supabase](https://github.com/supabase/supabase)<br>
-10. 💬 Commented on [#221](https://github.com/hugomods/decap-cms/issues/221#issuecomment-2565043542) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+1. 💬 Commented on [#40](https://github.com/hugomods/katex/issues/40#issuecomment-2576586049) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+2. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575281805) in [razonyang/api](https://github.com/razonyang/api)<br>
+3. ✔️ Closed issue [#25](https://github.com/razonyang/api/issues/25) in [razonyang/api](https://github.com/razonyang/api)<br>
+4. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575261014) in [razonyang/api](https://github.com/razonyang/api)<br>
+5. ⭐ Starred [serverless/serverless](https://github.com/serverless/serverless)<br>
+6. 🎉 Merged PR [#70](https://github.com/razonyang/blog/pull/70) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+7. ✔️ Closed issue [#4715](https://github.com/polarsource/polar/issues/4715) in [polarsource/polar](https://github.com/polarsource/polar)<br>
+8. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
+9. 🎉 Merged PR [#101](https://github.com/hbstack/syntax-highlighting/pull/101) in [hbstack/syntax-highlighting](https://github.com/hbstack/syntax-highlighting)<br>
+10. 💬 Commented on [#29231](https://github.com/supabase/supabase/issues/29231#issuecomment-2565349797) in [supabase/supabase](https://github.com/supabase/supabase)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
