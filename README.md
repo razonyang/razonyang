@@ -27,7 +27,6 @@
 7. ✔️ Closed issue [#4715](https://github.com/polarsource/polar/issues/4715) in [polarsource/polar](https://github.com/polarsource/polar)<br>
 8. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
 9. 🎉 Merged PR [#101](https://github.com/hbstack/syntax-highlighting/pull/101) in [hbstack/syntax-highlighting](https://github.com/hbstack/syntax-highlighting)<br>
-10. 💬 Commented on [#29231](https://github.com/supabase/supabase/issues/29231#issuecomment-2565349797) in [supabase/supabase](https://github.com/supabase/supabase)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
