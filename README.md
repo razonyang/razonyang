@@ -18,15 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#40](https://github.com/hugomods/katex/issues/40#issuecomment-2576586049) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-2. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575281805) in [razonyang/api](https://github.com/razonyang/api)<br>
-3. ✔️ Closed issue [#25](https://github.com/razonyang/api/issues/25) in [razonyang/api](https://github.com/razonyang/api)<br>
-4. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575261014) in [razonyang/api](https://github.com/razonyang/api)<br>
-5. ⭐ Starred [serverless/serverless](https://github.com/serverless/serverless)<br>
-6. 🎉 Merged PR [#70](https://github.com/razonyang/blog/pull/70) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-7. ✔️ Closed issue [#4715](https://github.com/polarsource/polar/issues/4715) in [polarsource/polar](https://github.com/polarsource/polar)<br>
-8. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
-9. 🎉 Merged PR [#101](https://github.com/hbstack/syntax-highlighting/pull/101) in [hbstack/syntax-highlighting](https://github.com/hbstack/syntax-highlighting)<br>
+1. ❗️ Opened issue [#13236](https://github.com/gohugoio/hugo/issues/13236) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. 💬 Commented on [#40](https://github.com/hugomods/katex/issues/40#issuecomment-2576586049) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+3. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575281805) in [razonyang/api](https://github.com/razonyang/api)<br>
+4. ✔️ Closed issue [#25](https://github.com/razonyang/api/issues/25) in [razonyang/api](https://github.com/razonyang/api)<br>
+5. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575261014) in [razonyang/api](https://github.com/razonyang/api)<br>
+6. ⭐ Starred [serverless/serverless](https://github.com/serverless/serverless)<br>
+7. 🎉 Merged PR [#70](https://github.com/razonyang/blog/pull/70) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+8. ✔️ Closed issue [#4715](https://github.com/polarsource/polar/issues/4715) in [polarsource/polar](https://github.com/polarsource/polar)<br>
+9. ⭐ Starred [withastro/astro](https://github.com/withastro/astro)<br>
+10. 🎉 Merged PR [#101](https://github.com/hbstack/syntax-highlighting/pull/101) in [hbstack/syntax-highlighting](https://github.com/hbstack/syntax-highlighting)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
