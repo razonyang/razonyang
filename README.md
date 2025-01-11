@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#40](https://github.com/hugomods/code-block-panel/pull/40) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-2. ✔️ Closed issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+1. ⭐ Starred [gluonfield/enchanted](https://github.com/gluonfield/enchanted)<br>
+2. 🎉 Merged PR [#40](https://github.com/hugomods/code-block-panel/pull/40) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
 3. ✔️ Closed issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-4. 🎉 Merged PR [#39](https://github.com/hugomods/code-block-panel/pull/39) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-5. 💪 Opened PR [#39](https://github.com/hugomods/code-block-panel/pull/39) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-6. ❗️ Opened issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-7. 💬 Commented on [#13236](https://github.com/gohugoio/hugo/issues/13236#issuecomment-2579109654) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-8. 💬 Commented on [#40](https://github.com/hugomods/katex/issues/40#issuecomment-2579082314) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-9. ❗️ Opened issue [#13236](https://github.com/gohugoio/hugo/issues/13236) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-10. 💬 Commented on [#40](https://github.com/hugomods/katex/issues/40#issuecomment-2576586049) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+4. ✔️ Closed issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+5. 🎉 Merged PR [#39](https://github.com/hugomods/code-block-panel/pull/39) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+6. 💪 Opened PR [#39](https://github.com/hugomods/code-block-panel/pull/39) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+7. ❗️ Opened issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+8. 💬 Commented on [#13236](https://github.com/gohugoio/hugo/issues/13236#issuecomment-2579109654) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+9. 💬 Commented on [#40](https://github.com/hugomods/katex/issues/40#issuecomment-2579082314) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+10. ❗️ Opened issue [#13236](https://github.com/gohugoio/hugo/issues/13236) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
