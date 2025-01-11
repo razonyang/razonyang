@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-2. 💬 Commented on [#13236](https://github.com/gohugoio/hugo/issues/13236#issuecomment-2579109654) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-3. 💬 Commented on [#40](https://github.com/hugomods/katex/issues/40#issuecomment-2579082314) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-4. ❗️ Opened issue [#13236](https://github.com/gohugoio/hugo/issues/13236) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-5. 💬 Commented on [#40](https://github.com/hugomods/katex/issues/40#issuecomment-2576586049) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-6. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575281805) in [razonyang/api](https://github.com/razonyang/api)<br>
-7. ✔️ Closed issue [#25](https://github.com/razonyang/api/issues/25) in [razonyang/api](https://github.com/razonyang/api)<br>
-8. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575261014) in [razonyang/api](https://github.com/razonyang/api)<br>
-9. ⭐ Starred [serverless/serverless](https://github.com/serverless/serverless)<br>
-10. 🎉 Merged PR [#70](https://github.com/razonyang/blog/pull/70) in [razonyang/blog](https://github.com/razonyang/blog)<br>
+1. 💪 Opened PR [#39](https://github.com/hugomods/code-block-panel/pull/39) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+2. ❗️ Opened issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+3. 💬 Commented on [#13236](https://github.com/gohugoio/hugo/issues/13236#issuecomment-2579109654) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+4. 💬 Commented on [#40](https://github.com/hugomods/katex/issues/40#issuecomment-2579082314) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+5. ❗️ Opened issue [#13236](https://github.com/gohugoio/hugo/issues/13236) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+6. 💬 Commented on [#40](https://github.com/hugomods/katex/issues/40#issuecomment-2576586049) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+7. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575281805) in [razonyang/api](https://github.com/razonyang/api)<br>
+8. ✔️ Closed issue [#25](https://github.com/razonyang/api/issues/25) in [razonyang/api](https://github.com/razonyang/api)<br>
+9. 💬 Commented on [#25](https://github.com/razonyang/api/issues/25#issuecomment-2575261014) in [razonyang/api](https://github.com/razonyang/api)<br>
+10. ⭐ Starred [serverless/serverless](https://github.com/serverless/serverless)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
