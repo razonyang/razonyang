@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gluonfield/enchanted](https://github.com/gluonfield/enchanted)<br>
-2. 🎉 Merged PR [#40](https://github.com/hugomods/code-block-panel/pull/40) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-3. ✔️ Closed issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-4. ✔️ Closed issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-5. 🎉 Merged PR [#39](https://github.com/hugomods/code-block-panel/pull/39) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-6. 💪 Opened PR [#39](https://github.com/hugomods/code-block-panel/pull/39) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-7. ❗️ Opened issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-8. 💬 Commented on [#13236](https://github.com/gohugoio/hugo/issues/13236#issuecomment-2579109654) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-9. 💬 Commented on [#40](https://github.com/hugomods/katex/issues/40#issuecomment-2579082314) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-10. ❗️ Opened issue [#13236](https://github.com/gohugoio/hugo/issues/13236) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+1. 🎉 Merged PR [#44](https://github.com/hugomods/katex/pull/44) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+2. 🎉 Merged PR [#41](https://github.com/hugomods/katex/pull/41) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+3. 👍 Approved [#41](https://github.com/hugomods/katex/pull/41#pullrequestreview-2545578290) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+4. 🎉 Merged PR [#42](https://github.com/hugomods/katex/pull/42) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+5. 👍 Approved [#42](https://github.com/hugomods/katex/pull/42#pullrequestreview-2545578119) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+6. ⭐ Starred [gluonfield/enchanted](https://github.com/gluonfield/enchanted)<br>
+7. 🎉 Merged PR [#40](https://github.com/hugomods/code-block-panel/pull/40) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+8. ✔️ Closed issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+9. ✔️ Closed issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+10. 🎉 Merged PR [#39](https://github.com/hugomods/code-block-panel/pull/39) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
