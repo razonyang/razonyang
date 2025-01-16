@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#263](https://github.com/hugomods/decap-cms/pull/263) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-2. 👍 Approved [#263](https://github.com/hugomods/decap-cms/pull/263#pullrequestreview-2553036396) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-3. 🎉 Merged PR [#44](https://github.com/hugomods/katex/pull/44) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-4. 🎉 Merged PR [#41](https://github.com/hugomods/katex/pull/41) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-5. 👍 Approved [#41](https://github.com/hugomods/katex/pull/41#pullrequestreview-2545578290) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-6. 🎉 Merged PR [#42](https://github.com/hugomods/katex/pull/42) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-7. 👍 Approved [#42](https://github.com/hugomods/katex/pull/42#pullrequestreview-2545578119) in [hugomods/katex](https://github.com/hugomods/katex)<br>
-8. ⭐ Starred [gluonfield/enchanted](https://github.com/gluonfield/enchanted)<br>
-9. 🎉 Merged PR [#40](https://github.com/hugomods/code-block-panel/pull/40) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-10. ✔️ Closed issue [#38](https://github.com/hugomods/code-block-panel/issues/38) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+1. 🎉 Merged PR [#264](https://github.com/hugomods/decap-cms/pull/264) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 🎉 Merged PR [#263](https://github.com/hugomods/decap-cms/pull/263) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. 👍 Approved [#263](https://github.com/hugomods/decap-cms/pull/263#pullrequestreview-2553036396) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. 🎉 Merged PR [#44](https://github.com/hugomods/katex/pull/44) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+5. 🎉 Merged PR [#41](https://github.com/hugomods/katex/pull/41) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+6. 👍 Approved [#41](https://github.com/hugomods/katex/pull/41#pullrequestreview-2545578290) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+7. 🎉 Merged PR [#42](https://github.com/hugomods/katex/pull/42) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+8. 👍 Approved [#42](https://github.com/hugomods/katex/pull/42#pullrequestreview-2545578119) in [hugomods/katex](https://github.com/hugomods/katex)<br>
+9. ⭐ Starred [gluonfield/enchanted](https://github.com/gluonfield/enchanted)<br>
+10. 🎉 Merged PR [#40](https://github.com/hugomods/code-block-panel/pull/40) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
