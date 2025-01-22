@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#463](https://github.com/hugomods/icons/pull/463) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. 👍 Approved [#463](https://github.com/hugomods/icons/pull/463#pullrequestreview-2566011584) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. 🎉 Merged PR [#52](https://github.com/hbstack/pwa-installer/pull/52) in [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
-4. 💬 Commented on [#51](https://github.com/hbstack/pwa-installer/pull/51#issuecomment-2602168279) in [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
-5. 🎉 Merged PR [#78](https://github.com/hbstack/social-share-buttons/pull/78) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-6. 🎉 Merged PR [#51](https://github.com/hbstack/pwa-installer/pull/51) in [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
-7. 👍 Approved [#51](https://github.com/hbstack/pwa-installer/pull/51#pullrequestreview-2562136473) in [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
-8. 🎉 Merged PR [#77](https://github.com/hbstack/social-share-buttons/pull/77) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-9. 👍 Approved [#77](https://github.com/hbstack/social-share-buttons/pull/77#pullrequestreview-2562135601) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
-10. 🎉 Merged PR [#264](https://github.com/hugomods/decap-cms/pull/264) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+1. 💬 Commented on [#10](https://github.com/hugomods/umami-analytics/issues/10#issuecomment-2607053802) in [hugomods/umami-analytics](https://github.com/hugomods/umami-analytics)<br>
+2. 🎉 Merged PR [#463](https://github.com/hugomods/icons/pull/463) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. 👍 Approved [#463](https://github.com/hugomods/icons/pull/463#pullrequestreview-2566011584) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. 🎉 Merged PR [#52](https://github.com/hbstack/pwa-installer/pull/52) in [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
+5. 💬 Commented on [#51](https://github.com/hbstack/pwa-installer/pull/51#issuecomment-2602168279) in [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
+6. 🎉 Merged PR [#78](https://github.com/hbstack/social-share-buttons/pull/78) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+7. 🎉 Merged PR [#51](https://github.com/hbstack/pwa-installer/pull/51) in [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
+8. 👍 Approved [#51](https://github.com/hbstack/pwa-installer/pull/51#pullrequestreview-2562136473) in [hbstack/pwa-installer](https://github.com/hbstack/pwa-installer)<br>
+9. 🎉 Merged PR [#77](https://github.com/hbstack/social-share-buttons/pull/77) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+10. 👍 Approved [#77](https://github.com/hbstack/social-share-buttons/pull/77#pullrequestreview-2562135601) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
