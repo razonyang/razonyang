@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#23](https://github.com/hugomods/kroki/pull/23#issuecomment-2617620728) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-2. 🎉 Merged PR [#24](https://github.com/hugomods/kroki/pull/24) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-3. 💬 Commented on [#23](https://github.com/hugomods/kroki/pull/23#issuecomment-2617561124) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-4. 🎉 Merged PR [#23](https://github.com/hugomods/kroki/pull/23) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-5. 👍 Approved [#23](https://github.com/hugomods/kroki/pull/23#pullrequestreview-2576930914) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-6. ⭐ Starred [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script)<br>
-7. ❗️ Opened issue [#467](https://github.com/hugomods/icons/issues/467) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 💪 Opened PR [#1098](https://github.com/razonyang/hugo-theme-bootstrap/pull/1098) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. ⭐ Starred [kubernetes/enhancements](https://github.com/kubernetes/enhancements)<br>
-10. ⭐ Starred [mholt/archives](https://github.com/mholt/archives)<br>
+1. ⭐ Starred [drakkan/sftpgo](https://github.com/drakkan/sftpgo)<br>
+2. 💬 Commented on [#23](https://github.com/hugomods/kroki/pull/23#issuecomment-2617620728) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+3. 🎉 Merged PR [#24](https://github.com/hugomods/kroki/pull/24) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+4. 💬 Commented on [#23](https://github.com/hugomods/kroki/pull/23#issuecomment-2617561124) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+5. 🎉 Merged PR [#23](https://github.com/hugomods/kroki/pull/23) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+6. 👍 Approved [#23](https://github.com/hugomods/kroki/pull/23#pullrequestreview-2576930914) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+7. ⭐ Starred [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script)<br>
+8. ❗️ Opened issue [#467](https://github.com/hugomods/icons/issues/467) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 💪 Opened PR [#1098](https://github.com/razonyang/hugo-theme-bootstrap/pull/1098) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. ⭐ Starred [kubernetes/enhancements](https://github.com/kubernetes/enhancements)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
