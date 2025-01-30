@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)<br>
-2. 🎉 Merged PR [#271](https://github.com/hugomods/decap-cms/pull/271) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-3. 🎉 Merged PR [#270](https://github.com/hugomods/decap-cms/pull/270) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-4. ❗️ Opened issue [#311](https://github.com/hbstack/hb/issues/311) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-5. ⭐ Starred [askblaker/k3s.rocks](https://github.com/askblaker/k3s.rocks)<br>
-6. 🎉 Merged PR [#1099](https://github.com/razonyang/hugo-theme-bootstrap/pull/1099) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 🎉 Merged PR [#1098](https://github.com/razonyang/hugo-theme-bootstrap/pull/1098) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 💬 Commented on [#1098](https://github.com/razonyang/hugo-theme-bootstrap/pull/1098#issuecomment-2621455802) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. ⭐ Starred [drakkan/sftpgo](https://github.com/drakkan/sftpgo)<br>
-10. 💬 Commented on [#23](https://github.com/hugomods/kroki/pull/23#issuecomment-2617620728) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+1. ⭐ Starred [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)<br>
+2. ⭐ Starred [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)<br>
+3. 🎉 Merged PR [#271](https://github.com/hugomods/decap-cms/pull/271) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+4. 🎉 Merged PR [#270](https://github.com/hugomods/decap-cms/pull/270) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+5. ❗️ Opened issue [#311](https://github.com/hbstack/hb/issues/311) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+6. ⭐ Starred [askblaker/k3s.rocks](https://github.com/askblaker/k3s.rocks)<br>
+7. 🎉 Merged PR [#1099](https://github.com/razonyang/hugo-theme-bootstrap/pull/1099) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 🎉 Merged PR [#1098](https://github.com/razonyang/hugo-theme-bootstrap/pull/1098) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 💬 Commented on [#1098](https://github.com/razonyang/hugo-theme-bootstrap/pull/1098#issuecomment-2621455802) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. ⭐ Starred [drakkan/sftpgo](https://github.com/drakkan/sftpgo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
