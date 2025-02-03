@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)<br>
-2. ⭐ Starred [AlistGo/alist](https://github.com/AlistGo/alist)<br>
-3. ⭐ Starred [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)<br>
-4. ⭐ Starred [hacdias/webdav](https://github.com/hacdias/webdav)<br>
-5. ❗️ Opened issue [#114](https://github.com/hugomods/docker/issues/114) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-6. ⭐ Starred [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)<br>
-7. ⭐ Starred [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)<br>
-8. 🎉 Merged PR [#271](https://github.com/hugomods/decap-cms/pull/271) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-9. 🎉 Merged PR [#270](https://github.com/hugomods/decap-cms/pull/270) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-10. ❗️ Opened issue [#311](https://github.com/hbstack/hb/issues/311) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. 🔱 Forked [razonyang/cloudflare-docker-proxy](https://github.com/razonyang/cloudflare-docker-proxy) from [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy)<br>
+2. ⭐ Starred [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)<br>
+3. ⭐ Starred [AlistGo/alist](https://github.com/AlistGo/alist)<br>
+4. ⭐ Starred [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)<br>
+5. ⭐ Starred [hacdias/webdav](https://github.com/hacdias/webdav)<br>
+6. ❗️ Opened issue [#114](https://github.com/hugomods/docker/issues/114) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. ⭐ Starred [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)<br>
+8. ⭐ Starred [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community)<br>
+9. 🎉 Merged PR [#271](https://github.com/hugomods/decap-cms/pull/271) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+10. 🎉 Merged PR [#270](https://github.com/hugomods/decap-cms/pull/270) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
