@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#9](https://github.com/hugomods/search-index/pull/9) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
-2. 🎉 Merged PR [#8](https://github.com/hugomods/search-index/pull/8) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
-3. 💪 Opened PR [#8](https://github.com/hugomods/search-index/pull/8) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
-4. ⭐ Starred [fatedier/frp](https://github.com/fatedier/frp)<br>
-5. 🔱 Forked [razonyang/cloudflare-docker-proxy](https://github.com/razonyang/cloudflare-docker-proxy) from [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy)<br>
-6. ⭐ Starred [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)<br>
-7. ⭐ Starred [AlistGo/alist](https://github.com/AlistGo/alist)<br>
-8. ⭐ Starred [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)<br>
-9. ⭐ Starred [hacdias/webdav](https://github.com/hacdias/webdav)<br>
-10. ❗️ Opened issue [#114](https://github.com/hugomods/docker/issues/114) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. 💬 Commented on [#626](https://github.com/hbstack/theme-cards/issues/626#issuecomment-2633815473) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+2. ✔️ Closed issue [#626](https://github.com/hbstack/theme-cards/issues/626) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+3. 🎉 Merged PR [#9](https://github.com/hugomods/search-index/pull/9) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
+4. 🎉 Merged PR [#8](https://github.com/hugomods/search-index/pull/8) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
+5. 💪 Opened PR [#8](https://github.com/hugomods/search-index/pull/8) in [hugomods/search-index](https://github.com/hugomods/search-index)<br>
+6. ⭐ Starred [fatedier/frp](https://github.com/fatedier/frp)<br>
+7. 🔱 Forked [razonyang/cloudflare-docker-proxy](https://github.com/razonyang/cloudflare-docker-proxy) from [ciiiii/cloudflare-docker-proxy](https://github.com/ciiiii/cloudflare-docker-proxy)<br>
+8. ⭐ Starred [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin)<br>
+9. ⭐ Starred [AlistGo/alist](https://github.com/AlistGo/alist)<br>
+10. ⭐ Starred [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
