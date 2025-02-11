@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#276](https://github.com/hugomods/decap-cms/pull/276) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-2. ❗️ Opened issue [#1059](https://github.com/hbstack/blog/issues/1059) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. ⭐ Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
-4. ⭐ Starred [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)<br>
-5. 🔱 Forked [razonyang/sandsoncosta.github.io](https://github.com/razonyang/sandsoncosta.github.io) from [sandsoncosta/sandsoncosta.github.io](https://github.com/sandsoncosta/sandsoncosta.github.io)<br>
-6. ⭐ Starred [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts)<br>
-7. ⭐ Starred [blake/external-mdns](https://github.com/blake/external-mdns)<br>
-8. ⭐ Starred [holoplot/kubelish](https://github.com/holoplot/kubelish)<br>
-9. ⭐ Starred [ChrisAJS/lgx2userspace](https://github.com/ChrisAJS/lgx2userspace)<br>
-10. 💬 Commented on [#626](https://github.com/hbstack/theme-cards/issues/626#issuecomment-2633815473) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+1. ⭐ Starred [bitnami/charts](https://github.com/bitnami/charts)<br>
+2. 🎉 Merged PR [#276](https://github.com/hugomods/decap-cms/pull/276) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+3. ❗️ Opened issue [#1059](https://github.com/hbstack/blog/issues/1059) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. ⭐ Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
+5. ⭐ Starred [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)<br>
+6. 🔱 Forked [razonyang/sandsoncosta.github.io](https://github.com/razonyang/sandsoncosta.github.io) from [sandsoncosta/sandsoncosta.github.io](https://github.com/sandsoncosta/sandsoncosta.github.io)<br>
+7. ⭐ Starred [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts)<br>
+8. ⭐ Starred [blake/external-mdns](https://github.com/blake/external-mdns)<br>
+9. ⭐ Starred [holoplot/kubelish](https://github.com/holoplot/kubelish)<br>
+10. ⭐ Starred [ChrisAJS/lgx2userspace](https://github.com/ChrisAJS/lgx2userspace)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
