@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#23](https://github.com/fstanis/awesome-webdav/pull/23) in [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav)<br>
-2. 🔱 Forked [razonyang/awesome-webdav](https://github.com/razonyang/awesome-webdav) from [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav)<br>
-3. ⭐ Starred [bitnami/charts](https://github.com/bitnami/charts)<br>
-4. 🎉 Merged PR [#276](https://github.com/hugomods/decap-cms/pull/276) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-5. ❗️ Opened issue [#1059](https://github.com/hbstack/blog/issues/1059) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-6. ⭐ Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
-7. ⭐ Starred [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)<br>
-8. 🔱 Forked [razonyang/sandsoncosta.github.io](https://github.com/razonyang/sandsoncosta.github.io) from [sandsoncosta/sandsoncosta.github.io](https://github.com/sandsoncosta/sandsoncosta.github.io)<br>
-9. ⭐ Starred [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts)<br>
-10. ⭐ Starred [blake/external-mdns](https://github.com/blake/external-mdns)<br>
+1. ⭐ Starred [2dust/v2rayN](https://github.com/2dust/v2rayN)<br>
+2. 💪 Opened PR [#23](https://github.com/fstanis/awesome-webdav/pull/23) in [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav)<br>
+3. 🔱 Forked [razonyang/awesome-webdav](https://github.com/razonyang/awesome-webdav) from [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav)<br>
+4. ⭐ Starred [bitnami/charts](https://github.com/bitnami/charts)<br>
+5. 🎉 Merged PR [#276](https://github.com/hugomods/decap-cms/pull/276) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+6. ❗️ Opened issue [#1059](https://github.com/hbstack/blog/issues/1059) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+7. ⭐ Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
+8. ⭐ Starred [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)<br>
+9. 🔱 Forked [razonyang/sandsoncosta.github.io](https://github.com/razonyang/sandsoncosta.github.io) from [sandsoncosta/sandsoncosta.github.io](https://github.com/sandsoncosta/sandsoncosta.github.io)<br>
+10. ⭐ Starred [bjw-s/helm-charts](https://github.com/bjw-s/helm-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
