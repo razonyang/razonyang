@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1100](https://github.com/razonyang/hugo-theme-bootstrap/issues/1100#issuecomment-2655345150) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. ⭐ Starred [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)<br>
-3. ⭐ Starred [2dust/v2rayN](https://github.com/2dust/v2rayN)<br>
-4. 💪 Opened PR [#23](https://github.com/fstanis/awesome-webdav/pull/23) in [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav)<br>
-5. 🔱 Forked [razonyang/awesome-webdav](https://github.com/razonyang/awesome-webdav) from [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav)<br>
-6. ⭐ Starred [bitnami/charts](https://github.com/bitnami/charts)<br>
-7. 🎉 Merged PR [#276](https://github.com/hugomods/decap-cms/pull/276) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-8. ❗️ Opened issue [#1059](https://github.com/hbstack/blog/issues/1059) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. ⭐ Starred [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)<br>
-10. ⭐ Starred [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)<br>
+1. 💬 Commented on [#1100](https://github.com/razonyang/hugo-theme-bootstrap/issues/1100#issuecomment-2655377486) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 🎉 Merged PR [#1102](https://github.com/razonyang/hugo-theme-bootstrap/pull/1102) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. ✔️ Closed issue [#1100](https://github.com/razonyang/hugo-theme-bootstrap/issues/1100) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 🎉 Merged PR [#1101](https://github.com/razonyang/hugo-theme-bootstrap/pull/1101) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 💪 Opened PR [#1101](https://github.com/razonyang/hugo-theme-bootstrap/pull/1101) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💬 Commented on [#1100](https://github.com/razonyang/hugo-theme-bootstrap/issues/1100#issuecomment-2655345150) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. ⭐ Starred [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)<br>
+8. ⭐ Starred [2dust/v2rayN](https://github.com/2dust/v2rayN)<br>
+9. 💪 Opened PR [#23](https://github.com/fstanis/awesome-webdav/pull/23) in [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav)<br>
+10. 🔱 Forked [razonyang/awesome-webdav](https://github.com/razonyang/awesome-webdav) from [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
