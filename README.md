@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1103](https://github.com/razonyang/hugo-theme-bootstrap/issues/1103) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. 🎉 Merged PR [#1104](https://github.com/razonyang/hugo-theme-bootstrap/pull/1104) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 💪 Opened PR [#1104](https://github.com/razonyang/hugo-theme-bootstrap/pull/1104) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. ⭐ Starred [ventoy/Ventoy](https://github.com/ventoy/Ventoy)<br>
-5. 💬 Commented on [#1100](https://github.com/razonyang/hugo-theme-bootstrap/issues/1100#issuecomment-2655377486) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 🎉 Merged PR [#1102](https://github.com/razonyang/hugo-theme-bootstrap/pull/1102) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. ✔️ Closed issue [#1100](https://github.com/razonyang/hugo-theme-bootstrap/issues/1100) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 🎉 Merged PR [#1101](https://github.com/razonyang/hugo-theme-bootstrap/pull/1101) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 💪 Opened PR [#1101](https://github.com/razonyang/hugo-theme-bootstrap/pull/1101) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 💬 Commented on [#1100](https://github.com/razonyang/hugo-theme-bootstrap/issues/1100#issuecomment-2655345150) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#1106](https://github.com/razonyang/hugo-theme-bootstrap/pull/1106) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 💪 Opened PR [#1106](https://github.com/razonyang/hugo-theme-bootstrap/pull/1106) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. ✔️ Closed issue [#1103](https://github.com/razonyang/hugo-theme-bootstrap/issues/1103) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 🎉 Merged PR [#1104](https://github.com/razonyang/hugo-theme-bootstrap/pull/1104) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 💪 Opened PR [#1104](https://github.com/razonyang/hugo-theme-bootstrap/pull/1104) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. ⭐ Starred [ventoy/Ventoy](https://github.com/ventoy/Ventoy)<br>
+7. 💬 Commented on [#1100](https://github.com/razonyang/hugo-theme-bootstrap/issues/1100#issuecomment-2655377486) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 🎉 Merged PR [#1102](https://github.com/razonyang/hugo-theme-bootstrap/pull/1102) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. ✔️ Closed issue [#1100](https://github.com/razonyang/hugo-theme-bootstrap/issues/1100) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 🎉 Merged PR [#1101](https://github.com/razonyang/hugo-theme-bootstrap/pull/1101) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
