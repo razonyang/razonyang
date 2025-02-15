@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2660955091) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. 🎉 Merged PR [#286](https://github.com/hugomods/search/pull/286) in [hugomods/search](https://github.com/hugomods/search)<br>
-3. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2660952494) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. 💬 Commented on [#365](https://github.com/hbstack/socials/issues/365#issuecomment-2660729459) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-5. 🎉 Merged PR [#351](https://github.com/hbstack/socials/pull/351) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-6. ✔️ Closed issue [#365](https://github.com/hbstack/socials/issues/365) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-7. 🎉 Merged PR [#366](https://github.com/hbstack/socials/pull/366) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-8. 💪 Opened PR [#366](https://github.com/hbstack/socials/pull/366) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-9. 💬 Commented on [#1108](https://github.com/razonyang/hugo-theme-bootstrap/issues/1108#issuecomment-2660680443) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 🎉 Merged PR [#1110](https://github.com/razonyang/hugo-theme-bootstrap/pull/1110) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2660966009) in [hugomods/search](https://github.com/hugomods/search)<br>
+2. ✔️ Closed issue [#285](https://github.com/hugomods/search/issues/285) in [hugomods/search](https://github.com/hugomods/search)<br>
+3. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2660955091) in [hugomods/search](https://github.com/hugomods/search)<br>
+4. 🎉 Merged PR [#286](https://github.com/hugomods/search/pull/286) in [hugomods/search](https://github.com/hugomods/search)<br>
+5. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2660952494) in [hugomods/search](https://github.com/hugomods/search)<br>
+6. 💬 Commented on [#365](https://github.com/hbstack/socials/issues/365#issuecomment-2660729459) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+7. 🎉 Merged PR [#351](https://github.com/hbstack/socials/pull/351) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+8. ✔️ Closed issue [#365](https://github.com/hbstack/socials/issues/365) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+9. 🎉 Merged PR [#366](https://github.com/hbstack/socials/pull/366) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+10. 💪 Opened PR [#366](https://github.com/hbstack/socials/pull/366) in [hbstack/socials](https://github.com/hbstack/socials)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
