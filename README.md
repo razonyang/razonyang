@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2661021002) in [hugomods/search](https://github.com/hugomods/search)<br>
-2. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2661010545) in [hugomods/search](https://github.com/hugomods/search)<br>
-3. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2661003352) in [hugomods/search](https://github.com/hugomods/search)<br>
-4. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2660966009) in [hugomods/search](https://github.com/hugomods/search)<br>
-5. ✔️ Closed issue [#285](https://github.com/hugomods/search/issues/285) in [hugomods/search](https://github.com/hugomods/search)<br>
-6. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2660955091) in [hugomods/search](https://github.com/hugomods/search)<br>
-7. 🎉 Merged PR [#286](https://github.com/hugomods/search/pull/286) in [hugomods/search](https://github.com/hugomods/search)<br>
-8. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2660952494) in [hugomods/search](https://github.com/hugomods/search)<br>
-9. 💬 Commented on [#365](https://github.com/hbstack/socials/issues/365#issuecomment-2660729459) in [hbstack/socials](https://github.com/hbstack/socials)<br>
-10. 🎉 Merged PR [#351](https://github.com/hbstack/socials/pull/351) in [hbstack/socials](https://github.com/hbstack/socials)<br>
+1. 💬 Commented on [#1112](https://github.com/razonyang/hugo-theme-bootstrap/issues/1112#issuecomment-2661255686) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. ✔️ Closed issue [#1112](https://github.com/razonyang/hugo-theme-bootstrap/issues/1112) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 💬 Commented on [#1111](https://github.com/razonyang/hugo-theme-bootstrap/issues/1111#issuecomment-2661254723) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💬 Commented on [#1113](https://github.com/razonyang/hugo-theme-bootstrap/issues/1113#issuecomment-2661251795) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. ✔️ Closed issue [#1113](https://github.com/razonyang/hugo-theme-bootstrap/issues/1113) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2661249503) in [hugomods/search](https://github.com/hugomods/search)<br>
+7. 🎉 Merged PR [#288](https://github.com/hugomods/search/pull/288) in [hugomods/search](https://github.com/hugomods/search)<br>
+8. 🎉 Merged PR [#287](https://github.com/hugomods/search/pull/287) in [hugomods/search](https://github.com/hugomods/search)<br>
+9. 💪 Opened PR [#287](https://github.com/hugomods/search/pull/287) in [hugomods/search](https://github.com/hugomods/search)<br>
+10. 💬 Commented on [#285](https://github.com/hugomods/search/issues/285#issuecomment-2661021002) in [hugomods/search](https://github.com/hugomods/search)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
