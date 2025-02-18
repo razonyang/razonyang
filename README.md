@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1116](https://github.com/razonyang/hugo-theme-bootstrap/issues/1116) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. ✔️ Closed issue [#1111](https://github.com/razonyang/hugo-theme-bootstrap/issues/1111) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. 💬 Commented on [#1115](https://github.com/razonyang/hugo-theme-bootstrap/issues/1115#issuecomment-2663222277) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. ✔️ Closed issue [#1115](https://github.com/razonyang/hugo-theme-bootstrap/issues/1115) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 🎉 Merged PR [#1114](https://github.com/razonyang/hugo-theme-bootstrap/pull/1114) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💬 Commented on [#1115](https://github.com/razonyang/hugo-theme-bootstrap/issues/1115#issuecomment-2662853243) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. ⭐ Starred [mayswind/AriaNg](https://github.com/mayswind/AriaNg)<br>
-8. ⭐ Starred [mayswind/AriaNg-Native](https://github.com/mayswind/AriaNg-Native)<br>
-9. 💬 Commented on [#1112](https://github.com/razonyang/hugo-theme-bootstrap/issues/1112#issuecomment-2661255686) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. ✔️ Closed issue [#1112](https://github.com/razonyang/hugo-theme-bootstrap/issues/1112) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#86](https://github.com/hbstack/social-share-buttons/pull/86) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+2. 💬 Commented on [#84](https://github.com/hbstack/social-share-buttons/pull/84#issuecomment-2663424726) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+3. ✔️ Closed issue [#85](https://github.com/hbstack/social-share-buttons/issues/85) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+4. 🎉 Merged PR [#84](https://github.com/hbstack/social-share-buttons/pull/84) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+5. 👍 Approved [#84](https://github.com/hbstack/social-share-buttons/pull/84#pullrequestreview-2621354820) in [hbstack/social-share-buttons](https://github.com/hbstack/social-share-buttons)<br>
+6. ❗️ Opened issue [#1116](https://github.com/razonyang/hugo-theme-bootstrap/issues/1116) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. ✔️ Closed issue [#1111](https://github.com/razonyang/hugo-theme-bootstrap/issues/1111) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 💬 Commented on [#1115](https://github.com/razonyang/hugo-theme-bootstrap/issues/1115#issuecomment-2663222277) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. ✔️ Closed issue [#1115](https://github.com/razonyang/hugo-theme-bootstrap/issues/1115) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 🎉 Merged PR [#1114](https://github.com/razonyang/hugo-theme-bootstrap/pull/1114) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
