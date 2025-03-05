@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DaoCloud/crproxy](https://github.com/DaoCloud/crproxy)<br>
-2. ❗️ Opened issue [#3924](https://github.com/kubesre/docker-registry-mirrors/issues/3924) in [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors)<br>
-3. ⭐ Starred [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors)<br>
-4. 💬 Commented on [#1123](https://github.com/razonyang/hugo-theme-bootstrap/issues/1123#issuecomment-2682356393) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 💬 Commented on [#1123](https://github.com/razonyang/hugo-theme-bootstrap/issues/1123#issuecomment-2681490998) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 🎉 Merged PR [#279](https://github.com/hugomods/decap-cms/pull/279) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-7. 🎉 Merged PR [#282](https://github.com/hugomods/decap-cms/pull/282) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-8. 🎉 Merged PR [#51](https://github.com/razonyang/hugo-theme-bootstrap-skeleton/pull/51) in [razonyang/hugo-theme-bootstrap-skeleton](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)<br>
-9. 💪 Opened PR [#51](https://github.com/razonyang/hugo-theme-bootstrap-skeleton/pull/51) in [razonyang/hugo-theme-bootstrap-skeleton](https://github.com/razonyang/hugo-theme-bootstrap-skeleton)<br>
-10. 💬 Commented on [#1123](https://github.com/razonyang/hugo-theme-bootstrap/issues/1123#issuecomment-2677371622) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 🎉 Merged PR [#3](https://github.com/hugomods/go-vanity-urls/pull/3) in [hugomods/go-vanity-urls](https://github.com/hugomods/go-vanity-urls)<br>
+2. ✌️ Released [](https://github.com/razonyang/gohello/releases/tag/v0.1.0) in [razonyang/gohello](https://github.com/razonyang/gohello)<br>
+3. 📔 Created new repository [razonyang/gohello](https://github.com/razonyang/gohello)<br>
+4. 🔱 Forked [razonyang/template-go-vanity-urls](https://github.com/razonyang/template-go-vanity-urls) from [hugomods/template-go-vanity-urls](https://github.com/hugomods/template-go-vanity-urls)<br>
+5. 🎉 Merged PR [#2](https://github.com/hugomods/go-vanity-urls/pull/2) in [hugomods/go-vanity-urls](https://github.com/hugomods/go-vanity-urls)<br>
+6. ⭐ Starred [DaoCloud/crproxy](https://github.com/DaoCloud/crproxy)<br>
+7. ❗️ Opened issue [#3924](https://github.com/kubesre/docker-registry-mirrors/issues/3924) in [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors)<br>
+8. ⭐ Starred [kubesre/docker-registry-mirrors](https://github.com/kubesre/docker-registry-mirrors)<br>
+9. 💬 Commented on [#1123](https://github.com/razonyang/hugo-theme-bootstrap/issues/1123#issuecomment-2682356393) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 💬 Commented on [#1123](https://github.com/razonyang/hugo-theme-bootstrap/issues/1123#issuecomment-2681490998) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
