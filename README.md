@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#8](https://github.com/hugomods/encoder/issues/8#issuecomment-2709324667) in [hugomods/encoder](https://github.com/hugomods/encoder)<br>
-2. 🎉 Merged PR [#9](https://github.com/hugomods/encoder/pull/9) in [hugomods/encoder](https://github.com/hugomods/encoder)<br>
-3. ✔️ Closed issue [#8](https://github.com/hugomods/encoder/issues/8) in [hugomods/encoder](https://github.com/hugomods/encoder)<br>
-4. ✌️ Released [](https://github.com/razonyang/gohello/releases/tag/v2.0.1) in [razonyang/gohello](https://github.com/razonyang/gohello)<br>
-5. ✌️ Released [](https://github.com/razonyang/gohello/releases/tag/v0.1.1) in [razonyang/gohello](https://github.com/razonyang/gohello)<br>
-6. 💬 Commented on [#8](https://github.com/hugomods/encoder/issues/8#issuecomment-2708025663) in [hugomods/encoder](https://github.com/hugomods/encoder)<br>
-7. ✌️ Released [](https://github.com/razonyang/gohello/releases/tag/v2.0.0) in [razonyang/gohello](https://github.com/razonyang/gohello)<br>
-8. 🎉 Merged PR [#3](https://github.com/hugomods/go-vanity-urls/pull/3) in [hugomods/go-vanity-urls](https://github.com/hugomods/go-vanity-urls)<br>
-9. ✌️ Released [](https://github.com/razonyang/gohello/releases/tag/v0.1.0) in [razonyang/gohello](https://github.com/razonyang/gohello)<br>
-10. 📔 Created new repository [razonyang/gohello](https://github.com/razonyang/gohello)<br>
+1. 🎉 Merged PR [#1129](https://github.com/razonyang/hugo-theme-bootstrap/pull/1129) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. ✔️ Closed issue [#1127](https://github.com/razonyang/hugo-theme-bootstrap/issues/1127) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. 🎉 Merged PR [#1128](https://github.com/razonyang/hugo-theme-bootstrap/pull/1128) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💪 Opened PR [#1128](https://github.com/razonyang/hugo-theme-bootstrap/pull/1128) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 💬 Commented on [#8](https://github.com/hugomods/encoder/issues/8#issuecomment-2709324667) in [hugomods/encoder](https://github.com/hugomods/encoder)<br>
+6. 🎉 Merged PR [#9](https://github.com/hugomods/encoder/pull/9) in [hugomods/encoder](https://github.com/hugomods/encoder)<br>
+7. ✔️ Closed issue [#8](https://github.com/hugomods/encoder/issues/8) in [hugomods/encoder](https://github.com/hugomods/encoder)<br>
+8. ✌️ Released [](https://github.com/razonyang/gohello/releases/tag/v2.0.1) in [razonyang/gohello](https://github.com/razonyang/gohello)<br>
+9. ✌️ Released [](https://github.com/razonyang/gohello/releases/tag/v0.1.1) in [razonyang/gohello](https://github.com/razonyang/gohello)<br>
+10. 💬 Commented on [#8](https://github.com/hugomods/encoder/issues/8#issuecomment-2708025663) in [hugomods/encoder](https://github.com/hugomods/encoder)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
