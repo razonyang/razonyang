@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#6860](https://github.com/dependabot/dependabot-core/issues/6860#issuecomment-2744739018) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)<br>
-2. 💬 Commented on [#268](https://github.com/hbstack/disqus/issues/268#issuecomment-2738922811) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
-3. 💬 Commented on [#1134](https://github.com/razonyang/hugo-theme-bootstrap/issues/1134#issuecomment-2729411440) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. ✔️ Closed issue [#1134](https://github.com/razonyang/hugo-theme-bootstrap/issues/1134) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 🎉 Merged PR [#919](https://github.com/hbstack/docs/pull/919) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-6. 🎉 Merged PR [#952](https://github.com/hbstack/docs/pull/952) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-7. 👍 Approved [#952](https://github.com/hbstack/docs/pull/952#pullrequestreview-2688978404) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-8. 💬 Commented on [#291](https://github.com/hugomods/search/pull/291#issuecomment-2727841521) in [hugomods/search](https://github.com/hugomods/search)<br>
-9. 🎉 Merged PR [#290](https://github.com/hugomods/search/pull/290) in [hugomods/search](https://github.com/hugomods/search)<br>
-10. 🎉 Merged PR [#291](https://github.com/hugomods/search/pull/291) in [hugomods/search](https://github.com/hugomods/search)<br>
+1. ✔️ Closed issue [#311](https://github.com/hbstack/hb/issues/311) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+2. 🎉 Merged PR [#337](https://github.com/hbstack/hb/pull/337) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+3. 🎉 Merged PR [#305](https://github.com/hbstack/hb/pull/305) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+4. 🎉 Merged PR [#336](https://github.com/hbstack/hb/pull/336) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+5. 💪 Opened PR [#336](https://github.com/hbstack/hb/pull/336) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+6. 💬 Commented on [#6860](https://github.com/dependabot/dependabot-core/issues/6860#issuecomment-2744739018) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)<br>
+7. 💬 Commented on [#268](https://github.com/hbstack/disqus/issues/268#issuecomment-2738922811) in [hbstack/disqus](https://github.com/hbstack/disqus)<br>
+8. 💬 Commented on [#1134](https://github.com/razonyang/hugo-theme-bootstrap/issues/1134#issuecomment-2729411440) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. ✔️ Closed issue [#1134](https://github.com/razonyang/hugo-theme-bootstrap/issues/1134) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 🎉 Merged PR [#919](https://github.com/hbstack/docs/pull/919) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
