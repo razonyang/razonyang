@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1135](https://github.com/razonyang/hugo-theme-bootstrap/issues/1135#issuecomment-2788174809) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-2. 💬 Commented on [#1135](https://github.com/razonyang/hugo-theme-bootstrap/issues/1135#issuecomment-2783522734) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-3. ⭐ Starred [lingui/js-lingui](https://github.com/lingui/js-lingui)<br>
-4. ⭐ Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>
-5. ✔️ Closed issue [#311](https://github.com/hbstack/hb/issues/311) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-6. 🎉 Merged PR [#337](https://github.com/hbstack/hb/pull/337) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-7. 🎉 Merged PR [#305](https://github.com/hbstack/hb/pull/305) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-8. 🎉 Merged PR [#336](https://github.com/hbstack/hb/pull/336) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-9. 💪 Opened PR [#336](https://github.com/hbstack/hb/pull/336) in [hbstack/hb](https://github.com/hbstack/hb)<br>
-10. 💬 Commented on [#6860](https://github.com/dependabot/dependabot-core/issues/6860#issuecomment-2744739018) in [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core)<br>
+1. 💬 Commented on [#13582](https://github.com/gohugoio/hugo/issues/13582#issuecomment-2795551316) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+2. ❗️ Opened issue [#13582](https://github.com/gohugoio/hugo/issues/13582) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+3. 💬 Commented on [#1135](https://github.com/razonyang/hugo-theme-bootstrap/issues/1135#issuecomment-2788174809) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. 💬 Commented on [#1135](https://github.com/razonyang/hugo-theme-bootstrap/issues/1135#issuecomment-2783522734) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. ⭐ Starred [lingui/js-lingui](https://github.com/lingui/js-lingui)<br>
+6. ⭐ Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>
+7. ✔️ Closed issue [#311](https://github.com/hbstack/hb/issues/311) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+8. 🎉 Merged PR [#337](https://github.com/hbstack/hb/pull/337) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+9. 🎉 Merged PR [#305](https://github.com/hbstack/hb/pull/305) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+10. 🎉 Merged PR [#336](https://github.com/hbstack/hb/pull/336) in [hbstack/hb](https://github.com/hbstack/hb)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
