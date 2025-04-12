@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#51](https://github.com/hugomods/base/pull/51) in [hugomods/base](https://github.com/hugomods/base)<br>
-2. 💬 Commented on [#13582](https://github.com/gohugoio/hugo/issues/13582#issuecomment-2795701204) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-3. ✔️ Closed issue [#13582](https://github.com/gohugoio/hugo/issues/13582) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-4. 💬 Commented on [#13582](https://github.com/gohugoio/hugo/issues/13582#issuecomment-2795551316) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-5. ❗️ Opened issue [#13582](https://github.com/gohugoio/hugo/issues/13582) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-6. 💬 Commented on [#1135](https://github.com/razonyang/hugo-theme-bootstrap/issues/1135#issuecomment-2788174809) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💬 Commented on [#1135](https://github.com/razonyang/hugo-theme-bootstrap/issues/1135#issuecomment-2783522734) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. ⭐ Starred [lingui/js-lingui](https://github.com/lingui/js-lingui)<br>
-9. ⭐ Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>
-10. ✔️ Closed issue [#311](https://github.com/hbstack/hb/issues/311) in [hbstack/hb](https://github.com/hbstack/hb)<br>
+1. ⭐ Starred [NervJS/taro](https://github.com/NervJS/taro)<br>
+2. 🎉 Merged PR [#51](https://github.com/hugomods/base/pull/51) in [hugomods/base](https://github.com/hugomods/base)<br>
+3. 💬 Commented on [#13582](https://github.com/gohugoio/hugo/issues/13582#issuecomment-2795701204) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+4. ✔️ Closed issue [#13582](https://github.com/gohugoio/hugo/issues/13582) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+5. 💬 Commented on [#13582](https://github.com/gohugoio/hugo/issues/13582#issuecomment-2795551316) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+6. ❗️ Opened issue [#13582](https://github.com/gohugoio/hugo/issues/13582) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+7. 💬 Commented on [#1135](https://github.com/razonyang/hugo-theme-bootstrap/issues/1135#issuecomment-2788174809) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 💬 Commented on [#1135](https://github.com/razonyang/hugo-theme-bootstrap/issues/1135#issuecomment-2783522734) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. ⭐ Starred [lingui/js-lingui](https://github.com/lingui/js-lingui)<br>
+10. ⭐ Starred [saadeghi/daisyui](https://github.com/saadeghi/daisyui)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
