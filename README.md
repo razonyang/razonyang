@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1081](https://github.com/hbstack/blog/issues/1081) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-2. ⭐ Starred [themesberg/flowbite](https://github.com/themesberg/flowbite)<br>
-3. ⭐ Starred [nodeca/js-yaml](https://github.com/nodeca/js-yaml)<br>
-4. ⭐ Starred [NervJS/taro](https://github.com/NervJS/taro)<br>
-5. 🎉 Merged PR [#51](https://github.com/hugomods/base/pull/51) in [hugomods/base](https://github.com/hugomods/base)<br>
-6. 💬 Commented on [#13582](https://github.com/gohugoio/hugo/issues/13582#issuecomment-2795701204) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-7. ✔️ Closed issue [#13582](https://github.com/gohugoio/hugo/issues/13582) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-8. 💬 Commented on [#13582](https://github.com/gohugoio/hugo/issues/13582#issuecomment-2795551316) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-9. ❗️ Opened issue [#13582](https://github.com/gohugoio/hugo/issues/13582) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-10. 💬 Commented on [#1135](https://github.com/razonyang/hugo-theme-bootstrap/issues/1135#issuecomment-2788174809) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 💬 Commented on [#84](https://github.com/hugomods/shortcodes/issues/84#issuecomment-2808283972) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+2. 🎉 Merged PR [#85](https://github.com/hugomods/shortcodes/pull/85) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+3. ✔️ Closed issue [#84](https://github.com/hugomods/shortcodes/issues/84) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+4. ❗️ Opened issue [#1081](https://github.com/hbstack/blog/issues/1081) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ⭐ Starred [themesberg/flowbite](https://github.com/themesberg/flowbite)<br>
+6. ⭐ Starred [nodeca/js-yaml](https://github.com/nodeca/js-yaml)<br>
+7. ⭐ Starred [NervJS/taro](https://github.com/NervJS/taro)<br>
+8. 🎉 Merged PR [#51](https://github.com/hugomods/base/pull/51) in [hugomods/base](https://github.com/hugomods/base)<br>
+9. 💬 Commented on [#13582](https://github.com/gohugoio/hugo/issues/13582#issuecomment-2795701204) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+10. ✔️ Closed issue [#13582](https://github.com/gohugoio/hugo/issues/13582) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
