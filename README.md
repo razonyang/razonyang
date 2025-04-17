@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#84](https://github.com/hugomods/shortcodes/issues/84#issuecomment-2808283972) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-2. 🎉 Merged PR [#85](https://github.com/hugomods/shortcodes/pull/85) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-3. ✔️ Closed issue [#84](https://github.com/hugomods/shortcodes/issues/84) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-4. ❗️ Opened issue [#1081](https://github.com/hbstack/blog/issues/1081) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ⭐ Starred [themesberg/flowbite](https://github.com/themesberg/flowbite)<br>
-6. ⭐ Starred [nodeca/js-yaml](https://github.com/nodeca/js-yaml)<br>
-7. ⭐ Starred [NervJS/taro](https://github.com/NervJS/taro)<br>
-8. 🎉 Merged PR [#51](https://github.com/hugomods/base/pull/51) in [hugomods/base](https://github.com/hugomods/base)<br>
-9. 💬 Commented on [#13582](https://github.com/gohugoio/hugo/issues/13582#issuecomment-2795701204) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
-10. ✔️ Closed issue [#13582](https://github.com/gohugoio/hugo/issues/13582) in [gohugoio/hugo](https://github.com/gohugoio/hugo)<br>
+1. 💬 Commented on [#1136](https://github.com/razonyang/hugo-theme-bootstrap/issues/1136#issuecomment-2813324789) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+2. 🎉 Merged PR [#1138](https://github.com/razonyang/hugo-theme-bootstrap/pull/1138) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+3. ✔️ Closed issue [#1136](https://github.com/razonyang/hugo-theme-bootstrap/issues/1136) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+4. ✔️ Closed issue [#1136](https://github.com/razonyang/hugo-theme-bootstrap/issues/1136) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+5. 🎉 Merged PR [#1137](https://github.com/razonyang/hugo-theme-bootstrap/pull/1137) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💪 Opened PR [#1137](https://github.com/razonyang/hugo-theme-bootstrap/pull/1137) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. ⭐ Starred [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons)<br>
+8. 💬 Commented on [#84](https://github.com/hugomods/shortcodes/issues/84#issuecomment-2808283972) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+9. 🎉 Merged PR [#85](https://github.com/hugomods/shortcodes/pull/85) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+10. ✔️ Closed issue [#84](https://github.com/hugomods/shortcodes/issues/84) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
