@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#3](https://github.com/razonyang/caddy-dnspodcn/issues/3#issuecomment-2817147002) in [razonyang/caddy-dnspodcn](https://github.com/razonyang/caddy-dnspodcn)<br>
-2. 🎉 Merged PR [#1073](https://github.com/hbstack/blog/pull/1073) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-3. 💬 Commented on [#1082](https://github.com/hbstack/blog/pull/1082#issuecomment-2816350724) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. 🎉 Merged PR [#1082](https://github.com/hbstack/blog/pull/1082) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-5. ⭐ Starred [inversify/InversifyJS](https://github.com/inversify/InversifyJS)<br>
-6. 💬 Commented on [#1136](https://github.com/razonyang/hugo-theme-bootstrap/issues/1136#issuecomment-2813324789) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 🎉 Merged PR [#1138](https://github.com/razonyang/hugo-theme-bootstrap/pull/1138) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. ✔️ Closed issue [#1136](https://github.com/razonyang/hugo-theme-bootstrap/issues/1136) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. 💬 Commented on [#3](https://github.com/razonyang/caddy-dnspodcn/issues/3#issuecomment-2817156184) in [razonyang/caddy-dnspodcn](https://github.com/razonyang/caddy-dnspodcn)<br>
+2. 💬 Commented on [#3](https://github.com/razonyang/caddy-dnspodcn/issues/3#issuecomment-2817147002) in [razonyang/caddy-dnspodcn](https://github.com/razonyang/caddy-dnspodcn)<br>
+3. 🎉 Merged PR [#1073](https://github.com/hbstack/blog/pull/1073) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+4. 💬 Commented on [#1082](https://github.com/hbstack/blog/pull/1082#issuecomment-2816350724) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. 🎉 Merged PR [#1082](https://github.com/hbstack/blog/pull/1082) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+6. ⭐ Starred [inversify/InversifyJS](https://github.com/inversify/InversifyJS)<br>
+7. 💬 Commented on [#1136](https://github.com/razonyang/hugo-theme-bootstrap/issues/1136#issuecomment-2813324789) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 🎉 Merged PR [#1138](https://github.com/razonyang/hugo-theme-bootstrap/pull/1138) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 9. ✔️ Closed issue [#1136](https://github.com/razonyang/hugo-theme-bootstrap/issues/1136) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 🎉 Merged PR [#1137](https://github.com/razonyang/hugo-theme-bootstrap/pull/1137) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. ✔️ Closed issue [#1136](https://github.com/razonyang/hugo-theme-bootstrap/issues/1136) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
