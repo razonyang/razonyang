@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#13730](https://github.com/withastro/astro/pull/13730#discussion_r2076688334) in [withastro/astro](https://github.com/withastro/astro)<br>
-2. 💪 Opened PR [#117](https://github.com/hugomods/docker/pull/117) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. 💬 Commented on [#115](https://github.com/hugomods/docker/issues/115#issuecomment-2849247998) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 🎉 Merged PR [#469](https://github.com/hugomods/icons/pull/469) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-5. 👍 Approved [#469](https://github.com/hugomods/icons/pull/469#pullrequestreview-2813433262) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-6. 💬 Commented on [#116](https://github.com/hugomods/docker/issues/116#issuecomment-2849148920) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. ❗️ Opened issue [#13729](https://github.com/withastro/astro/issues/13729) in [withastro/astro](https://github.com/withastro/astro)<br>
-8. ⭐ Starred [versoly/taos](https://github.com/versoly/taos)<br>
-9. ⭐ Starred [themeselection/flyonui](https://github.com/themeselection/flyonui)<br>
-10. 💬 Commented on [#3](https://github.com/razonyang/caddy-dnspodcn/issues/3#issuecomment-2817209223) in [razonyang/caddy-dnspodcn](https://github.com/razonyang/caddy-dnspodcn)<br>
+1. 💬 Commented on [#116](https://github.com/hugomods/docker/issues/116#issuecomment-2857341205) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. ✔️ Closed issue [#42](https://github.com/hugomods/docker/issues/42) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. ✔️ Closed issue [#42](https://github.com/hugomods/docker/issues/42) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. 🎉 Merged PR [#117](https://github.com/hugomods/docker/pull/117) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+5. 💬 Commented on [#13730](https://github.com/withastro/astro/pull/13730#discussion_r2076688334) in [withastro/astro](https://github.com/withastro/astro)<br>
+6. 💪 Opened PR [#117](https://github.com/hugomods/docker/pull/117) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 💬 Commented on [#115](https://github.com/hugomods/docker/issues/115#issuecomment-2849247998) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. 🎉 Merged PR [#469](https://github.com/hugomods/icons/pull/469) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. 👍 Approved [#469](https://github.com/hugomods/icons/pull/469#pullrequestreview-2813433262) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 💬 Commented on [#116](https://github.com/hugomods/docker/issues/116#issuecomment-2849148920) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
