@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#116](https://github.com/hugomods/docker/issues/116#issuecomment-2857341205) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. ✔️ Closed issue [#42](https://github.com/hugomods/docker/issues/42) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-3. ✔️ Closed issue [#42](https://github.com/hugomods/docker/issues/42) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 🎉 Merged PR [#117](https://github.com/hugomods/docker/pull/117) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. 💬 Commented on [#13730](https://github.com/withastro/astro/pull/13730#discussion_r2076688334) in [withastro/astro](https://github.com/withastro/astro)<br>
-6. 💪 Opened PR [#117](https://github.com/hugomods/docker/pull/117) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. 💬 Commented on [#115](https://github.com/hugomods/docker/issues/115#issuecomment-2849247998) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. 🎉 Merged PR [#469](https://github.com/hugomods/icons/pull/469) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. 👍 Approved [#469](https://github.com/hugomods/icons/pull/469#pullrequestreview-2813433262) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. 💬 Commented on [#116](https://github.com/hugomods/docker/issues/116#issuecomment-2849148920) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. 💬 Commented on [#49](https://github.com/hugomods/docker/issues/49#issuecomment-2865923979) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. ✔️ Closed issue [#49](https://github.com/hugomods/docker/issues/49) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. ❗️ Opened issue [#118](https://github.com/hugomods/docker/issues/118) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+4. 💬 Commented on [#666](https://github.com/hbstack/theme-cards/issues/666#issuecomment-2865859499) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+5. 💬 Commented on [#116](https://github.com/hugomods/docker/issues/116#issuecomment-2857341205) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+6. ✔️ Closed issue [#42](https://github.com/hugomods/docker/issues/42) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. ✔️ Closed issue [#42](https://github.com/hugomods/docker/issues/42) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+8. 🎉 Merged PR [#117](https://github.com/hugomods/docker/pull/117) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 💬 Commented on [#13730](https://github.com/withastro/astro/pull/13730#discussion_r2076688334) in [withastro/astro](https://github.com/withastro/astro)<br>
+10. 💪 Opened PR [#117](https://github.com/hugomods/docker/pull/117) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
