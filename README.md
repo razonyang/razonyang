@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind)<br>
-2. ❗️ Opened issue [#51](https://github.com/hypengw/Qcm/issues/51) in [hypengw/Qcm](https://github.com/hypengw/Qcm)<br>
-3. 🎉 Merged PR [#303](https://github.com/hugomods/decap-cms/pull/303) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-4. 🎉 Merged PR [#302](https://github.com/hugomods/decap-cms/pull/302) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-5. 💬 Commented on [#84](https://github.com/hugomods/shortcodes/issues/84#issuecomment-2878493098) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-6. ⭐ Starred [webmin/webmin](https://github.com/webmin/webmin)<br>
-7. ✔️ Closed issue [#1141](https://github.com/razonyang/hugo-theme-bootstrap/issues/1141) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 🎉 Merged PR [#1142](https://github.com/razonyang/hugo-theme-bootstrap/pull/1142) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-9. 💬 Commented on [#1140](https://github.com/razonyang/hugo-theme-bootstrap/pull/1140#issuecomment-2870490916) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. ✔️ Closed issue [#1139](https://github.com/razonyang/hugo-theme-bootstrap/issues/1139) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. ⭐ Starred [webriots/rate](https://github.com/webriots/rate)<br>
+2. ⭐ Starred [shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind)<br>
+3. ❗️ Opened issue [#51](https://github.com/hypengw/Qcm/issues/51) in [hypengw/Qcm](https://github.com/hypengw/Qcm)<br>
+4. 🎉 Merged PR [#303](https://github.com/hugomods/decap-cms/pull/303) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+5. 🎉 Merged PR [#302](https://github.com/hugomods/decap-cms/pull/302) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+6. 💬 Commented on [#84](https://github.com/hugomods/shortcodes/issues/84#issuecomment-2878493098) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+7. ⭐ Starred [webmin/webmin](https://github.com/webmin/webmin)<br>
+8. ✔️ Closed issue [#1141](https://github.com/razonyang/hugo-theme-bootstrap/issues/1141) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+9. 🎉 Merged PR [#1142](https://github.com/razonyang/hugo-theme-bootstrap/pull/1142) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+10. 💬 Commented on [#1140](https://github.com/razonyang/hugo-theme-bootstrap/pull/1140#issuecomment-2870490916) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
