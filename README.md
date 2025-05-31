@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
-2. 🎉 Merged PR [#474](https://github.com/hugomods/icons/pull/474) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ⭐ Starred [webriots/rate](https://github.com/webriots/rate)<br>
-4. ⭐ Starred [shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind)<br>
-5. ❗️ Opened issue [#51](https://github.com/hypengw/Qcm/issues/51) in [hypengw/Qcm](https://github.com/hypengw/Qcm)<br>
-6. 🎉 Merged PR [#303](https://github.com/hugomods/decap-cms/pull/303) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-7. 🎉 Merged PR [#302](https://github.com/hugomods/decap-cms/pull/302) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
-8. 💬 Commented on [#84](https://github.com/hugomods/shortcodes/issues/84#issuecomment-2878493098) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-9. ⭐ Starred [webmin/webmin](https://github.com/webmin/webmin)<br>
-10. ✔️ Closed issue [#1141](https://github.com/razonyang/hugo-theme-bootstrap/issues/1141) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+1. ✌️ Released [](https://github.com/hugomods/gravatar/releases/tag/v0.2.1) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
+2. 💬 Commented on [#17](https://github.com/hugomods/gravatar/pull/17#issuecomment-2921553137) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
+3. 🎉 Merged PR [#17](https://github.com/hugomods/gravatar/pull/17) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
+4. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
+5. 🎉 Merged PR [#474](https://github.com/hugomods/icons/pull/474) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. ⭐ Starred [webriots/rate](https://github.com/webriots/rate)<br>
+7. ⭐ Starred [shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind)<br>
+8. ❗️ Opened issue [#51](https://github.com/hypengw/Qcm/issues/51) in [hypengw/Qcm](https://github.com/hypengw/Qcm)<br>
+9. 🎉 Merged PR [#303](https://github.com/hugomods/decap-cms/pull/303) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+10. 🎉 Merged PR [#302](https://github.com/hugomods/decap-cms/pull/302) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
