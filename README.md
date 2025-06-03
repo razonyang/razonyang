@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#86](https://github.com/hugomods/shortcodes/pull/86) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-2. 🎉 Merged PR [#982](https://github.com/hbstack/docs/pull/982) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-3. 🎉 Merged PR [#1098](https://github.com/hbstack/blog/pull/1098) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-4. ⭐ Starred [imjuni/ctix](https://github.com/imjuni/ctix)<br>
-5. ✌️ Released [](https://github.com/hugomods/gravatar/releases/tag/v0.2.1) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
-6. 💬 Commented on [#17](https://github.com/hugomods/gravatar/pull/17#issuecomment-2921553137) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
-7. 🎉 Merged PR [#17](https://github.com/hugomods/gravatar/pull/17) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
-8. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
-9. 🎉 Merged PR [#474](https://github.com/hugomods/icons/pull/474) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. ⭐ Starred [webriots/rate](https://github.com/webriots/rate)<br>
+1. 🎉 Merged PR [#63](https://github.com/hugomods/images/pull/63) in [hugomods/images](https://github.com/hugomods/images)<br>
+2. 🎉 Merged PR [#86](https://github.com/hugomods/shortcodes/pull/86) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+3. 🎉 Merged PR [#982](https://github.com/hbstack/docs/pull/982) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. 🎉 Merged PR [#1098](https://github.com/hbstack/blog/pull/1098) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+5. ⭐ Starred [imjuni/ctix](https://github.com/imjuni/ctix)<br>
+6. ✌️ Released [](https://github.com/hugomods/gravatar/releases/tag/v0.2.1) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
+7. 💬 Commented on [#17](https://github.com/hugomods/gravatar/pull/17#issuecomment-2921553137) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
+8. 🎉 Merged PR [#17](https://github.com/hugomods/gravatar/pull/17) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
+9. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
+10. 🎉 Merged PR [#474](https://github.com/hugomods/icons/pull/474) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
