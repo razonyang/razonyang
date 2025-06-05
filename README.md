@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#64](https://github.com/hugomods/images/pull/64) in [hugomods/images](https://github.com/hugomods/images)<br>
-2. ❗️ Opened issue [#13888](https://github.com/withastro/astro/issues/13888) in [withastro/astro](https://github.com/withastro/astro)<br>
-3. 💬 Commented on [#13730](https://github.com/withastro/astro/pull/13730#discussion_r2122776886) in [withastro/astro](https://github.com/withastro/astro)<br>
-4. 🎉 Merged PR [#63](https://github.com/hugomods/images/pull/63) in [hugomods/images](https://github.com/hugomods/images)<br>
-5. 🎉 Merged PR [#86](https://github.com/hugomods/shortcodes/pull/86) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
-6. 🎉 Merged PR [#982](https://github.com/hbstack/docs/pull/982) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-7. 🎉 Merged PR [#1098](https://github.com/hbstack/blog/pull/1098) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-8. ⭐ Starred [imjuni/ctix](https://github.com/imjuni/ctix)<br>
-9. ✌️ Released [](https://github.com/hugomods/gravatar/releases/tag/v0.2.1) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
-10. 💬 Commented on [#17](https://github.com/hugomods/gravatar/pull/17#issuecomment-2921553137) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
+1. ⭐ Starred [TehShrike/deepmerge](https://github.com/TehShrike/deepmerge)<br>
+2. 🎉 Merged PR [#64](https://github.com/hugomods/images/pull/64) in [hugomods/images](https://github.com/hugomods/images)<br>
+3. ❗️ Opened issue [#13888](https://github.com/withastro/astro/issues/13888) in [withastro/astro](https://github.com/withastro/astro)<br>
+4. 💬 Commented on [#13730](https://github.com/withastro/astro/pull/13730#discussion_r2122776886) in [withastro/astro](https://github.com/withastro/astro)<br>
+5. 🎉 Merged PR [#63](https://github.com/hugomods/images/pull/63) in [hugomods/images](https://github.com/hugomods/images)<br>
+6. 🎉 Merged PR [#86](https://github.com/hugomods/shortcodes/pull/86) in [hugomods/shortcodes](https://github.com/hugomods/shortcodes)<br>
+7. 🎉 Merged PR [#982](https://github.com/hbstack/docs/pull/982) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+8. 🎉 Merged PR [#1098](https://github.com/hbstack/blog/pull/1098) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+9. ⭐ Starred [imjuni/ctix](https://github.com/imjuni/ctix)<br>
+10. ✌️ Released [](https://github.com/hugomods/gravatar/releases/tag/v0.2.1) in [hugomods/gravatar](https://github.com/hugomods/gravatar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
