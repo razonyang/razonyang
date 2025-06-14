@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#173](https://github.com/hugomods/bootstrap/pull/173) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-2. 🎉 Merged PR [#172](https://github.com/hugomods/bootstrap/pull/172) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 🎉 Merged PR [#480](https://github.com/hugomods/icons/pull/480) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-4. 💬 Commented on [#119](https://github.com/hugomods/docker/issues/119#issuecomment-2969972350) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-5. 💬 Commented on [#26](https://github.com/hugomods/kroki/issues/26#issuecomment-2969943249) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-6. 💬 Commented on [#478](https://github.com/hugomods/icons/issues/478#issuecomment-2969928932) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. ✔️ Closed issue [#478](https://github.com/hugomods/icons/issues/478) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-8. 🎉 Merged PR [#477](https://github.com/hugomods/icons/pull/477) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-9. ✌️ Released [](https://github.com/hugomods/lucide-icons/releases/tag/v0.515.0) in [hugomods/lucide-icons](https://github.com/hugomods/lucide-icons)<br>
-10. 💬 Commented on [#51](https://github.com/hypengw/Qcm/issues/51#issuecomment-2953677514) in [hypengw/Qcm](https://github.com/hypengw/Qcm)<br>
+1. 🎉 Merged PR [#66](https://github.com/hugomods/images/pull/66) in [hugomods/images](https://github.com/hugomods/images)<br>
+2. 🎉 Merged PR [#65](https://github.com/hugomods/images/pull/65) in [hugomods/images](https://github.com/hugomods/images)<br>
+3. 🎉 Merged PR [#173](https://github.com/hugomods/bootstrap/pull/173) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+4. 🎉 Merged PR [#172](https://github.com/hugomods/bootstrap/pull/172) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 🎉 Merged PR [#480](https://github.com/hugomods/icons/pull/480) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+6. 💬 Commented on [#119](https://github.com/hugomods/docker/issues/119#issuecomment-2969972350) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+7. 💬 Commented on [#26](https://github.com/hugomods/kroki/issues/26#issuecomment-2969943249) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+8. 💬 Commented on [#478](https://github.com/hugomods/icons/issues/478#issuecomment-2969928932) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+9. ✔️ Closed issue [#478](https://github.com/hugomods/icons/issues/478) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+10. 🎉 Merged PR [#477](https://github.com/hugomods/icons/pull/477) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
