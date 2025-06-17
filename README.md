@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#684](https://github.com/hbstack/theme-cards/issues/684#issuecomment-2978685022) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
-2. 🎉 Merged PR [#66](https://github.com/hugomods/images/pull/66) in [hugomods/images](https://github.com/hugomods/images)<br>
-3. 🎉 Merged PR [#65](https://github.com/hugomods/images/pull/65) in [hugomods/images](https://github.com/hugomods/images)<br>
-4. 🎉 Merged PR [#173](https://github.com/hugomods/bootstrap/pull/173) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-5. 🎉 Merged PR [#172](https://github.com/hugomods/bootstrap/pull/172) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-6. 🎉 Merged PR [#480](https://github.com/hugomods/icons/pull/480) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-7. 💬 Commented on [#119](https://github.com/hugomods/docker/issues/119#issuecomment-2969972350) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. 💬 Commented on [#26](https://github.com/hugomods/kroki/issues/26#issuecomment-2969943249) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
-9. 💬 Commented on [#478](https://github.com/hugomods/icons/issues/478#issuecomment-2969928932) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-10. ✔️ Closed issue [#478](https://github.com/hugomods/icons/issues/478) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+1. 🎉 Merged PR [#309](https://github.com/hugomods/decap-cms/pull/309) in [hugomods/decap-cms](https://github.com/hugomods/decap-cms)<br>
+2. 💬 Commented on [#684](https://github.com/hbstack/theme-cards/issues/684#issuecomment-2978685022) in [hbstack/theme-cards](https://github.com/hbstack/theme-cards)<br>
+3. 🎉 Merged PR [#66](https://github.com/hugomods/images/pull/66) in [hugomods/images](https://github.com/hugomods/images)<br>
+4. 🎉 Merged PR [#65](https://github.com/hugomods/images/pull/65) in [hugomods/images](https://github.com/hugomods/images)<br>
+5. 🎉 Merged PR [#173](https://github.com/hugomods/bootstrap/pull/173) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+6. 🎉 Merged PR [#172](https://github.com/hugomods/bootstrap/pull/172) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+7. 🎉 Merged PR [#480](https://github.com/hugomods/icons/pull/480) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+8. 💬 Commented on [#119](https://github.com/hugomods/docker/issues/119#issuecomment-2969972350) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 💬 Commented on [#26](https://github.com/hugomods/kroki/issues/26#issuecomment-2969943249) in [hugomods/kroki](https://github.com/hugomods/kroki)<br>
+10. 💬 Commented on [#478](https://github.com/hugomods/icons/issues/478#issuecomment-2969928932) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
