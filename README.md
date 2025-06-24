@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163244135) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-2. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163138120) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-3. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163145098) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-4. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163140499) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-5. ⭐ Starred [djyde/cusdis](https://github.com/djyde/cusdis)<br>
-6. 📔 Created new repository [razonyang/giscus-testing](https://github.com/razonyang/giscus-testing)<br>
-7. 🎉 Merged PR [#71](https://github.com/razonyang/blog/pull/71) in [razonyang/blog](https://github.com/razonyang/blog)<br>
-8. 💬 Commented on [#1113](https://github.com/hbstack/blog/issues/1113#issuecomment-2993332586) in [hbstack/blog](https://github.com/hbstack/blog)<br>
-9. 💬 Commented on [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144#issuecomment-2993328698) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-10. 💬 Commented on [#1113](https://github.com/hbstack/blog/issues/1113#issuecomment-2993306202) in [hbstack/blog](https://github.com/hbstack/blog)<br>
+1. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#issuecomment-2999899685) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+2. 🎉 Merged PR [#42](https://github.com/hugomods/code-block-panel/pull/42) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+3. ✔️ Closed issue [#27](https://github.com/hugomods/code-block-panel/issues/27) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+4. 🎉 Merged PR [#41](https://github.com/hugomods/code-block-panel/pull/41) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+5. 👍 Approved [#41](https://github.com/hugomods/code-block-panel/pull/41#pullrequestreview-2953325699) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+6. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163588075) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+7. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163244135) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+8. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163138120) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+9. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163145098) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+10. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163140499) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
