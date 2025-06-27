@@ -18,16 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#119](https://github.com/hugomods/docker/issues/119#issuecomment-3010844861) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-2. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#issuecomment-2999899685) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-3. 🎉 Merged PR [#42](https://github.com/hugomods/code-block-panel/pull/42) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-4. ✔️ Closed issue [#27](https://github.com/hugomods/code-block-panel/issues/27) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-5. 🎉 Merged PR [#41](https://github.com/hugomods/code-block-panel/pull/41) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-6. 👍 Approved [#41](https://github.com/hugomods/code-block-panel/pull/41#pullrequestreview-2953325699) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-7. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163588075) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-8. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163244135) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-9. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163138120) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
-10. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163145098) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+1. 💪 Opened PR [#120](https://github.com/hugomods/docker/pull/120) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+2. 💬 Commented on [#119](https://github.com/hugomods/docker/issues/119#issuecomment-3010844861) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#issuecomment-2999899685) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+4. 🎉 Merged PR [#42](https://github.com/hugomods/code-block-panel/pull/42) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+5. ✔️ Closed issue [#27](https://github.com/hugomods/code-block-panel/issues/27) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+6. 🎉 Merged PR [#41](https://github.com/hugomods/code-block-panel/pull/41) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+7. 👍 Approved [#41](https://github.com/hugomods/code-block-panel/pull/41#pullrequestreview-2953325699) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+8. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163588075) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+9. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163244135) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
+10. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#discussion_r2163138120) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
