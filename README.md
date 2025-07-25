@@ -18,15 +18,16 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1024](https://github.com/hbstack/docs/issues/1024) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-2. ❗️ Opened issue [#175](https://github.com/hugomods/bootstrap/issues/175) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
-3. 💬 Commented on [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144#issuecomment-3040527647) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-4. ✔️ Closed issue [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 💬 Commented on [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144#issuecomment-3034333689) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-6. 💬 Commented on [#119](https://github.com/hugomods/docker/issues/119#issuecomment-3012082186) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-7. 🎉 Merged PR [#120](https://github.com/hugomods/docker/pull/120) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-8. 💪 Opened PR [#120](https://github.com/hugomods/docker/pull/120) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. 💬 Commented on [#119](https://github.com/hugomods/docker/issues/119#issuecomment-3010844861) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. 💬 Commented on [#1028](https://github.com/hbstack/docs/issues/1028#issuecomment-3116307862) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+2. ✔️ Closed issue [#1028](https://github.com/hbstack/docs/issues/1028) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+3. ❗️ Opened issue [#1024](https://github.com/hbstack/docs/issues/1024) in [hbstack/docs](https://github.com/hbstack/docs)<br>
+4. ❗️ Opened issue [#175](https://github.com/hugomods/bootstrap/issues/175) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+5. 💬 Commented on [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144#issuecomment-3040527647) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. ✔️ Closed issue [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+7. 💬 Commented on [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144#issuecomment-3034333689) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+8. 💬 Commented on [#119](https://github.com/hugomods/docker/issues/119#issuecomment-3012082186) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+9. 🎉 Merged PR [#120](https://github.com/hugomods/docker/pull/120) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+10. 💪 Opened PR [#120](https://github.com/hugomods/docker/pull/120) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
