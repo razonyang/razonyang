@@ -27,7 +27,6 @@
 7. 🎉 Merged PR [#120](https://github.com/hugomods/docker/pull/120) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 8. 💪 Opened PR [#120](https://github.com/hugomods/docker/pull/120) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 9. 💬 Commented on [#119](https://github.com/hugomods/docker/issues/119#issuecomment-3010844861) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-10. 💬 Commented on [#41](https://github.com/hugomods/code-block-panel/pull/41#issuecomment-2999899685) in [hugomods/code-block-panel](https://github.com/hugomods/code-block-panel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
