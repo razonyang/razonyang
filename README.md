@@ -25,8 +25,6 @@
 5. 💬 Commented on [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144#issuecomment-3040527647) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 6. ✔️ Closed issue [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 7. 💬 Commented on [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144#issuecomment-3034333689) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-8. 💬 Commented on [#119](https://github.com/hugomods/docker/issues/119#issuecomment-3012082186) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-9. 🎉 Merged PR [#120](https://github.com/hugomods/docker/pull/120) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
