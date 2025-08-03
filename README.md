@@ -24,7 +24,6 @@
 4. ❗️ Opened issue [#175](https://github.com/hugomods/bootstrap/issues/175) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 5. 💬 Commented on [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144#issuecomment-3040527647) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 6. ✔️ Closed issue [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-7. 💬 Commented on [#1144](https://github.com/razonyang/hugo-theme-bootstrap/issues/1144#issuecomment-3034333689) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
