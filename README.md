@@ -20,7 +20,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#1028](https://github.com/hbstack/docs/issues/1028#issuecomment-3116307862) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 2. ✔️ Closed issue [#1028](https://github.com/hbstack/docs/issues/1028) in [hbstack/docs](https://github.com/hbstack/docs)<br>
-3. ❗️ Opened issue [#1024](https://github.com/hbstack/docs/issues/1024) in [hbstack/docs](https://github.com/hbstack/docs)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
