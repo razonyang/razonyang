@@ -18,7 +18,10 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#285](https://github.com/hbstack/theme-start/issues/285#issuecomment-3225063740) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+1. ✔️ Closed issue [#6](https://github.com/hbstack/toc-scrollspy/issues/6) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
+2. 💬 Commented on [#67](https://github.com/hugomods/images/issues/67#issuecomment-3225083012) in [hugomods/images](https://github.com/hugomods/images)<br>
+3. 💬 Commented on [#6](https://github.com/hbstack/toc-scrollspy/issues/6#issuecomment-3225072575) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
+4. 💬 Commented on [#285](https://github.com/hbstack/theme-start/issues/285#issuecomment-3225063740) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
