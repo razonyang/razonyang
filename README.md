@@ -21,10 +21,6 @@
 1. 💬 Commented on [#1147](https://github.com/hbstack/theme/issues/1147#issuecomment-3243023594) in [hbstack/theme](https://github.com/hbstack/theme)<br>
 2. ✔️ Closed issue [#1147](https://github.com/hbstack/theme/issues/1147) in [hbstack/theme](https://github.com/hbstack/theme)<br>
 3. 💬 Commented on [#67](https://github.com/hugomods/images/issues/67#issuecomment-3243018126) in [hugomods/images](https://github.com/hugomods/images)<br>
-4. ✔️ Closed issue [#6](https://github.com/hbstack/toc-scrollspy/issues/6) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
-5. 💬 Commented on [#67](https://github.com/hugomods/images/issues/67#issuecomment-3225083012) in [hugomods/images](https://github.com/hugomods/images)<br>
-6. 💬 Commented on [#6](https://github.com/hbstack/toc-scrollspy/issues/6#issuecomment-3225072575) in [hbstack/toc-scrollspy](https://github.com/hbstack/toc-scrollspy)<br>
-7. 💬 Commented on [#285](https://github.com/hbstack/theme-start/issues/285#issuecomment-3225063740) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
