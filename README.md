@@ -20,7 +20,6 @@
 <!--RECENT_ACTIVITY:start-->
 1. 💬 Commented on [#1147](https://github.com/hbstack/theme/issues/1147#issuecomment-3243023594) in [hbstack/theme](https://github.com/hbstack/theme)<br>
 2. ✔️ Closed issue [#1147](https://github.com/hbstack/theme/issues/1147) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-3. 💬 Commented on [#67](https://github.com/hugomods/images/issues/67#issuecomment-3243018126) in [hugomods/images](https://github.com/hugomods/images)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
