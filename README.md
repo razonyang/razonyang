@@ -18,8 +18,6 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#1147](https://github.com/hbstack/theme/issues/1147#issuecomment-3243023594) in [hbstack/theme](https://github.com/hbstack/theme)<br>
-2. ✔️ Closed issue [#1147](https://github.com/hbstack/theme/issues/1147) in [hbstack/theme](https://github.com/hbstack/theme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
