@@ -18,6 +18,7 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
+1. ✔️ Closed issue [#123](https://github.com/hugomods/docker/issues/123) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
