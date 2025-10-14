@@ -18,11 +18,9 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#828](https://github.com/hbstack/header/pull/828) in [hbstack/header](https://github.com/hbstack/header)<br>
-2. 🎉 Merged PR [#292](https://github.com/hbstack/theme-start/pull/292) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-3. 💬 Commented on [#291](https://github.com/hbstack/theme-start/pull/291#issuecomment-3369520778) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-4. 🎉 Merged PR [#291](https://github.com/hbstack/theme-start/pull/291) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
-5. ✔️ Closed issue [#123](https://github.com/hugomods/docker/issues/123) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+1. 💬 Commented on [#291](https://github.com/hbstack/theme-start/pull/291#issuecomment-3369520778) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
+2. ✔️ Closed issue [#123](https://github.com/hugomods/docker/issues/123) in [hugomods/docker](https://github.com/hugomods/docker)<br>
+3. 💬 Commented on [#123](https://github.com/hugomods/docker/issues/123#issuecomment-3310496047) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
