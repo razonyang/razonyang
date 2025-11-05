@@ -21,7 +21,6 @@
 1. 💬 Commented on [#124](https://github.com/hugomods/docker/issues/124#issuecomment-3434866598) in [hugomods/docker](https://github.com/hugomods/docker)<br>
 2. 💬 Commented on [#484](https://github.com/hugomods/icons/issues/484#issuecomment-3432744544) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 3. 💬 Commented on [#124](https://github.com/hugomods/docker/issues/124#issuecomment-3432649237) in [hugomods/docker](https://github.com/hugomods/docker)<br>
-4. 💬 Commented on [#291](https://github.com/hbstack/theme-start/pull/291#issuecomment-3369520778) in [hbstack/theme-start](https://github.com/hbstack/theme-start)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
