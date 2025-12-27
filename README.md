@@ -18,6 +18,9 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
+1. 💬 Commented on [#117](https://github.com/hugomods/echarts/pull/117#issuecomment-3693838016) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+2. 👍 Approved [#117](https://github.com/hugomods/echarts/pull/117#pullrequestreview-3614254115) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+3. 💬 Commented on [commit](https://github.com/hugomods/bootstrap/commit/08d17a8ffc0c0d3ad889809b130840ce2265830e#commitcomment-173557195) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
