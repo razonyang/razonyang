@@ -18,13 +18,14 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#484](https://github.com/hugomods/icons/issues/484#issuecomment-3693900978) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-2. ✔️ Closed issue [#484](https://github.com/hugomods/icons/issues/484) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✔️ Closed issue [#116](https://github.com/hugomods/echarts/issues/116) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-4. 💬 Commented on [#1146](https://github.com/razonyang/hugo-theme-bootstrap/issues/1146#issuecomment-3693847522) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
-5. 💬 Commented on [#117](https://github.com/hugomods/echarts/pull/117#issuecomment-3693838016) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-6. 👍 Approved [#117](https://github.com/hugomods/echarts/pull/117#pullrequestreview-3614254115) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
-7. 💬 Commented on [commit](https://github.com/hugomods/bootstrap/commit/08d17a8ffc0c0d3ad889809b130840ce2265830e#commitcomment-173557195) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
+1. 💪 Opened PR [#80](undefined) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
+2. 💬 Commented on [#484](https://github.com/hugomods/icons/issues/484#issuecomment-3693900978) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+3. ✔️ Closed issue [#484](https://github.com/hugomods/icons/issues/484) in [hugomods/icons](https://github.com/hugomods/icons)<br>
+4. ✔️ Closed issue [#116](https://github.com/hugomods/echarts/issues/116) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+5. 💬 Commented on [#1146](https://github.com/razonyang/hugo-theme-bootstrap/issues/1146#issuecomment-3693847522) in [razonyang/hugo-theme-bootstrap](https://github.com/razonyang/hugo-theme-bootstrap)<br>
+6. 💬 Commented on [#117](https://github.com/hugomods/echarts/pull/117#issuecomment-3693838016) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+7. 👍 Approved [#117](https://github.com/hugomods/echarts/pull/117#pullrequestreview-3614254115) in [hugomods/echarts](https://github.com/hugomods/echarts)<br>
+8. 💬 Commented on [commit](https://github.com/hugomods/bootstrap/commit/08d17a8ffc0c0d3ad889809b130840ce2265830e#commitcomment-173557195) in [hugomods/bootstrap](https://github.com/hugomods/bootstrap)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
