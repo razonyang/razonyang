@@ -19,8 +19,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. 💪 Opened PR [#80](undefined) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
-2. 💬 Commented on [#484](https://github.com/hugomods/icons/issues/484#issuecomment-3693900978) in [hugomods/icons](https://github.com/hugomods/icons)<br>
-3. ✔️ Closed issue [#484](https://github.com/hugomods/icons/issues/484) in [hugomods/icons](https://github.com/hugomods/icons)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
