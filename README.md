@@ -18,7 +18,6 @@
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#80](undefined) in [hugomods/hugopress](https://github.com/hugomods/hugopress)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Stats
